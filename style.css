@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500&display=swap');
+
+@font-face {
+    font-family: "Modum";
+    src: url('fonts/The Northern Block Ltd - Modum.otf') format('opentype'); 
+}
+
+@font-face {
+    font-family: "Modum";
+    src: url('fonts/The Northern Block Ltd - Modum Italic.otf') format('opentype'); 
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Modum";
+    src: url('fonts/The Northern Block Ltd - Modum Bold.otf') format('opentype'); 
+    font-weight: bold;
+}
+
+body {
+	font-weight: 400;
+	font-family: "Modum", serif;
+	font-size: 13pt;
+}
+
+h1, h2, h3, h4 {
+	font-weight: 700;
+	font-family: "Arvo", serif;
+    margin-top: 1em;
+    margin-bottom: 0.25em;
+}
+
+h4 {
+    font-weight: 400;
+    font-family: "Arvo", serif;
+}
+
+.chapter-number {
+    font-family: "Arvo", serif;
+    color: black;
+}
+
+.reference {
+    font-family: "Modum";
+    list-style-position: outside;
+}
+
+.callout {
+    font-family: "Arvo";
+    font-style: italic;
+}
+
+.authors {
+    font-family: "Modum";
+    font-style: italic;
+}
+
+code {
+    font-family: "DM Mono", monospace;
+}
+
+.blockquote {
+    border: none;
+    font-family: "Arvo";
+    font-weight: 400;
+    font-style: italic;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.blockquote > p {
+    border-left: solid 10px black;
+    padding-left: 1em;
+}
+
+.blockquote-footer {
+    text-align: right;
+}
+
+.footnote-link, .citation {
+    font-family: "Modum";
+    font-style: normal;
+}
+
+.footnote {
+    font-family: "Epilogue";
+    font-weight: 300;
+    font-size: 80%;
+    line-height: 1.5em;
+}
+
+.content-highlight {
+    border: none;
+    background-origin: padding-box;
+    background-color: rgb(241, 219, 150);
+    box-shadow: 1px 1px 1px rgb(200, 200, 200)
+}
+
+a {
+    color: rgb(32, 50, 173);
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li::before {
+    content: "*";
+    color: #cd2026;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+    font-family: "M Plus Rounded 1c";
+}
+
+ol {
+    list-style: none;
+    counter-reset: item;
+}
+
+ol li {
+    counter-increment: item;
+}
+
+ol li::before {
+    content: counter(item) ". ";
+    color: #cd2026;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1.5em;
+    margin-right: 0.5em;
+    text-align: right; 
+}
+
+.chapter .table {
+    border-collapse: separate;
+    border-radius: 6px;
+    border-spacing: 0;
+    border: 1px solid rgb(200, 200, 200);
+}
+
+.chapter .table tbody tr:first-child {
+    border: 0;
+    background-color: rgb(231, 220, 200);
+}
+
+.chapter .table tbody tr:first-child td {
+    font-weight: bold;
+    border: 0;
+    border-bottom: 1px solid rgb(200, 200, 200);
+}
+
+.chapter .table tbody tr:nth-child(even) {
+    background-color: rgb(240, 240, 240);
+}
+
+.chapter table tr:last-child td:first-child {
+    border-bottom-left-radius: 6px;
+}
+.chapter table tr:last-child td:last-child {
+    border-bottom-right-radius: 6px;
+}
+.chapter table tr:first-child td:first-child {
+    border-top-left-radius: 6px;
+}
+.chapter table tr:first-child td:last-child {
+    border-top-right-radius: 6px;
+}
+
+.chapter .table td {
+    font-size: 11pt;
+    border: 0;
+}
+
+.figure-img {
+    margin-bottom: 0;
+}

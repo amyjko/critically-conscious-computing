@@ -1,0 +1,455 @@
+{
+	"title": "Critically Conscious Computing: Methods for Secondary Education",
+	"authors": ["[Amy J. Ko|https://faculty.washington.edu/ajko/]"],
+	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
+	"cover": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+	"unknown": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+	"description": "TODO I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. If you see something missing or wrong, [submit an issue|https://github.com/amyjko/critically-conscious-computing].",
+	"chapters": [
+		{
+			"id": "introduction", 
+			"title": "Introduction", 
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"numbered": false
+		},
+		{
+			"id": "history",
+			"title": "Critical CS Education History", 
+			"image": "|Chapter01_Figure01_Cover.png|TODO|People made the ideas and culture of computing.|Jessie Huang|",
+			"section": "Foundations"
+		},
+		{
+			"id": "pedagogy", 
+			"title": "Critical CS Education Pedagogy", 
+			"image": "|Chapter02_Figure01_Classroom.png|A teacher is in the middle of the classroom, in dialogue with students who are seated at their desks around her.|Critical CS pedagogy is about dialogue more than development.|Jessie Huang|",
+			"section": "Foundations"
+		},
+		{
+			"id": "assessment", 
+			"title": "Critical CS Education Assessment", 
+			"image": "|question.jpg|TODO|TODO|TODO|",
+			"section": "Foundations"
+		},
+		{
+			"id": "justice", 
+			"title": "CS, Equity, and Justice", 
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"section": "Methods"
+		},
+		{
+			"id": "languages", 
+			"title": "Programming Languages", 
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"section": "Methods"
+		}
+	],
+	"revisions": [
+	],
+	"sources": {
+		"chi": "ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)",
+		"sigcse": "ACM Technical Symposium on Computer Science Education (SIGCSE)",
+		"toce": "ACM Transactions on Computing Education (TOCE)"
+	},
+	"references": {
+		"ames19": [
+			"Morgan G. Ames",
+			2019,
+			"The charisma machine: The life, death, and legacy of One Laptop per Child",
+			"MIT Press",
+			"https://www.google.com/books/edition/The_Charisma_Machine/yYy5DwAAQBAJ?hl=en&gbpv=0"
+		],
+		"baltes20": [
+			"Sebastian Baltes, George Park, and Alexander Serebrenik",
+			2020,
+			"Is 40 the new 60? How popular media portrays the employability of older software developers",
+			"IEEE Software",
+			"https://doi.org/10.1109/MS.2020.3014178"
+		],
+		"barton20": [
+			"Angela Calabrese Barton, Edna Tan",
+			2020,
+			"Beyond equity as inclusion: A framework of \"rightful presence\" for guiding justice-oriented studies in teaching and learning",
+			"Educational Researcher",
+			"https://doi.org/10.3102%2F0013189X20927363"
+		],
+		"becraft14": [
+			"Michael B. Becraft",
+			2014,
+			"Bill Gates: A Biography",
+			"ABC-CLIO",
+			"https://www.google.com/books/edition/Bill_Gates_A_Biography/klV_BAAAQBAJ?hl=en&gbpv=0"
+		],
+		"benjamin19": [
+			"Ruha Benjamin",
+			2019,
+			"Race after technology: Abolitionist tools for the new jim code",
+			"John Wiley & Sons",
+			"https://www.google.com/books/edition/Race_After_Technology/nPy9uwEACAAJ?hl=en"
+		],
+		"bjarnadóttir14": [
+			"Kristín Bjarnadóttir",
+			2014,
+			"History of teaching arithmetic",
+			"Handbook on the History of Mathematics Education",
+			"https://www.google.com/books/edition/Handbook_on_the_History_of_Mathematics_E/MYy9BAAAQBAJ?hl=en&gbpv=0"
+		],
+		"browne15": [
+			"Simone Browne",
+			2015,
+			"Dark Matters: On the Surveillance of Blackness",
+			"Duke University Press",
+			"https://www.google.com/books/edition/Dark_Matters/snmJCgAAQBAJ?hl=en&gbpv=0"
+		],
+		"buolamwini18": [
+			"Joy Buolamwini, Timnit Gebru",
+			2018,
+			"Gender shades: Intersectional accuracy disparities in commercial gender classification",
+			"Conference on fairness, accountability and transparency",
+			"http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf"
+		],
+		"codding20": [
+			"Diane Codding, Bataul Alkhateeb, Chrystalla Mouza, Lori Pollock",
+			2020,
+			"Building equitable computing classrooms through culturally responsive professional development",
+			"Society for Information Technology & Teacher Education International Conference",
+			"https://www.learntechlib.org/primary/p/215769/"
+		],
+		"costanzachock20": [
+			"Sasha Costanza-Chock",
+			2020,
+			"Design justice: Community-led practices to build the worlds we need",
+			"MIT Press",
+			"https://www.google.com/books/edition/Design_Justice/h4LPDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"doyle15": [
+			"Maureen Doyle",
+			2015,
+			"SIGCSE symposium history",
+			"SIGCSE Bulletin",
+			"https://doi.org/10.1145/2856332.2856338"
+		],
+		"essinger14": [
+			"James Essinger",
+			2014,
+			"Ada's algorithm: How Lord Byron's daughter Ada Lovelace launched the digital age",
+			"Melville House",
+			"https://www.google.com/books/edition/Ada_s_Algorithm/NrXoAwAAQBAJ?hl=en&gbpv=0"
+		],
+		"eubanks18": [
+			"Virginia Eubanks",
+			2018,
+			"Automating inequality: How high-tech tools profile, police, and punish the poor",
+			"St. Martin's Press",
+			"https://www.google.com/books/edition/Automating_Inequality/pn4pDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"freire68": [
+			"Paulo Freire",
+			1968,
+			"Pedagogy of the oppressed",
+			"Bloomsbury Publishing",
+			"https://www.google.com/books/edition/Pedagogy_of_the_Oppressed/oKQMBAAAQBAJ?hl=en&gbpv=0"
+		],
+		"friedman19": [
+			"Batya Friedman, David G. Hendry",
+			2019,
+			"Value Sensitive Design: Shaping Technology with Moral Imagination",
+			"MIT Press",
+			"https://www.google.com/books/edition/Value_Sensitive_Design/8ZiWDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"fritz96": [
+			"W. Barkley Fritz",
+			1996,
+			"The Women of ENIAC",
+			"IEEE Annals of the History of Computing",
+			"https://doi.org/10.1109/85.511940"
+		],
+		"gay10": [
+			"Geneva Gay",
+			2018,
+			"Culturally responsive teaching: Theory, research, and practice",
+			"Teachers College Press",
+			"https://www.google.com/books/edition/Culturally_Responsive_Teaching/rYspC7C-zowC?hl=en&gbpv=0"
+		],
+		"goode11": [
+			"Joanna Goode, Jane Margolis",
+			2011,
+			"Exploring Computer Science: A Case Study of School Reform",
+			"ACM Transactions on Computing Education",
+			"https://doi.org/10.1145/1993069.1993076"
+		],
+		"google20": [
+			"Google",
+			2020,
+			"Current perspectives and continuing challenges in CS education for U.S. K-12 schools: 2020 report",
+			"Gallup",
+			"https://edu.google.com/latest-news/research/?modal_active=none#diversity-trends"
+		],
+		"grier01": [
+			"David Alan Grier",
+			2001,
+			"Human computers: the first pioneers of the information age",
+			"Endeavour",
+			"https://doi.org/10.1016/S0160-9327(00)01338-7"
+		],
+		"grover13": [
+			"Shuchi Grover, Roy Pea",
+			2013,
+			"Computational thinking in K–12: A review of the state of the field",
+			"Educational Researcher",
+			"https://doi.org/10.3102%2F0013189X12463051"
+		],
+		"grover20": [
+			"Shuchi Grover (ed)",
+			2020,
+			"Computer Science in K-12: An A to Z Handbook on Teaching Programming",
+			"Edfinity",
+			"https://www.google.com/books/edition/Computer_Science_in_K_12/O-uAzQEACAAJ?hl=en"
+		],
+		"guzdial15": [
+			"Mark Guzdial",
+			2015,
+			"Learner-Centered Design of Computing Education: Research on Computing for Everyone",
+			"Morgan Claypool",
+			"https://www.google.com/books/edition/Learner_Centered_Design_of_Computing_Edu/t4dCCwAAQBAJ?hl=en&gbpv=0"
+		],
+		"guzdial16": [
+			"Mark Guzdial",
+			2016,
+			"Bringing computer science to U.S. schools, state by state",
+			"Communications of the ACM",
+			"https://doi.org/10.1145/2898963"
+		],
+		"hanks09": [
+			"Brian Hanks, Laurie Murphy, Beth Simon, Renée McCauley, and Carol Zander",
+			2009,
+			"CS1 students speak: advice for students by students",
+			"@sigcse",
+			"https://doi.org/10.1145/1539024.1508875"
+		],
+		"hazzan15": [
+			"Orit Hazzan, Tami Lapidot, Noa Ragonis",
+			2015,
+			"Guide to teaching computer science: an activity-based approach",
+			"Springer",
+			"https://www.google.com/books/edition/Guide_to_Teaching_Computer_Science/iekXBgAAQBAJ?hl=en&gbpv=0"
+		],
+		"hodges14": [
+			"Andrew Hodges",
+			2014,
+			"Alan Turing: the enigma",
+			"Princeton University Press",
+			"https://www.google.com/books/edition/Alan_Turing_The_Enigma/4muYDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"hyman85": [
+			"Anthony Hyman",
+			1985,
+			"Charles Babbage: Pioneer of the computer",
+			"Princeton University Press",
+			"https://www.google.com/books/edition/Charles_Babbage/YCddaWqWK2cC?hl=en&gbpv=0"
+		],
+		"ifrah00": [
+			"Georges Ifrah, David Bellos",
+			2000,
+			"A universal history of numbers: From prehistory to the invention of the computer",
+			"Wiley",
+			"https://www.google.com/books/edition/The_Universal_History_of_Numbers/FMTI7rwevZcC?hl=en&gbpv=0"
+		],
+		"kafai16": [
+			"Yasmin B. Kafai, Quinn Burke",
+			2016,
+			"Connected code: Why children need to learn programming",
+			"MIT Press",
+			"https://www.google.com/books/edition/Connected_Code/LA38DwAAQBAJ?hl=en&gbpv=0"
+		],
+		"kiesler85": [
+			"Sara Kiesler, Lee Sproull, Jacquelynne S. Eccles",
+			1985,
+			"Pool halls, chips, and war games: Women in the culture of computing",
+			"Psychology of Women Quarterly",
+			"https://doi.org/10.1111%2Fj.1471-6402.1985.tb00895.x"
+		],
+		"klein03": [
+			"David Klein",
+			2003,
+			"A brief history of American K-12 mathematics education in the 20th century",
+			"Mathematical cognition",
+			"https://www.google.com/books/edition/Mathematical_Cognition/T_snDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"ko19": [
+			"Amy J. Ko, Thomas D. LaToza, Stephen Hull, Ellen Ko, William Kwok, Jane Quichocho, Harshitha Akkaraju, Rishin Pandit",
+			2019,
+			"Teaching Explicit Programming Strategies to Adolescents",
+			"@sigcse",
+			"https://doi.org/10.1145/3287324.3287371"
+		],
+		"lachney21": [
+			"Michael Lachney, Audrey G. Bennett, Ron Eglash, Aman Yadav, and Sukanya Moudgalya",
+			2021,
+			"Teaching in an open village: a case study on culturally responsive computing in compulsory education",
+			"Computer Science Education",
+			"https://doi.org/10.1080/08993408.2021.1874228"
+		],
+		"ladner17": [
+			"Richard Ladner, Andreas Stefik",
+			2017,
+			"AccessCSforall: making computer science accessible to K-12 students in the United States",
+			"ACM SIGACCESS Accessibility and Computing",
+			"https://doi.org/10.1145/3124144.3124145"
+		],
+		"light99": [
+			"Jennifer S. Light",
+			1999,
+			"When computers were women",
+			"Technology and culture",
+			"https://www.jstor.org/stable/25147356"
+		],
+		"loksa16": [
+			"Dastyni Loksa, Amy J. Ko, William Jernigan, Alannah Oleson, Chris Mendez, Margaret M. Burnett",
+			2016,
+			"Programming, Problem Solving, and Self-Awareness: Effects of Explicit Guidance",
+			"@chi",
+			"https://doi.org/10.1145/2858036.2858252"
+		],
+		"margolis03": [
+			"Jane Margolis, Allan Fisher",
+			2003,
+			"Unlocking the Clubhouse: Women in Computing",
+			"MIT Press",
+			"https://www.google.com/books/edition/Unlocking_the_Clubhouse/2yKpNji_anMC?hl=en&gbpv=0"
+		],
+		"margolis10": [
+			"Jane Margolis",
+			2010,
+			"Stuck in the Shallow End: Education, Race, and Computing",
+			"MIT Press",
+			"https://www.google.com/books/edition/Stuck_in_the_Shallow_End/WOI9rGJSFCcC?hl=en&gbpv=0"
+		],
+		"mccartney17": [
+			"Robert McCartney, Jonas Boustedt, Anna Eckerdal, Kate Sanders, and Carol Zander",
+			2017,
+			"Folk Pedagogy and the Geek Gene: Geekiness Quotient",
+			"@sigcse",
+			"https://doi.org/10.1145/3017680.3017746"
+		],
+		"mcilwain19": [
+			"Charlton D. McIlwain",
+			2019,
+			"Black software: The internet and racial justice, from the AfroNet to Black Lives Matter",
+			"Oxford University Press",
+			"https://www.google.com/books/edition/Black_Software/DmmtDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"menninger13": [
+			"Karl Menninger",
+			2013,
+			"Number words and number symbols: A cultural history of numbers",
+			"Courier Corporation",
+			"https://www.google.com/books/edition/Number_Words_and_Number_Symbols/RXbCAgAAQBAJ?hl=en&gbpv=0"
+		],
+		"oneil16": [
+			"Catherine O'Neil",
+			2016,
+			"Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy",
+			"Crown",
+			"https://www.google.com/books/edition/Weapons_of_Math_Destruction/NgEwCwAAQBAJ?hl=en&gbpv=0"
+		],
+		"paris12": [
+			"Django Paris",
+			2012,
+			"Culturally sustaining pedagogy: A needed change in stance, terminology, and practice",
+			"Educational Researcher",
+			"https://doi.org/10.3102%2F0013189X12441244"
+		],
+		"papert93": [
+			"Seymour A. Papert",
+			1993,
+			"Mindstorms: Children, computers, and powerful ideas",
+			"Basic books",
+			"https://www.google.com/books/edition/Mindstorms/nDjRDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"peckham07": [
+			"Joan Peckham, Lisa L. Harlow, David A. Stuart, Barbara Silver, Helen Mederer, and Peter D. Stephenson",
+			2007,
+			"Broadening participation in computing: issues and challenges",
+			"@sigcse",
+			"https://doi.org/10.1145/1269900.1268790"
+		],
+		"ryoo20": [
+			"Jean J. Ryoo, Tiera Tanksley, Cynthia Estrada, and Jane Margolis",
+			2020,
+			"Take space, make space: how students use computer science to disrupt and resist marginalization in schools",
+			"Computer Science Education",
+			"https://doi.org/10.1080/08993408.2020.1805284"
+		],
+		"scherer19": [
+			"Ronny Scherer, Fazilat Siddiq, Bárbara Sánchez Viveros",
+			2019,
+			"The cognitive benefits of learning computer programming: A meta-analysis of transfer effects",
+			"Journal of Educational Psychology",
+			"https://psycnet.apa.org/doi/10.1037/edu0000314"
+		],
+		"shetterly16": [
+			"Margot Lee Shetterly",
+			2016,
+			"Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+			"HarperCollins",
+			"https://www.google.com/books/edition/Hidden_Figures/tkRHjgEACAAJ?hl=en"
+		],
+		"sigler03": [
+			"Laurence Sigler",
+			2012,
+			"Fibonacci’s Liber Abaci: a translation into modern English of Leonardo Pisano’s book of calculation",
+			"Springer Science & Business Media",
+			"https://www.google.com/books/edition/Fibonacci_s_Liber_Abaci/jsEqBgAAQBAJ?hl=en&gbpv=0"
+		],
+		"smith13": [
+			"David Eugene Smith, Louis Charles Karpinski",
+			2013,
+			"The hindu-arabic numerals",
+			"Courier Corporation",
+			"https://www.google.com/books/edition/The_Hindu_Arabic_Numerals/4SMQAAAAYAAJ?hl=en&gbpv=0"
+		],
+		"salomon87": [
+			"Gavriel Salomon, David N. Perkins",
+			1987,
+			"Transfer of cognitive skills from programming: When and how?",
+			"Journal of Educational Computing Research",
+			"https://doi.org/10.2190%2F6F4Q-7861-QWA5-8PL1"
+		],
+		"soni17": [
+			"Jimmy Soni, Rob Goodman",
+			2017,
+			"A mind at play: how Claude Shannon invented the information age",
+			"Simon and Schuster",
+			"https://www.google.com/books/edition/A_Mind_at_Play/yHfxyQEACAAJ?hl=en"
+		],
+		"taub12": [
+			"Rivka Taub, Michal Armoni, and Mordechai Ben-Ari",
+			2012,
+			"CS unplugged and middle-school students’ views, attitudes, and intentions regarding CS",
+			"@toce",
+			"https://doi.org/10.1145/2160547.2160551"
+		],
+		"toyama15": [
+			"Kentaro Toyama",
+			2015,
+			"Geek Heresy: Rescuing Social Change from the Cult of Technology",
+			"PublicAffairs",
+			"https://www.google.com/books/edition/Geek_Heresy/2w6CBgAAQBAJ?hl=en&gbpv=0"
+		],
+		"vogel19": [
+			"Sara Vogel, Christopher Hoadley, Laura Ascenzi-Moreno, Kate Menken",
+			2019,
+			"The role of translanguaging in computational literacies: Documenting middle school bilinguals' practices in computer science integrated units",
+			"@sigcse",
+			"https://doi.org/10.1145/3287324.3287368"
+		],
+		"washington20": [
+			"Alicia Nicki Washington",
+			2020,
+			"When Twice as Good Isn't Enough: The Case for Cultural Competence in Computing",
+			"@sigcse",
+			"https://doi.org/10.1145/3328778.3366792"
+		]
+	}
+
+}

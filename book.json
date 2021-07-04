@@ -37,6 +37,13 @@
 			"section": "Methods"
 		},
 		{
+			"id": "design", 
+			"title": "CS and Design", 
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"section": "Methods",
+			"contributors": ["Alannah Oleson", "Anne Beitlers"]
+		},
+		{
 			"id": "languages", 
 			"title": "Programming Languages", 
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
@@ -107,6 +114,13 @@
 			"Conference on fairness, accountability and transparency",
 			"http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf"
 		],
+		"chen15": [
+			"Xiang 'Anthony' Chen, Stelian Coros, Jennifer Mankoff, and Scott E. Hudson",
+			2015,
+			"Encore: 3D printed augmentation of everyday objects with printed-over, affixed and interlocked attachments",
+			"ACM Symposium on User Interface Software & Technology",
+			"https://doi.org/10.1145/2807442.2807498"
+		],
 		"codding20": [
 			"Diane Codding, Bataul Alkhateeb, Chrystalla Mouza, Lori Pollock",
 			2020,
@@ -121,11 +135,18 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/Design_Justice/h4LPDwAAQBAJ?hl=en&gbpv=0"
 		],
+		"davis19": [
+			"James Davis, Michael Lachney, Zoe Zatz, William Babbitt, and Ron Eglash",
+			2019,
+			"A Cultural Computing Curriculum",
+			"#sigcse",
+			"https://doi.org/10.1145/3287324.3287439"
+		],
 		"doyle15": [
 			"Maureen Doyle",
 			2015,
 			"SIGCSE symposium history",
-			"SIGCSE Bulletin",
+			"#sigcse",
 			"https://doi.org/10.1145/2856332.2856338"
 		],
 		"essinger14": [
@@ -169,6 +190,13 @@
 			"Culturally responsive teaching: Theory, research, and practice",
 			"Teachers College Press",
 			"https://www.google.com/books/edition/Culturally_Responsive_Teaching/rYspC7C-zowC?hl=en&gbpv=0"
+		],
+		"goel92": [
+			"Vinod Goel, Peter Pirolli",
+			1992,
+			"The structure of design problem spaces",
+			"Cognitive Science",
+			"https://doi.org/10.1016/0364-0213(92)90038-V"
 		],
 		"goode11": [
 			"Joanna Goode, Jane Margolis",
@@ -223,7 +251,7 @@
 			"Brian Hanks, Laurie Murphy, Beth Simon, Renée McCauley, and Carol Zander",
 			2009,
 			"CS1 students speak: advice for students by students",
-			"@sigcse",
+			"#sigcse",
 			"https://doi.org/10.1145/1539024.1508875"
 		],
 		"hazzan15": [
@@ -254,12 +282,26 @@
 			"Wiley",
 			"https://www.google.com/books/edition/The_Universal_History_of_Numbers/FMTI7rwevZcC?hl=en&gbpv=0"
 		],
+		"kafai14": [
+			"Yasmin B. Kafai, Eunkyoung Lee, Kristin Searle, Deborah Fields, Eliot Kaplan, Debora Lui",
+			2014,
+			"A Crafts-Oriented Approach to Computing in High School: Introducing Computational Concepts, Practices, and Perspectives with Electronic Textiles",
+			"#toce",
+			"https://doi.org/10.1145/2576874"
+		],
 		"kafai16": [
 			"Yasmin B. Kafai, Quinn Burke",
 			2016,
 			"Connected code: Why children need to learn programming",
 			"MIT Press",
 			"https://www.google.com/books/edition/Connected_Code/LA38DwAAQBAJ?hl=en&gbpv=0"
+		],
+		"kelleher07": [
+			"Caitlin Kelleher, Randy Pausch, Sara Kiesler",
+			2007,
+			"Storytelling Alice motivates middle school girls to learn computer programming",
+			"#chi",
+			"https://doi.org/10.1145/1240624.1240844"
 		],
 		"kiesler85": [
 			"Sara Kiesler, Lee Sproull, Jacquelynne S. Eccles",
@@ -279,7 +321,7 @@
 			"Amy J. Ko, Thomas D. LaToza, Stephen Hull, Ellen Ko, William Kwok, Jane Quichocho, Harshitha Akkaraju, Rishin Pandit",
 			2019,
 			"Teaching Explicit Programming Strategies to Adolescents",
-			"@sigcse",
+			"#sigcse",
 			"https://doi.org/10.1145/3287324.3287371"
 		],
 		"lachney21": [
@@ -296,6 +338,27 @@
 			"ACM SIGACCESS Accessibility and Computing",
 			"https://doi.org/10.1145/3124144.3124145"
 		],
+		"lazar07": [
+			"Jonathan Lazar, Aaron Allen, Jason Kleinman, and Chris Malarkey",
+			2007,
+			"What frustrates screen reader users on the web: A study of 100 blind users,",
+			"International Journal of Human-Computer Interaction",
+			"https://doi.org/10.1080/10447310709336964"
+		],
+		"leiner09": [
+			"Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, and Stephen Wolff",
+			2009,
+			"A brief history of the internet",
+			"SIGCOMM Computer Communication Review",
+			"https://doi.org/10.1145/1629607.1629613"
+		],
+		"licklider63": [
+			"J. C. R. Licklider",
+			1963,
+			"Intergalactic Computer Network",
+			"ARPA",
+			"https://www.kurzweilai.net/memorandum-for-members-and-affiliates-of-the-intergalactic-computer-network"
+		],
 		"light99": [
 			"Jennifer S. Light",
 			1999,
@@ -307,7 +370,7 @@
 			"Dastyni Loksa, Amy J. Ko, William Jernigan, Alannah Oleson, Chris Mendez, Margaret M. Burnett",
 			2016,
 			"Programming, Problem Solving, and Self-Awareness: Effects of Explicit Guidance",
-			"@chi",
+			"#chi",
 			"https://doi.org/10.1145/2858036.2858252"
 		],
 		"margolis03": [
@@ -328,7 +391,7 @@
 			"Robert McCartney, Jonas Boustedt, Anna Eckerdal, Kate Sanders, and Carol Zander",
 			2017,
 			"Folk Pedagogy and the Geek Gene: Geekiness Quotient",
-			"@sigcse",
+			"#sigcse",
 			"https://doi.org/10.1145/3017680.3017746"
 		],
 		"mcilwain19": [
@@ -344,6 +407,34 @@
 			"Number words and number symbols: A cultural history of numbers",
 			"Courier Corporation",
 			"https://www.google.com/books/edition/Number_Words_and_Number_Symbols/RXbCAgAAQBAJ?hl=en&gbpv=0"
+		],
+		"mott14": [
+			"Martez E. Mott, Jacob O. Wobbrock",
+			2014,
+			"Beating the bubble: using kinematic triggering in the bubble lens for acquiring small, dense targets",
+			"#chi",
+			"https://doi.org/10.1145/2556288.2557410"
+		],
+		"myers98": [
+			"Brad A. Myers",
+			1998,
+			"A brief history of human-computer interaction technology",
+			"interactions",
+			"https://doi.org/10.1145/274430.274436"
+		],
+		"oleson20": [
+			"Alannah Oleson, Meron Solomon, and Amy J. Ko",
+			2020,
+			"Computing Students’ Learning Difficulties in HCI Education",
+			"#chi",
+			"https://doi.org/10.1145/3313831.3376149"
+		],
+		"oleson21": [
+			"Alannah Oleson, Amy J. Ko, Brett Wortzman",
+			2020,
+			"On the Role of Design in K-12 Computing Education",
+			"#toce",
+			"https://doi.org/10.1145/3427594"
 		],
 		"oneil16": [
 			"Catherine O'Neil",
@@ -370,7 +461,7 @@
 			"Joan Peckham, Lisa L. Harlow, David A. Stuart, Barbara Silver, Helen Mederer, and Peter D. Stephenson",
 			2007,
 			"Broadening participation in computing: issues and challenges",
-			"@sigcse",
+			"#sigcse",
 			"https://doi.org/10.1145/1269900.1268790"
 		],
 		"ryoo20": [
@@ -415,6 +506,20 @@
 			"Journal of Educational Computing Research",
 			"https://doi.org/10.2190%2F6F4Q-7861-QWA5-8PL1"
 		],
+		"shulman87": [
+			"Lee Shulman",
+			1987,
+			"Knowledge and teaching: Foundations of the new reform",
+			"Harvard Educational Review",
+			"https://doi.org/10.17763/haer.57.1.j463w79r56455411"
+		],
+		"simon68": [
+			"Herbert A. Simon",
+			1968,
+			"Sciences of the Artificial",
+			"The MIT Press",
+			"https://www.google.com/books/edition/The_Sciences_of_the_Artificial/yYSkDwAAQBAJ?hl=en&gbpv=0"
+		],
 		"soni17": [
 			"Jimmy Soni, Rob Goodman",
 			2017,
@@ -426,7 +531,7 @@
 			"Rivka Taub, Michal Armoni, and Mordechai Ben-Ari",
 			2012,
 			"CS unplugged and middle-school students’ views, attitudes, and intentions regarding CS",
-			"@toce",
+			"#toce",
 			"https://doi.org/10.1145/2160547.2160551"
 		],
 		"toyama15": [
@@ -440,14 +545,14 @@
 			"Sara Vogel, Christopher Hoadley, Laura Ascenzi-Moreno, Kate Menken",
 			2019,
 			"The role of translanguaging in computational literacies: Documenting middle school bilinguals' practices in computer science integrated units",
-			"@sigcse",
+			"#sigcse",
 			"https://doi.org/10.1145/3287324.3287368"
 		],
 		"washington20": [
 			"Alicia Nicki Washington",
 			2020,
 			"When Twice as Good Isn't Enough: The Case for Cultural Competence in Computing",
-			"@sigcse",
+			"#sigcse",
 			"https://doi.org/10.1145/3328778.3366792"
 		]
 	}

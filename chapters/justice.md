@@ -105,13 +105,13 @@ The second session, building upon the students’ shared understanding of their 
 
 * After students have selected a rule, organize them into groups by the rule they’ve chosen, splitting groups to ensure group sizes of no more than four.
 
-* *Formative assessment*. Prompt students to analyze, as a group, 1) the primary benefits of the rule, and who receives them, 2) the primary harms of the rule, and who suffers them, and 3) the ambiguities in the rule and how rule enforcers navigate those ambiguities.  Students should produce a short presentation summarizing these insights. 
-  % Need to support tiered bullets
-  * This assessment is _responsive_ because it gives students agency to choose the rule they want to examine.
+* *Formative assessment*. Prompt students to analyze, as a group, 1) the primary benefits of the rule, and who receives them, 2) the primary harms of the rule, and who suffers them, and 3) the ambiguities in the rule and how rule enforcers navigate those ambiguities.  Students should produce a short presentation summarizing these insights.
 
-  * To ensure that it is _participatory_, negotiate with students what their presentations might contain, adding or removing elements they want to discuss.
+** This assessment is _responsive_ because it gives students agency to choose the rule they want to examine.
 
-  * This assessment is _educative_ because the prompt to present necessitates analysis, creating a social context in which students share their analysis.
+** To ensure that it is _participatory_, negotiate with students what their presentations might contain, adding or removing elements they want to discuss.
+
+** This assessment is _educative_ because the prompt to present necessitates analysis, creating a social context in which students share their analysis.
 
 * Once students are ready, have each group present their analyses to the class, revealing the varying ways that the rules are impacting different stakeholders and being enforced. Solicit constructive feedback from their peers, recognizing insights and identifying observations, and identifying benefits and harms they might have missed.
 
@@ -132,12 +132,11 @@ The next session turns the students’ attention toward computing, challenging t
 
 * *Formative assessment*. Prompt each team to imagine a software system that automates the rule, without fundamentally changing the rule: What would the exact rule be? How would it be checked automatically? How would the consequences of the rule be enforced or communicated to a person to enforce? Students should create a short presentation to describe their design to their classmates.
 
-  % Support tiered bullets
-  * This is _responsive_ because it gives creative agency to students to imagine the rules they want.
+  ** This is _responsive_ because it gives creative agency to students to imagine the rules they want.
 
-  * To ensure it is _participatory_, give students an opportunity to broaden the scope of how much time students will have to present and how presentations will run.
+  ** To ensure it is _participatory_, give students an opportunity to broaden the scope of how much time students will have to present and how presentations will run.
 
-  * This is _educative_, because it creates a social context in which to share their creative ideas that incentivizes envisioning.
+  ** This is _educative_, because it creates a social context in which to share their creative ideas that incentivizes envisioning.
 
 * Once students are ready, have each group present their design to the class for critique. Prompt the students in the audience to identify the strengths and weaknesses of the software relative to the current human enforcement of rules. Each team should capture notes about the discussion.
 
@@ -155,12 +154,11 @@ The next session calls students to decide what to do: automate the rule, reject 
 
 * *Summative assessment*. Explain to students that the goal for the final day is to decide what to do about the rules. Prompt them to discuss with their teams: should the rule be automated, should they stay with the status quo, or should the rule be changed, or perhaps discarded altogether? As they discuss, they should add to their presentation a proposal for a course of action. The final presentation will be submitted for summative assessment.
 
-  % TODO Tiered bullets.
-  * To ensure the assessment is *responsive*, commit to making changes to the rules based on students’ proposals.
+  ** To ensure the assessment is *responsive*, commit to making changes to the rules based on students’ proposals.
 
-  * To ensure the assessment is *participatory*, co-construct a rubric for evaluating their final presentations, discussing what would make a good presentation.
+  ** To ensure the assessment is *participatory*, co-construct a rubric for evaluating their final presentations, discussing what would make a good presentation.
 
-  * The assessment is *educative* because it challenges students to develop concrete proposals for change.
+  ** The assessment is *educative* because it challenges students to develop concrete proposals for change.
 
 * Once students are ready, have them present a final time to the class their proposed course of action. After each presentation, if there is consensus to do something other than the status quo, solicit ideas from the class about how they might advocate for that change. If there is no consensus, facilitate a discussion about whether the rule deserves further debate, to try to find consensus.
 

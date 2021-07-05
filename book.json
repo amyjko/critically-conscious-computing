@@ -50,8 +50,26 @@
 			"section": "Methods"
 		},
 		{
+			"id": "information", 
+			"title": "Encoding Information", 
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"section": "Methods"
+		},
+		{
+			"id": "computers", 
+			"title": "Computers", 
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"section": "Methods"
+		},
+		{
 			"id": "languages", 
 			"title": "Programming Languages", 
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"section": "Methods"
+		},
+		{
+			"id": "datastructures", 
+			"title": "Data Structures", 
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
 			"section": "Methods"
 		},
@@ -67,7 +85,8 @@
 	"sources": {
 		"chi": "ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)",
 		"sigcse": "ACM Technical Symposium on Computer Science Education (SIGCSE)",
-		"toce": "ACM Transactions on Computing Education (TOCE)"
+		"toce": "ACM Transactions on Computing Education (TOCE)",
+		"icer": "ACM Conference on International Computing Education Research (ICER)"
 	},
 	"references": {
 		"ames19": [
@@ -104,6 +123,13 @@
 			"Race after technology: Abolitionist tools for the new jim code",
 			"John Wiley & Sons",
 			"https://www.google.com/books/edition/Race_After_Technology/nPy9uwEACAAJ?hl=en"
+		],
+		"bergstrom21": [
+			"Carl T. Bergstrom, Jevin Darwin West",
+			2021,
+			"Calling Bullshit: The Art of Skepticism in a Data-driven World",
+			"Random House",
+			"https://www.google.com/books/edition/Calling_Bullshit/v-UlEAAAQBAJ?hl=en&gbpv=0"
 		],
 		"bjarnadóttir14": [
 			"Kristín Bjarnadóttir",
@@ -167,6 +193,13 @@
 			"A Cultural Computing Curriculum",
 			"#sigcse",
 			"https://doi.org/10.1145/3287324.3287439"
+		],
+		"dignazio20": [
+			"Catherine D'Ignazio, Lauren F. Klein",
+			2020,
+			"Data Feminism",
+			"MIT Press",
+			"https://www.google.com/books/edition/Data_Feminism/x5nSDwAAQBAJ?hl=en&gbpv=0"
 		],
 		"doyle15": [
 			"Maureen Doyle",
@@ -336,6 +369,13 @@
 			"Wiley",
 			"https://www.google.com/books/edition/The_Universal_History_of_Numbers/FMTI7rwevZcC?hl=en&gbpv=0"
 		],
+		"illiadis16": [
+			"Andrew Iliadis, Federica Russo",
+			2016,
+			"Critical data studies: An introduction",
+			"Big Data & Society",
+			"https://doi.org/10.1177%2F2053951716674238"
+		],
 		"kafai14": [
 			"Yasmin B. Kafai, Eunkyoung Lee, Kristin Searle, Deborah Fields, Eliot Kaplan, Debora Lui",
 			2014,
@@ -412,6 +452,13 @@
 			"A brief history of the internet",
 			"SIGCOMM Computer Communication Review",
 			"https://doi.org/10.1145/1629607.1629613"
+		],
+		"lesser17": [
+			"Lawrence M. Lesser",
+			2017,
+			"Critical Values and Transforming Data: Teaching Statistics with Social Justice",
+			"Journal of Statistics Education",
+			"https://doi.org/10.1080/10691898.2007.11889454"
 		],
 		"licklider63": [
 			"J. C. R. Licklider",
@@ -532,6 +579,20 @@
 			"#sigcse",
 			"https://doi.org/10.1145/1269900.1268790"
 		],
+		"philip16": [
+			"Thomas M. Philip, Maria C. Olivares-Pasillas, Janet Rocha",
+			2016,
+			"Becoming racially literate about data and data-literate about race: Data visualizations in the classroom as a site of racial-ideological micro-contestations",
+			"Cognition and Instruction",
+			"https://doi.org/10.1080/07370008.2016.1210418"
+		],
+		"register20": [
+			"Yim Register, Amy J. Ko",
+			2020,
+			"Learning Machine Learning with Personal Data Helps Stakeholders Ground Advocacy Arguments in Model Mechanics",
+			"#icer",
+			"https://doi.org/10.1145/3372782.3406252"
+		],
 		"reich20": [
 			"Rob Reich, Mehran Sahami, Jeremy M. Weinstein, Hilary Cohen",
 			2020,
@@ -545,6 +606,13 @@
 			"Teaching HCI design with the studio approach",
 			"Computer Science Education",
 			"https://doi.org/10.1076/csed.13.3.191.14945"
+		],
+		"rodriguez00": [
+			"Clara E. Rodríguez",
+			2000,
+			"Changing Race: Latinos, the Census and the History of Ethnicity",
+			"NYU Press",
+			"https://www.google.com/books/edition/Changing_Race/siAVCgAAQBAJ?hl=en&gbpv=0"
 		],
 		"ryoo20": [
 			"Jean J. Ryoo, Tiera Tanksley, Cynthia Estrada, and Jane Margolis",
@@ -594,6 +662,13 @@
 			"Transfer of cognitive skills from programming: When and how?",
 			"Journal of Educational Computing Research",
 			"https://doi.org/10.2190%2F6F4Q-7861-QWA5-8PL1"
+		],
+		"shannon48": [
+			"Claude E. Shannon",
+			1948,
+			"A mathematical theory of communication",
+			"The Bell System Technical Journal",
+			"https://doi.org/10.1002/j.1538-7305.1948.tb01338.x"
 		],
 		"shulman87": [
 			"Lee Shulman",
@@ -657,6 +732,13 @@
 			"When Twice as Good Isn't Enough: The Case for Cultural Competence in Computing",
 			"#sigcse",
 			"https://doi.org/10.1145/3328778.3366792"
+		],
+		"weiland17": [
+			"Travis Weiland",
+			2017,
+			"Problematizing statistical literacy: An intersection of critical and statistical literacies",
+			"Educational Studies in Mathematics",
+			"https://doi.org/10.1007/s10649-017-9764-5"
 		]
 	}
 

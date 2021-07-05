@@ -123,7 +123,7 @@ Thus, these three intellectual founders of computing, while fascinated with ways
 Of course, Babbage, Boole, Lovelace, Turing could not have imagined the kinds of intelligent behavior that programmers have since created. Computers can parse natural language, produce speech, predict our desires, recognize objects in images, drive cars, fly airplanes, diagnose cancer, organize our photo collections, detect fraud, find our bus, and route us home. Aren’t these displays of intelligence something more than the intelligence that Lovelace and Turing imagined? Lovelace and Turing would likely argue no. All of that intelligence reduces to the same basic set of mathematical, Boolean, and logical operations, loading a number, performing some arithmetic, checking a number’s value to decide whether to go to this step or that using truth values, ANDs, ORs, and NOTs. What enables those illusions of intelligence are millions of instructions, each carefully written by millions of people over the course of decades, and assembled together to achieve ever more complex behaviors. And so while computers seem to be ever more capable, it is only because of the ongoing labor of software developers and data scientists to carefully write the instructions that shape algorithms, and to gather and label data used to drive computer behavior. As Lovelace said:
 
 "
-[A computer] can do whatever we know how to order it to perform.
+\[A computer\] can do whatever we know how to order it to perform.
 " Ada Lovelace<hollings20>
 
 That basic fact has not changed since the dawn of modern computer science.

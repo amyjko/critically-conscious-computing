@@ -59,14 +59,14 @@
 			"id": "computers", 
 			"title": "Computers", 
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
-			"section": "Methods",
-			"contributors": ["Mara Kirdani-Ryan"]
+			"section": "Methods"
 		},
 		{
 			"id": "operatingsystems", 
 			"title": "Operating Systems", 
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
-			"section": "Methods"
+			"section": "Methods",
+			"contributors": ["Mara Kirdani-Ryan"]
 		},
 		{
 			"id": "languages", 

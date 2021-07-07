@@ -22,8 +22,6 @@ Teachers will be able to:
 ,4d, Build connections between CS and other disciplines, Identify authentic integration points between CS and other disciplines
 ,4e, Plan projects that have personal meaning to students, Situate CS learning in students’ identities\, values\, goals\, and communities
 
-In the previous chapter, we chronicled the many centuries of people learning about computation, from the primitive manual algorithms for arithmetic in early Western and Eastern civilization, to the nascent challenges of computer programming in the 1960’s and ‘70’s that shaped the CS education of today. As teaching CS has moved from one of training to education, and expanded from post-secondary to primary and secondary education since the 1980’s, one important question has been central: why teach computer science? This question not only determines the motivations that countries, states, schools, and teachers have for bringing CS topics into schools, but also how CS is taught, as different motivations demand different teaching methods. In this chapter, we will examine different reasons for teaching CS and how those reasons shape pedagogical considerations in CS education.
-
 |Chapter02_Figure02_Mastering.png|TODO|Why teach CS?|Jessie Huynh|
 
 # Arguments for CS literacy

@@ -97,9 +97,17 @@ There are many other languages we could have chosen, but none quite meet the goa
 
 # On Standards
 
-In all of these chapters, we make explicit links between the [CSTA Teacher Standards|https://csteachers.org/page/standards-for-cs-teachers], [CSTA K-12 CS Learning Standards|https://k12cs.org], and the [Teaching Social Justice Standards|https://www.tolerance.org/frameworks/social-justice-standards]. We include them to help you connect the concepts and methods in the book with any standards you might be expected to teach, as well as teaching skills you might be expected to have. However, our linking these standards is not an unqualified endorsement. The authors of this book view each of these standards as a meaningful collection of big ideas in computer science, and critical skills for CS educators, but also as standards that are largely silent either on issues of equity and justice (in the case of the _K-12 CS standards_) or silent on the role of computing in diversity, equity, and inclusion (in the case of the _Teaching Social Justice Standards_). Therefore, rather than reiterating standards directly, we explicitly reframe and revise each standard from a justice and computing lens, ensuring that even the most abstract and technical topics (e.g., binary encodings), have a clear link to justice. We do this to argue, across the book, that no subject in CS divorced from people, society, or human values.
+In all of these chapters, we make explicit links between the [CSTA Teacher Standards|https://csteachers.org/page/standards-for-cs-teachers], [CSTA K-12 CS Learning Standards|https://k12cs.org], and the [Teaching Social Justice Standards|https://www.tolerance.org/frameworks/social-justice-standards]. We include them to help you connect the concepts and methods in the book with any standards you might be expected to teach, as well as teaching skills you might be expected to have. 
 
-% TODO: Describe this table
+However, our linking these standards is not an unqualified endorsement. The authors of this book view each of these standards as a meaningful collection of big ideas in computer science, and critical skills for CS educators. But some of the are largely silent either on issues of equity and justice (in the case of the _K-12 CS standards_) or silent on the role of computing in diversity, equity, and inclusion (in the case of the _Teaching Social Justice Standards_). Therefore, rather than reiterating standards directly, we explicitly reframe and revise each standard from a justice and computing lens, ensuring that even the most abstract and technical topics (e.g., binary encodings), have a clear link to justice. We do this to argue, across the book, that no subject in CS divorced from people, society, or human values.
+
+The [Kapor Center|https://www.kaporcenter.org]'s [Culturally Responsive-Sustaining Computer Science Education Framework|https://www.kaporcenter.org/equitableCS/] is perhaps the closest to our vision for this book. One will find the ideas it advocates throughout the bookk, To align with it explicitly, we note in each chapter the relevant components from the framework. Our vision aligns closely with the framework's definition of culturally responsive-sustaining CS pedagogy:
+
+"
+Culturally responsive-sustaining computer science pedagogy ensures that students’ interests, identities, and cultures are embraced and validated, students develop knowledge of computing content and its utility in the world, strong CS identities are developed, and students engage in larger socio-political critiques about technology’s purpose, potential, and impact.
+" Kapor Center, [Culturally Responsive-Sustaining Computer Science Education|https://www.kaporcenter.org/equitableCS/]
+
+To help you navigate the standards, we include a table here that provides an index into the CSTA K-12 CS Learning Standards and where they are covered in the book. Each chapter also includes the specific standards it covers.
 
 ,Standard, Chapter, Chapter, Chapter, Chapter, Chapter
 ,Standard, Chapter, Chapter, Chapter, Chapter, Chapter
@@ -107,8 +115,6 @@ In all of these chapters, we make explicit links between the [CSTA Teacher Stand
 ,Standard, Chapter, Chapter, Chapter, Chapter, Chapter
 ,Standard, Chapter, Chapter, Chapter, Chapter, Chapter
 ,Standard, Chapter, Chapter, Chapter, Chapter, Chapter
-
-% TODO: Discuss how to use the table
 
 -
 

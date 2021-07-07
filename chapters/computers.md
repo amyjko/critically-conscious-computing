@@ -87,10 +87,10 @@ The learning objectives of the unit are:
 
 -
 Learning objectives
-* Students will be able to identify that computers are ubiquitous
-* Students will be able to identify the central components of modern computer architecture
-* Students will be able to relate the use of computers to the consumption of electricity, to the energy sources that produce that electricity
-* Students will be able to identify the moral tensions in upgrading computers as they relate to waste, labor, and sustainability.
+1. Students will be able to identify that computers are ubiquitous
+2. Students will be able to identify the central components of modern computer architecture
+3. Students will be able to relate the use of computers to the consumption of electricity, to the energy sources that produce that electricity
+4. Students will be able to identify the moral tensions in upgrading computers as they relate to waste, labor, and sustainability.
 -
 
 To achieve these learning objectives, the unit contains five sessions, moving from the computers in students’ lives, the composition of those computers, to the origins of those computers, to the energy used by those computers, and finally to the destination of those computers when they are discarded. Throughout, students engage in critical discourse about what a computer is and its various stages of a computer’s life.

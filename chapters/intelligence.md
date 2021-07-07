@@ -205,9 +205,9 @@ The learning objectives of the unit are:
 
 -
 Learning objectives
-* Students will be able to compare human and computer-based intelligence for a particular technology.
-* Students will be able to compare the tradeoffs of computer-based intelligence and their impacts on people’s everyday lives.
-* Students will be able to explain how the motivations of a computing technology’s inventors affect these tradeoffs and their impacts.
+1. Students will be able to compare human and computer-based intelligence for a particular technology.
+2. Students will be able to compare the tradeoffs of computer-based intelligence and their impacts on people’s everyday lives.
+3. Students will be able to explain how the motivations of a computing technology’s inventors affect these tradeoffs and their impacts.
 -
 
 To achieve these learning objectives, this unit contains a sequence of five sessions, the first engaging students in analysis and brainstorming, and the last three engaging them in debate with each other. The first session begins the conversation about intelligence:

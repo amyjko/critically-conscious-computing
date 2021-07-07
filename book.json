@@ -1,6 +1,6 @@
 {
 	"title": "Critically Conscious Computing: Methods for Secondary Education",
-	"authors": ["[Amy J. Ko|https://faculty.washington.edu/ajko/]"],
+	"authors": ["[Amy J. Ko|https://faculty.washington.edu/ajko/]", "Anne Beitlers"],
 	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
 	"cover": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
 	"unknown": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
@@ -59,6 +59,13 @@
 			"id": "computers", 
 			"title": "Computers", 
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"section": "Methods",
+			"contributors": ["Mara Kirdani-Ryan"]
+		},
+		{
+			"id": "operatingsystems", 
+			"title": "Operating Systems", 
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
 			"section": "Methods"
 		},
 		{
@@ -89,12 +96,26 @@
 		"icer": "ACM Conference on International Computing Education Research (ICER)"
 	},
 	"references": {
+		"amdahl64": [
+			"Gene M. Amdahl, Gerrit A. Blaauw, and Frederick P. Brooks",
+			1964,
+			"Architecture of the IBM System/360",
+			"IBM Journal of Research and Development",
+			"https://doi.org/10.1147/rd.82.0087"
+		],
 		"ames19": [
 			"Morgan G. Ames",
 			2019,
 			"The charisma machine: The life, death, and legacy of One Laptop per Child",
 			"MIT Press",
 			"https://www.google.com/books/edition/The_Charisma_Machine/yYy5DwAAQBAJ?hl=en&gbpv=0"
+		],
+		"andrus12": [
+			"Jeremy Andrus, Jason Nieh",
+			2012,
+			"Teaching operating systems using Android",
+			"#sigcse",
+			"https://doi.org/10.1145/2157136.2157312"
 		],
 		"baltes20": [
 			"Sebastian Baltes, George Park, and Alexander Serebrenik",
@@ -215,6 +236,13 @@
 			"Cambridge University Press",
 			"https://www.google.com/books/edition/The_First_Industrial_Revolution/eMBG_soDdNoC?hl=en&gbpv=0"
 		],
+		"desnoyers11": [
+			"Peter J. Desnoyers",
+			2011,
+			"Teaching operating systems as how computers work",
+			"#sigcse",
+			"https://doi.org/10.1145/1953163.1953249"
+		],
 		"dignazio20": [
 			"Catherine D'Ignazio, Lauren F. Klein",
 			2020,
@@ -228,6 +256,13 @@
 			"SIGCSE symposium history",
 			"#sigcse",
 			"https://doi.org/10.1145/2856332.2856338"
+		],
+		"economides09": [
+			"Nicholas Economides, Ioannis Lianos",
+			2009,
+			"The Elusive Antitrust Standard on Bundling in Europe and in the United States in the Aftermath of the Microsoft Cases",
+			"Antitrust Law Journal",
+			"https://heinonline.org/HOL/LandingPage?handle=hein.journals/antil76&div=25&id=&page="
 		],
 		"essinger14": [
 			"James Essinger",
@@ -341,6 +376,13 @@
 			"Communications of the ACM",
 			"https://doi.org/10.1145/2898963"
 		],
+		"haigh16": [
+			"Thomas Haigh, Peter Mark Priestley, Mark Priestley, Crispin Rope",
+			2016,
+			"ENIAC in Action: Making and Remaking the Modern Computer",
+			"MIT Press",
+			"https://www.google.com/books/edition/ENIAC_in_Action/_oqBCwAAQBAJ?hl=en&gbpv=0"
+		],
 		"hanks09": [
 			"Brian Hanks, Laurie Murphy, Beth Simon, Renée McCauley, and Carol Zander",
 			2009,
@@ -354,6 +396,13 @@
 			"Stephen Wolfram, Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People",
 			"Structural Chemistry",
 			"https://doi.org/10.1007/s11224-016-0826-6"
+		],
+		"harvey07": [
+			"David Harvey",
+			2007,
+			"A Brief History of Neoliberalism",
+			"Oxford University Press",
+			"https://www.google.com/books/edition/A_Brief_History_of_Neoliberalism/2GsTDAAAQBAJ?hl=en&gbpv=0"
 		],
 		"hazzan15": [
 			"Orit Hazzan, Tami Lapidot, Noa Ragonis",
@@ -460,6 +509,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/3287324.3287371"
 		],
+		"laadan11": [
+			"Oren Laadan, Jason Nieh, Nicolas Viennot",
+			2011,
+			"Structured Linux kernel projects for teaching operating systems concepts",
+			"#sigcse",
+			"https://doi.org/10.1145/1953163.1953250"	
+		],
 		"lachney21": [
 			"Michael Lachney, Audrey G. Bennett, Ron Eglash, Aman Yadav, and Sukanya Moudgalya",
 			2021,
@@ -495,6 +551,13 @@
 			"SIGCOMM Computer Communication Review",
 			"https://doi.org/10.1145/1629607.1629613"
 		],
+		"lehman21": [
+			"Kathleen J. Lehman, Julia Rose Karpicz, Veronika Rozhenkova, Jamelia Harris, and Tomoko M. Nakajima",
+			2021,
+			"Growing Enrollments Require Us to Do More: Perspectives on Broadening Participation During an Undergraduate Computing Enrollment Boom",
+			"#sigcse",
+			"https://doi.org/10.1145/3408877.3432370"
+		],
 		"lesser17": [
 			"Lawrence M. Lesser",
 			2017,
@@ -515,6 +578,13 @@
 			"When computers were women",
 			"Technology and culture",
 			"https://www.jstor.org/stable/25147356"
+		],
+		"lubar92": [
+			"Steven Lubar",
+			1992,
+			"“Do Not Fold, Spindle or Mutilate”: A Cultural History of the Punch Card",
+			"Journal of American Culture",
+			"https://doi.org/10.1111/j.1542-734X.1992.1504_43.x"
 		],
 		"loksa16": [
 			"Dastyni Loksa, Amy J. Ko, William Jernigan, Alannah Oleson, Chris Mendez, Margaret M. Burnett",
@@ -586,6 +656,13 @@
 			"interactions",
 			"https://doi.org/10.1145/274430.274436"
 		],
+		"nelsen16": [
+			"R. Arvid Nelsen",
+			2016,
+			"Race and computing: The problem of sources, the potential of prosopography, and the lesson of Ebony Magazine",
+			"IEEE Annals of the History of Computing",
+			"https://doi.org/10.1109/MAHC.2016.11"
+		],
 		"oleson20": [
 			"Alannah Oleson, Meron Solomon, and Amy J. Ko",
 			2020,
@@ -655,6 +732,13 @@
 			"Rebecca R. Raines",
 			"U.S. Department of Defense",
 			"https://www.google.com/books/edition/Getting_the_Message_Through_A_Branch_His/KpPfAAAAMAAJ?hl=en&gbpv=0"
+		],
+		"rankin18": [
+			"Joy Lisi Rankin",
+			2018,
+			"Making a Macho Computing Culture",
+			"A People's History of Computing Education in the United States",
+			"https://doi.org/10.4159/9780674988538-003"
 		],
 		"register20": [
 			"Yim Register, Amy J. Ko",
@@ -767,6 +851,13 @@
 			"A mind at play: how Claude Shannon invented the information age",
 			"Simon and Schuster",
 			"https://www.google.com/books/edition/A_Mind_at_Play/yHfxyQEACAAJ?hl=en"
+		],
+		"tanenbaum15": [
+			"Andrew S. Tanenbaum, Herbert Bos",
+			2015,
+			"Modern Operating Systems",
+			"Pearson",
+			"https://www.google.com/books/edition/Modern_Operating_Systems/Cq6-oAEACAAJ?hl=en"
 		],
 		"taub12": [
 			"Rivka Taub, Michal Armoni, and Mordechai Ben-Ari",

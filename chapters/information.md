@@ -163,9 +163,9 @@ The learning objectives of the unit are:
 -
 Learning objectives
 
-* Students will be able to identify that data emerges from data collection processes that can be biased, inaccurate, and even unjust, through their erasure of context.
-* Students will be able to identify the particular values that underlie data
-* Students will be able to identify how algorithms can amplify these values and biases by ignoring context.
+1. Students will be able to identify that data emerges from data collection processes that can be biased, inaccurate, and even unjust, through their erasure of context.
+2. Students will be able to identify the particular values that underlie data
+3. Students will be able to identify how algorithms can amplify these values and biases by ignoring context.
 -
 
 To achieve these learning objectives, the unit contains six sessions, starting by raising the general phenomenon of tardiness, then turning to data collection about it and critical perspectives on it, then deploying that data into an algorithm. The sequence ends with a broader reflection on other ways that data is used to shape student lives, and the lives of others in society.

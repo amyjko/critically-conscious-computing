@@ -28,7 +28,8 @@
 			"id": "assessment", 
 			"title": "Critical CS Education Assessment", 
 			"image": "|question.jpg|TODO|TODO|TODO|",
-			"section": "Foundations"
+			"section": "Foundations",
+			"contributors": ["Matt Davidson"]
 		},
 		{
 			"id": "justice", 

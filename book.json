@@ -103,6 +103,13 @@
 			"IEEE Software",
 			"https://doi.org/10.1109/MS.2020.3014178"
 		],
+		"bartik13": [
+			"Jean Jennings Bartik, Jean Bartik, Jon T. Rickman, Kim D. Todd",
+			2013,
+			"Pioneer Programmer: Jean Jennings Bartik and the Computer that Changed the World",
+			"Truman State University Press",
+			"https://www.google.com/books/edition/Pioneer_Programmer/jbMezgEACAAJ?hl=en"
+		],
 		"barton20": [
 			"Angela Calabrese Barton, Edna Tan",
 			2020,
@@ -152,6 +159,13 @@
 			"Duke University Press",
 			"https://www.google.com/books/edition/Dark_Matters/snmJCgAAQBAJ?hl=en&gbpv=0"
 		],
+		"burks89": [
+			"Alice R. Burks, Arthur Walter Burks",
+			1989,
+			"The First Electronic Computer: The Atanasoff Story",
+			"University of Michigan Press",
+			"https://www.google.com/books/edition/The_First_Electronic_Computer/_Zja6hoP4psC?hl=en&gbpv=0"
+		],
 		"buolamwini18": [
 			"Joy Buolamwini, Timnit Gebru",
 			2018,
@@ -193,6 +207,13 @@
 			"A Cultural Computing Curriculum",
 			"#sigcse",
 			"https://doi.org/10.1145/3287324.3287439"
+		],
+		"deane79": [
+			"P.M. Deane, Phyllis M. Deane",
+			1979,
+			"The First Industrial Revolution",
+			"Cambridge University Press",
+			"https://www.google.com/books/edition/The_First_Industrial_Revolution/eMBG_soDdNoC?hl=en&gbpv=0"
 		],
 		"dignazio20": [
 			"Catherine D'Ignazio, Lauren F. Klein",
@@ -291,6 +312,13 @@
 			"Computational thinking in K–12: A review of the state of the field",
 			"Educational Researcher",
 			"https://doi.org/10.3102%2F0013189X12463051"
+		],
+		"grover16": [
+			"Shuchi Grover, Daisy Rutstein, Eric Snow",
+			2016,
+			"\"What Is A Computer\": What do Secondary School Students Think?",
+			"#sigcse",
+			"https://doi.org/10.1145/2839509.2844579"
 		],
 		"grover20": [
 			"Shuchi Grover (ed)",
@@ -411,6 +439,13 @@
 			"Computer",
 			"https://doi.org/10.1109/MC.2019.2929723"
 		],
+		"kistermann91": [
+			"F. W. Kistermann",
+			1991,
+			"The Invention and Development of the Hollerith Punched Card: In Commemoration of the 130th Anniversary of the Birth of Herman Hollerith and for the 100th Anniversary of Large Scale Data Processing",
+			"Annals of the History of Computing",
+			"https://doi.org/10.1109/MAHC.1991.10023"
+		],
 		"klein03": [
 			"David Klein",
 			2003,
@@ -445,6 +480,13 @@
 			"What frustrates screen reader users on the web: A study of 100 blind users,",
 			"International Journal of Human-Computer Interaction",
 			"https://doi.org/10.1080/10447310709336964"
+		],
+		"lee00": [
+			"Ching-Hwa Lee, Ssu-Li Chang, King-Min Wang, Lih-Chyi Wen",
+			2000,
+			"Management of scrap computer recycling in Taiwan",
+			"Journal of Hazardous Materials",
+			"https://doi.org/10.1016/S0304-3894(99)00191-0"
 		],
 		"leiner09": [
 			"Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, and Stephen Wolff",
@@ -508,6 +550,13 @@
 			"Folk Pedagogy and the Geek Gene: Geekiness Quotient",
 			"#sigcse",
 			"https://doi.org/10.1145/3017680.3017746"
+		],
+		"mccartney99": [
+			"Scott McCartney",
+			1999,
+			"ENIAC: The Triumphs and Tragedies of the World's First Computer",
+			"Walker",
+			"https://www.google.com/books/edition/ENIAC_the_Triumphs_and_Tragedies_of_the/l2nGQgAACAAJ?hl=en"
 		],
 		"mcilwain19": [
 			"Charlton D. McIlwain",
@@ -586,6 +635,27 @@
 			"Cognition and Instruction",
 			"https://doi.org/10.1080/07370008.2016.1210418"
 		],
+		"pornwasin15": [
+			"Pornwasin Sirisawat, Tossapol Kiatcharoenpol, Ninlawan Choomrit, Pilada Wangphanich",
+			2015,
+			"A study of reverse logistics practices: A case study of the computer parts industry in Thailand",
+			"IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)",
+			"https://doi.org/10.1109/IEEM.2015.7385668"
+		],
+		"pugh09": [
+			"Emerson W. Pugh",
+			2009,
+			"Building IBM: Shaping an Industry and Its Technology",
+			"MIT Press",
+			"https://www.google.com/books/edition/Building_IBM/tf-1DgAAQBAJ?hl=en&gbpv=0"
+		],
+		"raines96": [
+			"Getting the Message Through: A Branch History of the U.S. Army Signal Corps",
+			1996,
+			"Rebecca R. Raines",
+			"U.S. Department of Defense",
+			"https://www.google.com/books/edition/Getting_the_Message_Through_A_Branch_His/KpPfAAAAMAAJ?hl=en&gbpv=0"
+		],
 		"register20": [
 			"Yim Register, Amy J. Ko",
 			2020,
@@ -606,6 +676,13 @@
 			"Teaching HCI design with the studio approach",
 			"Computer Science Education",
 			"https://doi.org/10.1076/csed.13.3.191.14945"
+		],
+		"riordan98": [
+			"Michael Riordan, Lillian Hoddeson",
+			1998,
+			"Crystal Fire: The Invention of the Transistor and the Birth of the Information Age",
+			"Norton",
+			"https://www.google.com/books/edition/Crystal_Fire/SZ6wm5ZSUmsC?hl=en&gbpv=0"
 		],
 		"rodriguez00": [
 			"Clara E. Rodríguez",
@@ -739,6 +816,13 @@
 			"Problematizing statistical literacy: An intersection of critical and statistical literacies",
 			"Educational Studies in Mathematics",
 			"https://doi.org/10.1007/s10649-017-9764-5"
+		],
+		"widmer05": [
+			"Rolf Widmer, Heidi Oswald-Krapf, Deepali Sinha-Khetriwal, Max Schnellmann, Heinz Bönia",
+			2005,
+			"Global perspectives on e-waste",
+			"Environmental Impact Assessment Review",
+			"https://doi.org/10.1016/j.eiar.2005.04.001"
 		]
 	}
 

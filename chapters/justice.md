@@ -1,9 +1,10 @@
-# Key ideas
-
+=
+### _Key Ideas_
 * Computing is not neutral; it is imbued with the values of its creators.
 * Harm from data and algorithms stems from pre-existing systems of oppression in society at both the individual and structural levels.
 * Data and algorithms can cause harm by amplifying, centralizing, privatizing, automating, and abstracting.
 * Teachers can build students’ critical consciousness of computing, equity, and justice by linking the injustices in their lives to the injustices in technology.
+=
 
 # Related CSTA Learning Standards
 

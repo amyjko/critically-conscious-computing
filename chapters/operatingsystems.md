@@ -1,9 +1,11 @@
-# Key ideas
+=
+### _Key Ideas_
 * The original computer operating systems were people who managed a computer’s limited processing resources.
 * The masculine culture of computing emerged from the creation of operating systems, which replaced human operators.
 * Modern operating systems use components like kernels, memory management, process management, network management, and user interfaces to automate the management of a computer’s resources and enable multitasking.
 * Operating system design generally prioritizes speed over other values like accessibility, security, privacy, and free speech.
 * Teaching operating systems is an opportunity to link a technical understanding of operating system components with student values, which may or may not be affirmed by operating system designs.
+=
 
 # Relevant CSTA Learning Standards
 Students will be able to:

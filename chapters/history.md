@@ -1,5 +1,5 @@
-# Key ideas
-
+=
+### _Key Ideas_
 * CS emerged from the invention of numbers, manual algorithms for arithmetic calculations, and tools to accelerate these calculations.
 
 * The digital computer created demand for knowledge of CS, which displaced informal CS learning in workplaces with higher education degrees, pursued primarily by non-disabled White and Asian men.
@@ -9,6 +9,7 @@
 * The most recent CS education reform efforts focus on broadening participation, examining and removing structural barriers to CS learning such as resources, policy, and opportunity that have been shaped by this history.
 
 * CS educators key change agents in overcoming this history to imagine more diverse, equitable, and inclusive visions of CS education that were overlooked in history by the White, non-disabled men that shaped it.
+=
 
 # Related CSTA Teaching Standards
 

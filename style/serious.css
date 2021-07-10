@@ -23,8 +23,10 @@
 
 body {
 	font-weight: 400;
+    max-width: 720px;
 	font-family: "Modum", serif;
 	font-size: 13pt;
+    line-height: 1.8em;
 }
 
 h1, h2, h3, h4 {
@@ -55,8 +57,18 @@ h4 {
 }
 
 .callout {
-    font-family: "Arvo";
-    font-style: italic;
+    font-size: 11pt;
+    border: none;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin: 2em;
+    padding: 2em;
+    line-height: 1.5em;
+}
+
+.callout h4 {
+    margin-top: 0;
+}
 }
 
 .authors {
@@ -73,17 +85,34 @@ code {
     font-family: "Arvo";
     font-weight: 400;
     font-style: italic;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 1em;
+    margin: 3em;
+    position: relative;
 }
 
 .blockquote > p {
-    border-left: solid 10px black;
-    padding-left: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+.blockquote:before {
+    content: "\201C";
+    position: absolute;
+    top: 40pt;
+    left: -20pt;
+    font-family: "Modum";
+    font-size: 120pt;
+    font-weight: 700;
+    color: #EBBD5D;
+    z-index: -1;
 }
 
 .blockquote-footer {
+    margin-top: 0.5em;
     text-align: right;
+    font-family: "Arvo";
+    font-style: italic;
+    color: #424242;
 }
 
 .footnote-link, .citation {

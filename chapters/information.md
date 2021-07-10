@@ -1,9 +1,10 @@
-# Key Ideas
-
+=
+### _Key Ideas_
 * Data is a biased, imperfect record of information from the past that is often used to categorize and marginalize people.
 * Computers encode information as bits, stripping away the nuance and complexity of information
 * Most CS education overlooks the importance of teaching about information, technically or socially.
 * Developing students' critical consciousness of computing requires an understanding of where data comes from, what values it encodes, and how those values are reinforced and amplified by algorithms.
+=
 
 # Relevant CSTA Learning Standards
 

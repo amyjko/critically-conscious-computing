@@ -1,11 +1,10 @@
-|TODO||||
-
-# Key ideas
-
+=
+### _Key Ideas_
 * Design is deciding what to make, for whom, and why.
 * Engineering is deciding how to implement a design.
 * Computer science is often seen popularly as blending design and engineering, but it is mostly an engineering discipline.
 * A teacher’s choice of how to address the relationship between design and CS can have profound pedagogical and learning implications on how students see CS and learn its skills.
+=
 
 # Relevant CSTA Learning Standards
 

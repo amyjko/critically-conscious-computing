@@ -1,8 +1,10 @@
-# Key ideas
+=
+### _Key Ideas_
 * Digital computers were invented as a way of replacing people with something faster, less error prone, and tireless, mirroring the capitalist values of the industrial revolution.
 * Modern computers include a CPU, system clock, RAM, secondary storage, and a variety of input and output devices that must align with the abilities of people to be accessible.
 * Computers generate immense waste, much of which is only visible in developing countries where that waste is processed with human hands.
 * Engaging students in critically comprehending computers is not only about helping them understand what makes something a computer, but also why we’ve created them and what we do with them when we’re done with them.
+=
 
 # Relevant CSTA Learning Standards
 Students will be able to:

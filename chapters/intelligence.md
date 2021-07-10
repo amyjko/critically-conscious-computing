@@ -1,10 +1,11 @@
-# Key ideas
-
+=
+### _Key Ideas_
 * The intellectual founders of computer science envisioned computers as mimicking human intelligence
 * One type of mimicry is symbolic intelligence, which uses computer memory, arithmetic, lists of instructions, and Boolean logic to process data and make decisions.
 * A second and more recent type of mimicry is data-driven intelligence, which uses large datasets of past human behavior to extract patterns for how computers use data to classify information and take actions.
 * These two types of mimicry do not capture the full scope of human intelligence, especially in ethical, moral, and social judgement.
 * Teachers should help students juxtapose human and computer intelligence, critically analyzing their strengths, weaknesses, and differences.
+=
 
 # Relevant CSTA Learning Standards
 

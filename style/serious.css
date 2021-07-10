@@ -229,3 +229,64 @@ hr {
     margin-bottom: 3em;
     margin-right: 3em;
 }
+
+code {
+    color: #EB2C27   
+}
+
+/* Highlight JS colors */
+
+/* Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #424242;
+}
+
+/* Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+  color: #EB2C27;
+}
+
+/* Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+  color: #EB2C27;
+}
+
+/* Yellow */
+.hljs-attribute {
+  color: #E8AF22;
+}
+
+/* Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+  color: #1B499C;
+}
+
+/* Blue */
+.hljs-title,
+.hljs-section {
+  color: #000000;
+}
+
+/* Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #E8AF22;
+}

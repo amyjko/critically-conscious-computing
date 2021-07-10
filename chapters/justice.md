@@ -64,7 +64,7 @@ First, talking about justice in the context of computing necessarily may require
 
 Another challenge with engaging injustice are the *difficult conversations* that such subjects may provoke. Some students may refuse to accept the existence of injustice, or insist on the objectivity of particular abstractions in the world (e.g., binary notions of gender). Promoting critical consciousness about computing therefore requires preparing students for the possibility of that conflict, having norms for how to handle it, and setting clear expectations that in the short time of a classroom period or even a whole unit, disagreements might not be resolved. That is not to say that teachers should avoid these controversies, but it does suggest that choosing topics carefully can help balance the goal of developing critical consciousness of computing and the risk of destabilizing social classroom conflict.
 
-||||TODO Something that conveys a sense of someone oppressed by rules.|
+|Chapter04_Figure04_Rules.png|A student at a desk with their head down and a blurry teacher walking away, with the block letter word "DETENTION" above and a clock that reads 10:10|Schools are a site of algorithmic oppression too.|Jessie |
 
 # Unit Plan: Schools as a Site for CS Inequity and Injustice
 

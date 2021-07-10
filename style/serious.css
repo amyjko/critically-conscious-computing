@@ -224,4 +224,8 @@ ol li::before {
 
 hr {
     border-color: #E0E0E0;
+    border-bottom: 2px solid black;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    margin-right: 3em;
 }

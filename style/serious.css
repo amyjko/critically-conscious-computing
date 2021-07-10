@@ -62,13 +62,16 @@ h4 {
     border-top: 2px solid black;
     border-bottom: 2px solid black;
     margin: 2em;
-    padding: 2em;
-    line-height: 1.5em;
+    margin-right: 4em;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    line-height: 1.6em;
 }
 
-.callout h4 {
+.callout h2, .callout h3, .callout h4 {
     margin-top: 0;
-}
 }
 
 .authors {
@@ -136,6 +139,10 @@ code {
 
 a {
     color: rgb(32, 50, 173);
+}
+
+li {
+    margin-bottom: 1em;
 }
 
 ul li {

@@ -72,16 +72,14 @@ Here we present one possible unit plan that builds upon these ideas. The essence
 
 The learning objectives of this unit are as follows:
 
--
 1. Students will be able to recognize rules that exist in social systems, including rules that are encoded as algorithms.
 2. Students will be able to analyze how encoding rules as code might result in harmful amplification, centralization, privatization, automation, or abstraction.
 3. Students will be able to explain how encoding rules as code relies on abstraction.
 4. Students will be able to apply these skills to the software in their lives.
--
 
 This unit is split across five sessions, the first presenting the idea of rules, and subsequent sessions engaging students in identifying the rules that govern the social context of their classroom and school. Algorithms come halfway through as a tool for potentially automating school rules, engaging youth in analyzing the potential disparate impact of that automation on their classmates.
 
--
+=
 ## Session 1: Recognizing rules
 
 * Begin the lesson by talking about rules and their relationship to computing, surfacing examples of the many rules in class and in school that regulate student behavior.
@@ -93,13 +91,13 @@ This unit is split across five sessions, the first presenting the idea of rules,
 * After brainstorming, engage in a discourse about the merits of the rules. Are they fair? Who are they fair to? Who are they not fair to? What are their consequences?
 
 * End the session noting that the rest of the unit will analyze these rules, and explore the extent to which these rules should or should not be automated based on the impact that automation would have on different students.
--
+=
 
 The purpose of this first session is to help students see what Friere might describe as their _limiting situation_<freire68>: the social, political, and organizational context in which they find themselves, and the norms, values, and processes by which their rights are governed. The effectiveness of this dialogue should help students recognize the abundance of invisible rules to which they are subject, and also surface debates about the ambiguity of those rules, the different ways in which they are enforced, and the differential impact on students. For example, if a rule about when students may go to use the restroom arises, there may be questions about why there are limits on biological processes that a student cannot control, or if there are rules about consequences for being tardy, there may be questions about why punishments come in the form of reduced access to learning.
 
 The second session, building upon the students’ shared understanding of their situation, is one of focus, helping the students to connect their individual position to the rules that most affect them.
 
--
+=
 ## Session 2: Selecting and analyzing rules
 
 * Begin the lesson by reminding the class of the rules that were surfaced and the debates that surfaced about them, explaining that their goal is to select one of these rules and analyze it.
@@ -118,13 +116,13 @@ The second session, building upon the students’ shared understanding of their 
 
 * Have students return to their groups and use what they learned from their peers to expand or refine their analysis.
 
--
+=
 
 The use of groups in these analyses is critical to helping students understand the diverse perspectives and experiences that students might have in relation to a rule. For example, students analyzing rules about tardiness might notice that some students are reliant on parents to drive them to school, but some parents are unreliable. Other students might be dependent on publication transportation,which is usually reliable within some window, but sometimes there are outlier days that cause tardiness. Prompting students to connect these diverse contexts to enforcement helps them imagine how the rule is enforced, and how the enforcers might not understand these diverse contexts. The class-wide sharing of analyses of other rules will broaden students’ critical consciousness of school rules further. Students should leave this session seeing their classroom and school in a new light, as a system of rules that may or may not be equitable, and of enforcers who are placed in the position of making challenging judgments about when and how to enforce rules.
 
 The next session turns the students’ attention toward computing, challenging them to imagine a future in which the rules they have analyzed are automated.
 
--
+=
 ## Session 3: Automating rules
 
 * Remind students about the rule they have selected and ask them to review their analysis from the previous session, returning to the groups from the previous session.
@@ -142,13 +140,13 @@ The next session turns the students’ attention toward computing, challenging t
 * Once students are ready, have each group present their design to the class for critique. Prompt the students in the audience to identify the strengths and weaknesses of the software relative to the current human enforcement of rules. Each team should capture notes about the discussion.
 
 * After the discussion, connect the discussion to ideas of amplification, centralization, privatization, abstraction, and automation, explaining each concept, and connecting them to the automation concerns that students raised.
--
+=
 
 This session requires students to shift their mindset from critic of rules to designer of a software-based rule enforcement. This is a critical mindset shift, as it requires them to orient to finding a solution that would work, while accounting for the known problems with the existing rule, and trying to avoid creating new problems through automation. This will tend to create a defensive stance, as they’ve invested effort in design; the group critique of the idea will help them see the consequences they may have overlooked. This will help them develop empathy for the tensions between creatively designing automations and avoiding harm.
 
 The next session calls students to decide what to do: automate the rule, reject automating the rule, discard the rule, or some other course of action.
 
--
+=
 ## Session 4: Advocating
 
 * Have students return to their groups and bring up their rule analysis, automation design, and critique notes.
@@ -164,14 +162,13 @@ The next session calls students to decide what to do: automate the rule, reject 
 * Once students are ready, have them present a final time to the class their proposed course of action. After each presentation, if there is consensus to do something other than the status quo, solicit ideas from the class about how they might advocate for that change. If there is no consensus, facilitate a discussion about whether the rule deserves further debate, to try to find consensus.
 
 * End the session and unit with a reflection on how algorithms fared in the discussions. Were there rules for which algorithms were agreed to be beneficial? What about those rules or designs prevented algorithms from causing further harm? If algorithms were almost always doing more harm than good, when should algorithms be used to automate rules, if ever?
--
+=
 
 This session, for a third time, shifts students’ role, putting them in the position of policy maker rather than designer or critic. This is critical in helping students recognize the complexity of deciding how and whether to deploy computing into social contexts, and helping them develop nuanced views of when and if computation provides added value.
 
 The last session focuses on transfer, from the school context to broader society, challenging students to identify other software systems in their lives that are having similar impacts on them and others.
 
-
--
+=
 ## Session 5: CS and Society
 
 * Remind students of the ideas of amplification, centralization, privatization, automation, and abstraction, explaining examples of other contexts in society in which these forces occur.
@@ -185,7 +182,6 @@ The last session focuses on transfer, from the school context to broader society
 * After all students have presented, summarize what they have shared, reminding them of key questions to ask about computing: who decides, who benefits, who is harmed, and what are the underlying systems that computing is amplifying.
 
 * *Summative assessment*. Close the unit by evaluating students' final presentation against the co-constructed rubric, and offering feedback about students’ analysis of the implications of automation rule enforcement.
-
--
+=
 
 This unit positions students not only as critics of computing, but also critics of social contexts in general, while also giving them experience in the role of designing social contexts, and advocating for change in social contexts. Throughout, it grounds their understanding in the particular powers of computing, hopefully helping them see the computers in their lives no longer as innocuous, neutral objects, but powerful machines for enforcing social rules. The unit also works well as a priming for more involved design projects, where students must make more detailed and complex design decisions.

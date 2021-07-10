@@ -204,17 +204,14 @@ In the spirit of critical and culturally sustaining pedagogy, below we describe 
 
 The learning objectives of the unit are:
 
--
-Learning objectives
 1. Students will be able to compare human and computer-based intelligence for a particular technology.
 2. Students will be able to compare the tradeoffs of computer-based intelligence and their impacts on people’s everyday lives.
 3. Students will be able to explain how the motivations of a computing technology’s inventors affect these tradeoffs and their impacts.
--
 
 To achieve these learning objectives, this unit contains a sequence of five sessions, the first engaging students in analysis and brainstorming, and the last three engaging them in debate with each other. The first session begins the conversation about intelligence:
 
--
-Session 1: Is web search intelligent?
+=
+## Session 1: Is web search intelligent?
 
 * Begin the lesson by asking students to share their experiences with web search: how much do they use search engines, what do they use them for, what would their life be like without them, etc.
 
@@ -233,12 +230,12 @@ Session 1: Is web search intelligent?
 * After groups share, go through each example, and interrogate the origins of the intelligence. For example, if a group mentions the way that Google returns Wikipedia articles when they search for topics, explain that the search engine doesn’t write Wikipedia, people do; it just matches words to Wikipedia articles that communities of people have written. 
 
 * Have students reflect after the session on whether they believe a web search engine is smart.
--
+=
 
 This session engages the first learning objective directly, probing into what intelligence a web search engine has and where it comes from, but in a student-centered manner. The next session sets up the contrasting case of librarian, and the many things that they do that search engines also attempt to do:
 
--
-Session 2: Are librarians more intelligent than web search?
+=
+## Session 2: Are librarians more intelligent than web search?
 
 * Remind students of the evidence of intelligence they brainstormed in the previous session.
 
@@ -255,12 +252,12 @@ Session 2: Are librarians more intelligent than web search?
 * Bring the class back together, then go through each of the 7 roles: ask the class to share their judgements about whether it can be done by a search engine, and if so, how they are done differently.
 
 * Summarize the discussion, asking students to reflect after the session on whether they believe web search engines are more intelligent at search than librarians.
--
+=
 
 This second session challenges students’ conception of web search as superior to other forms of information retrieval, engaging the second learning objective. The third session goes deeper, helping students to reflect more fundamentally on the fundamental tradeoff between web search and librarians:
 
--
-Session 3: Speed versus accuracy
+=
+## Session 3: Speed versus accuracy
 
 * Remind students about the results of the past two sessions’ analysis: there are things that make web search intelligent, but more limited than librarians.
 
@@ -273,12 +270,12 @@ Session 3: Speed versus accuracy
 * After a period of brainstorming, have students nominate two students to debate their side, one for speed and one for accuracy. Then conduct a debate on speed, with the search engine side starting, with a librarian side rebutting, then the reverse for accuracy.
 
 * After the debate, ask students to reflect on which questions a web search engine is best suited to help answer, and which a librarian is best suited to help answer.
--
+=
 
 Having deepened the tradeoff analysis to support learning objective 2, the next session turns to the consequences of those tradeoffs.
 
--
-Session 4: Consequences of speed over accuracy
+=
+## Session 4: Consequences of speed over accuracy
 
 * Explain that this session will turn to the question of the consequences of the tradeoffs between speed and accuracy.
 
@@ -287,12 +284,12 @@ Session 4: Consequences of speed over accuracy
 * Repeat the debate format from Session 3, but divide the class into negative and positive consequences of web search on individuals and society.
 
 * After the debate, ask students to reflect on whether the positive and negative consequences of web search have been worth it.
--
+=
 
 By this fourth session, students should have a rich sense of the tradeoffs of web search and their consequences (learning objectives 1 and 2), providing a strong foundation for the final learning objective of understanding the values in society that have caused speed to win out over accuracy.
 
--
-Session 5: Imagining futures
+=
+## Session 5: Imagining futures
 
 * Pose the question, “Why did web search win?”, and review the answers that the debates have surfaced: speed, accurate enough.
 
@@ -308,7 +305,7 @@ Session 5: Imagining futures
 * After students have prepared their speeches, have each present.
 
 * After presentations, synthesize the implications of the students’ different positions and generalize them to other computing technologies. End with a reminder that in a democracy, it is their preferences that shape what products and services exist, and what laws exist to regulate them.
--
+=
 
 Through this series of debates and reflections, students should have a more precise understanding of what kind of intelligence computers do and do not have, of what implications replacing people with computers can have on society, and how the values of inventors shape these implications. This will help shape students' critical consciousness of web search, situating in the history that produced it, while also centering their role in shaping future change.
 

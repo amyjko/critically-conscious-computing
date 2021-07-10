@@ -161,19 +161,14 @@ Below we describe a unit that focuses on data directly related to students’ li
 
 The learning objectives of the unit are:
 
--
-Learning objectives
-
 1. Students will be able to identify that data emerges from data collection processes that can be biased, inaccurate, and even unjust, through their erasure of context.
 2. Students will be able to identify the particular values that underlie data
 3. Students will be able to identify how algorithms can amplify these values and biases by ignoring context.
--
 
 To achieve these learning objectives, the unit contains six sessions, starting by raising the general phenomenon of tardiness, then turning to data collection about it and critical perspectives on it, then deploying that data into an algorithm. The sequence ends with a broader reflection on other ways that data is used to shape student lives, and the lives of others in society.
 
--
-Session 1: Tardiness
-
+=
+## Session 1: Tardiness
 * Begin the lesson by giving an overview of the unit, talking about the role of data in society and its important role in computer science. Explain the focus on tardiness as an example that involves both data and algorithms.
 
 * Begin the lesson by starting a discussion about tardiness. How is it tracked? What consequences are tied to it? Do they think it is fair? Capture a set of issues about tardiness to help students see the diverse perspectives on the system.
@@ -185,13 +180,12 @@ Session 1: Tardiness
 * Finally, shift the discussion to whether the students view the tardiness system as achieving its goals: does it result in students arriving to class on time? What unintended consequences does it have? Does the on-time arrival justify the unintended consequences?
 
 * Finish the lesson by recapping the diverse opinions on the system.
--
+=
 
 This first session helps students think about the practice of tardiness and punishment itself, priming them for discussion about how the system might be changed by incorporating new sources of data or new enforcement mechanisms, such as algorithms that automate punishment. The second session extends this critical consciousness by exposing the diversity of contexts behind tardiness. These contexts will become part of the discussion of algorithmic approaches to encoding excuses in a later session.
 
--
-Session 2: Causes of tardiness
-
+=
+## Session 2: Causes of tardiness
 * Recap the sentiments about tardiness, but open the conversation about the factors that contribute to tardiness, such as home life, transportation, and other factors.
 
 * Have students begin by discussing in small groups the things that make them late. Have them generate as many factors as possible.
@@ -199,13 +193,12 @@ Session 2: Causes of tardiness
 * Bring the class together to aggregate a larger list of factors. Discuss the reasons they have identified, what is surprising about them.
 
 * Turn the discussion to which factors the class believes should be accounted for in tardiness consequences.
--
+=
 
 Whereas the first session introduces the systems of tardiness, this second session develops critical consciousness of how the system interacts with the diversity of students’ lives. By engaging each student to reflect on their own position in the system, and observe their peers’ different positions, they will be more capable of critically examining the application of data and computing to the system. The next session begins this process by asking students to consider ways of measuring tardiness factors.
 
--
-Session 3: Measuring lateness
-
+=
+## Session 3: Measuring lateness
 * Describe a hypothetical scenario of the school adopting a software solution to track tardiness. The system will gather data from parents, students, teachers, and staff, and be used to enforce the school’s tardiness rules, while accounting for extenuating circumstances.
 
 * Remind the students of how lateness is currently captured, discussing problems with the system of measurement.
@@ -219,12 +212,12 @@ Session 3: Measuring lateness
     ** This is _educative_ because it surfaces other students’ perspectives on what fairness would mean.
 
 * Test the class’s designs by having all of the students encode an example of a day they were late. Does the measurement seem fair for their situation? Discuss varying notions of fairness.
--
+=
 
 In this third session, students learn how the complexity and nuance of human experiences are reduced to data, and how that involves some degree of unfairness. By engaging students in examining their own contexts, and hearing about their peers’, students will feel this tension when they’re forced to choose, erasing the critical nuances that make up their experiences. The next session further stresses the reductive nature of data by applying it to an automated system.
 
--
-Session 4: Automating tardiness
+=
+## Session 4: Automating tardiness
 
 * Remind the students of the hypothetical system, the method of measuring lateness, and the methods of measuring two other factors of extenuating circumstances.
 
@@ -252,13 +245,12 @@ If a student is not late:
 
 * End the session by discussing with the class whether the algorithm should be used at all, or whether the decision should be left to the discretion of staff. What are the advantages of each group’s proposed algorithm? What are the disadvantages?
 * Prompt students to finish their algorithm together and submit it for summative assessment.
--
+=
 
 The limitations of this algorithm, whether it is executed by staff or a computer, will raise entirely new questions about the use of the data. Who decides which transportation mode a student is classified as? What stops a student from just saying they travel by car so they’re never marked tardy? Is there any way to dispute the decision of the algorithm? Who devised this algorithm? Who tracks whether a student is late? By illustrating how data is used in algorithms to make decisions, students will see that there is not only nothing magic about algorithms, but also nothing simple about data. The last session generalizes from this discourse to other systems.
 
--
-Session 5: Data and society
-
+=
+## Session 5: Data and society
 * Break the students into small groups
 
 * Prompt the groups to brainstorm other systems that use information to make decisions about their lives in some way (e.g., grading, high stakes exams, college applications).
@@ -268,7 +260,7 @@ Session 5: Data and society
 * With the class, interrogate the common systems in the same way the tardiness system as examined: who gathers the data, how is it encoded, how is it used in decision making, and who makes the decisions? And if some of these details are not knowable, why are they not knowable? Are the systems fair, and to whom? Use the tardiness example to generalize principles from those discussions to the systems under discussion.
 
 * After critically analyzing the systems, end the discussion with a group brainstorm on how they might change the systems. Who would they have to advocate to and what kinds of changes would be required?
--
+=
 
 After these sessions, students should be able to recognize that data is not always neutral or objective, and is often biased, inaccurate, and unfair, encoding particular values. They should also be able to see how algorithms can amplify these values and biases by automating systems in ways that erase context. Students may end the unit feeling unsettled about systems that shape their experiences at school and beyond, but also more critically conscious of those systems as designed by people with particular goals and values.
 Perhaps the largest limitation of this method is that it goes deep into one system, and only broad into a few systems. Students will not necessarily transfer this understanding to other systems they encounter in their lives. After all, many software systems are invisible, much of the data they use is invisible, and how that data is gathered and interpreted is invisible. To counteract this, one might consider teaching students to assume that software is involved in every system (as it often is), and critically question how it is being used and why.

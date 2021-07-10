@@ -106,17 +106,13 @@ The unit below illustrates one way of making the power of operating systems visi
 
 The learning objectives for the unit are:
 
--
-Learning objectives
 1. Students will be able to describe the major components of an operating system.
 2. Students will be able to explain how operating systems create structural barriers to computer use by people with disabilities.
 3. Students will be able to explain how operating system maintainers determine what data can and can’t be gathered by computer programs.
 4. Students will be able to explain how operating system maintainers determine what programs can and can’t be run on a computer.
--
 
--
-Session 1: My operating system is better
-
+=
+## Session 1: My operating system is better
 * Begin the session by describing operating systems as something we generally know by name: e.g., Windows, Mac OS, iOS, Android, Chrome OS.
 
 * Divide the class into small groups of 2-3 and prompt them to discuss what operating systems they use, which they prefer, and why
@@ -128,16 +124,14 @@ Session 1: My operating system is better
 * End the debate by observing that operating systems aren’t better or worse in absolute terms, but better or worse at particular things, and that these things are shaped by the designers of the operating system.
 
 * Give an overview of the coming sessions, connecting it with these different dimensions along which operating systems can be better or worse.
--
-
+=
 
 Students should leave the first session with a sense of identity around the operating system they defended, perhaps believing in their preference even more strongly. This creates a stronger contrast for later sessions, which complicate what operating systems are, who makes them, and the values that shape their choices.
 
 The next session offers the first complicating narrative, the disciplinary one from computer science. To engage students in the relatively technical concepts, the lesson uses an “unplugged” approach that has students embody the components of an operating system.
 
--
-Session 2: Operating system algorithms
-
+=
+## Session 2: Operating system algorithms
 * Characterize the first session’s discussion as one particular consumer narrative about operating systems, shaped by our experiences with them as users. Contrast it with the topic of this session, which deconstructs operating systems from the designers’ perspective, as something to be created and maintained to make computer applications work.
 
 * Explain that the session will try to simulate a chat program executing alongside two other programs.
@@ -153,15 +147,14 @@ Session 2: Operating system algorithms
 * Thank everyone for modeling an operating system’s behavior, then synthesize what everyone observed, re-explaining the core components of the operating system, using an example from another application (such as presentation software) to step through the ideas. Explain why computers are often better at multitasking than people, because they can record exactly where they left off.
 
 * Finally, ask the class how the computer science notion of an operating system relates to their experience with operating systems. How are they different? How are they related?
--
+=
 
 After the second session, students should have a clearer sense of their own personal perspective on operating systems, but also a sense of the technical mechanics of an operating system as a mindless, procedural process that happens very quickly (meeting the first learning objective).
 
 The next session begins to bridge the abstract technical understanding of operating systems with students’ personal sense of operating systems by offering the perspective of people with disabilities.
 
--
-Session 3: Accessibility
-
+=
+## Session 3: Accessibility
 * Remind students that one part of an operating system is receiving inputs from a user interface, and providing outputs.
 
 * *Formative assessment*. Ask students to brainstorm the different ways that computers allow us to provide input and receive output (e.g., mouse, keyboard, display, touchscreen, speakers). For each of the brainstormed input and output devices, ask students to brainstorm the assumptions that they make about our abilities (e.g, seeing, hearing, pointing, grasping). For each of the brainstormed assumptions, ask students to speculate how someone who lacks the ability would provide input to a computer, or receive output. Engage students in shaping where the brainstorms will be captured and shared.
@@ -176,15 +169,14 @@ Session 3: Accessibility
 * Continue the Socratic seminar, asking whether screen readers adequately include people who are blind or have low vision.
 
 * End by explaining that some operating systems are better than others at supporting different disabilities, giving examples of operating systems that provide high levels of support (e.g., Apple), and operating systems that provide minimal support (e.g., Google).
--
+=
 
 After this session, students should begin to recognize that operating systems are more than just apps and features, but also more than just algorithms: they are also the gateways between people and applications, determining who can and cannot access them. Students should begin to wonder whether their original preference for an operating system incorporated other people’s experiences, meeting the second learning objective.
 
 The next session builds upon this more complicated narrative by raising questions about privacy and security.
 
--
-Session 4: Privacy and security
-
+=
+## Session 4: Privacy and security
 * Remind students about session 2’s demonstration of an operating system executing a chat application, and how information was passed from the network interface to the kernel, and then from the kernel to memory, and then finally the program.
 
 * Pose the question: what if that information was private, like most chats are? What stops someone from seeing the private message? Ask students to speculate about the role the kernel, applications, memory, network interfaces, and user interfaces play.
@@ -200,15 +192,14 @@ Session 4: Privacy and security
 * Return to the first session’s debate of operating systems, and raise the question: how does one know if an operating system is secure? What makes one trust an operating system?
 
 * End the session showing that all companies have had data breaches, showing examples of data breaches of the two most popular operating systems in the class.
--
+=
 
 Building upon students’ conception of operating systems as both technical and social, this session should reconnect it to students’ personal data, and raise questions of trust in operating systems and operating system maintainers. Students should begin to wonder about what operating system software updates are doing to their devices, and where they are getting information about which operating systems to trust (meeting the third learning objective).
 
 The next session presents the last narrative, connecting operating systems to speech.
 
--
-Session 5: Free speech
-
+=
+## Session 5: Free speech
 * Recall the discussion about privacy and security, and connect it to an application that is privacy-invasive, such as Facebook, WeChat, or TikTok. Explain how those applications invade privacy.
 
 * Explain that on January 6, 2021, some operating system maintainers (Apple, Google, Amazon), decided to remove some applications from their platforms because they were used to incite a violent insurrection on the U.S. capital. Frame those decisions as a choice about what applications would be allowed to run on each operating system.
@@ -216,7 +207,6 @@ Session 5: Free speech
 * Remind students of free speech laws in the United States, which bar the U.S. government from limiting speech, except in particular circumstances (speech that harms, speech that is obscene, speech that defames).
 
 * Summative assessment. Begin a philosophical chairs discussion with the question: should operating system companies have the right to decide which applications run on their operating systems? Discuss with students how they want to organize presentations and how they want to judge each others’ presentations. Then facilitate discussion about both sides of this issue, one the position that companies are protected by free speech law to decide to disallow an application, and the other position that the companies are limiting speech by removing applications that support speech. Focus the discussion on who should decide.
-
     ** This is responsive because it centers students’ interaction with the operating systems in their family and school’s devices.
     ** This is participatory because it gives students agency in shaping the terms of debate success.
     ** This is educative because it reveals diverse student perspectives on the role of private companies in speech.
@@ -224,7 +214,7 @@ Session 5: Free speech
 * After the discussion, break the class into small groups, and prompt them to draft a new law that would clarify this debate about who decides. They should draft some language, and a justification for the rule.
 
 * Students then present their laws and rationale and students vote on whether they would pass the law.
--
+=
 
 This last session meets the fourth learning objective, while also linking operating systems to law, policy, free speech, and power. Students should leave this lesson seeing the operating systems on the computers that they use as far more than colors on a screen, and an exclusionary gateway to computer applications, but also a gateway controlled by powerful technology companies that are not currently beholden to the public in any way (and continue to utilize their wealth to maintain their power to decide).
 

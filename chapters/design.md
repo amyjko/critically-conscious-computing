@@ -125,9 +125,6 @@ In order to complete this unit, students will navigate a series of scaffolded st
 
 The learning objectives of this unit are as follows:
 
--
-Learning objectives
-
 1. Students will be able to reason about the positive and negative justice implications of a design choice, recognizing tradeoffs in who software serves.
 2. Students will be able to distinguish between phases of a simple design process involving ideation, evaluation, planning, implementation, verification, and deployment.
 3. Students will understand how design choices are reflected in and constrained by engineering implications at both the personal and societal level.
@@ -135,40 +132,44 @@ Learning objectives
 
 To achieve the objectives, this unit would be completed across eight sessions. The first session introduces the genre of interactive stories and how computer programs can be used to author them. The unit focuses on a particular type of story, positioning students as designers in a software company, making a design choice with justice implications, and telling two possible outcomes of the design choice to stakeholders.
 
--
-Session 1: Interactive stories
+=
+## Session 1: Interactive stories
 
 * Begin the lesson by explaining that this next unit will concern the design choices that software designers make and ask them to tell two possible outcomes of those choices by constructing a computer program that enables the viewer to make a choice.
 * Show the students an example interactive story that you have created to reflect a software design decision that affects your life. For example, a story might be a designer choosing a font size for mobile banking. In one case, the font size is 10 pt; in this scenario, the story shows a younger user seamlessly interacting with the site, but an older user with poorer visual acuity, squinting to read their account balance, misreading it, and overdrawing their account. In the other story, the designer chooses a font size of 16pt, the younger user has to scroll more, and mocks the comically large font, but the older user is able to accurately read their balance.
 * Engage the students as viewers of the interactive story, asking them to decide which of the paths to follow in the story. After showing one path, restart the story, and follow the other path. Discuss how design choices of any kind can have different implications for people with diverse knowledge, abilities, and lives.
 * Share the story’s implementation with the students and guide them through an explanation of how it is constructed. Emphasize not only the program elements that render characters, sounds, and animation, but also the conditional logic that requests an input from the viewer and then uses that input to determine the outcome of the story.
 * Encourage students to tinker with the story, changing its characters, animations, and outcomes.
--
+=
 
 The choice of a choose-your-own-adventure story genre is an important one for meeting learning objectives 1 and 4. First, stories can be a powerful motivator to engage, empowering students to share their experiences, perspectives, and values<kelleher07>. However, stories that are purely serial—like those that happen in real life—often do not require much computational complexity, limiting the extent to which students need to engage with control structures, which are a foundational idea in computation. The choose-your-own-adventure story format guarantees at least some logic that involves the program soliciting and responding to user input and acting based on that input. Anything less would limit CS content, but anything more would risk shadowing the design content in this lesson.
 
 After this first session, students should have a sense of the possibilities of the platform and genre. The next session is ideation, the first stage in the scaffolded design process:
 
--
-Session 2: Ideation
-
+=
+## Session 2: Ideation
 * Have students form groups of 2 or 3.
+
 * *Summative assessment*. Tell the students that you want their group to tell a story similar to the one from session 1, but that they should imagine being designers at a real company, tasked with analyzing the consequences between two alternative designs that have justice implications. Their job is to create an interactive presentation that the broader design team can view to help make a final decision. Examples of scenarios might include 1) Instagram deciding whether to include warning labels on posts with misinformation, 2) whether to use gendered pronouns on Facebook, 3) whether to automatically play the next episode of a television series on Netflix. Scenarios should have a single decision with two choices, each affecting stakeholders in different ways.
     ** This is _responsive_ in that students choose the design choices they are most interested in analyzing.
     ** To ensure this is _participatory_, make space for students to renegotiate the requirements, broadening or contracting them and co-construct a rubric.
     ** This is _educative_ in that the prompt to tell a story and create something to tell it both demand learning.
+
 * Explain that to tell their story, they will have to do both design and engineering. Design will involve ideation and evaluation, and engineering will involve planning, implementation, verification, and deployment.
+
 * Explain that ideation involves quantity over quality, generating possibilities for what stories they might tell, without worrying about whether they are good enough, or the best choice.
+
 * Ask students to pair up and ideate, creatively generating as many possibilities that they can think of for stories they might tell, while withholding judgement on whether the idea is good or bad. Each time they think of an idea, they should write it down in shorthand, so they can remember. Encourage students to focus on generating many possibilities, not on choosing one yet.
+
 * Encourage students to reflect after class on which design decision stories they are most excited about telling.
--
+=
 
 This second session is a critical part of learning objective 2, helping students distinguish between design and engineering, and showing that the ideation part of design is the one that affords freedom, possibility, and exploration. This can also be the most enjoyable part of design, helping to sustain engagement.
 
 The third session asks students to evaluate and select a story:
 
--
-Session 3: Evaluation
+=
+## Session 3: Evaluation
 
 * Begin the lesson by asking students to bring out the ideas they wrote down from the previous session, and read them to themselves.
 
@@ -189,30 +190,28 @@ Session 3: Evaluation
 ** This is _educative_ in that it positions students as evaluators, helping them practice analytical skills useful that they can apply in their later work.
 
 * Ask students to reflect on the feedback they received. Were their self-evaluations in conflict with their peer evaluations? How would they change their story to reconcile them?
-
--
+=
 
 This third session comes in sharp distinction to the second, showing learners that while ideation is freeing, design evaluation involves critical reflection on and refinement of an idea, further reinforcing the distinct stages of learning objective 2.
 
 The fourth session introduces another design phase, iteration, and focuses students on refining the story they are going to tell:
 
--
-Session 4: Iteration
+=
+## Session 4: Iteration
 
 * Begin the lesson by explaining that great designs come through iteration: taking ideas, and using evaluations of them to improve the ideas multiple times.
 
 * Engage the class in a discussion of each groups’ story ideas. What kinds of design consequences are they engaging? What are the best and worst case scenarios of the design choices? What other more severe consequences can the class imagine? Who are the groups of users most likely to be harmed by each choice?
 
 * Ask students to use the feedback they received in the previous session, and the class discussion, to write a more detailed script for the interactive story they will create.
-
--
+=
 
 This session engages learning objective 1, modeling how to reason about positive and negative justice implications of a design choice, collectively brainstorming to identify tradeoffs in who software serves, then planning how to communicate those insights.
 
 The fifth session is a sharp pivot into to the first phase of engineering, asking students to translate their story script into a programming plan:
 
--
-
+=
+## 
 Session 5: Planning
 
 * Explain that planning is the first phase of engineering, taking the hard work of a design process, and identifying ways to express it as software.
@@ -228,15 +227,14 @@ Session 5: Planning
 * Ask groups to modify the skeleton to match the structure of their story script by the end of class, verifying their work. Encourage them to help each other, while you make rounds, helping students that have difficulty with the Scratch interface.
 
 * At the end of class, ask the students to finish their skeleton, and reflect on what was hard to express about their story using Scratch.
-
--
+=
 
 This session demonstrates how planning is different: ideation is generative, evaluation is critical, but planning is about getting organized to prevent later problems. This supports learning objective 2, distinguishing between different design and engineering activities, but it also supports learning objective 3, highlighting the aspects of their free form story that were difficult to express as code.
 
 The next lesson moves into implementation:
 
--
-Session 6: Implementation
+=
+## Session 6: Implementation
 
 * Praise the students for focusing on high-level planning in the previous session, reassuring them that it will have saved them time on implementation.
 
@@ -247,15 +245,14 @@ Session 6: Implementation
 * As students work, help them with inevitable debugging challenges, and encourage them to help each other.
 
 * As homework, ask students to finish translating their scripts.
-
--
+=
 
 This session demonstrates that planning is different from implementation (learning objective 2), in that planning resists the details, but implementation engages them directly. It also further reinforces learning objective 3, revealing the many ways in which ideas cannot be perfectly translated into code. It also directly engages learning objective 1, requiring students to demonstrate understanding how to use and combine imperative programming language constructs to express their story.
 
 The next session distinguishes testing as a distinct activity from implementation:
 
--
-Session 7: Verification
+=
+## Session 7: Verification
 
 * Praise the groups for their hard work on their implementation, and reassure them that it’s okay that their projects might not work exactly as intended yet.
 
@@ -266,15 +263,14 @@ Session 7: Verification
 * Ask students to follow the same process with their own projects, stepping through each path, and documenting the problems they observe, then rank them. Once they have a list of problems, fix them in order, working with you and the peers to debug.
 
 * As homework, ask groups to finish verifying and debugging their stories in preparation for the final session's storytelling.
-
--
+=
 
 This session, as the previous, supports learning objectives 1-3, since verification necessarily forces students to understand the logic in their program because it will inevitably have gone wrong in some way (learning objective 1). It differentiates verification from all of the previous activities (learning objective 2). And, even more so than previous stages, it forces students to confront the limitations of code as an expressive medium (learning objective 3).
 
 The last session, finally, returns to where the unit started, engaging students once again in stories. This time, however, they are telling their own stories, and hearing the stories of their peers:
 
--
-Session 8: Deployment
+=
+## Session 8: Deployment
 
 * Congratulate students on reaching storytelling day, explaining that this is an exciting day for any designer or engineer who has worked hard to envision or implement a software idea. Remind them that rarely is any software perfect upon launch, but that it just has to be good enough to do what it is intended for, while gathering feedback about what to improve.
 
@@ -288,8 +284,7 @@ Session 8: Deployment
 
 * Engage the class in a discussion about the design justice issues that surfaced in the stories. Who does software serve? Who should it serve? On what ethical basis should design choices be made?
 Summative assessment. Close the unit by evaluating the students’ stories against the co-constructed rubric from the first session and providing feedback about the students’ engagement with issues of software inclusion and marginalization.
-
--
+=
 
 This unit achieves many things: students learn that CS, as an engineering discipline, is constrained and shaped by design choices, and requires creative ways of meeting those constraints. This gives students a rich, concrete exposure to both disciplines, shows their connections, and demonstrates how designers and engineers have to work together. It also returns to the broader themes of design justice, asking students to make ethical judgments about design choices.
 

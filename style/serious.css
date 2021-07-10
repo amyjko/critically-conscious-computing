@@ -44,6 +44,11 @@ h4 {
     color: black;
 }
 
+.section-name {
+    font-family: "Modum", serif;
+    font-size: small;
+}
+
 .reference {
     font-family: "Modum";
     list-style-position: outside;

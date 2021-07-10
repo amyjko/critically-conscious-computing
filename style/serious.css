@@ -107,7 +107,7 @@ code {
     font-family: "Modum";
     font-size: 120pt;
     font-weight: 700;
-    color: #EBBD5D;
+    color: #E8AF22;
     z-index: -1;
 }
 
@@ -134,12 +134,12 @@ code {
 .content-highlight {
     border: none;
     background-origin: padding-box;
-    background-color: rgb(241, 219, 150);
-    box-shadow: 1px 1px 1px rgb(200, 200, 200)
+    background-color: #E8AF22;
+    box-shadow: 1px 1px 1px #E0E0E0;
 }
 
 a {
-    color: rgb(32, 50, 173);
+    color: #1B499C;
 }
 
 li {
@@ -152,7 +152,7 @@ ul li {
 
 ul li::before {
     content: "*";
-    color: #cd2026;
+    color: #EB2C27;
     display: inline-block;
     width: 1em;
     margin-left: -1em;
@@ -170,7 +170,7 @@ ol li {
 
 ol li::before {
     content: counter(item) ". ";
-    color: #cd2026;
+    color: #EB2C27;
     display: inline-block;
     width: 1em;
     margin-left: -1.5em;
@@ -182,22 +182,22 @@ ol li::before {
     border-collapse: separate;
     border-radius: 6px;
     border-spacing: 0;
-    border: 1px solid rgb(200, 200, 200);
+    border: 1px solid #E9DBC5;
 }
 
 .chapter .table tbody tr:first-child {
     border: 0;
-    background-color: rgb(231, 220, 200);
+    background-color: #E9DBC5;
 }
 
 .chapter .table tbody tr:first-child td {
     font-weight: bold;
     border: 0;
-    border-bottom: 1px solid rgb(200, 200, 200);
+    border-bottom: 1px solid #E0E0E0;
 }
 
 .chapter .table tbody tr:nth-child(even) {
-    background-color: rgb(240, 240, 240);
+    background-color: #E0E0E0;
 }
 
 .chapter table tr:last-child td:first-child {
@@ -220,4 +220,8 @@ ol li::before {
 
 .figure-img {
     margin-bottom: 0;
+}
+
+hr {
+    border-color: #E0E0E0;
 }

@@ -182,7 +182,7 @@ ol li::before {
     border-collapse: separate;
     border-radius: 6px;
     border-spacing: 0;
-    border: 1px solid #E9DBC5;
+    border: 1px solid #E0E0E0;
 }
 
 .chapter .table tbody tr:first-child {

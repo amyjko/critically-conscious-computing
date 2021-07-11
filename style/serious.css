@@ -230,11 +230,12 @@ hr {
     margin-right: 3em;
 }
 
-code {
-    color: #EB2C27   
-}
-
 /* Highlight JS colors */
+
+/* Default color */
+.hljs {
+    color: black;
+}
 
 /* Comment */
 .hljs-comment,

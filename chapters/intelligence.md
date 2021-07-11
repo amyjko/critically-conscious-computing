@@ -88,18 +88,18 @@ or hasALS
 or hasEndStageRenalDisease
 `
 
-In this ungainly expression above, the parenthesis group subexpressions, just like in algebra, determine the order of operations. That means that the expressions inside parentheses get evaluated first. So what would happen if someone’s age was 62 and they have ALS, but they don’t have social security disability insurance or railroad retirement disability? The first four and last subexpressions would result in `false`, because `age \< 65` and they don’t have either type of disability insurance, or end stage renal disease. But `hasALS` would be `true`. This would evaluate to the following:
+In this ungainly expression above, the parenthesis group subexpressions, just like in algebra, determine the order of operations. That means that the expressions inside parentheses get evaluated first. So what would happen if someone’s age was 62 and they have ALS, but they don’t have social security disability insurance or railroad retirement disability? The first four and last subexpressions would result in `False`python, because `age \< 65`python and they don’t have either type of disability insurance, or end stage renal disease. But `hasALS`python would be `True`python. This would evaluate to the following:
 
 `python
 False or
-False OR
-False OR
-False OR
-True OR
+False or
+False or
+False or
+True or
 False
 `
 
-According to the rules of an `OR` operation, as long as any value is `true`, the result is `true`, so the final expression would evaluate to `true`, meaning they are eligible for Medicare. While medicare employees might be ultimately responsible for making eligibility determinations, using the expression above in a Medicare computer program that determines eligibility would allow the program to take in data about a person’s age, work history, disability insurance, and medical conditions, automatically make a determination of eligibility, without human intervention.
+According to the rules of an `or`python operation, as long as any value is `True`python, the result is `True`python, so the final expression would evaluate to `True`python, meaning they are eligible for Medicare. While medicare employees might be ultimately responsible for making eligibility determinations, using the expression above in a Medicare computer program that determines eligibility would allow the program to take in data about a person’s age, work history, disability insurance, and medical conditions, automatically make a determination of eligibility, without human intervention.
 
 Is any of the above intelligence? Boolean, Lovelace, and Turing wouldn’t go that far. Boole wrote on morality:
 

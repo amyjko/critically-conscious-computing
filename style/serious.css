@@ -21,6 +21,12 @@
     font-weight: bold;
 }
 
+@font-face {
+    font-family: "Modum Extra";
+    src: url('../fonts/The Northern Block Ltd - Modum ExtraBold.otf') format('opentype'); 
+    font-weight: bold;
+}
+
 body {
 	font-weight: 400;
     max-width: 720px;
@@ -33,12 +39,21 @@ h1, h2, h3, h4 {
 	font-weight: 700;
 	font-family: "Arvo", serif;
     margin-top: 1em;
-    margin-bottom: 0.25em;
+    margin-bottom: 1em;
 }
 
+h1 {
+    font-size: 2.5rem;
+}
+h2 {
+    font-size: 2rem;
+}
+h3 {
+    font-size: 1.5rem;
+}
 h4 {
+    font-size: 1rem;
     font-weight: 400;
-    font-family: "Arvo", serif;
 }
 
 .chapter-number {
@@ -54,6 +69,10 @@ h4 {
 .reference {
     font-family: "Modum";
     list-style-position: outside;
+}
+
+ol li.reference::before {
+    color: black;
 }
 
 .callout {
@@ -104,9 +123,9 @@ code {
     position: absolute;
     top: 40pt;
     left: -20pt;
-    font-family: "Modum";
+    font-family: "Modum Extra";
     font-size: 120pt;
-    font-weight: 700;
+    font-weight: bold;
     color: #E8AF22;
     z-index: -1;
 }
@@ -178,6 +197,10 @@ ol li::before {
     text-align: right; 
 }
 
+.callout ol, .callout ul {
+    padding-left: 1em;
+}
+
 .chapter .table {
     border-collapse: separate;
     border-radius: 6px;
@@ -223,8 +246,8 @@ ol li::before {
 }
 
 hr {
-    border-color: #E0E0E0;
-    border-bottom: 2px solid black;
+    border: none;
+    border-bottom: 1px solid #E0E0E0;
     margin-top: 3em;
     margin-bottom: 3em;
     margin-right: 3em;

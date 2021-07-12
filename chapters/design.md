@@ -211,8 +211,7 @@ This session engages learning objective 1, modeling how to reason about positive
 The fifth session is a sharp pivot into to the first phase of engineering, asking students to translate their story script into a programming plan:
 
 =
-## 
-Session 5: Planning
+## Session 5: Planning
 
 * Explain that planning is the first phase of engineering, taking the hard work of a design process, and identifying ways to express it as software.
 

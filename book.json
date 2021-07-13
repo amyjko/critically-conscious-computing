@@ -3,6 +3,7 @@
 	"authors": [
 		{ "id": "ko", "name": "Amy J. Ko", "url": "https://faculty.washington.edu/ajko/" },
 		{ "id": "beitlers", "name": "Anne Beitlers", "url": "https://education.uw.edu/people/annes" },
+		{ "id": "wortzman", "name": "Brett Wortzman", "url": "https://homes.cs.washington.edu/~brettwo/" },
 		{ "id": "davidson", "name": "Matt Davidson", "url": "https://www.linkedin.com/in/matt-davidson-he-him-92379916/" },
 		{ "id": "oleson", "name": "Alannah Oleson", "url": "http://alannaholeson.com" },
 		{ "id": "mara", "name": "Mara Kirdani-Ryan", "url": "https://marakr.com" }
@@ -45,56 +46,56 @@
 			"title": "CS, Equity, and Justice", 
 			"authors": ["ko", "beitlers"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
-			"section": "Methods"
+			"section": "Computing"
 		},
 		{
 			"id": "design", 
 			"title": "CS and Design", 
 			"authors": ["ko", "oleson"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
-			"section": "Methods"
+			"section": "Computing"
 		},
 		{
 			"id": "intelligence", 
 			"title": "Encoding Intelligence", 
 			"authors": ["ko"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
-			"section": "Methods"
+			"section": "Computing"
 		},
 		{
 			"id": "information", 
 			"title": "Encoding Information", 
 			"authors": ["ko"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
-			"section": "Methods"
+			"section": "Computing"
 		},
 		{
 			"id": "computers", 
 			"title": "Computers", 
 			"authors": ["ko"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
-			"section": "Methods"
+			"section": "Computing"
 		},
 		{
 			"id": "operating", 
 			"title": "Operating Systems", 
 			"authors": ["ko", "mara"],
 			"image": "|Chapter09_Figure01_Punch_Cards.png|A line of gray scale people entering punch cards into a machine, with a punchcard in the background.|Operating systems, before they were automated.|Jessie Huynh|",
-			"section": "Methods"
+			"section": "Computing"
 		},
 		{
 			"id": "languages", 
 			"title": "Programming Languages", 
-			"authors": ["ko"],
+			"authors": ["ko", "wortzman"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
-			"section": "Methods"
+			"section": "Code"
 		},
 		{
 			"id": "datastructures", 
 			"title": "Data Structures", 
 			"authors": ["ko"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
-			"section": "Methods"
+			"section": "Code"
 		},
 		{
 			"id": "aiml", 
@@ -110,9 +111,17 @@
 		"chi": "ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)",
 		"sigcse": "ACM Technical Symposium on Computer Science Education (SIGCSE)",
 		"toce": "ACM Transactions on Computing Education (TOCE)",
-		"icer": "ACM Conference on International Computing Education Research (ICER)"
+		"icer": "ACM Conference on International Computing Education Research (ICER)",
+		"cse": "Computer Science Education (CSE)"
 	},
 	"references": {
+		"ahadi13": [
+			"Alireza Ahadi, Raymond Lister",
+			2013,
+			"Geek genes, prior knowledge, stumbling points and learning edge momentum: parts of the one elephant?",
+			"#icer",
+			"https://doi.org/10.1145/2493394.2493416"
+		],
 		"amdahl64": [
 			"Gene M. Amdahl, Gerrit A. Blaauw, and Frederick P. Brooks",
 			1964,
@@ -133,6 +142,20 @@
 			"Teaching operating systems using Android",
 			"#sigcse",
 			"https://doi.org/10.1145/2157136.2157312"
+		],
+		"arwajo20": [
+			"Ian Arawjo",
+			2020,
+			"To Write Code: The Cultural Fabrication of Programming Notation and Practice",
+			"ACM Conference on Human Factors in Computing Systems",
+			"https://doi.org/10.1145/3313831.3376731"
+		],
+		"backus78": [
+			"John Backus",
+			1978,
+			"The history of FORTRAN I, II, and III",
+			"ACM SIGPLAN Notices",
+			"https://doi.org/10.1145/960118.808380"
 		],
 		"baltes20": [
 			"Sebastian Baltes, George Park, and Alexander Serebrenik",
@@ -176,12 +199,26 @@
 			"Random House",
 			"https://www.google.com/books/edition/Calling_Bullshit/v-UlEAAAQBAJ?hl=en&gbpv=0"
 		],
+		"beyer12": [
+			"Kurt Beyer",
+			2012,
+			"Grace Hopper and the Invention of the Information Age",
+			"MIT Press",
+			"https://www.google.com/books/edition/Grace_Hopper_and_the_Invention_of_the_In/dr34DwAAQBAJ?hl=en&gbpv=0"
+		],
 		"bjarnadóttir14": [
 			"Kristín Bjarnadóttir",
 			2014,
 			"History of teaching arithmetic",
 			"Handbook on the History of Mathematics Education",
 			"https://www.google.com/books/edition/Handbook_on_the_History_of_Mathematics_E/MYy9BAAAQBAJ?hl=en&gbpv=0"
+		],
+		"blackwell02": [
+			"Alan F. Blackwell",
+			2002,
+			"First steps in programming: a rationale for attention investment models",
+			"IEEE Symposia on Human Centric Computing Languages and Environments",
+			"https://doi.org/10.1109/HCC.2002.1046334"
 		],
 		"boole54": [
 			"George Boole",
@@ -204,12 +241,26 @@
 			"University of Michigan Press",
 			"https://www.google.com/books/edition/The_First_Electronic_Computer/_Zja6hoP4psC?hl=en&gbpv=0"
 		],
+		"bush45": [
+			"Vannevar Bush",
+			1945,
+			"As We May Think",
+			"The Atlantic Monthly",
+			"https://doi.org/10.1145/1113634.1113638"
+		],
 		"buolamwini18": [
 			"Joy Buolamwini, Timnit Gebru",
 			2018,
 			"Gender shades: Intersectional accuracy disparities in commercial gender classification",
 			"Conference on fairness, accountability and transparency",
 			"http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf"
+		],
+		"charters14": [
+			"Polina Charters, Michael J. Lee, Amy J. Ko, Dastyni Loksa",
+			2014,
+			"Challenging stereotypes and changing attitudes: the effect of a brief programming encounter on adults' attitudes toward programming",
+			"#sigcse",
+			"https://doi.org/10.1145/2538862.2538938"
 		],
 		"chen15": [
 			"Xiang 'Anthony' Chen, Stelian Coros, Jennifer Mankoff, and Scott E. Hudson",
@@ -225,6 +276,13 @@
 			"Society for Information Technology & Teacher Education International Conference",
 			"https://www.learntechlib.org/primary/p/215769/"
 		],
+		"cooper03": [
+			"Stephen Cooper, Wanda Dann, Randy Pausch",
+			2003,
+			"Using animated 3D graphics to prepare novices for CS1",
+			"#cse",
+			"https://doi.org/10.1076/csed.13.1.3.13540"
+		],
 		"copeland04": [
 			"Jack B. Copeland",
 			2004,
@@ -238,6 +296,13 @@
 			"Design justice: Community-led practices to build the worlds we need",
 			"MIT Press",
 			"https://www.google.com/books/edition/Design_Justice/h4LPDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"dasgupta16": [
+			"Sayamindu Dasgupta, William Hale, Andrés Monroy-Hernández, Benjamin Mako Hill",
+			2016,
+			"Remixing as a Pathway to Computational Thinking",
+			"ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW)",
+			"https://doi.org/10.1145/2818048.2819984"
 		],
 		"davis19": [
 			"James Davis, Michael Lachney, Zoe Zatz, William Babbitt, and Ron Eglash",
@@ -280,6 +345,13 @@
 			"The Elusive Antitrust Standard on Bundling in Europe and in the United States in the Aftermath of the Microsoft Cases",
 			"Antitrust Law Journal",
 			"https://heinonline.org/HOL/LandingPage?handle=hein.journals/antil76&div=25&id=&page="
+		],
+		"englebart62": [
+			"Douglas Engelbart",
+			1962,
+			"Augmenting Human Intellect: A Conceptual Framework",
+			"Bloomsbury Publishing",
+			"https://www.google.com/books/edition/The_Screen_Media_Reader/eg1sDQAAQBAJ?hl=en&gbpv=0"
 		],
 		"essinger14": [
 			"James Essinger",
@@ -329,6 +401,13 @@
 			"Culturally responsive teaching: Theory, research, and practice",
 			"Teachers College Press",
 			"https://www.google.com/books/edition/Culturally_Responsive_Teaching/rYspC7C-zowC?hl=en&gbpv=0"
+		],
+		"glass99": [
+			"Robert L. Glass",
+			1999,
+			"Cobol: a historic past, a vital future?",
+			"IEEE Software",
+			"https://doi.org/10.1109/52.776965"
 		],
 		"goel92": [
 			"Vinod Goel, Peter Pirolli",
@@ -428,6 +507,20 @@
 			"Springer",
 			"https://www.google.com/books/edition/Guide_to_Teaching_Computer_Science/iekXBgAAQBAJ?hl=en&gbpv=0"
 		],
+		"hermans20": [
+			"Felienne Hermans",
+			2020,
+			"Hedy: A Gradual Language for Programming Education",
+			"#icer",
+			"https://doi.org/10.1145/3372782.3406262"	
+		],
+		"hiltzik09": [
+			"Michael A. Hiltzik",
+			2009,
+			"Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age",
+			"HarperCollins",
+			"https://www.google.com/books/edition/Dealers_of_Lightning/lzgOduibRJgC?hl=en&gbpv=0"
+		],
 		"hodges14": [
 			"Andrew Hodges",
 			2014,
@@ -441,6 +534,13 @@
 			"Ada Lovelace: the making of a computer scientist",
 			"Oxford University Press",
 			"https://www.google.com/books/edition/Ada_Lovelace/TVkQtAEACAAJ?hl=en"
+		],
+		"holmevik94": [
+			"Jan Ruen Holmevik",
+			1994,
+			"Compiling SIMULA: a historical study of technological genesis",
+			"IEEE Annals of the History of Computing",
+			"https://doi.org/10.1109/85.329756"
 		],
 		"hunt10": [
 			"Earl Hunt",
@@ -512,6 +612,13 @@
 			"Annals of the History of Computing",
 			"https://doi.org/10.1109/MAHC.1991.10023"
 		],
+		"knuth80": [
+			"Donald E. Knuth, Luis Trabb Pardo",
+			1980,
+			"The Early Development of Programming Languages",
+			"A History of Computing in the Twentieth Century",
+			"https://doi.org/10.1016/B978-0-12-491650-0.50019-8"
+		],
 		"klein03": [
 			"David Klein",
 			2003,
@@ -560,6 +667,13 @@
 			"Management of scrap computer recycling in Taiwan",
 			"Journal of Hazardous Materials",
 			"https://doi.org/10.1016/S0304-3894(99)00191-0"
+		],
+		"lee15": [
+			"Michael J. Lee, Amy J. Ko",
+			2015,
+			"Comparing the Effectiveness of Online Learning Approaches on CS1 Learning Outcomes",
+			"#icer",
+			"https://doi.org/10.1145/2787622.2787709"
 		],
 		"leiner09": [
 			"Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, and Stephen Wolff",
@@ -617,6 +731,13 @@
 			"Cork University Press",
 			"https://www.google.com/books/edition/The_Life_and_Work_of_George_Boole/PHfPoAEACAAJ?hl=en"
 		],
+		"maloney10": [
+			"John Maloney, Mitchel Resnick, Natalie Rusk, Brian Silverman, Evelyn Eastmond",
+			2010,
+			"The Scratch Programming Language and Environment",
+			"#toce",
+			"https://doi.org/10.1145/1868358.1868363"
+		],
 		"margolis03": [
 			"Jane Margolis, Allan Fisher",
 			2003,
@@ -631,19 +752,19 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/Stuck_in_the_Shallow_End/WOI9rGJSFCcC?hl=en&gbpv=0"
 		],
-		"mccartney17": [
-			"Robert McCartney, Jonas Boustedt, Anna Eckerdal, Kate Sanders, and Carol Zander",
-			2017,
-			"Folk Pedagogy and the Geek Gene: Geekiness Quotient",
-			"#sigcse",
-			"https://doi.org/10.1145/3017680.3017746"
-		],
 		"mccartney99": [
 			"Scott McCartney",
 			1999,
 			"ENIAC: The Triumphs and Tragedies of the World's First Computer",
 			"Walker",
 			"https://www.google.com/books/edition/ENIAC_the_Triumphs_and_Tragedies_of_the/l2nGQgAACAAJ?hl=en"
+		],
+		"mccartney17": [
+			"Robert McCartney, Jonas Boustedt, Anna Eckerdal, Kate Sanders, Carol Zander",
+			2017,
+			"Folk Pedagogy and the Geek Gene: Geekiness Quotient",
+			"#sigcse",
+			"https://doi.org/10.1145/3017680.3017746"
 		],
 		"mcilwain19": [
 			"Charlton D. McIlwain",
@@ -658,6 +779,13 @@
 			"Number words and number symbols: A cultural history of numbers",
 			"Courier Corporation",
 			"https://www.google.com/books/edition/Number_Words_and_Number_Symbols/RXbCAgAAQBAJ?hl=en&gbpv=0"
+		],
+		"murphy08": [
+			"Laurie Murphy, Lynda Thomas",
+			2008,
+			"Dangers of a fixed mindset: implications of self-theories research for computer science education",
+			"#sigcse",
+			"https://doi.org/10.1145/1597849.1384344"
 		],
 		"mott14": [
 			"Martez E. Mott, Jacob O. Wobbrock",
@@ -679,6 +807,20 @@
 			"Race and computing: The problem of sources, the potential of prosopography, and the lesson of Ebony Magazine",
 			"IEEE Annals of the History of Computing",
 			"https://doi.org/10.1109/MAHC.2016.11"
+		],
+		"nelson17": [
+			"Greg L. Nelson, Benjamin Xie, Amy J. Ko",
+			2017,
+			"Comprehension First: Evaluating a Novel Pedagogy and Tutoring System for Program Tracing in CS1",
+			"#icer",
+			"https://doi.org/10.1145/3105726.3106178"
+		],
+		"nyce91": [
+			"From Memex To Hypertext",
+			1991,
+			"James M. Nyce, Nyce, Paul Kahn",
+			"Elsevier Science",
+			"https://www.google.com/books/edition/From_Memex_To_Hypertext/oZNQAAAAMAAJ?hl=en&gbpv=0&bsq=From%20Memex%20to%20hypertext:%20Vannevar%20Bush%20and%20the%20mind%27s%20machine"
 		],
 		"oleson20": [
 			"Alannah Oleson, Meron Solomon, and Amy J. Ko",
@@ -729,6 +871,13 @@
 			"Cognition and Instruction",
 			"https://doi.org/10.1080/07370008.2016.1210418"
 		],
+		"pombrio17": [
+			"Justin Pombrio, Shriram Krishnamurthi, Kathi Fisler",
+			2017,
+			"Teaching Programming Languages by Experimental and Adversarial Thinking",
+			"Advances in Programming Languages (SNAPL)",
+			"https://doi.org/10.4230/LIPIcs.SNAPL.2017.13"
+		],
 		"pornwasin15": [
 			"Pornwasin Sirisawat, Tossapol Kiatcharoenpol, Ninlawan Choomrit, Pilada Wangphanich",
 			2015,
@@ -736,12 +885,26 @@
 			"IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)",
 			"https://doi.org/10.1109/IEEM.2015.7385668"
 		],
+		"porter11": [
+			"Leo Porter, Cynthia Bailey Lee, Beth Simon, Quintin Cutts, Daniel Zingaro",
+			2011,
+			"A multi-classroom report on the value of peer instruction",
+			"ACM Innovation and Technology in Computer Science Education (ITiCSE)",
+			"https://doi.org/10.1145/1999747.1999788"
+		],
 		"pugh09": [
 			"Emerson W. Pugh",
 			2009,
 			"Building IBM: Shaping an Industry and Its Technology",
 			"MIT Press",
 			"https://www.google.com/books/edition/Building_IBM/tf-1DgAAQBAJ?hl=en&gbpv=0"
+		],
+		"qian17": [
+			"Yizhou Qian, James Lehman",
+			2017,
+			"Students’ Misconceptions and Other Difficulties in Introductory Programming: A Literature Review",
+			"#toce",
+			"https://doi.org/10.1145/3077618"
 		],
 		"raines96": [
 			"Getting the Message Through: A Branch History of the U.S. Army Signal Corps",
@@ -778,12 +941,33 @@
 			"Computer Science Education",
 			"https://doi.org/10.1076/csed.13.3.191.14945"
 		],
+		"resnick12": [
+			"Mitch Resnick, Yasmin B. Kafai",
+			2012,
+			"Constructionism in Practice: Designing, Thinking, and Learning in A Digital World",
+			"Taylor & Francis",
+			"https://www.google.com/books/edition/Constructionism_in_Practice/qToFlGC_2NQC?hl=en&gbpv=0"
+		],
+		"ritchie93": [
+			"Dennis M. Ritchie",
+			1993,
+			"The development of the C language",
+			"ACM SIGPLAN Notices",
+			"https://doi.org/10.1145/155360.155580"
+		],
 		"riordan98": [
 			"Michael Riordan, Lillian Hoddeson",
 			1998,
 			"Crystal Fire: The Invention of the Transistor and the Birth of the Information Age",
 			"Norton",
 			"https://www.google.com/books/edition/Crystal_Fire/SZ6wm5ZSUmsC?hl=en&gbpv=0"
+		],
+		"robins10": [
+			"Anthony Robins , Janet Rountree, Nathan Rountree",
+			2010,
+			"Learning and Teaching Programming: A Review and Discussion",
+			"#cse",
+			"https://doi.org/10.1076/csed.13.2.137.14200"
 		],
 		"rodriguez00": [
 			"Clara E. Rodríguez",
@@ -798,6 +982,20 @@
 			"Take space, make space: how students use computer science to disrupt and resist marginalization in schools",
 			"Computer Science Education",
 			"https://doi.org/10.1080/08993408.2020.1805284"
+		],
+		"sáezlópez16": [
+			"José-Manuel Sáez-López, Marcos Román-González, Esteban Vázquez-Cano",
+			2016,
+			"Visual programming languages integrated across the curriculum in elementary school: A two year case study using “Scratch” in five schools",
+			"Computers & Education",
+			"https://doi.org/10.1016/j.compedu.2016.03.003"
+		],			
+		"safavian91": [
+			"S. Rasoul Safavian, David Landgrebe",
+			1991,
+			 "A survey of decision tree classifier methodology",
+			 "IEEE Transactions on Systems, Man, and Cybernetics",
+			 "https://doi.org/10.1109/21.97458"
 		],
 		"scherer19": [
 			"Ronny Scherer, Fazilat Siddiq, Bárbara Sánchez Viveros",
@@ -827,13 +1025,6 @@
 			"Courier Corporation",
 			"https://www.google.com/books/edition/The_Hindu_Arabic_Numerals/4SMQAAAAYAAJ?hl=en&gbpv=0"
 		],
-		"safavian91": [
-			"S. Rasoul Safavian, David Landgrebe",
-			1991,
-			 "A survey of decision tree classifier methodology",
-			 "IEEE Transactions on Systems, Man, and Cybernetics",
-			 "https://doi.org/10.1109/21.97458"
-		],
 		"salomon87": [
 			"Gavriel Salomon, David N. Perkins",
 			1987,
@@ -862,6 +1053,13 @@
 			"The MIT Press",
 			"https://www.google.com/books/edition/The_Sciences_of_the_Artificial/yYSkDwAAQBAJ?hl=en&gbpv=0"
 		],
+		"stroustrup96": [
+			"Bjarne Stroustrup",
+			1996,
+			"A history of C++: 1979--1991",
+			"History of Programming Languages",
+			"https://en.wikipedia.org/wiki/Bjarne_Stroustrup"
+		],
 		"soni17": [
 			"Jimmy Soni, Rob Goodman",
 			2017,
@@ -882,6 +1080,13 @@
 			"CS unplugged and middle-school students’ views, attitudes, and intentions regarding CS",
 			"#toce",
 			"https://doi.org/10.1145/2160547.2160551"
+		],
+		"teitelbaum81": [
+			"Tim Teitelbaum, Thomas Reps",
+			1981,
+			"The Cornell program synthesizer: a syntax-directed programming environment",
+			"Communications of the ACM",
+			"https://doi.org/10.1145/358746.358755"
 		],
 		"thorndike98": [
 			"Edward L. Thorndike", 
@@ -925,12 +1130,40 @@
 			"Educational Studies in Mathematics",
 			"https://doi.org/10.1007/s10649-017-9764-5"
 		],
+		"weintrop17": [
+			"David Weintrop, Uri Wilensky",
+			2017,
+			"Comparing Block-Based and Text-Based Programming in High School Computer Science Classrooms",
+			"#toce",
+			"https://doi.org/10.1145/3089799"
+		],
 		"widmer05": [
 			"Rolf Widmer, Heidi Oswald-Krapf, Deepali Sinha-Khetriwal, Max Schnellmann, Heinz Bönia",
 			2005,
 			"Global perspectives on e-waste",
 			"Environmental Impact Assessment Review",
 			"https://doi.org/10.1016/j.eiar.2005.04.001"
+		],
+		"xie19": [
+			"Benjamin Xie, Dastyni Loksa, Greg L. Nelson, Matthew J. Davidson, Dongsheng Dong, Harrison Kwik, Alex Hui Tan, Leanne Hwa, Min Li, Amy J. Ko",
+			2019,
+			"A theory of instruction for introductory programming skills",
+			"#cse",
+			"https://doi.org/10.1080/08993408.2019.1565235"
+		],
+		"yukselturk16": [
+			"Erman Yukselturk, Serhat Altiok",
+			2016,
+			"An investigation of the effects of programming with Scratch on the preservice IT teachers’ self-efficacy perceptions and attitudes towards computer programming",
+			"British Journal of Educational Technology",
+			"https://doi.org/10.1111/bjet.12453"
+		],
+		"zhang19": [
+			"LeChen Zhang, Jalal Nouri",
+			2019,
+			"A systematic review of learning computational thinking through Scratch in K-9",
+			"Computers & Education",
+			"https://doi.org/10.1016/j.compedu.2019.103607"
 		]
 	}
 

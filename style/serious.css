@@ -103,6 +103,10 @@ code {
     font-family: "DM Mono", monospace;
 }
 
+.code {
+    /* background-color: #E5DCC9; */
+}
+
 .blockquote {
     border: none;
     font-family: "Arvo";
@@ -210,7 +214,7 @@ ol li::before {
 
 .chapter .table tbody tr:first-child {
     border: 0;
-    background-color: #E8AF22;
+    background-color: #E9dbc5;
 }
 
 .chapter .table tbody tr:first-child td {
@@ -256,7 +260,10 @@ hr {
 /* Highlight JS colors */
 
 /* Default color */
-.hljs {
+.hljs,
+.hljs-title,
+.hljs-params,
+.hljs-section {
     color: black;
 }
 
@@ -266,7 +273,6 @@ hr {
   color: #424242;
 }
 
-/* Red */
 .hljs-variable,
 .hljs-template-variable,
 .hljs-tag,
@@ -278,38 +284,21 @@ hr {
   color: #EB2C27;
 }
 
-/* Orange */
 .hljs-number,
 .hljs-built_in,
 .hljs-builtin-name,
 .hljs-literal,
-.hljs-type,
-.hljs-params,
-.hljs-meta,
-.hljs-link {
-  color: #EB2C27;
-}
-
-/* Yellow */
-.hljs-attribute {
-  color: #E8AF22;
-}
-
-/* Green */
 .hljs-string,
 .hljs-symbol,
+.hljs-meta,
+.hljs-link
 .hljs-bullet,
 .hljs-addition {
-  color: #1B499C;
+    color: #1B499C;
 }
 
-/* Blue */
-.hljs-title,
-.hljs-section {
-  color: #000000;
-}
-
-/* Purple */
+.hljs-type,
+.hljs-attribute,
 .hljs-keyword,
 .hljs-selector-tag {
   color: #E8AF22;

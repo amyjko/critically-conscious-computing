@@ -25,7 +25,7 @@ For example, in 1870, the United States "Signal Corps"<raines96> envisioned a ma
 
 If people were the original computers, why were they replaced with the digital computer, and what technologies made that possible? Throughout the coming sections, we’ll discuss this history, the values underlying it, and the global consequences of these inventions. We’ll then turn to how to develop students’ critical consciousness of this history, and the future it imagined.
 
-||||TODO Portrayal of the differencing machine, vacuum tubes, and the transistor; perhaps a timeline?|
+|Chapter08_Figure02_Timeline.png|A timeline showing 1820, 1904, and 1947, corresponding to the differencing machine, the vacuum tube, and the transistor|What a computer is has always evolved.|Jessie Hyunh|
 
 # The Invention of Computers
 
@@ -63,7 +63,7 @@ Modern computers have many other components, many of which are used to increase 
 
 All of these different modern computer components make up a computer. But the general purpose machines that Babbage imagined, then, are far more general than even he might have imagined, finding their way into every object and surface that we people create, bestowing them with the ability to quickly and reliably calculate, and interact with the world. For example, a desktop computer might be the first thing that comes to mind, or perhaps a laptop or tablet. But a smartphone is also a computer. And so are all consumer electronic devices: modern televisions essentially have large user interfaces like computers; alarm clocks have displays that often show a range of information; even wired office telephones have many computer functions, like remembering phone numbers and voicemail notifications. And the reach of computers goes well beyond consumer electronics. All home appliances have computers in them: computers drive the behavior of modern thermostats; refrigerators use computers to regulate the freezer; stoves use computers for timers and alerts; dishwashers use computers to conserve energy and avoid wasting water; microwaves use them to store heating programs; washers and dryers use them to monitor clothing wetness and dryness; and air conditioners use them to turn off and on automatically. And increasingly, many other objects in homes have computers as well, even smart light bulbs and doorbells. Of course, even objects we don’t think of as computers at all are bursting with computers. Modern cars, for example, many have as many as 50 distinct computers, for controlling temperature, music, collision warnings, cameras, braking systems, security, and more; consequently, diagnosing and repairing cars, while it still requires mechanical knowledge, also requires the use of complex software diagnosis tools to find problems with sensors and install software updates. Therefore, the rise of computers as both a consumer good, but also a tool for enhancing everyday objects in invisible ways, have made computers ubiquitous in our lives.
 
-||||TODO A depiction of piles of computer junk and people picking through it to extract precious metals|
+|Chapter08_Figure04_Ewaste.png|A woman crouching over a pile of computer garbage with a radiation symbol hovering over her shoulder.|All computers are eventually garbage.|Jessie Huynh|
 
 # Computer Waste
 
@@ -75,7 +75,7 @@ Another difference between human computers and computing technology is the fuel 
 
 The future of computer hardware will likely look much like its past: constant innovation, an obsession with speed, the replacement of people, and the wasteful, polluting, and often toxic discarding of old technology. The question for the future of computers is whether the single goal of speed will continue to drive innovation, or whether new goals, such as sustainability and accessibility will begin to also shape their evolution.
 
-||||TODO Figure. Teachers and students talking about computers, maybe inspecting one.|
+|Chapter08_Figure05_Inspecting.png|Several students peeking and peering into different parts of computers.|Students need to understand that computers are objects, not magic.|Jessie Huynh|
 
 # Unit Plan: Unpacking Ubiquity
 

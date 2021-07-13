@@ -37,7 +37,7 @@ Throughout this transformation from mainframe to PC, Hollywood reinforced stereo
 
 This masculine style of computing spread to other New England colleges and high schools through Dartmouth’s Kiewit Network. While some women in universities retained access to computers, for instance women at Mount Holyoke used the burgeoning Dartmouth network to correspond with men at Dartmouth, arranging dates while avoiding expensive long-distance calls<rankin18>, men, especially white, wealthy men, enjoyed greater access. As computers became a widespread signal of social status, men, especially those at wealthy single-sex private schools, had access at much higher rates. Computing education was tied to mathematics, and, in general, men were encouraged to take math courses, while women were encouraged to become wives and homemakers. The history of women in computing and their role as computer programmers and operators was forgotten and replaced by a world shaped by wealthy elite men at Dartmouth specifically, and higher education broadly.
 
-|Chapter09_Figure03_Monopoly.png|Gigantic men's dress pants and shoes stepping upon the U.S. capital building with the Windows, Apple, and Google logos floating above.|Private enterprise overtakes scientific endeavor|Jessie Hyunh|
+|Chapter09_Figure03_Monopoly.png|Gigantic men's dress pants and shoes stepping upon the U.S. capital building with the Windows, Apple, and Google logos floating above.|Private enterprise overtakes scientific endeavor|Jessie Huynh|
 
 # From Hobby to Marketplace
 

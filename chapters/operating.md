@@ -25,7 +25,7 @@ A simple program might fit on a single punch card; more complex programs might b
 
 In this chapter, we chronicle the shift from this early snapshot of modern computer operation to the one we have today, in which nearly every aspect of an operating system is automated and under the control of a few large private businesses.
 
-||||TODO Something depicting 1980’s video game advertisements, perhaps the Dartmouth Kiewit Computing Center, and boys|
+|Chapter09_Figure02_GameAd.png|A PowerGlove ad from the 1980's showing a man in sunglasses wearing the glove. It is glowing green.|Pop culture steers computers to boys.|Jessie Huyhn|
 
 # From Mainframe to Personal Computer
 
@@ -71,7 +71,7 @@ As computers connected to the internet, operating systems also needed ways of ma
 % DEFINITION
 Throughout all of these shifts from human operator to computer operating system, the interface to using a computer changed. In the mainframe era, one would say to the human operator, "_Can you run this program?_" and the human operator would say "_Sure, but there are a few more programs before you. Give me an hour?_" Operating systems first replaced this human interaction with *command line interfaces* (CLIs), where one would engage in a more restricted dialog with a computer. For example, to run a program in Unix, one needs to simply navigate to the file folder containing the program and then type it's name (if one wanted to run the popular text editor vim, and programs were stored in a folder named programs, one would type `cd programs;`bash to open the programs folder, and  `./vim`bash to run the program{ The “./” preceeding the program name signals that the program is located in the currently open folder, which is represented by a “.” in Unix.}). These command line interfaces required users to remember many commands and follow their syntax precisely, and so researchers at Xerox PARC in the 1970’s worked on a simpler interface, which we now know as *graphical user interfaces* (GUIs). Instead of writing commands, programs were represented visually by icons, and they could be selected with a pointing device called a mouse. This changed the operation of a computer from writing a series of commands to performing clicks, drags, text entry into forms to manipulate files, run programs, and access input and output devices.
 
-||||TODO A depiction of an operating system blocking access to applications and data, and many people trying to get through its barriers|
+|Chapter09_Figure05_OperatingSystem.png|A slanted view of operating system icons and window tiles, with a woman trapped inside behind a window.|Operating systems, and therefore Microsoft, Google, and Apple, control nearly everything about our digital lives.|Jessie Huynh|
 
 # Operating Systems as Gatekeepers
 

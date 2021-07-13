@@ -11,19 +11,6 @@
 * CS educators key change agents in overcoming this history to imagine more diverse, equitable, and inclusive visions of CS education that were overlooked in history by the White, non-disabled men that shaped it.
 =
 
-# Related CSTA Teaching Standards
-
-Teachers will be able to:
-
-,*Standard*, *Original Standard*, *Critically Conscious Revision*
-,2a,        Examine issues of equity in CS,                     Examine issues of equity and justice in CS
-,2b,        Minimize threats to inclusion,                      Create culturally responsive and sustaining learning environments for all students
-,2c,        Represent diverse perspectives,                     Make space for diverse perspectives\, values\, and assets from both students and broader society
-,3d,        Commit to the mission of CS for all students,       Advocate for and implement structural change to capacity\, access\, participation\, and experience for CS for All
-,3f,        Participate in CS professional learning communities,Create\, support\, enrich\, and sustain diverse CS professional learning communities
-,4a,        Analyze CS curricula,                               Critically examine\, adapt\, and develop CS curricula
-,4d,        Build connections between CS and other disciplines, Identify authentic integration points between CS and other disciplines
-
 It’s tempting to think of CS as ahistorical: computing is, after all, a discipline focused on inventing the future. We are used to new technologies becoming rapidly dated, discarding floppy disks for USB keys, USB keys for cloud storage, and cloud storage for whatever comes next. It is a discipline that often discards and forgets the past in favor of the next new thing. This culture of future-focused thinking can be enticing to apply to CS education as well, viewing teaching as needing to “keep up” with the latest innovations in technology and CS education pedagogy, quickly forgetting what came before.
 
 Of course, we ignore history at our peril. History is crucial for understanding why and how we teach CS. Not only does history help us understand the ideas in CS education that have been tried in the past, but even more importantly, it helps us understand the forces that shape CS educators’ communities, values, and daily work, including the methods we use, the reform efforts we support, and the rationales that drive what we choose to teach and what we choose to ignore. This book, therefore, will engage CS education history to set this stage, before embarking on a journey through foundational ideas in CS and CS education. And throughout, we will use the history of CS to situate the changes that have occurred throughout the short history of CS, both to help you as an educator understand the ideas in the discipline, but also to help you help students see that CS could have been very different than it is, and still can be.
@@ -101,3 +88,16 @@ All of these competing ideas about CS education rest upon a history of public ed
 Looking back on the thousands of years of calculation, computing, computers, and CS education, we can see that our history is a particular one. It is one born of war and commerce, one that sought to replace people with machines, but also one that emerged from a love for the beauty of mathematics, procedures, and information. The CS education we have built so far has inherited this history, along with the many other histories of oppression embedded into our cultures, laws, and values. And as with any education reform effort, it is rich with political conflict, competing visions, unequal resources, and varying knowledge and opportunity. Our particular history of CS education has produced a particular world of computing, one that might have been different had voices other than White, cis, non-disabled men been at the table.
 
 CS educators work amidst the outcomes of this history, its ideas, and its constraints, but also get to bring new voices to the table. Learning standards influence what CS teachers teach, but they are also something teachers can resist. What resources exist to support CS education are largely shaped by economic and political forces, but CS teachers get to participate in shaping those forces. Whether CS educators stay in the profession is shaped by the salary differentials of industry, but also by how CS teachers organize to demand competitive salaries. And while most youth globally remain deeply enamored by technology and its uses, CS teachers can help youth develop a critical consciousness of how computing is reinforcing and amplifying the longstanding social hierarchies and inequities that shape their lives. In the rest of this book, we will examine the ideas in CS that have so powerfully overtaken these social structures, and prepare you to help students see them, analyze them, and reimagine them.
+
+# Related CSTA Teaching Standards
+
+This chapter prepared you to...
+
+,*Standard*, *Original Standard*, *Critically Conscious Revision*
+,2a,        Examine issues of equity in CS,                     Examine issues of equity and justice in CS
+,2b,        Minimize threats to inclusion,                      Create culturally responsive and sustaining learning environments for all students
+,2c,        Represent diverse perspectives,                     Make space for diverse perspectives\, values\, and assets from both students and broader society
+,3d,        Commit to the mission of CS for all students,       Advocate for and implement structural change to capacity\, access\, participation\, and experience for CS for All
+,3f,        Participate in CS professional learning communities,Create\, support\, enrich\, and sustain diverse CS professional learning communities
+,4a,        Analyze CS curricula,                               Critically examine\, adapt\, and develop CS curricula
+,4d,        Build connections between CS and other disciplines, Identify authentic integration points between CS and other disciplines

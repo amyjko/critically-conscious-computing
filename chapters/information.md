@@ -6,24 +6,6 @@
 * Developing students' critical consciousness of computing requires an understanding of where data comes from, what values it encodes, and how those values are reinforced and amplified by algorithms.
 =
 
-# Relevant CSTA Learning Standards
-
-Students will be able to:
-
-,Standard, Original Standard, Critically Conscious Revision
-,2-DA-07, Represent data using multiple encoding schemes., Represent data using multiple encoding schemes while explicitly accounting for their modeling limitations.
-,2-DA-08, Collect data using computational tools and transform the data to make it more useful and reliable., Examine the social implications of computational data collection and analysis.
-,3A-DA-09, Translate between different bit representations of real-world phenomena\, such as characters\, numbers\, and images., Translate between different bit representations of real-world phenomena\, such as characters\, numbers\, and images\, accounting for the information lost in translation.
-
-# Relevant Teaching Tolerance Social Justice Standards
-
-Students will:
-
-,Standard, Original Standard, Critically Conscious Revision
-,2, Develop language and historical and cultural knowledge that affirm and accurately describe their membership in multiple identity groups., Develop language and historical and cultural knowledge that explains the interactions between computing and their membership in multiple identity groups.
-,3, Recognize that people’s multiple identities interact and create unique and complex individuals., Recognize how computing often ignores how people’s multiple identities interact and create unique and complex individuals.
-,10, Examine diversity in social\, cultural\, political\, and historical contexts rather than in ways that are superficial or oversimplified., Examine how to design for diversity in the social\, cultural\, political\, and historical contexts of both society and computing\, rather than in ways that are superficial or oversimplified.
-
 Every ten years, the U.S. government conducts a [census|https://www.census.gov], counting the number of people in the United States, and then using that count to determine the number of representatives in the House of Representatives in the U.S. Congress. As part of this count, the census has long gathered information about each individual that responds to the census, such as age, gender, race, disability, and employment status, to help understand who is in the United States and how that is changing.
 
 While some of this information might seem simple, most of it is actually quite complex. For example, the census defines gender as either “male” or “female”, but many people do not identify with either label, and the biological categories that they imply have long been known to artificially reduce the natural non-binary complexity of biological sex. Race is similarly nuanced: the census includes options such as “White”, “Black or African Am.”, “Asian Indian”, “American Indian or Alaska Native”, several other options, but race is widely understood by scientists not as something biological, but rather a social construction that weaves both biological factors like skin color and ancestry, with sociocultural factors such as ethnic identity and even others’ perception of race. The census approaches disability in a similarly narrow way, asking questions like “Is this person blind or does he/she have serious difficulty seeing even when wearing glasses”; of course, being blind and low vision are very different experiences, “serious difficulty” is not defined, and the question mentions nothing of the millions who use other forms of access technologies, including wearing glasses or contacts. 
@@ -264,3 +246,17 @@ The limitations of this algorithm, whether it is executed by staff or a computer
 
 After these sessions, students should be able to recognize that data is not always neutral or objective, and is often biased, inaccurate, and unfair, encoding particular values. They should also be able to see how algorithms can amplify these values and biases by automating systems in ways that erase context. Students may end the unit feeling unsettled about systems that shape their experiences at school and beyond, but also more critically conscious of those systems as designed by people with particular goals and values.
 Perhaps the largest limitation of this method is that it goes deep into one system, and only broad into a few systems. Students will not necessarily transfer this understanding to other systems they encounter in their lives. After all, many software systems are invisible, much of the data they use is invisible, and how that data is gathered and interpreted is invisible. To counteract this, one might consider teaching students to assume that software is involved in every system (as it often is), and critically question how it is being used and why.
+
+# Relevant Learning Standards
+
+This chapter prepared you to help students...
+
+,CSTA, Original Standard, Critically Conscious Revision
+,2-DA-07, Represent data using multiple encoding schemes., Represent data using multiple encoding schemes while explicitly accounting for their modeling limitations.
+,2-DA-08, Collect data using computational tools and transform the data to make it more useful and reliable., Examine the social implications of computational data collection and analysis.
+,3A-DA-09, Translate between different bit representations of real-world phenomena\, such as characters\, numbers\, and images., Translate between different bit representations of real-world phenomena\, such as characters\, numbers\, and images\, accounting for the information lost in translation.
+
+,Teaching Tolerance, Original Standard, Critically Conscious Revision
+,2, Develop language and historical and cultural knowledge that affirm and accurately describe their membership in multiple identity groups., Develop language and historical and cultural knowledge that explains the interactions between computing and their membership in multiple identity groups.
+,3, Recognize that people’s multiple identities interact and create unique and complex individuals., Recognize how computing often ignores how people’s multiple identities interact and create unique and complex individuals.
+,10, Examine diversity in social\, cultural\, political\, and historical contexts rather than in ways that are superficial or oversimplified., Examine how to design for diversity in the social\, cultural\, political\, and historical contexts of both society and computing\, rather than in ways that are superficial or oversimplified.

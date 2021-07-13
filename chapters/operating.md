@@ -7,18 +7,6 @@
 * Teaching operating systems is an opportunity to link a technical understanding of operating system components with student values, which may or may not be affirmed by operating system designs.
 =
 
-# Relevant CSTA Learning Standards
-Students will be able to:
-,Standard, Original Standard, Revised Standard
-,3A-CS-02, Compare levels of abstraction and interactions between application software\, system software\, and hardware layers.,Examine how levels of abstraction in operating systems and hardware shape and constrain what and how applications are created and used.
-,3B-CS-01, Categorize the roles of operating system software., Explain how specific features of operating systems dictate how software can be used.
-
-# Relevant Teaching Tolerance Social Justice Standards
-Students will:
-
-,Standard, Original Standard, Critically Conscious Revision
-,15, Identify figures\, groups\, events and a variety of strategies and philosophies relevant to the history of social justice around the world.,Identify figures\, groups\, events and a variety of strategies and philosophies relevant to the history of computer science and social justice.
-
 The first digital computers, released in the 1960’s, filled entire rooms<haigh16>. Because they were so large, and so expensive, only a few companies and universities had them—and they usually just had one. What was essentially a big programmable calculator was therefore also a highly protected, managed resource, and only some people were allowed access. Using a computer therefore involved the following. First, you needed to think about the program you wanted to execute on the computer. This might involve sketching that program out—perhaps on paper—thinking through logic and calculations. After you had a plan, you would translate that program onto paper punch cards that encoded the logic of your program’s plan into machine instructions that the computer could understand and execute.
 
 A simple program might fit on a single punch card; more complex programs might be hundreds of punch cards<lubar92>. Then, to execute the program, you had to physically carry those punch cards to the room where the computer was stored. At the entry to that room was typically a human computer “operator”. On a busy day, you might wait in line before you could give the operator your punch cards, or if you did not want to wait, you could come and submit your program late at night, when demand was lower. The operator’s job was to receive requests to execute programs, maintain a queue of programs that were waiting to be run, insert punch cards into the computer, wait for results, and then give the printed results to the person who submitted the program. If you were careful in your programming, you were done. But more likely, there was a defect in your program, and you’d have to carefully analyze what you had encoded in the punch cards—debugging your program—and once you found the mistake, recreate the punch cards and follow this process all over again. Operators worked in shifts, often 24/7, to maximize use of the computer’s precious time, maintain the expensive computer’s hardware, and respond to any urgent jobs that might take precedence over the people waiting in line.
@@ -219,3 +207,14 @@ The next session presents the last narrative, connecting operating systems to sp
 This last session meets the fourth learning objective, while also linking operating systems to law, policy, free speech, and power. Students should leave this lesson seeing the operating systems on the computers that they use as far more than colors on a screen, and an exclusionary gateway to computer applications, but also a gateway controlled by powerful technology companies that are not currently beholden to the public in any way (and continue to utilize their wealth to maintain their power to decide).
 
 While this unit gives a basic introduction to operating systems concepts, it does not attempt to build a robust understanding of operating systems algorithms or issues. This might leave students fluent with the basic concept of an operating system, but it will not develop the kind of detailed technical understanding needed to even troubleshoot operating system problems, let alone discuss the nuanced differences between operating system designs. Such knowledge is not part of most learning standards, though it does appear in higher education computer science courses on operating systems, and is even discussed in popular technology journalism about operating systems. Instead of depth, the unit focuses on critically conscious breadth, helping students see the many diverse and surprising ways that operating systems connect to society.
+
+# Relevant Learning Standards
+
+This chapter prepared you to help students...
+
+,CSTA, Original Standard, Revised Standard
+,3A-CS-02, Compare levels of abstraction and interactions between application software\, system software\, and hardware layers.,Examine how levels of abstraction in operating systems and hardware shape and constrain what and how applications are created and used.
+,3B-CS-01, Categorize the roles of operating system software., Explain how specific features of operating systems dictate how software can be used.
+
+,Teaching Tolerance, Original Standard, Critically Conscious Revision
+,15, Identify figures\, groups\, events and a variety of strategies and philosophies relevant to the history of social justice around the world.,Identify figures\, groups\, events and a variety of strategies and philosophies relevant to the history of computer science and social justice.

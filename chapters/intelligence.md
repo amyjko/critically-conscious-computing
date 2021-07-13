@@ -7,22 +7,6 @@
 * Teachers should help students juxtapose human and computer intelligence, critically analyzing their strengths, weaknesses, and differences.
 =
 
-# Relevant CSTA Learning Standards
-
-Students will be able to:
-
-,Standard, Original Standard, Critically Conscious Revision
-,2-AP-12, Design and iteratively develop programs that combine control structures\, including nested loops and compound conditionals., Design and iteratively develop programs that model and critically examine decision logic with control structures\, nested loops and compound conditionals.
-,3-AP-15, Justify the selection of specific control structures when tradeoffs involve implementation\, readability\, and program performance\, and explain the benefits and drawbacks of choices made., Examine the tradeoffs in the selection of specific control structures relative to tradeoffs between implementation\, readability\, performance\, ethics\, inclusion\, and justice.
-,2-IC-20, Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options., Examine power imbalances in the design of computing techniques that create\, amplify\, and reinforce inequities and injustices in society.
-
-# Relevant Teaching Tolerance Social Justice Standards
-
-Students will:
-
-,Standard, Original Standard, Critically Conscious Revision
-,14, Students will recognize that power and privilege influence relationships on interpersonal\, intergroup\, and institutional levels and consider how they have been affected by those dynamics., Students will recognize that computing-based power and privilege influence relationships on interpersonal\, intergroup\, and institutional levels and consider how they have been affected by those dynamics.
-
 Computer science, as a discipline, engages many questions about data, information, process, algorithms, code, and more. But two questions in CS are central: _what is intelligence_ and can _we create intelligence_? Many disciplines have long pondered this first question: the earliest philosophers wondered what knowledge was and how it combined to form wisdom<kim19>; behavioral scientists have long studied how human memory, emotion, and decision making shape intelligence<hunt10>; and scientists have long pondered how intelligence varies across the species<thorndike98>. Computer science has pondered intelligence by investigating how to represent intelligence, independent from our minds, in the form of algorithms. Questions about intelligence are therefore not only central to computing, but to much of the social sciences.
 
 What distinguishes computing from these other disciplines is that it is also concerned with creating intelligence. For instance, one person who imagined this possibility was the son of a banker, Charles Babbage<hyman85>, who first imagined a mechanical machine in 1822 that could automatically calculate mathematical formulas. Later in his life, he met an aristocrat’s teen daughter, Ada Lovelace <essinger14>, who had fallen deeply in love with mathematics, and became enamoured with Babbage’s vision of a machine that could calculate. She extended Babbage’s ideas much further, imagining a more general purpose machine capable of far more than just numerical calculation. She also imagined an idea at the foundation of computer science and how it views intelligence: the algorithm, a series of steps that would operate on abstract symbols. She wrote the first algorithm--to compute a mathematical sum of powers--conceiving of the notion of “loops” in which a machine iterates on a set of data, and “variables” in which to keep track of data. To Lovelace, algorithms were a way of capturing the kind of mathematical intelligence that people have, and encoding it in a repeatable form. These ideas later inspired Alan Turing<copeland04> to generalize the notion of algorithms further, which ultimately led to an even broader community of scholars ultimately creating the field of computer science.
@@ -310,3 +294,16 @@ By this fourth session, students should have a rich sense of the tradeoffs of we
 Through this series of debates and reflections, students should have a more precise understanding of what kind of intelligence computers do and do not have, of what implications replacing people with computers can have on society, and how the values of inventors shape these implications. This will help shape students' critical consciousness of web search, situating in the history that produced it, while also centering their role in shaping future change.
 
 One limitation of the analytical method above is that it positions students as critics of technology rather than creators. An alternative is to engage students in creating with intelligent assistants, encountering the limitations of machine intelligence as they attempt to create with it. In later units that address the specific concepts in programming, this focus will shift from a critical role to a design role.
+
+
+# Relevant Learning Standards
+
+This chapter prepared you to help students...
+
+,CSTA, Original Standard, Critically Conscious Revision
+,2-AP-12, Design and iteratively develop programs that combine control structures\, including nested loops and compound conditionals., Design and iteratively develop programs that model and critically examine decision logic with control structures\, nested loops and compound conditionals.
+,3-AP-15, Justify the selection of specific control structures when tradeoffs involve implementation\, readability\, and program performance\, and explain the benefits and drawbacks of choices made., Examine the tradeoffs in the selection of specific control structures relative to tradeoffs between implementation\, readability\, performance\, ethics\, inclusion\, and justice.
+,2-IC-20, Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options., Examine power imbalances in the design of computing techniques that create\, amplify\, and reinforce inequities and injustices in society.
+
+,Teaching Tolerance, Original Standard, Critically Conscious Revision
+,14, Students will recognize that power and privilege influence relationships on interpersonal\, intergroup\, and institutional levels and consider how they have been affected by those dynamics., Students will recognize that computing-based power and privilege influence relationships on interpersonal\, intergroup\, and institutional levels and consider how they have been affected by those dynamics.

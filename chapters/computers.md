@@ -6,19 +6,6 @@
 * Engaging students in critically comprehending computers is not only about helping them understand what makes something a computer, but also why we’ve created them and what we do with them when we’re done with them.
 =
 
-# Relevant CSTA Learning Standards
-Students will be able to:
-,Standard, Original Standard, Revised Standard
-,2-CS-02, Design projects that combine hardware and software components to collect and exchange data., Design and critique projects that combine hardware and software to collect and process data.
-,3B-CS-02, Illustrate ways computing systems implement logic\, input\, and output through hardware components.,Illustrate ways that values shape the how computing systems implement logic\, input\, and output through hardware components.
-,3B-IC-27, Predict how computational innovations that have revolutionized aspects of our culture might evolve., predict how computational innovations will shape culture in positive and negative ways.
-
-# Relevant Teaching Tolerance Social Justice Standards
-Students will:
-
-,Standard, Original Standard, Critically Conscious Revision
-,12, Recognize unfairness on the individual level (e.g.\, biased speech) and injustice at the institutional or systemic level (e.g.\, discrimination)., Recognize unfairness on the individual level (e.g.\, software developers having bias against particular groups) and injustice at the institutional or systemic level (e.g.\, data and algorithms perpetuating injustice at scale).
-
 As we discussed in [Chapter 1|history], before the digital computer, the meaning of the word “computer” was simply “a person who computes.” And to compute, in essence, meant to calculate. From the earliest use of mathematics in human civilization, all the way until the mid-20th century, “human” computing was the only way we had to compute, and “human computers” were an essential part of using data to make decisions. 
 
 For example, in 1870, the United States "Signal Corps"<raines96> envisioned a mathematical model for tracking weather patterns. The model was complex, however, requiring a sophisticated knowledge of mathematics, and an attention to detail to compute. The Signal Corps used a small computing staff that processed data that had to be collected quickly; the people on this team worked in intensive 2-hour shifts to compute the model’s predictions. These large teams of women, often paid 25 cents an hour to compute, formed professional societies, unions, and were the workforce that computed missile trajectories in World War I, and flight trajectories for the first NASA numan orbit around Earth. The human role as computer, however, was not lost to history; most K-12 mathematics education continues to frame children as computers in teaching arithmetic. Our children, just as the women of the 19th and 20th centuries, are educated as computers, learning to manually add, subtract, multiply, and divide, often without any realization that the computers at home and in their pockets are doing the exact same work. The only difference—and the critical difference—is that computing technology does it faster, without error, and never gets bored or frustrated.
@@ -171,7 +158,7 @@ The next session adds a final piece to this global picture, investigating what w
 
 * Then show a video of computer recycling in Thailand, which is done by hand, and can be toxic. Ask students to monitor for the problems they see in the recycling process, who is doing the recycling, and what incentive companies have to recycle.
 
-* Summative assessment. Using a philosophical chairs discussion format, pose the question to students: knowing everything that they do about rare earth metals, energy use, and the risks and rewards of recycling, when is it worth upgrading a computer? Half of the class should defend the position that computers should be used until they stop functioning, and the other should defend the position that people should upgrade whenever they want to. Discuss how students’ arguments should be judged and what they might submit as evidence of their arguments. Alternate sides, eliciting positions and arguments.
+* *Summative assessment*. Using a philosophical chairs discussion format, pose the question to students: knowing everything that they do about rare earth metals, energy use, and the risks and rewards of recycling, when is it worth upgrading a computer? Half of the class should defend the position that computers should be used until they stop functioning, and the other should defend the position that people should upgrade whenever they want to. Discuss how students’ arguments should be judged and what they might submit as evidence of their arguments. Alternate sides, eliciting positions and arguments.
 
 * This is responsive because it centers students’ personal choices around upgrading.
 
@@ -183,3 +170,15 @@ The next session adds a final piece to this global picture, investigating what w
 By the end of these five sessions, students should not only be able to identify the central components of a modern computer architecture, but also understand what those components are made of, where those materials come from, how much energy computers use, where that energy comes from, and what happens to computers when we discard them. Throughout, students should be able to identify the moral tensions in basic actions with a computer, like recharging or discarding it.
 
 The clearest limitation of this example unit is that it prioritizes critical consciousness of the industrial and economic systems behind computer manufacturing and use at the expense of a robust technical understanding of computer architecture. This technical understanding can be valuable for helping students link the ideas in computer science more closely to how they are implemented in hardware. However, such ideas are rigorously taught in post-secondary CS education settings already. For the purposes of secondary CS education, focusing learning on both the global and local social and economic systems surrounding computing devices is more likely to grow students’ critical consciousness of computers.
+
+# Relevant Learning Standards
+
+This chapter prepared you to help students...
+
+,CSTA, Original Standard, Revised Standard
+,2-CS-02, Design projects that combine hardware and software components to collect and exchange data., Design and critique projects that combine hardware and software to collect and process data.
+,3B-CS-02, Illustrate ways computing systems implement logic\, input\, and output through hardware components.,Illustrate ways that values shape the how computing systems implement logic\, input\, and output through hardware components.
+,3B-IC-27, Predict how computational innovations that have revolutionized aspects of our culture might evolve., predict how computational innovations will shape culture in positive and negative ways.
+
+,Teaching Tolerance, Original Standard, Critically Conscious Revision
+,12, Recognize unfairness on the individual level (e.g.\, biased speech) and injustice at the institutional or systemic level (e.g.\, discrimination)., Recognize unfairness on the individual level (e.g.\, software developers having bias against particular groups) and injustice at the institutional or systemic level (e.g.\, data and algorithms perpetuating injustice at scale).

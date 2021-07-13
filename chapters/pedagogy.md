@@ -6,24 +6,6 @@
 * Most popular CS curricula do not embrace critical CS pedagogy, requiring CS educators to take a creative and activist stance in exploring, sharing, and reflecting new teaching methods that center students’ critical consciousness of computing.
 =
 
-# Related CSTA Teaching Standards
-
-Teachers will be able to:
-
-,*Standard*, *Original Standard*, *Critically Conscious Revision*
-,2a, Examine issues of equity in CS, Examine issues of equity and justice in CS
-,2b, Minimize threats to inclusion, Create culturally responsive and sustaining learning environments for all students
-,2c, Represent diverse perspectives, Make space for diverse perspectives\, values\, and assets from both students and broader society
-,3c, Examine and counteract personal bias, Examine and overcome both personal and structural bias
-,3d, Commit to the mission of CS for all students, Advocate for and implement structural change to capacity\, access\, participation\, and experience for CS for All 
-,4a, Analyze CS curricula, Critically examine\, adapt\, and develop CS curricula
-,4d, Build connections between CS and other disciplines, Identify authentic integration points between CS and other disciplines
-,4e, Plan projects that have personal meaning to students, Situate CS learning in students’ identities\, values\, goals\, and communities
-
-|Chapter02_Figure02_Mastering.png|TODO|Why teach CS?|Jessie Huynh|
-
-# Arguments for CS literacy
-
 Throughout the history of CS education, there have been many different reasons for teaching CS<guzdial15>. We examined some of these briefly in [Chapter 1|history] from the perspective of competing priorities around CS education reform. Here we examine them pedagogically. 
 
 One argument for CS literacy, emerging from Papert’s theory of constructionism, is that computers and programming can help shape thought, making us better problem solvers. Our best evidence suggests, however, that this is not true<salomon87,scherer19>: learning to code does not make youth better at reading, writing, or arithmetic. When taught well, it can make them better at coding, and under the best conditions, becoming better at programming can result in modest improvements in metacognitive skills, such as reflecting on one’s problem solving process<scherer19>. However, even improving metacognitive skills specifically for programming is still difficult pedagogically: one study found that even when students were metacognitive strategies were scaffolded as step-by-step problem solving approaches, impulse control made it challenging for some adolescents to use those strategies, even when they were confident in the efficacy of those strategies<ko19>. Another study showed that scaffolding problem solving awareness by building a classroom culture around self-regulation could help adolescents manage impulse control, which led to them choosing better problem solving strategies. Thus, the strongest rationale for teaching the part of CS that is coding is to help strengthen students’ general metacognition, and if this is the goal of teaching, then it must be done with care.
@@ -35,6 +17,8 @@ Computer Science for All is the President’s bold new initiative to empower all
 " U.S. President Barack Obama, 2016
 
 This argument, which emerged from industry and higher education advocacy, plainly positioned itself as expanding the number of CS graduates that could serve the software industry, and often cited statistics about software engineering shortages. Behind this empowerment argument was also a neoliberal argument, suggesting that the purpose of school is to develop skills in youth that serve industry goals of creating and expanding the “digital economy”. The reality behind this argument however, is that there is no shortage of developers who want to work in the software industry: companies don’t want to hire just anyone, they want to hire people who have the specific skills they need at a particular moment in time, and long-term public education in primary, secondary, and even post-secondary isn’t positioned to offer that. This has led to phenomena like coding bootcamps, which are trade schools for marketable skills; it has led to companies like Google, Oracle, IBM, and others to offer their own certificate programs to train people on the specific skills they need; and it has also led to ageism in hiring, with bias against those over 40 because they are perceived to have less relevant skills<baltes20>. All of this raises the question about the purpose of secondary CS education: is it to develop marketable skills, just like bootcamps and industry certificate programs, or is it something else?
+
+|Chapter02_Figure02_Mastering.png|Two students with masks on operating machinery together.|Is CS only about skills?|Jessie Huynh|
 
 As the CS for All effort rolled out, catalyzed state-level initiatives across the United States, and mirrored similar efforts in the UK, Japan, South Korea, and other countries, the underlying motivation for CS education diverged from state to state. Some preserved the economic empowerment motive, but many adopted the language of _Broadening Participation in Computing_ (BPC), a phrase popularized by the US National Science Foundation. This focused less on educating students to serve industry, and more on broadening who is educated, using CS education reform efforts to entice, welcome, and support students historically marginalized in CS, including women, Black, Brown, and Native American youth, students with disabilities, and students in rural communities with little access to CS or CS careers<peckham07>. At the core of this argument was still an economic motive of educating and empowering more students with CS skills. But it added to this argument the diversification of CS along race, gender, and socioeconomic dimensions. This motivation, however, has largely been tokenistic, focusing merely on including greater numbers of marginalized students in CS without questioning how CS is taught, what we teach about CS, or the cultures and values of the institutions that youth might enter later, whether higher education or industry. Such efforts expect students to enter CS education as it is, conforming to current CS structures.
 
@@ -148,3 +132,17 @@ In many ways, although Freire’s ideas have been around for decades, education 
 * [Advanced Placement CS Principles|https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course] (AP CSP) makes more room for student agency and identity, especially by using a portfolio-based assessment rather than an exam, and includes a whole unit on the impact of computing, including topics of bias, ethics, and equity. However, the AP exam does not assess these topics and so teachers often exclude them, and curriculum providers, such as the [Beauty and Joy of Computing|https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course], frame them as peripheral to the primary focus on coding.
 
 These and other curricula, while excellent for helping youth develop skills and confidence in coding, do little to engage youth in developing critical consciousness of computing in society. Moreover, they still struggle to reach baseline levels of inclusion, with many leaving little room for student identity, several posing insurmountable accessibility barriers to students with disabilities<ladner17>, and many overlooking bilingual students’ needs for translanguaging support.
+
+# Related CSTA Teaching Standards
+
+This chapter prepared you to...
+
+,*Standard*, *Original Standard*, *Critically Conscious Revision*
+,2a, Examine issues of equity in CS, Examine issues of equity and justice in CS
+,2b, Minimize threats to inclusion, Create culturally responsive and sustaining learning environments for all students
+,2c, Represent diverse perspectives, Make space for diverse perspectives\, values\, and assets from both students and broader society
+,3c, Examine and counteract personal bias, Examine and overcome both personal and structural bias
+,3d, Commit to the mission of CS for all students, Advocate for and implement structural change to capacity\, access\, participation\, and experience for CS for All 
+,4a, Analyze CS curricula, Critically examine\, adapt\, and develop CS curricula
+,4d, Build connections between CS and other disciplines, Identify authentic integration points between CS and other disciplines
+,4e, Plan projects that have personal meaning to students, Situate CS learning in students’ identities\, values\, goals\, and communities

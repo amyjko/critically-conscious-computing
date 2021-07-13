@@ -7,18 +7,6 @@
 * Teaching who created programming languages and why can help learners understand that languages are invented and imperfect.
 =
 
-# Relevant CSTA Learning Standards
-Students will be able to:
-,Standard, Original Standard, Revised Standard
-,3B-AP-24, Compare multiple programming languages and discuss how their features make them suitable for solving different types of problems., Compare multiple programming languages\, examining how their creators\, origins\, and values make them more or less suitable for different people and problems.
-
-# Relevant Teaching Tolerance Social Justice Standards
-Students will:
-,Standard, Original Standard, Critically Conscious Revision
-,3, Recognize that people’s multiple identities interact and create unique and complex individuals., Recognize how computing often ignores how people’s multiple identities interact and create unique and complex individuals.
-,5, Students will recognize traits of the dominant culture\, their home culture and other cultures and understand how they negotiate their own identity in multiple spaces., Students will recognize traits of the dominant computing culture\, their home culture and other cultures and understand how they negotiate their own identity in multiple computing spaces.
-,10, Examine diversity in social\, cultural\, political\, and historical contexts rather than in ways that are superficial or oversimplified., Examine how to design for diversity in the social\, cultural\, political\, and historical contexts of both society and computing\, rather than in ways that are superficial or oversimplified.
-
 In our earlier chapter on [Encoding Intelligence|intelligence], we talked about the idea of machine instructions as low level operations that computers perform, such as retrieving a value from memory, storing a value in memory, adding values, subtracting values, and jumping to different instructions of a program. We noted how these instructions are a powerful set of logical operations, but also only capable of approximating human intelligence. Our chapter on [Computers|computers] discussed how these instructions are implemented by hardware components like central processing units, which try to execute these basic operations as quickly as possible, and how entire economies have been restructured in order to produce and recycle these hardware components. Our chapter on [Operating Systems|operating] discussed how these instructions and programs are managed and executed to efficiently utilize a computer’s limited resources, and in doing so, they have become gatekeepers to who can access computers, what applications they can run, and what data they gather about our use. Throughout all of these systems, machine instructions are the central vocabulary with which we encode intelligence in computers, in software and in hardware.
 
 However, we have yet to talk about where these instructions come from. Who writes them? How do they write them? How is it possible to express some idea for an application--whether as simple as a mathematical formula or as complex as a new social media platform--as code for a computer to execute? The answer is *programming languages*. Programming languages are user interfaces for telling computers what we want them to compute and how they should compute it by writing down instructions in a pre-defined notation.
@@ -383,3 +371,15 @@ This session builds upon the syntax session, helping students see that both synt
 This final session situates Python against other languages, using the contrast to highlight it’s intended audience and underlying values. Students should leave this last session with a sense that Python is just one of many languages, that it was designed for particular purposes, that it could have been designed differently, and that using it requires many specific skills, resources, and abilities that not everyone has access to.
 
 This lesson has many strengths and weaknesses relative to the problem set and creative expression approaches to teaching programming languages. It’s core strengths are helping students see programming languages as designed artifacts with particular values and failings, and helping give students a sense of critical agency when using them. It’s core weakness is that it does not engage students in using the language to create; rather, it positions students as critical observers of a language. The example above also only focuses on a small subset of Python. Of course, such a lesson can just be the beginning of a series of units that more directly engage students with the full range of syntactic and semantic rules in Python, and in writing programs using that broader range of futures. In the coming chapters, we will discuss methods for teaching specific language constructs, including [Control Structures|control], [Data Structures|data], and [Functions, Objects, and APIs|functions], as each has their own pedagogical challenges.
+
+# Relevant Learning Standards
+
+This chapter prepared you to help students...
+
+,CSTA, Original Standard, Revised Standard
+,3B-AP-24, Compare multiple programming languages and discuss how their features make them suitable for solving different types of problems., Compare multiple programming languages\, examining how their creators\, origins\, and values make them more or less suitable for different people and problems.
+
+,Teaching Tolerance, Original Standard, Critically Conscious Revision
+,3, Recognize that people’s multiple identities interact and create unique and complex individuals., Recognize how computing often ignores how people’s multiple identities interact and create unique and complex individuals.
+,5, Students will recognize traits of the dominant culture\, their home culture and other cultures and understand how they negotiate their own identity in multiple spaces., Students will recognize traits of the dominant computing culture\, their home culture and other cultures and understand how they negotiate their own identity in multiple computing spaces.
+,10, Examine diversity in social\, cultural\, political\, and historical contexts rather than in ways that are superficial or oversimplified., Examine how to design for diversity in the social\, cultural\, political\, and historical contexts of both society and computing\, rather than in ways that are superficial or oversimplified.

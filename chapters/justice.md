@@ -6,29 +6,6 @@
 * Teachers can build students’ critical consciousness of computing, equity, and justice by linking the injustices in their lives to the injustices in technology.
 =
 
-# Related CSTA Learning Standards
-
-Students will be able to:
-
-,*Standard*,*Original Standard*, *Critically Conscious Revision*
-,2-IC-20, Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options., Examine power imbalances in the design of computing techniques that create\, amplify\, and reinforce inequities and injustices in society.
-,2-IC-21, Discuss issues of bias and accessibility in the design of existing technologies., Describe how software excludes groups marginalized by their gender\, race\, ethnicity\, language\, and ability.
-,3A-IC-24, Evaluate the ways computing impacts personal\, ethical\, social\, economic\, and cultural practices., Critique how computing amplifies\, centralizes\, privatizes\, and automates social processes in society\, impacting individuals\, communities\, and cultures.
-,3A-IC-25, Test and refine computational artifacts to reduce bias and equity deficits., Systematically examine software for bias\, exclusion\, inequity\, and injustice\, identifying ways to redesign it or deter its use.
-,3A-IC-27, Use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields., Harness tools and collaboration methods to engage diverse teams in community-based projects.
-,3B-IC-25, Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society., Critique the design\, engineering\, and use of software in society\, examining who it helps and who it hurts.
-,3B-IC-26, Evaluate the impact of equity\, access\, and influence on the distribution of computing resources in a global society., Examine inequities in access to computing devices and the internet and how those inequities amplify other inequities and systems of oppression in society.
-
-# Relevant Teaching Tolerance Social Justice Standards
-
-Students will:
-
-,*Standard*, *Original Standard*, *Critically Conscious Revision*
-,9, Respond to diversity by building empathy\, respect\, understanding and connection., Respond to diversity by engaging in community-based\, inclusive software design social justice.
-,12, Recognize unfairness on the individual level (e.g.\, biased speech) and injustice at the institutional or systemic level (e.g.\, discrimination)., Recognize unfairness on the individual level (e.g.\, software developers having bias against particular groups) and injustice at the institutional or systemic level (e.g.\, data and algorithms perpetuating injustice at scale).
-,13, Analyze the harmful impact of bias and injustice on the world\, historically and today., Analyze the harmful impact of algorithmic and data bias and injustice on the world\, historically and today. 
-,14, Students will recognize that power and privilege influence relationships on interpersonal\, intergroup and institutional levels and consider how they have been affected by those dynamics., Students will recognize that computing-based power and privilege influence relationships on interpersonal\, intergroup and institutional levels and consider how they have been affected by those dynamics.
-
 Computer science, as a discipline, has often viewed software as neutral. Algorithms, many will argue, are neutral artifacts, agnostic to the data they process. Data, many will say, are just ones and zeroes, devoid of inherent meaning. These arguments, in a way, are similar to arguments about other technologies that have potential for harm. For example, proponents of unrestricted gun rights will argue that “guns don’t kill people, people kill people,” absolving the weapon from any role in killing. With the advent of the atomic bomb, many scientists viewed physics neutrally, seeing no particular role for scientists in how physics was applied. Many will use similar arguments about algorithms and data to claim that software, like guns and physics, is objective and impartial, unlike people, who may be racist, sexist, ableist, and more. Some proponents of this neutral view of computing go further, celebrating code as a savior from humanity’s inherent bias, finally freeing us from our discriminatory tendencies.
 
 The opposing view is that algorithms and data are inherently not neutral. As numerous scholars and writers have shown<benjamin19,oneil16,friedman19>, code is inseparable from the beliefs, values, and biases of its creators, because people (and as we shall see with machine learning, data created by people) ultimately determine the behavior of software. For example, software developers working as private contractors for the TSA decided that security scanners would discriminate against people with gender non-conforming bodies, subjecting them to invasive, humiliating pat downs<costanzachock20>; product managers and developers at Amazon decided to sell facial recognition software to police around the U.S., even though its accuracy was disproportionately low for Black faces, the very faces being surveilled by police<browne15>. The developers of many websites decided that the two letter last name of this book’s first author is not a “valid” family name, preventing her from submitting web forms to access banking and social services. These anecdotes demonstrate that code is far from value-neutral; in fact, is value- and bias-rich, with every line of code making some judgement about who people are, how they behave, and how society should work.
@@ -185,3 +162,22 @@ The last session focuses on transfer, from the school context to broader society
 =
 
 This unit positions students not only as critics of computing, but also critics of social contexts in general, while also giving them experience in the role of designing social contexts, and advocating for change in social contexts. Throughout, it grounds their understanding in the particular powers of computing, hopefully helping them see the computers in their lives no longer as innocuous, neutral objects, but powerful machines for enforcing social rules. The unit also works well as a priming for more involved design projects, where students must make more detailed and complex design decisions.
+
+# Relevant Learning Standards
+
+This chapter prepared you to help students...
+
+,CSTA,Original Standard, Critically Conscious Revision
+,2-IC-20, Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options., Examine power imbalances in the design of computing techniques that create\, amplify\, and reinforce inequities and injustices in society.
+,2-IC-21, Discuss issues of bias and accessibility in the design of existing technologies., Describe how software excludes groups marginalized by their gender\, race\, ethnicity\, language\, and ability.
+,3A-IC-24, Evaluate the ways computing impacts personal\, ethical\, social\, economic\, and cultural practices., Critique how computing amplifies\, centralizes\, privatizes\, and automates social processes in society\, impacting individuals\, communities\, and cultures.
+,3A-IC-25, Test and refine computational artifacts to reduce bias and equity deficits., Systematically examine software for bias\, exclusion\, inequity\, and injustice\, identifying ways to redesign it or deter its use.
+,3A-IC-27, Use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields., Harness tools and collaboration methods to engage diverse teams in community-based projects.
+,3B-IC-25, Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society., Critique the design\, engineering\, and use of software in society\, examining who it helps and who it hurts.
+,3B-IC-26, Evaluate the impact of equity\, access\, and influence on the distribution of computing resources in a global society., Examine inequities in access to computing devices and the internet and how those inequities amplify other inequities and systems of oppression in society.
+
+,Teaching Tolerance, Original Standard, Critically Conscious Revision
+,9, Respond to diversity by building empathy\, respect\, understanding and connection., Respond to diversity by engaging in community-based\, inclusive software design social justice.
+,12, Recognize unfairness on the individual level (e.g.\, biased speech) and injustice at the institutional or systemic level (e.g.\, discrimination)., Recognize unfairness on the individual level (e.g.\, software developers having bias against particular groups) and injustice at the institutional or systemic level (e.g.\, data and algorithms perpetuating injustice at scale).
+,13, Analyze the harmful impact of bias and injustice on the world\, historically and today., Analyze the harmful impact of algorithmic and data bias and injustice on the world\, historically and today. 
+,14, Recognize that power and privilege influence relationships on interpersonal\, intergroup and institutional levels and consider how they have been affected by those dynamics., Recognize that computing-based power and privilege influence relationships on interpersonal\, intergroup and institutional levels and consider how they have been affected by those dynamics.

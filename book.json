@@ -91,6 +91,13 @@
 			"section": "Code"
 		},
 		{
+			"id": "control", 
+			"title": "Control Structures", 
+			"authors": ["ko", "wortzman"],
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"section": "Code"
+		},
+		{
 			"id": "datastructures", 
 			"title": "Data Structures", 
 			"authors": ["ko"],
@@ -220,6 +227,13 @@
 			"IEEE Symposia on Human Centric Computing Languages and Environments",
 			"https://doi.org/10.1109/HCC.2002.1046334"
 		],
+		"bockmon19": [
+			"Ryan Bockmon, Stephen Cooper, Jonathan Gratch, Mohsen Dorodchi",
+			2019,
+			"(Re)Validating Cognitive Introductory Computing Instruments",
+			"#sigcse",
+			"https://doi.org/10.1145/3287324.3287372"			
+		],
 		"boole54": [
 			"George Boole",
 			1854,
@@ -303,6 +317,13 @@
 			"Remixing as a Pathway to Computational Thinking",
 			"ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW)",
 			"https://doi.org/10.1145/2818048.2819984"
+		],
+		"davidson21": [
+			"Matt Davidson, Amy J. Ko, Brett Wortzman",
+			2021,
+			"Investigating Item Bias in a CS1 exam with Differential Item Functioning",
+			"#sigcse",
+			"https://doi.org/10.1145/3408877.3432397"
 		],
 		"davis19": [
 			"James Davis, Michael Lachney, Zoe Zatz, William Babbitt, and Ron Eglash",
@@ -724,6 +745,13 @@
 			"#chi",
 			"https://doi.org/10.1145/2858036.2858252"
 		],
+		"loksa16b": [
+			"Dastyni Loksa, Amy J. Ko",
+			2016,
+			"The Role of Self-Regulation in Programming Problem Solving Process and Success",
+			"#icer",
+			"https://doi.org/10.1145/2960310.2960334"
+		],
 		"machale14": [
 			"Desmond MacHale",
 			2014,
@@ -815,6 +843,13 @@
 			"#icer",
 			"https://doi.org/10.1145/3105726.3106178"
 		],
+		"nelson19": [
+			"Greg L. Nelson, Andrew Hu, Benjamin Xie, Amy J. Ko",
+			2019,
+			"Towards validity for a formative assessment for language-specific program tracing skills",
+			"ACM Koli Calling International Conference on Computing Education Research",
+			"https://doi.org/10.1145/3364510.3364525"
+		],
 		"nyce91": [
 			"From Memex To Hypertext",
 			1991,
@@ -849,6 +884,13 @@
 			"Culturally sustaining pedagogy: A needed change in stance, terminology, and practice",
 			"Educational Researcher",
 			"https://doi.org/10.3102%2F0013189X12441244"
+		],
+		"parker16": [
+			"Miranda C. Parker, Mark Guzdial, Shelly Engleman",
+			2016,
+			"Replication, Validation, and Use of a Language Independent CS1 Knowledge Assessment",
+			"#icer",
+			"https://doi.org/10.1145/2960310.2960316"
 		],
 		"papert93": [
 			"Seymour A. Papert",
@@ -1144,12 +1186,26 @@
 			"Environmental Impact Assessment Review",
 			"https://doi.org/10.1016/j.eiar.2005.04.001"
 		],
+		"xie18": [
+			"Benjamin Xie, Greg Nelson, Amy J. Ko",
+			2018,
+			"An Explicit Strategy to Scaffold Novice Program Tracing",
+			"#sigcse",
+			"https://doi.org/10.1145/3159450.3159527"
+		],
 		"xie19": [
 			"Benjamin Xie, Dastyni Loksa, Greg L. Nelson, Matthew J. Davidson, Dongsheng Dong, Harrison Kwik, Alex Hui Tan, Leanne Hwa, Min Li, Amy J. Ko",
 			2019,
 			"A theory of instruction for introductory programming skills",
 			"#cse",
 			"https://doi.org/10.1080/08993408.2019.1565235"
+		],
+		"xie21": [
+			"Benjamin Xie, Matt J. Davidson, Baker Franke, Emily McLeod, Min Li, Amy J. Ko",
+			2021,
+			"Domain Experts' Interpretations of Assessment Bias in a Scaled, Online Computer Science Curriculum",
+			"ACM Conference on Learning @ Scale",
+			"https://doi.org/10.1145/3430895.3460141"
 		],
 		"yukselturk16": [
 			"Erman Yukselturk, Serhat Altiok",

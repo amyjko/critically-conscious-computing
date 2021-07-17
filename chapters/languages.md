@@ -125,7 +125,7 @@ The only difference here is the use of what C called a function, which was a way
 % Verify functions link
 *C++* (1979) was created by [Bjarne Stroustrup|https://en.wikipedia.org/wiki/Bjarne_Stroustrup]<stroustrup96>, a Danish computer scientist, after he fell in love with the ideas of “object-oriented” programming languages first found in the Simula language<holmevik94>. “Object orientation” (which we discuss in a [later chapter|functions]) was the idea of organizing different parts of larger programs into named groups that combined data and functionality, exposing parts of that functionality to other groups of code. Simula programs were too slow to execute to build production software, and so Stroustrup designed C++ to have the speed and syntax of C, but the object-oriented features of Simula. A quadratic formula therefore looked just like it did in C, but with the option of storing a function inside of a "class" definition, which gathered many related functions into a shared space:
 
-`c++
+`cpp
 class Math {
     public:
         int average(float a, float b) {

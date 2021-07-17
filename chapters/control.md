@@ -253,7 +253,7 @@ To trace this example, we might execute the program twice, once with `number\_of
 2. It checks the kind of statement that is executing, noticing that it is an `if` statement
 3. Because it is an `if` statement, it first evaluates the expression following the keyword
 4. To execute the expression, it follows the order of operations. But since there is only one operator--the `>` operator--there is only one order possible.
-5. To execute the inequality statement, it first evaluates the left side. The left side is a reference to a variable called `number\_\of\_\dependents, so Python checks its memory to see what the value of that variable currently is at this moment of execution (we decided above it would be `0`)
+5. To execute the inequality statement, it first evaluates the left side. The left side is a reference to a variable called `number\_\of\_\dependents`, so Python checks its memory to see what the value of that variable currently is at this moment of execution (we decided above it would be `0`)
 6. Python remembers that the left side evaluated to `0`, then checks the right side, which is a number, `0`.
 7. Now that it remembers the value of the left and the right side (`0` and `0`, respectively), it provides the two values to the `>` greater-than operator. This operator resolves to `True` if the left value is greater than the right value, and `False` otherwise. In this case, the integer `0` is not greater than `0`, so it resolves to `False`.
 8. Now that the `if` statement’s conditional expression has evaluated to `False`, the condition begins executing the statements indented underneath the `else` keyword.
@@ -265,19 +265,19 @@ Of course, tracing a program’s execution can be incredibly boring--and inevita
 
 1. Python starts at the first line of the program. 
 1.. What if there’s a pandemic, and SNAP benefits should be distributed independent of eligibility criteria according to a government order? Is this a program we should even be running?
-2. It checks the kind of statement that is executing, noticing that it is an if statement. 
-2..Does the algorithm have enough information before making this decision? A human might gather more before deciding, but this program won’t.
-3. Because it is an if statement, it first evaluates the expression following the keyword.
-4. To execute the expression, it follows the order of operations. But since there is only one operator—the > operator—there is only one order possible. 
+2. It checks the kind of statement that is executing, noticing that it is an `if` statement. 
+2.. Does the algorithm have enough information before making this decision? A human might gather more before deciding, but this program won’t.
+3. Because it is an `if` statement, it first evaluates the expression following the keyword.
+4. To execute the expression, it follows the order of operations. But since there is only one operator--the `>` operator--there is only one order possible. 
 4.. What counts as a dependent? What about children of divorced parents? Does this equality account for those cases?
-5. To execute the inequality statement, it first evaluates the left side. The left side is a reference to a variable called number_of_dependents, so Python checks its memory to see what the value of that variable currently is at this moment of execution (we decided above it would be 0). 
+5. To execute the inequality statement, it first evaluates the left side. The left side is a reference to a variable called `number\_of\_dependents`, so Python checks its memory to see what the value of that variable currently is at this moment of execution (we decided above it would be `0`). 
 5.. What if this data was entered incorrectly, or is wrong? This algorithm doesn’t check the data’s validity.
-6. Python remembers that the left side evaluated to 0, then checks the right side, which is a number, 0.
-7. Now that it remembers the value of the left and the right side (0 and 0, respectively), it provides the two values to the > greater-than operator. This operator resolves to True if the left value is greater than the right value, and False otherwise. In this case, the integer 0 is not greater than 0, so it resolves to False. 
+6. Python remembers that the left side evaluated to 0, then checks the right side, which is a number, `0`.
+7. Now that it remembers the value of the left and the right side (`0` and `0`, respectively), it provides the two values to the `>` greater-than operator. This operator resolves to `True` if the left value is greater than the right value, and `False` otherwise. In this case, the integer `0` is not greater than `0`, so it resolves to `False`. 
 7.. What about cases where the number of dependents is changing? For example, a pregnant mother that will have a child soon, or a family that is about to adopt a foster child?
-8. Now that the if statement’s conditional expression is resolved to False, the condition begins executing the statements indented underneath the else keyword. 
+8. Now that the `if` statement’s conditional expression is resolved to False, the condition begins executing the statements indented underneath the `else` keyword. 
 8.. Is there any way to reconsider this decision if new information arrived after evaluating the number of dependents? There is no going back at this point.
-9. The first indented statement is return False, which evaluates its condition, which is False. The keyword return in this case tells the program to halt with the value False. Notice that the statement above the else keyword was skipped. 
+9. The first indented statement is return `False`, which evaluates its condition, which is `False`. The keyword return in this case tells the program to halt with the value `False`. Notice that the statement above the `else` keyword was skipped. 
 9.. Someone was just denied benefits, without considering any of the factors above.
 
 This method of bringing social context can be paired with having students bring in their own personal data as well. For example, rather than just choosing an arbitrary value for `number\_of\_dependents` above, students could determine their own value, and trace the algorithm to see how it would decide their family’s eligibility.

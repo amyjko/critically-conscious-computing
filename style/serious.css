@@ -195,6 +195,18 @@ ol li {
     counter-increment: item;
 }
 
+ol li {
+	list-style-type: none;
+}
+
+ol ol li {
+	list-style-type: none;
+}
+
+ol ol ol li {
+	list-style-type: none;
+}
+
 ol li::before {
     content: counter(item) ". ";
     color: #EB2C27;
@@ -203,6 +215,14 @@ ol li::before {
     margin-left: -1.5em;
     margin-right: 0.5em;
     text-align: right; 
+}
+
+ol ol li::before {
+    content: counter(item, lower-alpha) ". ";
+}
+
+ol ol ol li:before {
+    content: counter(item, upper-alpha) ". ";
 }
 
 .callout ol, .callout ul {

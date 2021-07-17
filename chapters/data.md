@@ -53,15 +53,13 @@ In a computer program, if we want to refer to the value above, we can just say _
 Because variables can be named whatever we want, it is much easier to refer to and manipulate data. For example, in Python, we can do:
 
 `python
-# Store 555819297 in a variable named socialSecurityNumber
 ssn = 555819297
 # Check if the number is within the California range.
 if ssn >= 545000000 and ssn <= 573999999:
     print "Born in California!"
 `A Python program that analyzes a social security number.
 
-% Need to make sure this line numbering is implemented, otherwise this doesn't make sense.
-(According to the [U.S. Social Security Administration|https://www.ssa.gov], the first three digits represent birth place, but no, the first author was not born in California). In line 2 above, since the variable’s name is on the left, this line is known as an assignment statement. The program’s job is to compute the value to the right of the = sign, then store the value at some address in memory, and remember that ssn refers to that address. In line 4 of the program, since ssn isn’t on the left side of an assignment statement, the program’s job is to first identify which address in memory that number refers to, and then ask the computer to obtain the value stored at that address. The power of variables is that all of that is presented simply as a single name, ssn.
+According to the [U.S. Social Security Administration|https://www.ssa.gov], the first three digits represent birth place, but no, the first author was not born in California). In the first line above, since the variable’s name is on the left, this line is known as an assignment statement. The program’s job is to compute the value to the right of the = sign, then store the value at some address in memory, and remember that `ssn` refers to that address. In the `if` statement in the program, since `ssn` isn’t on the left side of an assignment statement, the program’s job is to first identify which address in memory that number refers to, and then ask the computer to obtain the value stored at that address. The power of variables is that all of that is presented simply as a single name, ssn.
 
 The details above overlook an important question, however: how does the computer know that the 32 bits stored in memory above are a number, and not something else, like a word? Bits are used to represent everything in computers, including text, images, videos, and other data, so what makes those bits represent a number? This is where *data types* come in. Data types are how programming languages indicate the meaning of the bits stored in memory. In the case above, Python noticed that the value `555819297` was an integer data type, which means a positive or negative whole number with no numbers after the decimal point. Because 𝜋it recognized it as an integer, it guessed it’s data type as a 32-bit integer.
 

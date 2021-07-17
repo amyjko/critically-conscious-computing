@@ -59,7 +59,7 @@ Because design and engineering are different activities, teaching CS requires te
 
 Let’s consider three ways of framing CS in relation to design and their pedagogical tradeoffs. We’ll then present an example unit plan for the third alternative, which we believe best balances disciplinary authenticity and engagement.
 
-||||TODO |A photograph of constructionist learning through making.|
+|Chapter05_Figure05_Constructionism.png|A child constructing legos, but the legos are in their own mind|Teaching CS _as_ design has some benefits, but masks design as a distinct skill.|TODO|
 
 ## Teaching CS as Design
 
@@ -77,7 +77,7 @@ Another risk with equating CS with design is that it ignores essential aspects o
 
 Finally, equating CS activities and design activities tends to misrepresent the reality of CS-related roles in the workforce, leading students to pursue CS careers when they really might be more interested in design roles. Software engineers typically don’t design software; they build it, based on what designers have designed. User experience (UX) designers, interaction designers, and even business-minded product managers determine what software should do and set requirements accordingly. Clarity around what counts as design and what counts as CS can help students make informed decisions about future education or career choices.
 
-||||TODO An example problem from an AP CS exam would be a good choice here.|
+|Chapter05_Figure06_APCSProblem.png|An AP CS A exam question, which includes a class declaration and a question that prompts the student to write a method|Engineering-centered pedagogies focus on problem solving, as in this AP CS exam prompt.|TODO|
 
 # Teaching CS as Engineering
 

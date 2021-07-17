@@ -188,7 +188,7 @@ Rather than focusing on mathematics, Alice included language ideas that enabled 
 
 Whereas most languages have focused on supporting mathematical computation, and large system creation, and Scratch and Alice focused on creative expression, other languages have addressed issues of marginalization. For example, *[Quorum|https://quorumlanguage.com]* was designed by American computer scientist [Andreas Stefik|https://web.cs.unlv.edu/stefika/], who wanted a language that reflected evidence about programming language learnability, but also a language with a simple enough syntax that it could be easily read by *screen readers*, tools that people who are blind, low vision, or dyslexic might use to convert text on a computer to synthesized speech. This allowed people to learn to program independent of their abilities, unlike all other programming languages that have been created. Here is a simple average in Quorum:
 
-`
+`quorum
 action average(number a, number b) returns number
     return (a + b) / 2
 `

@@ -108,6 +108,10 @@ ol li.reference::before {
     margin-bottom: 0.5em;
 }
 
+.outline-header:before {
+    content: "> ";
+}
+
 code {
     font-family: "DM Mono", monospace;
 }

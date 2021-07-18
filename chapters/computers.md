@@ -64,11 +64,13 @@ The future of computer hardware will likely look much like its past: constant in
 
 |Chapter08_Figure05_Inspecting.png|Several students peeking and peering into different parts of computers.|Students need to understand that computers are objects, not magic.|Jessie Huynh|
 
-# Unit Plan: Unpacking Ubiquity
+# Teaching Computers
 
 Computer science, confusingly, is not particularly about computers. In fact, the academic discipline most concerned with computers is called computer engineering. And yet computers are perhaps the most salient connection that students have to computer science, as they likely have a computer of some kind at home and at school, can see computers in popular culture, and probably interact with them daily. This makes computers themselves a fraught entry point to talking about computer science, as it can distract from learning about computation itself<grover16>, which can be more invisible and abstract.
 
 And yet, there is so much to be critical about when it comes to computer hardware. Understanding that computers were originally people doing arithmetic, and that much of students’ math education experiences are precisely that same work, can be a profound realization about the historical ties between computation and education. Understanding that computer hardware is full of precious, valuable metals, but also toxic materials, and that human hands extract them when wealthier countries are done with computers, is a revealing insight about globalization and the developing world. And understanding the electricity that computers use, where that electricity comes from, and the increasing role that computers play in climate change, ties computers to the natural sciences. Computers then, as distracting as they might be from computation as they are, cannot be ignored.
+
+## Unit Plan: Unpacking Ubiquity
 
 Below we present an example unit plan that attempts to balance this tension, engaging students in interrogating what computers are, where they come from, and where they go, while positioning them as mere tools for computation that might be situated in any object in students’ lives. The invisibility of computers—their origin, their role in appliances, and their final destination in landfills—is the subject of this example unit.
 
@@ -82,7 +84,7 @@ The learning objectives of the unit are:
 To achieve these learning objectives, the unit contains five sessions, moving from the computers in students’ lives, the composition of those computers, to the origins of those computers, to the energy used by those computers, and finally to the destination of those computers when they are discarded. Throughout, students engage in critical discourse about what a computer is and its various stages of a computer’s life.
 
 =
-## Session 1: What is a computer?
+### Session 1: What is a computer?
 * Start the session by brainstorming about the kinds of things that are computers or have computers in them. The salient things will be desktops, laptops, and possibly phones.
 * As students run out of ideas, begin to suggest other less obvious objects that have computers, especially objects in the classroom, such as lights, clocks, watches, and other devices, or the vehicles that they used to get to school, whether cars, buses, or trains.
 * As the ubiquity of computers becomes more apparent, turn the conversation to things that students want, and the extent to which they involve computers. These might include things like consumer electronics like video game consoles, headphones, and other computer-containing gadgets.
@@ -95,7 +97,7 @@ This first session sets the stage for the unit, helping students recognize the i
 The next session builds on this greater awareness and curiosity by providing direct instruction about what computers actually are, challenging the consensus definition of the class built in session 1.
 
 =
-## Session 2: What computers actually are
+### Session 2: What computers actually are
 * Remind the class of the consensus definition from the first session.
 Define a computer as a device that receives input, stores data, follows instructions to process that data, and then produces output, connecting this definition to the many example objects brainstormed in the previous session.
 
@@ -109,7 +111,7 @@ This second session gives a conception to students grounded in modern computer a
 Having built a conception of computers, the third session begins to build students’ critical consciousness about the origins of computing devices, focusing on who makes computers and where they make them.
 
 =
-## Session 3: Where computers come from
+### Session 3: Where computers come from
 * Begin the session with a video, showing concrete examples of where computing devices are assembled (e.g., a video of one of the [factories that manufactures Apple devices|https://www.youtube.com/watch?v=9XkX6EGk_CA]). Ask students to watch for the different jobs that factory workers do to create the device, and how they are related to the components of a computer.
 
 * After the video, surface the jobs that students noticed in the video. What did they notice about the work itself? Was it fun or boring? What kind of attention did it require? Would the students want to work in one of those factories? Why or why not?
@@ -132,7 +134,7 @@ This session gives students a sense of the global nature of computer manufacturi
 The fourth session extends this critical consciousness to sustainability, discussing the power that computers use to execute instructions.
 
 =
-## Session 4: How we power computers
+### Session 4: How we power computers
 * Begin the session by having students share from where they believe their computing devices’ electricity comes (coal, hydroelectric, wind). Have they ever visited the power plant that generates the electricity?
 
 * Provide direct instruction on cloud computing, explaining that many of the things we do online are not executed on the computer we are using, but on other computers stored in data centers. Show a video of a data center, revealing that they are large, cooled warehouses close to electricity sources.
@@ -149,7 +151,7 @@ At the end of this fourth session, students should be able to connect the compon
 The next session adds a final piece to this global picture, investigating what we do with computers when we are done with them.
 
 =
-## Session 5: How we discard computers
+### Session 5: How we discard computers
 * Begin the session by reminding students of the global systems that allow computers to be created and run, then pose a final question for discussion: what do we do with them? Capture students’ beliefs.
 
 * Explain that most computers go to landfills, showing a video of landfills full of computing devices, and noting the location of the closest landfill to the school.

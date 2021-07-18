@@ -84,11 +84,13 @@ Because operating systems are so central in shaping how we use computers, and ye
 
 ||||TODO Youth inspecting an operating system, both its internals and how it’s positioned in the world.|
 
-# Unit Plan: Teaching Operating Systems
+# Teaching Operating Systems
 
 Operating systems hold a unique position in computer science education. In higher education computer science degrees, it is often required, but not taught until after students have taken a few programming courses. The [K-12 CS learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-standards], broadly adopted around the world, do include some learning standards related to the hardware/software interface, including the different layers of abstraction involved in hardware/software communication. And yet, from the first time youth learn to use a computer, they are interacting with an operating system, and learning its ideas of programs and apps, windows and multitasking, crashing and freezing. And thus, operating systems are simultaneously an advanced topic for CS majors in college, as well as something familiar in everyday computer use.
 
 Unfortunately, most research on teaching operating systems follow the same basic pedagogy: engage students in creating or modifying operating system behavior, without critically examining the broader social context of operating system design<andrus12,laadan11,desnoyers11>. This gap between technical knowledge and social context leaves open opportunities for secondary CS education to bridge them with critical perspectives on the role of operating systems in society. After all, operating systems are a special kind of software that are ever present and yet invisible, more powerful than ever, and yet so mundane. Teachers can play a powerful role in making their mundane power visible, transforming how students see the software that runs all of the computers with which they interact.
+
+## Unit Plan: Teaching Operating Systems
 
 The unit below illustrates one way of making the power of operating systems visible, by introducing a diversity of narratives around operating systems: students’ own narratives, disciplinary computer science narratives, and then narratives around disability justice, privacy, and free speech. The unit ends with a discussion of policy, challenging students to reconcile these many different narratives and propose rules that they think should regulate (or deregulate) the power of operating systems. Throughout, the lessons engage the core components of operating systems at a conceptual level, linking them to the social issues.
 
@@ -100,7 +102,7 @@ The learning objectives for the unit are:
 4. Students will be able to explain how operating system maintainers determine what programs can and can’t be run on a computer.
 
 =
-## Session 1: My operating system is better
+### Session 1: My operating system is better
 * Begin the session by describing operating systems as something we generally know by name: e.g., Windows, Mac OS, iOS, Android, Chrome OS.
 
 * Divide the class into small groups of 2-3 and prompt them to discuss what operating systems they use, which they prefer, and why
@@ -119,7 +121,7 @@ Students should leave the first session with a sense of identity around the oper
 The next session offers the first complicating narrative, the disciplinary one from computer science. To engage students in the relatively technical concepts, the lesson uses an “unplugged” approach that has students embody the components of an operating system.
 
 =
-## Session 2: Operating system algorithms
+### Session 2: Operating system algorithms
 * Characterize the first session’s discussion as one particular consumer narrative about operating systems, shaped by our experiences with them as users. Contrast it with the topic of this session, which deconstructs operating systems from the designers’ perspective, as something to be created and maintained to make computer applications work.
 
 * Explain that the session will try to simulate a chat program executing alongside two other programs.
@@ -142,7 +144,7 @@ After the second session, students should have a clearer sense of their own pers
 The next session begins to bridge the abstract technical understanding of operating systems with students’ personal sense of operating systems by offering the perspective of people with disabilities.
 
 =
-## Session 3: Accessibility
+### Session 3: Accessibility
 * Remind students that one part of an operating system is receiving inputs from a user interface, and providing outputs.
 
 * *Formative assessment*. Ask students to brainstorm the different ways that computers allow us to provide input and receive output (e.g., mouse, keyboard, display, touchscreen, speakers). For each of the brainstormed input and output devices, ask students to brainstorm the assumptions that they make about our abilities (e.g, seeing, hearing, pointing, grasping). For each of the brainstormed assumptions, ask students to speculate how someone who lacks the ability would provide input to a computer, or receive output. Engage students in shaping where the brainstorms will be captured and shared.
@@ -164,7 +166,7 @@ After this session, students should begin to recognize that operating systems ar
 The next session builds upon this more complicated narrative by raising questions about privacy and security.
 
 =
-## Session 4: Privacy and security
+### Session 4: Privacy and security
 * Remind students about session 2’s demonstration of an operating system executing a chat application, and how information was passed from the network interface to the kernel, and then from the kernel to memory, and then finally the program.
 
 * Pose the question: what if that information was private, like most chats are? What stops someone from seeing the private message? Ask students to speculate about the role the kernel, applications, memory, network interfaces, and user interfaces play.
@@ -187,7 +189,7 @@ Building upon students’ conception of operating systems as both technical and 
 The next session presents the last narrative, connecting operating systems to speech.
 
 =
-## Session 5: Free speech
+### Session 5: Free speech
 * Recall the discussion about privacy and security, and connect it to an application that is privacy-invasive, such as Facebook, WeChat, or TikTok. Explain how those applications invade privacy.
 
 * Explain that on January 6, 2021, some operating system maintainers (Apple, Google, Amazon), decided to remove some applications from their platforms because they were used to incite a violent insurrection on the U.S. capital. Frame those decisions as a choice about what applications would be allowed to run on each operating system.

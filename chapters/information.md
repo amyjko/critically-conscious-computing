@@ -137,7 +137,7 @@ What we do know is that a key pedagogical decision in talking about data with st
 
 ||||TODO Something that conveys measurement of lateness|
 
-# Unit Plan: Encoding Tardiness
+## Unit Plan: Encoding Tardiness
 
 Below we describe a unit that focuses on data directly related to students’ lives at school: tardiness. On the surface, this may seem innocuous, but tardiness is a nexus of many inequities in students’ lives, ensuring that students will be able to connect their own experiences to the data that captures some aspect of their experiences.
 
@@ -150,7 +150,7 @@ The learning objectives of the unit are:
 To achieve these learning objectives, the unit contains six sessions, starting by raising the general phenomenon of tardiness, then turning to data collection about it and critical perspectives on it, then deploying that data into an algorithm. The sequence ends with a broader reflection on other ways that data is used to shape student lives, and the lives of others in society.
 
 =
-## Session 1: Tardiness
+### Session 1: Tardiness
 * Begin the lesson by giving an overview of the unit, talking about the role of data in society and its important role in computer science. Explain the focus on tardiness as an example that involves both data and algorithms.
 
 * Begin the lesson by starting a discussion about tardiness. How is it tracked? What consequences are tied to it? Do they think it is fair? Capture a set of issues about tardiness to help students see the diverse perspectives on the system.
@@ -167,7 +167,7 @@ To achieve these learning objectives, the unit contains six sessions, starting b
 This first session helps students think about the practice of tardiness and punishment itself, priming them for discussion about how the system might be changed by incorporating new sources of data or new enforcement mechanisms, such as algorithms that automate punishment. The second session extends this critical consciousness by exposing the diversity of contexts behind tardiness. These contexts will become part of the discussion of algorithmic approaches to encoding excuses in a later session.
 
 =
-## Session 2: Causes of tardiness
+### Session 2: Causes of tardiness
 * Recap the sentiments about tardiness, but open the conversation about the factors that contribute to tardiness, such as home life, transportation, and other factors.
 
 * Have students begin by discussing in small groups the things that make them late. Have them generate as many factors as possible.
@@ -180,7 +180,7 @@ This first session helps students think about the practice of tardiness and puni
 Whereas the first session introduces the systems of tardiness, this second session develops critical consciousness of how the system interacts with the diversity of students’ lives. By engaging each student to reflect on their own position in the system, and observe their peers’ different positions, they will be more capable of critically examining the application of data and computing to the system. The next session begins this process by asking students to consider ways of measuring tardiness factors.
 
 =
-## Session 3: Measuring lateness
+### Session 3: Measuring lateness
 * Describe a hypothetical scenario of the school adopting a software solution to track tardiness. The system will gather data from parents, students, teachers, and staff, and be used to enforce the school’s tardiness rules, while accounting for extenuating circumstances.
 
 * Remind the students of how lateness is currently captured, discussing problems with the system of measurement.
@@ -199,7 +199,7 @@ Whereas the first session introduces the systems of tardiness, this second sessi
 In this third session, students learn how the complexity and nuance of human experiences are reduced to data, and how that involves some degree of unfairness. By engaging students in examining their own contexts, and hearing about their peers’, students will feel this tension when they’re forced to choose, erasing the critical nuances that make up their experiences. The next session further stresses the reductive nature of data by applying it to an automated system.
 
 =
-## Session 4: Automating tardiness
+### Session 4: Automating tardiness
 
 * Remind the students of the hypothetical system, the method of measuring lateness, and the methods of measuring two other factors of extenuating circumstances.
 
@@ -232,7 +232,7 @@ If a student is not late:
 The limitations of this algorithm, whether it is executed by staff or a computer, will raise entirely new questions about the use of the data. Who decides which transportation mode a student is classified as? What stops a student from just saying they travel by car so they’re never marked tardy? Is there any way to dispute the decision of the algorithm? Who devised this algorithm? Who tracks whether a student is late? By illustrating how data is used in algorithms to make decisions, students will see that there is not only nothing magic about algorithms, but also nothing simple about data. The last session generalizes from this discourse to other systems.
 
 =
-## Session 5: Data and society
+### Session 5: Data and society
 * Break the students into small groups
 
 * Prompt the groups to brainstorm other systems that use information to make decisions about their lives in some way (e.g., grading, high stakes exams, college applications).

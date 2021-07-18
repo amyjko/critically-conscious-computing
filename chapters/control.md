@@ -202,13 +202,13 @@ Is it possible to ever faithfully represent human judgement with control structu
 
 |||TODO A figure of a student very very carefully watching a machine make decisions very very quickly||
 
-# Teaching Control Structures Critically
+# Teaching Control Structures
 
 Teaching students to understand control structures and their limitations requires first recognizing that reading programs that use control structures and writing programs that use control structures are two very different skills<nelson17,xie19>.
 
 One, which is a prerequisite for the other, is *reading* skills (also sometimes called *program tracing* skills). These are the ability to accurately and reliably simulate the execution of a program in one’s head or on paper, accurately tracing how each part of a program executes, the order in which it executes, and how each part of a program uses or modifies data stored in memory. Once a student can reliably read/trace programs written in a particular programming language, they are then well-prepared to learn *writing* skills for programs using control structures. Writing skills are distinct in that they require more than just understanding how programs execute, but also translating some desired behavior for a program into the syntax of the programming language. In this section, we’ll discuss methods for reading in ways that build students’ critical consciousness about how control structures shape decisions in their own lives and others’. We’ll save our discussion for writing for the [Programming|programming] chapter that comes later, which addresses writing skills in detail.
 
-## Teaching Reading Critically
+## Teaching Reading
 Reading skills involve two distinct kinds of content knowledge about a programming language: it’s *syntax*, and the corresponding *semantics* of that syntax. Teaching a language’s syntax involves learning the rules about how it’s text must be formatted. One way to teach the rules of syntax is to provide a template that specifies the rules, as in this template for Python if statements:
 
 `python
@@ -300,7 +300,7 @@ You might notice that following this procedure would lead to the examples of tra
 
 One way of further integrating justice considerations into tracing is to have students critically reflect on the trace as well, identifying limitations of a program’s decisions. One might evaluate these by assessing the extent to which they connect the logic of the program to its consequences in the world.
 
-## Assessing Reading Skills Critically
+## Assessing Reading
 
 While there are many things one can assess about CS knowledge, a surprising amount of both formative and summative assessment effort focuses on control structure reading skills. High stakes summative exams, including Advanced Placement tests, Pearson and Praxis teacher certification exams, and many exams in higher education CS classes all focus heavily on control structure reading skills. Many researchers have developed carefully studied instruments for measuring CS knowledge<bockmon19,parker16>, but the majority of the items on those instruments are reading questions. And many curricula use formative assessment to help teachers monitor student learning, but those assessments generally focus on control structure reading skills.
 

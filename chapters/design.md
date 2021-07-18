@@ -79,7 +79,7 @@ Finally, equating CS activities and design activities tends to misrepresent the 
 
 |Chapter05_Figure06_APCSProblem.png|An AP CS A exam question, which includes a class declaration and a question that prompts the student to write a method|Engineering-centered pedagogies focus on problem solving, as in this AP CS exam prompt.|TODO|
 
-# Teaching CS as Engineering
+## Teaching CS as Engineering
 
 Defining CS as a kind of engineering is fundamentally more authentic than equating it with design. This framing also creates the least friction with the K-12 CS standards, which are primarily concerned with abstract engineering ideas related to algorithms, data structures, and software verification. It also creates the least friction with common summative assessments, like the AP CS A exam, and the dominant focus of academic CS departments in higher education. Focusing on engineering problems means providing students with well-defined engineering problems, and engaging them in the practice of using CS concepts to solve those problems. This can create an impression of CS as largely one of creative puzzle solving, and systematic engineering problem solving. Curricula that take this stance most include courses like the College Board’s AP CS A. In this way, framing CS as engineering largely supports the status quo.
 
@@ -97,7 +97,7 @@ One method for teaching CS as engineering, while still centering the human conce
 
 ||||TODO An illustration of students alternating between design and engineering roles.|
 
-# Unit Plan: Teaching CS as Design-Informed Engineering
+## Unit Plan: Teaching CS as Design-Informed Engineering
 
 One way to avoid the tradeoffs of centering either the design or engineering aspects of CS is to engage both as first-class activities, balancing and connecting the two activities, and highlighting their differences. Because this is the approach we recommend, here we give an example unit plan that details the approach, and then discuss its strengths and weaknesses.
 
@@ -113,7 +113,7 @@ The learning objectives of this unit are as follows:
 To achieve the objectives, this unit would be completed across eight sessions. The first session introduces the genre of interactive stories and how computer programs can be used to author them. The unit focuses on a particular type of story, positioning students as designers in a software company, making a design choice with justice implications, and telling two possible outcomes of the design choice to stakeholders.
 
 =
-## Session 1: Interactive stories
+### Session 1: Interactive stories
 
 * Begin the lesson by explaining that this next unit will concern the design choices that software designers make and ask them to tell two possible outcomes of those choices by constructing a computer program that enables the viewer to make a choice.
 * Show the students an example interactive story that you have created to reflect a software design decision that affects your life. For example, a story might be a designer choosing a font size for mobile banking. In one case, the font size is 10 pt; in this scenario, the story shows a younger user seamlessly interacting with the site, but an older user with poorer visual acuity, squinting to read their account balance, misreading it, and overdrawing their account. In the other story, the designer chooses a font size of 16pt, the younger user has to scroll more, and mocks the comically large font, but the older user is able to accurately read their balance.
@@ -127,7 +127,7 @@ The choice of a choose-your-own-adventure story genre is an important one for me
 After this first session, students should have a sense of the possibilities of the platform and genre. The next session is ideation, the first stage in the scaffolded design process:
 
 =
-## Session 2: Ideation
+### Session 2: Ideation
 * Have students form groups of 2 or 3.
 
 * *Summative assessment*. Tell the students that you want their group to tell a story similar to the one from session 1, but that they should imagine being designers at a real company, tasked with analyzing the consequences between two alternative designs that have justice implications. Their job is to create an interactive presentation that the broader design team can view to help make a final decision. Examples of scenarios might include 1) Instagram deciding whether to include warning labels on posts with misinformation, 2) whether to use gendered pronouns on Facebook, 3) whether to automatically play the next episode of a television series on Netflix. Scenarios should have a single decision with two choices, each affecting stakeholders in different ways.
@@ -149,7 +149,7 @@ This second session is a critical part of learning objective 2, helping students
 The third session asks students to evaluate and select a story:
 
 =
-## Session 3: Evaluation
+### Session 3: Evaluation
 
 * Begin the lesson by asking students to bring out the ideas they wrote down from the previous session, and read them to themselves.
 
@@ -177,7 +177,7 @@ This third session comes in sharp distinction to the second, showing learners th
 The fourth session introduces another design phase, iteration, and focuses students on refining the story they are going to tell:
 
 =
-## Session 4: Iteration
+### Session 4: Iteration
 
 * Begin the lesson by explaining that great designs come through iteration: taking ideas, and using evaluations of them to improve the ideas multiple times.
 
@@ -191,7 +191,7 @@ This session engages learning objective 1, modeling how to reason about positive
 The fifth session is a sharp pivot into to the first phase of engineering, asking students to translate their story script into a programming plan:
 
 =
-## Session 5: Planning
+### Session 5: Planning
 
 * Explain that planning is the first phase of engineering, taking the hard work of a design process, and identifying ways to express it as software.
 
@@ -213,7 +213,7 @@ This session demonstrates how planning is different: ideation is generative, eva
 The next lesson moves into implementation:
 
 =
-## Session 6: Implementation
+### Session 6: Implementation
 
 * Praise the students for focusing on high-level planning in the previous session, reassuring them that it will have saved them time on implementation.
 
@@ -231,7 +231,7 @@ This session demonstrates that planning is different from implementation (learni
 The next session distinguishes testing as a distinct activity from implementation:
 
 =
-## Session 7: Verification
+### Session 7: Verification
 
 * Praise the groups for their hard work on their implementation, and reassure them that it’s okay that their projects might not work exactly as intended yet.
 
@@ -249,7 +249,7 @@ This session, as the previous, supports learning objectives 1-3, since verificat
 The last session, finally, returns to where the unit started, engaging students once again in stories. This time, however, they are telling their own stories, and hearing the stories of their peers:
 
 =
-## Session 8: Deployment
+### Session 8: Deployment
 
 * Congratulate students on reaching storytelling day, explaining that this is an exciting day for any designer or engineer who has worked hard to envision or implement a software idea. Remind them that rarely is any software perfect upon launch, but that it just has to be good enough to do what it is intended for, while gathering feedback about what to improve.
 
@@ -268,7 +268,6 @@ Summative assessment. Close the unit by evaluating the students’ stories again
 This unit achieves many things: students learn that CS, as an engineering discipline, is constrained and shaped by design choices, and requires creative ways of meeting those constraints. This gives students a rich, concrete exposure to both disciplines, shows their connections, and demonstrates how designers and engineers have to work together. It also returns to the broader themes of design justice, asking students to make ethical judgments about design choices.
 
 However, while this framing gives students exposure to both disciplines, it also has limitations. Most notably, it takes extra time to address both design and engineering, taking time away from conceptual foundations of CS, which may be important for later assessments or entry into higher education CS. One way to address these tensions is homework, shifting some work outside of class. Another way to address these tensions is course sequencing, finding ways of addressing the breadth of these foundations in one course (e.g., an Exploring Computer Science curriculum), and shifting deeper content knowledge to subsequent electives (e.g., an AP CS A class).
-
 
 # Relevant Learning Standards
 

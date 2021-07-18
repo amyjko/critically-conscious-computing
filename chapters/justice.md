@@ -43,7 +43,7 @@ Another challenge with engaging injustice are the *difficult conversations* that
 
 |Chapter04_Figure04_Rules.png|A student at a desk with their head down and a blurry teacher walking away, with the block letter word "DETENTION" above and a clock that reads 10:10|Schools are a site of algorithmic oppression too.|Jessie Huynh|
 
-# Unit Plan: Schools as a Site for CS Inequity and Injustice
+## Unit Plan: Schools as a Site for CS Inequity and Injustice
 
 Here we present one possible unit plan that builds upon these ideas. The essence of the unit is to engage students in interrogating the algorithms—or hypothetical algorithms—in your school and how they might result in disparate outcomes for different students. Rules in schools might include things like use of the bathroom, tardiness, grading systems, or policies for late work. The advantage of classroom and school rules are that they are familiar, and may surface inequities in learning that contribute to broader inequities in society. One possible “disadvantage”—especially if the rules interrogated are the ones in your own classroom—is that the unit might result in actual advocacy for change (though any teacher focused on critical consciousness might want to view this as an advantage as well).
 
@@ -57,7 +57,7 @@ The learning objectives of this unit are as follows:
 This unit is split across five sessions, the first presenting the idea of rules, and subsequent sessions engaging students in identifying the rules that govern the social context of their classroom and school. Algorithms come halfway through as a tool for potentially automating school rules, engaging youth in analyzing the potential disparate impact of that automation on their classmates.
 
 =
-## Session 1: Recognizing rules
+### Session 1: Recognizing rules
 
 * Begin the lesson by talking about rules and their relationship to computing, surfacing examples of the many rules in class and in school that regulate student behavior.
 
@@ -75,7 +75,7 @@ The purpose of this first session is to help students see what Friere might desc
 The second session, building upon the students’ shared understanding of their situation, is one of focus, helping the students to connect their individual position to the rules that most affect them.
 
 =
-## Session 2: Selecting and analyzing rules
+### Session 2: Selecting and analyzing rules
 
 * Begin the lesson by reminding the class of the rules that were surfaced and the debates that surfaced about them, explaining that their goal is to select one of these rules and analyze it.
 
@@ -100,7 +100,7 @@ The use of groups in these analyses is critical to helping students understand t
 The next session turns the students’ attention toward computing, challenging them to imagine a future in which the rules they have analyzed are automated.
 
 =
-## Session 3: Automating rules
+### Session 3: Automating rules
 
 * Remind students about the rule they have selected and ask them to review their analysis from the previous session, returning to the groups from the previous session.
 
@@ -124,7 +124,7 @@ This session requires students to shift their mindset from critic of rules to de
 The next session calls students to decide what to do: automate the rule, reject automating the rule, discard the rule, or some other course of action.
 
 =
-## Session 4: Advocating
+### Session 4: Advocating
 
 * Have students return to their groups and bring up their rule analysis, automation design, and critique notes.
 
@@ -146,7 +146,7 @@ This session, for a third time, shifts students’ role, putting them in the pos
 The last session focuses on transfer, from the school context to broader society, challenging students to identify other software systems in their lives that are having similar impacts on them and others.
 
 =
-## Session 5: CS and Society
+### Session 5: CS and Society
 
 * Remind students of the ideas of amplification, centralization, privatization, automation, and abstraction, explaining examples of other contexts in society in which these forces occur.
 

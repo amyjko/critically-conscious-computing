@@ -351,7 +351,7 @@ Designers of databases and any other kind of data structures, therefore have a r
 
 |||TODO A depiction of students taking about how data is organized and represented||
 
-# Teaching Data Structures Critically
+# Teaching Data Structures
 
 There are many things to know about data structures and many skills for using them:
 

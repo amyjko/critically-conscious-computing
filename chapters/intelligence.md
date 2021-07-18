@@ -182,7 +182,7 @@ A critically conscious pedagogy for discussing automation would likely go beyond
 
 ||||TODO Something that portrays libraries and search engines in a war|
 
-# Unit Plan: Libraries vs. Search Engines
+## Unit Plan: Libraries vs. Search Engines
 
 In the spirit of critical and culturally sustaining pedagogy, below we describe an example unit that illustrates one way to engage youth in examining questions of automation. Its approach is to take a computing technology that students can encounter and interact with in everyday life--web search engines--and engage students in analyzing and debating the nature and limits of its intelligence and its effects on society. While it focuses on search engines, it could be adapted to any technology that is familiar to students and their teacher.
 
@@ -195,7 +195,7 @@ The learning objectives of the unit are:
 To achieve these learning objectives, this unit contains a sequence of five sessions, the first engaging students in analysis and brainstorming, and the last three engaging them in debate with each other. The first session begins the conversation about intelligence:
 
 =
-## Session 1: Is web search intelligent?
+### Session 1: Is web search intelligent?
 
 * Begin the lesson by asking students to share their experiences with web search: how much do they use search engines, what do they use them for, what would their life be like without them, etc.
 
@@ -219,7 +219,7 @@ To achieve these learning objectives, this unit contains a sequence of five sess
 This session engages the first learning objective directly, probing into what intelligence a web search engine has and where it comes from, but in a student-centered manner. The next session sets up the contrasting case of librarian, and the many things that they do that search engines also attempt to do:
 
 =
-## Session 2: Are librarians more intelligent than web search?
+### Session 2: Are librarians more intelligent than web search?
 
 * Remind students of the evidence of intelligence they brainstormed in the previous session.
 
@@ -241,7 +241,7 @@ This session engages the first learning objective directly, probing into what in
 This second session challenges students’ conception of web search as superior to other forms of information retrieval, engaging the second learning objective. The third session goes deeper, helping students to reflect more fundamentally on the fundamental tradeoff between web search and librarians:
 
 =
-## Session 3: Speed versus accuracy
+### Session 3: Speed versus accuracy
 
 * Remind students about the results of the past two sessions’ analysis: there are things that make web search intelligent, but more limited than librarians.
 
@@ -259,7 +259,7 @@ This second session challenges students’ conception of web search as superior 
 Having deepened the tradeoff analysis to support learning objective 2, the next session turns to the consequences of those tradeoffs.
 
 =
-## Session 4: Consequences of speed over accuracy
+### Session 4: Consequences of speed over accuracy
 
 * Explain that this session will turn to the question of the consequences of the tradeoffs between speed and accuracy.
 
@@ -273,7 +273,7 @@ Having deepened the tradeoff analysis to support learning objective 2, the next 
 By this fourth session, students should have a rich sense of the tradeoffs of web search and their consequences (learning objectives 1 and 2), providing a strong foundation for the final learning objective of understanding the values in society that have caused speed to win out over accuracy.
 
 =
-## Session 5: Imagining futures
+### Session 5: Imagining futures
 
 * Pose the question, “Why did web search win?”, and review the answers that the debates have surfaced: speed, accurate enough.
 

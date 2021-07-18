@@ -100,14 +100,16 @@ ol li.reference::before {
     font-family: "Modum";
     font-style: italic;
     margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.outline {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 code {
     font-family: "DM Mono", monospace;
-}
-
-.code {
-    /* background-color: #E5DCC9; */
 }
 
 .blockquote {

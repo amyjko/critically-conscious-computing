@@ -1,5 +1,5 @@
 =
-### Key ideas
+### _Key ideas_
 * Data structures are how computers organize data to facilitate computation.
 * Variables are the simplest unit of organization
 * Lists help organize sequential information

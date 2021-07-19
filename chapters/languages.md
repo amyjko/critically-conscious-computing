@@ -1,5 +1,5 @@
 =
-### Key ideas
+### _Key ideas_
 * Programming languages were the first computer user interface, and are still the most powerful, expressive, and complicated user interfaces. 
 * Programming languages, as a user interface, borrow metaphors from natural languages, but most reflect the rigidity of mathematics
 * Programming languages are designed by people, and therefore embody their designers’ values and biases

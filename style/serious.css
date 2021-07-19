@@ -108,6 +108,12 @@ ol li.reference::before {
     margin-bottom: 0.5em;
 }
 
+.outline-header {
+    text-indent: -0.5em;
+    padding-left: 1em;
+
+}
+
 .outline-header:before {
     content: "> ";
 }

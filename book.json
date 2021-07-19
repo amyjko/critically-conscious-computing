@@ -105,6 +105,13 @@
 			"section": "Code"
 		},
 		{
+			"id": "algorithms",
+			"title": "Algorithms",
+			"authors": ["ko"],
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"section": "Code"
+		},
+		{
 			"id": "aiml", 
 			"title": "Artificial Intelligence and Machine Learning", 
 			"authors": ["ko"],
@@ -119,7 +126,8 @@
 		"sigcse": "ACM Technical Symposium on Computer Science Education (SIGCSE)",
 		"toce": "ACM Transactions on Computing Education (TOCE)",
 		"icer": "ACM Conference on International Computing Education Research (ICER)",
-		"cse": "Computer Science Education (CSE)"
+		"cse": "Computer Science Education (CSE)",
+		"iticse": "ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)"
 	},
 	"references": {
 		"ahadi13": [
@@ -206,6 +214,13 @@
 			"ABC-CLIO",
 			"https://www.google.com/books/edition/Bill_Gates_A_Biography/klV_BAAAQBAJ?hl=en&gbpv=0"
 		],
+		"berggren86": [
+			"J.L. Berggren",
+			1986,
+			"Episodes in the Mathematics of Medieval Islam",
+			"Springer",
+			"https://www.google.com/books/edition/Episodes_in_the_Mathematics_of_Medieval/I-jwDQAAQBAJ?hl=en&gbpv=0"
+		],
 		"benjamin19": [
 			"Ruha Benjamin",
 			2019,
@@ -283,6 +298,13 @@
 			"Conference on fairness, accountability and transparency",
 			"http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf"
 		],
+		"carpenter88": [
+			"Thomas P. Carpenter, Elizabeth Fennema, Penelope L. Peterson, Deborah A. Carey",
+			1988,
+			"Teachers' pedagogical content knowledge of students' problem solving in elementary arithmetic",
+			"Journal for research in mathematics education",
+			"https://doi.org/10.5951/jresematheduc.19.5.0385"	
+		],
 		"charters14": [
 			"Polina Charters, Michael J. Lee, Amy J. Ko, Dastyni Loksa",
 			2014,
@@ -318,12 +340,26 @@
 			"Clarendon Press",
 			"https://www.google.com/books/edition/The_Essential_Turing/7sEbjfnVWREC?hl=en&gbpv=0"
 		],
+		"cormen01": [
+			"Thomas H.. Cormen, Charles E Leiserson, Ronald L Rivest, Clifford Stein",
+			2001,
+			"Introduction To Algorithms",
+			"MIT Press",
+			"https://www.google.com/books/edition/Introduction_To_Algorithms/NLngYyWFl_YC?hl=en&gbpv=0"	
+		],
 		"costanzachock20": [
 			"Sasha Costanza-Chock",
 			2020,
 			"Design justice: Community-led practices to build the worlds we need",
 			"MIT Press",
 			"https://www.google.com/books/edition/Design_Justice/h4LPDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"danielsiek12": [
+			"Holger Danielsiek, Wolfgang Paul, Jan Vahrenhold",
+			2012,
+			"Detecting and understanding students' misconceptions related to algorithms and data structures",
+			"#sigcse",
+			"https://doi.org/10.1145/2157136.2157148"
 		],
 		"dasgupta16": [
 			"Sayamindu Dasgupta, William Hale, Andrés Monroy-Hernández, Benjamin Mako Hill",
@@ -381,6 +417,13 @@
 			"Antitrust Law Journal",
 			"https://heinonline.org/HOL/LandingPage?handle=hein.journals/antil76&div=25&id=&page="
 		],
+		"einav06": [
+			"Liran Einav, Leeat Yariv",
+			2006,
+			"What's in a Surname? The Effects of Surname Initials on Academic Success",
+			"Journal of Economic Perspectives",
+			"https://doi.org/https://doi.org/10.1257/089533006776526085"
+		],
 		"englebart62": [
 			"Douglas Engelbart",
 			1962,
@@ -401,6 +444,13 @@
 			"Automating inequality: How high-tech tools profile, police, and punish the poor",
 			"St. Martin's Press",
 			"https://www.google.com/books/edition/Automating_Inequality/pn4pDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"feaster11": [
+			"Yvon Feaster, Luke Segars, Sally K. Wahba, Jason O. Hallstrom",
+			2011,
+			"Teaching CS unplugged in the high school (with limited success)",
+			"#iticse",
+			"https://doi.org/10.1145/1999747.1999817"
 		],
 		"freire68": [
 			"Paulo Freire",
@@ -569,6 +619,13 @@
 			"Hedy: A Gradual Language for Programming Education",
 			"#icer",
 			"https://doi.org/10.1145/3372782.3406262"	
+		],
+		"hey06": [
+			"David Hey",
+			2006,
+			"Family Names and Family History",
+			"Bloomsbury",
+			"https://www.google.com/books/edition/Family_Names_and_Family_History/d5i6BwAAQBAJ?hl=en&gbpv=0"
 		],
 		"hiltzik09": [
 			"Michael A. Hiltzik",
@@ -892,6 +949,20 @@
 			"ACM Koli Calling International Conference on Computing Education Research",
 			"https://doi.org/10.1145/3364510.3364525"
 		],
+		"nishida09": [
+			"Tomohiro Nishida, Susumu Kanemune, Yukio Idosaka, Mitaro Namiki, Tim Bell, Yasushi Kuno",
+			2009,
+			"A CS unplugged design pattern",
+			"#sigcse",
+			"https://doi.org/10.1145/1539024.1508951"
+		],
+		"noble18": [
+			"Safiya Umoja Noble",
+			2018,
+			"Algorithms of Oppression: How Search Engines Reinforce Racism",
+			"NYU Press",
+			"https://www.google.com/books/edition/Algorithms_of_Oppression/-ThDDwAAQBAJ?hl=en&gbpv=0"
+		],
 		"nyce91": [
 			"From Memex To Hypertext",
 			1991,
@@ -1102,6 +1173,13 @@
 			"Springer Science & Business Media",
 			"https://www.google.com/books/edition/Fibonacci_s_Liber_Abaci/jsEqBgAAQBAJ?hl=en&gbpv=0"
 		],
+		"skiena20": [
+			"Steven S. Skiena",
+			2020,
+			"The Algorithm Design Manual",
+			"Springer",
+			"https://www.google.com/books/edition/The_Algorithm_Design_Manual/S0QBEAAAQBAJ?hl=en&gbpv=0"
+		],
 		"smith13": [
 			"David Eugene Smith, Louis Charles Karpinski",
 			2013,
@@ -1136,6 +1214,13 @@
 			"Sciences of the Artificial",
 			"The MIT Press",
 			"https://www.google.com/books/edition/The_Sciences_of_the_Artificial/yYSkDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"stevens18": [
+			"Jeffrey R. Stevens, Juan F. Duque",
+			2018,
+			"Order matters: Alphabetizing in-text citations biases citation rates",
+			"Psychonomic Bulletin & Review",
+			"https://doi.org/10.3758/s13423-018-1532-8"
 		],
 		"stroustrup96": [
 			"Bjarne Stroustrup",
@@ -1178,6 +1263,13 @@
 			"Animal intelligence",
 			"Nature",
 			"https://doi.org/10.4324/9781351321044"
+		],
+		"toma18": [
+			"Laura Toma, Jan Vahrenhold",
+			2018,
+			"Self-Efficacy, Cognitive Load, and Emotional Reactions in Collaborative Algorithms Labs - A Case Study",
+			"#icer",
+			"https://doi.org/10.1145/3230977.3230980"
 		],
 		"toyama15": [
 			"Kentaro Toyama",
@@ -1228,6 +1320,20 @@
 			"Environmental Impact Assessment Review",
 			"https://doi.org/10.1016/j.eiar.2005.04.001"
 		],
+		"wood11": [
+			"Jo Wood, Donia Badawood, Jason Dykes, Aidan Slingsby",
+			2011,
+			"BallotMaps: Detecting Name Bias in Alphabetically Ordered Ballot Papers",
+			"IEEE Transactions on Visualization and Computer Graphics",
+			"https://doi.org/10.1109/TVCG.2011.174"
+		],
+		"woodruff18": [
+			"Allison Woodruff, Sarah E. Fox, Steven Rousso-Schindler, Jeffrey Warshaw",
+			2018,
+			"A Qualitative Exploration of Perceptions of Algorithmic Fairness",
+			"#chi",
+			"https://doi.org/10.1145/3173574.3174230"
+		],
 		"xie18": [
 			"Benjamin Xie, Greg Nelson, Amy J. Ko",
 			2018,
@@ -1248,6 +1354,13 @@
 			"Domain Experts' Interpretations of Assessment Bias in a Scaled, Online Computer Science Curriculum",
 			"ACM Conference on Learning @ Scale",
 			"https://doi.org/10.1145/3430895.3460141"
+		],
+		"yarroch85": [
+			"William L. Yarroch",
+			1985,
+			"Student understanding of chemical equation balancing",
+			"Journal of Research in Science Teaching",
+			"https://doi.org/10.1002/tea.3660220507"
 		],
 		"yukselturk16": [
 			"Erman Yukselturk, Serhat Altiok",

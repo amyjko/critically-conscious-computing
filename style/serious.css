@@ -109,7 +109,7 @@ ol li.reference::before {
 }
 
 .outline-header {
-    text-indent: -0.5em;
+    text-indent: -1em;
     padding-left: 1em;
 
 }

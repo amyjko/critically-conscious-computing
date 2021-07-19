@@ -32,11 +32,65 @@ In the rest of this chapter, we’ll discuss how CS formalized the idea of algor
 
 |||TODO Something conveying a list of things that are out of order, being put in order as quickly as possible.||
 
-# Sorting Data
+# Searching and Sorting Data
 
 In general, treating algorithms as tacit, casual knowledge is usually sufficient. We don’t necessarily need to write down our bedtime algorithm to remember how to do it. However, writing it down does have benefits: if we were to write down, and post it on the wall near where we get ready, we might be less likely to forget important medication, we might get less distracted by other responsibilities, and we might be able to get ready for bed faster. These potential benefits are the same reasons why computer scientists began working on computer algorithms: by writing down explicit steps for completing common tasks, we might be able to teach machines to do them quickly, reliably, and without error. And by writing them down, we might be able to reason about their steps, finding ways of improving the algorithms.
 
-To explore these benefits of algorithms, let’s consider a simple computational problem in schools: a learning management system has a gradebook, with a list of students in rows and a series of columns representing some homework assignment. Each cell in this grid is a grade, representing a summative assessment of student work. Already, this particular data structure comes with the potential for injustice that we’ve described in the [Data Structures|data] chapter, with the reductionist ways that it represents student knowledge. However, here we’ll consider one seemingly innocuous aspect of this gradebook: the order in which the students appear.
+## Searching
+Some of the earliest and simplest algorithms focused on searching and sorting data. For example, consider this algorithm, which we’ll call *position-of*. It takes some number stored a variable named target, and some list of numbers stored in a variable items, and tries to find the first position in the list that matches that number (if it can’t find it, it returns -1, indicating that there is no position with a value that matches):
+
+`python
+index = 0
+for item in items:
+    if item == target
+        return index
+    index += 1
+return -1
+`An algorithm we'll call *position-of*, which finds which position the value in `target` is in a list, if any.
+
+This algorithm works by just stepping through each item in the list and checking to see if it is equal to target. To keep track of which position in the list it is, it uses a variable called `index` to remember the position, incrementing it by one after checking each item.
+
+A similar algorithm, which we might call *occurrences-of* might count the number of times the number in target appears:
+
+`python
+count = 0
+for item in items:
+    if item == target
+        count += 1
+return count
+`An algorithm we'll call *occurences-of*, which counts the number of times `target` appears in a list.
+
+This algorithm uses a similar loop, but instead of stopping when it finds a match, it adds one to a variable named `count` to keep track of the number of times the number appeared.
+
+We can use a similar pattern to implement an algorithm we might call *maximum*, which finds the largest number in the list:
+
+`python
+max = None
+for item in items:
+    if item is None or item > max
+        max = item
+return max
+`An algorithm we'll call *maximum*, which finds the largest value in the list, if there are any values.
+
+This also uses a loop, but instead of returning or tallying when there’s a match, this algorithm scans the list from beginning to end and tries to find the largest value in the list. It does this by using a variable `max` to keep track of the largest value it's found so far; if there isn’t a largest value yet, or the next value is larger than the largest one so far, it updates the variable to store the largest value.
+
+What if we had two lists and wanted to see if they have any values in common? We could implement algorithm we might call *intersecting*, which takes two lists, list1 and list2:
+
+`python
+for item1 in list1:
+    for item2 in list2:   
+        if(item1 == item2)
+            return True
+return False
+`An algorithm we'll call *intersecting*, which determines if two lists have a value in common.
+
+This algorithm is different from the others in that it uses two loops, one inside the other. The first is responsible for going through the items in the first list. And then, for each item in the first list, it searches the second list to see if there’s a matching item. If there is, it returns true. If it goes through every item in the first list, and compares each of those items to every item in the second list, and none of them are equal, then those two loops will finish and the algorithm will return false.
+
+These various abstract examples show that even a basic pattern of stepping through the items in the list can accomplish very different tasks, depending on how variables are used and what kind of conditions are tested. You can also see how many of the most basic features in software applications—counting things and searching for things—only require the very basic combination of a few programming language features to achieve.
+
+# Sorting
+
+Of course, none of the algorithms above are used in a vacuum; they all are used for some purpose, and those purposes can vary in their utility and their potential for harm. To explore this, let’s consider a more complex class of algorithms frequently explored in CS: sorting, which is about taking sets of data and putting them in some kind of order. We’ll consider this in the context of schools: imagine a learning management system has a gradebook, with a list of students in rows and a series of columns representing some homework assignment. Each cell in this grid is a grade, representing a summative assessment of student work. Already, this particular data structure comes with the potential for injustice that we’ve described in the [Data Structures|data] chapter, with the reductionist ways that it represents student knowledge. However, here we’ll consider one seemingly innocuous aspect of this gradebook: the order in which the students appear.
 
 The ordering of students might not seem like a problem at all. Alphabetical, A-Z by family sorting is ubiquitous, conventional, and perhaps even expected. But when we consider the algorithm by which the gradebook does this ordering, we realize that this ubiquitous convention is full of questionable assumptions. Consider this basic algorithm, which takes as input a list of `students`:
 

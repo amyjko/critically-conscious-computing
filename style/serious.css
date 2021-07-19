@@ -287,6 +287,11 @@ ol ol ol li:before {
     margin-bottom: 0;
 }
 
+.figure-caption {
+    font-size: 11pt;
+    margin: 1em;
+}
+
 hr {
     border: none;
     border-bottom: 1px solid #E0E0E0;

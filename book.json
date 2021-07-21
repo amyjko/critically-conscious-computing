@@ -112,6 +112,13 @@
 			"section": "Code"
 		},
 		{
+			"id": "abstractions",
+			"title": "Abstractions",
+			"authors": ["ko"],
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"section": "Code"
+		},
+		{
 			"id": "aiml", 
 			"title": "Artificial Intelligence and Machine Learning", 
 			"authors": ["ko"],
@@ -255,6 +262,13 @@
 			"First steps in programming: a rationale for attention investment models",
 			"IEEE Symposia on Human Centric Computing Languages and Environments",
 			"https://doi.org/10.1109/HCC.2002.1046334"
+		],
+		"bloch06": [
+			"Joshua Bloch",
+			2006,
+			"How to design a good API and why it matters",
+			"ACM SIGPLAN symposium on Object-Oriented Programming Systems, Languages, and Applications",
+			"https://doi.org/10.1145/1176617.1176622"
 		],
 		"bockmon19": [
 			"Ryan Bockmon, Stephen Cooper, Jonathan Gratch, Mohsen Dorodchi",
@@ -451,6 +465,13 @@
 			"Teaching CS unplugged in the high school (with limited success)",
 			"#iticse",
 			"https://doi.org/10.1145/1999747.1999817"
+		],
+		"felleisen18": [
+			"Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi",
+			2018,
+			"How to Design Programs: An Introduction to Programming and Computing",
+			"MIT Press",
+			"https://www.google.com/books/edition/_/P6hcDwAAQBAJ?hl=en&gbpv=0"
 		],
 		"freire68": [
 			"Paulo Freire",
@@ -739,6 +760,20 @@
 			"Mathematical cognition",
 			"https://www.google.com/books/edition/Mathematical_Cognition/T_snDwAAQBAJ?hl=en&gbpv=0"
 		],
+		"kramer07": [
+			"Jeff Kramer",
+			2007,
+			"Is abstraction the key to computing?",
+			"Communications of the ACM",
+			"https://doi.org/10.1145/1232743.1232745"
+		],
+		"ko11": [
+			"Amy J. Ko, Yann Riche",
+			2011,
+			"The Role of Conceptual Knowledge in API Usability",
+			"IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+			"https://doi.org/10.1109/VLHCC.2011.6070395"
+		],
 		"ko19": [
 			"Amy J. Ko, Thomas D. LaToza, Stephen Hull, Ellen Ko, William Kwok, Jane Quichocho, Harshitha Akkaraju, Rishin Pandit",
 			2019,
@@ -780,6 +815,13 @@
 			"Management of scrap computer recycling in Taiwan",
 			"Journal of Hazardous Materials",
 			"https://doi.org/10.1016/S0304-3894(99)00191-0"
+		],
+		"lee14": [
+			"Michael J. Lee, Faezeh Bahmani, Irwin Kwan, Jilian LaFerte, Polina Charters, Amber Horvath, Fanny Luor, Jill Cao, Catherine Law, Michael Beswetherick, Sheridan Long, Margaret Burnett, Amy J. Ko",
+			2014,
+			"Principles of a debugging-first puzzle game for computing education",
+			"IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+			"https://doi.org/10.1109/VLHCC.2014.6883023"
 		],
 		"lee15": [
 			"Michael J. Lee, Amy J. Ko",
@@ -1005,6 +1047,20 @@
 			"#icer",
 			"https://doi.org/10.1145/2960310.2960316"
 		],
+		"parnas72": [
+			"David L. Parnas",
+			1972,
+			"On the criteria to be used in decomposing systems into modules",
+			"Pioneers and Their Contributions to Software Engineering",
+			"https://doi.org/10.1007/978-3-642-48354-7_20"			
+		],
+		"parnas85": [
+			"David L. Parnas, Paul C. Clements, and David M. Weiss",
+			1985,
+			"The Modular Structure of Complex Systems",
+			"IEEE Transactions on Software Engineering",
+			"https://doi.org/10.1109/TSE.1985.232209"
+		],
 		"papert93": [
 			"Seymour A. Papert",
 			1993,
@@ -1116,6 +1172,13 @@
 			"Crystal Fire: The Invention of the Transistor and the Birth of the Information Age",
 			"Norton",
 			"https://www.google.com/books/edition/Crystal_Fire/SZ6wm5ZSUmsC?hl=en&gbpv=0"
+		],
+		"robillard11": [
+			"Martin Robillard, Rob DeLine",
+			2011,
+			"A field study of API learning obstacles",
+			"Empirical Software Engineering",
+			"https://doi.org/10.1007/s10664-010-9150-8"
 		],
 		"robins10": [
 			"Anthony Robins , Janet Rountree, Nathan Rountree",
@@ -1256,6 +1319,13 @@
 			"The Cornell program synthesizer: a syntax-directed programming environment",
 			"Communications of the ACM",
 			"https://doi.org/10.1145/358746.358755"
+		],
+		"thayer21": [
+			"Kyle Thayer, Sarah E. Chasins, Amy J. Ko",
+			2021,
+			"A Theory of Robust API Knowledge",
+			"#toce",
+			"https://doi.org/10.1145/3444945"
 		],
 		"thorndike98": [
 			"Edward L. Thorndike", 

@@ -38,7 +38,7 @@
 			"id": "assessment", 
 			"title": "Critical CS Education Assessment", 
 			"authors": ["davidson", "ko"],
-			"image": "|question.jpg|TODO|TODO|TODO|",
+			"image": "|Chapter03_Figure01_Feedback.png|An overhead shot of hands writing on paper with blue marks annotating a drawing.|Assessment is about more than grades, it's about learning and agency.|Jessie Huynh|",
 			"section": "Foundations"
 		},
 		{
@@ -256,6 +256,13 @@
 			"Handbook on the History of Mathematics Education",
 			"https://www.google.com/books/edition/Handbook_on_the_History_of_Mathematics_E/MYy9BAAAQBAJ?hl=en&gbpv=0"
 		],
+		"black09": [
+			"Paul Black, Dylan Wiliam",
+			2009,
+			"Developing the theory of formative assessment",
+			"Education Assessment, Evaluation, and Accountability",
+			"https://doi.org/10.1007/s11092-008-9068-5"
+		],
 		"blackwell02": [
 			"Alan F. Blackwell",
 			2002,
@@ -332,6 +339,13 @@
 			"Encore: 3D printed augmentation of everyday objects with printed-over, affixed and interlocked attachments",
 			"ACM Symposium on User Interface Software & Technology",
 			"https://doi.org/10.1145/2807442.2807498"
+		],
+		"chipman20": [
+			"Hannah E. Chipman, Marnie Hill, Tiffany Barnes",
+			2020,
+			"The AP Computer Science Principles Exam: Teacher Reflections",
+			"#sigcse",
+			"https://doi.org/10.1145/3328778.3372698"	
 		],
 		"codding20": [
 			"Diane Codding, Bataul Alkhateeb, Chrystalla Mouza, Lori Pollock",
@@ -417,12 +431,26 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/Data_Feminism/x5nSDwAAQBAJ?hl=en&gbpv=0"
 		],
+		"drysdale05": [
+			"Scot Drysdale, Judith Hromcik, David Reed, Reg Hahne",
+			2005,
+			"The year in review: changes and lessons learned in the design and implementation of the AP CS exam in Java",
+			"#sigcse",
+			"https://doi.org/10.1145/1047344.1047355"
+		],
 		"doyle15": [
 			"Maureen Doyle",
 			2015,
 			"SIGCSE symposium history",
 			"#sigcse",
 			"https://doi.org/10.1145/2856332.2856338"
+		],
+		"durm93": [
+			"Mark W. Durm",
+			1993,
+			"An A is not an A is not an A: A History of Grading",
+			"The Educational Forum",
+			"https:/doi.org/10.1080/00131729309335429"
 		],
 		"economides09": [
 			"Nicholas Economides, Ioannis Lianos",
@@ -444,6 +472,13 @@
 			"Augmenting Human Intellect: A Conceptual Framework",
 			"Bloomsbury Publishing",
 			"https://www.google.com/books/edition/The_Screen_Media_Reader/eg1sDQAAQBAJ?hl=en&gbpv=0"
+		],
+		"ericson17": [
+			"Barbara J. Ericson, Lauren E. Margulieux, Jochen Rick",
+			2017,
+			"Solving parsons problems versus fixing and writing code",
+			"ACM Koli Calling International Conference on Computing Education Research",
+			"https://doi.org/10.1145/3141880.3141895"
 		],
 		"essinger14": [
 			"James Essinger",
@@ -543,6 +578,13 @@
 			"Gallup",
 			"https://edu.google.com/latest-news/research/?modal_active=none#diversity-trends"
 		],
+		"gorson19": [
+			"Jamie Gorson, Eleanor O'Rourke",
+			2019,
+			"How Do Students Talk About Intelligence? An Investigation of Motivation, Self-efficacy, and Mindsets in Computer Science",
+			"#icer",
+			"https://doi.org/10.1145/3291279.3339413"	
+		],
 		"grier01": [
 			"David Alan Grier",
 			2001,
@@ -605,6 +647,13 @@
 			"CS1 students speak: advice for students by students",
 			"#sigcse",
 			"https://doi.org/10.1145/1539024.1508875"
+		],
+		"hao21": [
+			"Qiang Hao, David H. Smith IV, Lu Ding, Amy J. Ko, Camille Ottaway, Jack Wilson, Kai H. Arakawa, Alistair Turcan, Timothy Poehlman, Tyler Greer",
+			2021,
+			"Towards understanding the effective design of automated formative feedback for programming assignments",
+			"#cse",
+			"https://doi.org/10.1080/08993408.2020.1860408"
 		],
 		"hargittai16": [
 			"I. Hargittai",
@@ -704,6 +753,13 @@
 			"Big Data & Society",
 			"https://doi.org/10.1177%2F2053951716674238"
 		],
+		"inoue15": [
+			"Asao B. Inoue",
+			2015,
+			"Antiracist Writing Assessment Ecologies: Teaching and Assessing Writing for a Socially Just Future",
+			"Parlor Press",
+			"https://www.google.com/books/edition/Antiracist_Writing_Assessment_Ecologies/m6sWEAAAQBAJ?hl=en&gbpv=0"
+		],
 		"kafai14": [
 			"Yasmin B. Kafai, Eunkyoung Lee, Kristin Searle, Deborah Fields, Eliot Kaplan, Debora Lui",
 			2014,
@@ -725,6 +781,13 @@
 			"#chi",
 			"https://doi.org/10.1145/1240624.1240844"
 		],
+		"keuning18": [
+			"Hieke Keuning, Johan Jeuring, Bastiaan Heeren",
+			2018,
+			"A Systematic Literature Review of Automated Feedback Generation for Programming Exercises",
+			"#toce",
+			"https://doi.org/10.1145/3231711"
+		],
 		"kiesler85": [
 			"Sara Kiesler, Lee Sproull, Jacquelynne S. Eccles",
 			1985,
@@ -745,6 +808,13 @@
 			"The Invention and Development of the Hollerith Punched Card: In Commemoration of the 130th Anniversary of the Birth of Herman Hollerith and for the 100th Anniversary of Large Scale Data Processing",
 			"Annals of the History of Computing",
 			"https://doi.org/10.1109/MAHC.1991.10023"
+		],
+		"knight02": [
+			"Peter T. Knight",
+			2002,
+			"Summative Assessment in Higher Education: Practices in Disarray",
+			"Studies in Higher Education",
+			"https://doi.10.1080/03075070220000662"
 		],
 		"knuth80": [
 			"Donald E. Knuth, Luis Trabb Pardo",
@@ -773,6 +843,13 @@
 			"The Role of Conceptual Knowledge in API Usability",
 			"IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
 			"https://doi.org/10.1109/VLHCC.2011.6070395"
+		],
+		"ko18": [
+			"Amy J. Ko, Leanne Hwa, Katie Davis, Jason C. Yip",
+			2018,
+			"Informal Mentoring of Adolescents about Computing: Relationships, Roles, Qualities, and Impact",
+			"#sigcse",
+			"https://doi.org/10.1145/3159450.3159475"
 		],
 		"ko19": [
 			"Amy J. Ko, Thomas D. LaToza, Stephen Hull, Ellen Ko, William Kwok, Jane Quichocho, Harshitha Akkaraju, Rishin Pandit",
@@ -851,6 +928,13 @@
 			"Journal of Statistics Education",
 			"https://doi.org/10.1080/10691898.2007.11889454"
 		],
+		"lewis13": [
+			"Colleen M. Lewis, Huda Khayrallah, Amy Tsai",
+			2013,
+			"Mining data from the AP CS a exam: patterns, non-patterns, and replication failure",
+			"#icer",
+			"https://doi.org/10.1145/2493394.2493415"
+		],
 		"licklider63": [
 			"J. C. R. Licklider",
 			1963,
@@ -900,6 +984,13 @@
 			"Cork University Press",
 			"https://www.google.com/books/edition/The_Life_and_Work_of_George_Boole/PHfPoAEACAAJ?hl=en"
 		],
+		"malmi19": [
+			"Lauri Malmi, Ian Utting, Amy J. Ko",
+			2019,
+			"Tools and Environments",
+			"The Cambridge Handbook of Computing Education Research",
+			"https://doi.org/10.1017/9781108654555.022"
+		],
 		"maloney10": [
 			"John Maloney, Mitchel Resnick, Natalie Rusk, Brian Silverman, Evelyn Eastmond",
 			2010,
@@ -941,6 +1032,13 @@
 			"Black software: The internet and racial justice, from the AfroNet to Black Lives Matter",
 			"Oxford University Press",
 			"https://www.google.com/books/edition/Black_Software/DmmtDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"mccracken01": [
+			"Michael McCracken, Vicki Almstrum, Danny Diaz, Mark Guzdial, Dianne Hagan, Yifat Ben-David Kolikant, Cary Laxer, Lynda Thomas, Ian Utting, Tadeusz Wilusz",
+			2001,
+			"A multi-national, multi-institutional study of assessment of programming skills of first-year CS students",
+			"#iticse",
+			"https://doi.org/10.1145/572133.572137"
 		],
 		"menninger13": [
 			"Karl Menninger",
@@ -1117,6 +1215,13 @@
 			"#toce",
 			"https://doi.org/10.1145/3077618"
 		],
+		"quille20": [
+			"Keith Quille, Susan Bergin",
+			2020,
+			"Promoting a Growth Mindset in CS1: Does One Size Fit All? A Pilot Study",
+			"#iticse",
+			"https://doi.org/10.1145/3341525.3387361"
+		],
 		"raines96": [
 			"Getting the Message Through: A Branch History of the U.S. Army Signal Corps",
 			1996,
@@ -1222,12 +1327,26 @@
 			"Journal of Educational Psychology",
 			"https://psycnet.apa.org/doi/10.1037/edu0000314"
 		],
+		"sheard02": [
+			"Judy Sheard, Martin Dick, Selby Markham, Ian Macdonald, Meaghan Walsh",
+			2002,
+			"Cheating and plagiarism: perceptions and practices of first year IT students",
+			"#iticse",
+			"https://doi.org/10.1145/544414.544468"
+		],
 		"shetterly16": [
 			"Margot Lee Shetterly",
 			2016,
 			"Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
 			"HarperCollins",
 			"https://www.google.com/books/edition/Hidden_Figures/tkRHjgEACAAJ?hl=en"
+		],
+		"schinske17": [
+			"Jeffrey Schinske, Kimberly Tanner",
+			2017,
+			"Teaching More by Grading Less (or Differently)",
+			"Life Sciences Education",
+			"https://doi.org/10.1187/cbe.cbe-14-03-0054"
 		],
 		"sigler03": [
 			"Laurence Sigler",
@@ -1320,6 +1439,13 @@
 			"Communications of the ACM",
 			"https://doi.org/10.1145/358746.358755"
 		],
+		"tew11": [
+			"Allison Elliott Tew, Mark Guzdial",
+			2011,
+			"The FCS1: a language independent assessment of CS1 knowledge",
+			"#sigcse",
+			"https://doi.org/10.1145/1953163.1953200"
+		],
 		"thayer21": [
 			"Kyle Thayer, Sarah E. Chasins, Amy J. Ko",
 			2021,
@@ -1376,12 +1502,26 @@
 			"Educational Studies in Mathematics",
 			"https://doi.org/10.1007/s10649-017-9764-5"
 		],
+		"weintrop14": [
+			"David Weintrop, Elham Beheshti, Michael S. Horn, Kai Orton, Laura Trouille, Kemi Jona, Uri Wilensky",
+			2014,
+			"Interactive Assessment Tools for Computational Thinking in High School STEM Classrooms",
+			"Intelligent Technologies for Interactive Entertainment",
+			"https://doi.org/10.1007/978-3-319-08189-2_3"
+		],
 		"weintrop17": [
 			"David Weintrop, Uri Wilensky",
 			2017,
 			"Comparing Block-Based and Text-Based Programming in High School Computer Science Classrooms",
 			"#toce",
 			"https://doi.org/10.1145/3089799"
+		],
+		"werner12": [
+			"Linda Werner, Jill Denner, Shannon Campe, Damon Chizuru Kawamoto",
+			2012,
+			"The fairy performance assessment: measuring computational thinking in middle school",
+			"#sigcse",
+			"https://doi.org/10.1145/2157136.2157200"
 		],
 		"widmer05": [
 			"Rolf Widmer, Heidi Oswald-Krapf, Deepali Sinha-Khetriwal, Max Schnellmann, Heinz Bönia",

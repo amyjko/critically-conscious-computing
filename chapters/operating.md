@@ -217,6 +217,7 @@ This chapter prepared you to help students...
 ,CSTA, Original Standard, Revised Standard
 ,3A-CS-02, Compare levels of abstraction and interactions between application software\, system software\, and hardware layers.,Examine how levels of abstraction in operating systems and hardware shape and constrain what and how applications are created and used.
 ,3B-CS-01, Categorize the roles of operating system software., Explain how specific features of operating systems dictate how software can be used.
+,3A-IC-19, Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.,Explain how organizations use software to surveil users in order to monetize their activity for profit.
 
 ,Teaching Tolerance, Original Standard, Critically Conscious Revision
 ,15, Identify figures\, groups\, events and a variety of strategies and philosophies relevant to the history of social justice around the world.,Identify figures\, groups\, events and a variety of strategies and philosophies relevant to the history of computer science and social justice.

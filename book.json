@@ -9,15 +9,15 @@
 		{ "id": "mara", "name": "Mara Kirdani-Ryan", "url": "https://marakr.com" }
 	],
 	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
-	"cover": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
-	"unknown": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+	"cover": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
+	"unknown": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 	"description": "TODO I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. If you see something missing or wrong, [submit an issue|https://github.com/amyjko/critically-conscious-computing].",
 	"chapters": [
 		{
 			"id": "introduction", 
 			"title": "Introduction", 
 			"authors": ["ko"],
-			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"numbered": false
 		},
 		{
@@ -45,14 +45,14 @@
 			"id": "justice", 
 			"title": "CS, Equity, and Justice", 
 			"authors": ["ko", "beitlers"],
-			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"section": "Computing"
 		},
 		{
 			"id": "design", 
 			"title": "CS and Design", 
 			"authors": ["ko", "oleson"],
-			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"section": "Computing"
 		},
 		{
@@ -66,7 +66,7 @@
 			"id": "information", 
 			"title": "Encoding Information", 
 			"authors": ["ko"],
-			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"section": "Computing"
 		},
 		{
@@ -94,35 +94,35 @@
 			"id": "control", 
 			"title": "Control Structures", 
 			"authors": ["ko", "wortzman"],
-			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"section": "Code"
 		},
 		{
 			"id": "data", 
 			"title": "Data Structures", 
 			"authors": ["ko", "wortzman"],
-			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"section": "Code"
 		},
 		{
 			"id": "algorithms",
 			"title": "Algorithms",
 			"authors": ["ko"],
-			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"section": "Code"
 		},
 		{
 			"id": "abstractions",
 			"title": "Abstractions",
 			"authors": ["ko"],
-			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"section": "Code"
 		},
 		{
 			"id": "aiml", 
 			"title": "Artificial Intelligence and Machine Learning", 
 			"authors": ["ko"],
-			"image": "|question.jpg|A question mark.|This is a placeholder.|Simone Secci|",
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"section": "Methods"
 		}
 	],

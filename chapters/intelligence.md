@@ -140,7 +140,7 @@ Machine learning algorithms "learns" a decision tree by analyzing the probabilit
 
 Is this intelligent? One way to answer that question is to ask whether this is effective classroom management. It isn’t, particularly; clearly whether to intervene is a much more situated decision, dependent on many more variables than just current and past off task behavior, including who the student is, what the activity is, when in the school year it is, whether the behavior is disruptive to others, whether a teacher perceives a learning opportunity from intervention. Thus, the decision tree is only as "intelligent" as the data it is given, and this data is not very "intelligent." The magic of machine learning methods such as decision trees is therefore still limited to its ability to efficiently and effectively learn from data, and to whatever intelligence is encoded into that data—not in its ability to critically question what the data means or what implications the behavior might have on students. That remains something only people can do.
 
-||||TODO Something that conveys the challenge of deciding what intelligence a computer should have and how that intelligence should be used in the world|
+|question.jpg|||TODO Something that conveys the challenge of deciding what intelligence a computer should have and how that intelligence should be used in the world|
 
 # Designing Intelligence
 
@@ -171,7 +171,7 @@ What do we make of the identities of these four intellectual forces who shaped t
 
 Does the potential for harm that may come from encoding intelligence, or the identities of the people who do this encoding, mean that we should stop creating software? Not necessarily. There is certainly work in the world that should be fast, reliable, and safely performed by computers instead of people. If software designers can envision it and engineers can build it, or learn it from data, then perhaps some of these tasks are valuable to automate. But it does mean that we have to much more carefully understand the limitations of software, and think carefully about when to use it, whether we are deciding whether to use a software program, voting democratically on technology policy, or designing software to be used by others.
 
-||||TODO Something that portrays teachers and students debating people and machines|
+|question.jpg|||TODO Something that portrays teachers and students debating people and machines|
 
 # Teaching Intelligence
 Engaging students in the two fundamental questions of what is intelligence? and how do we create it necessarily requires developing students’ critical consciousness with a third question: should we create it? Posing this question first engages students in reasoning about the ethical, moral, social, and economic implications of technology on society, while also necessarily engaging in questions about what kind of intelligence is and is not possible with software, and what kinds of automation are desirable, and for whom.
@@ -180,7 +180,7 @@ Unfortunately, most research on CS education does not engage this third question
 
 A critically conscious pedagogy for discussing automation would likely go beyond engaging youth in designing and engineering software in multidisciplinary ways. Rather, it would engage youth in making decisions about whether and how to automate, and surface the critical individual, organizational, community, and societal tensions in these automation choices. Blending these pedagogies with culturally sustaining ones, teaching methods might help students position themselves within these automation choices, asking them what world they want, why they want it, and what effect getting it might have on others. Because such teaching methods are underexplored, teachers should expect to experiment, reflect, and deeply engage their students in shaping how to discuss automation and computing.
 
-||||TODO Something that portrays libraries and search engines in a war|
+|question.jpg|||TODO Something that portrays libraries and search engines in a war|
 
 ## Unit Plan: Libraries vs. Search Engines
 

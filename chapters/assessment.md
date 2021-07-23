@@ -121,7 +121,7 @@ While automated scoring can save teachers some assessment labor, they have yet t
 
 Of course, all of these limitations of current CS assessment practices are even more greatly limited in their scope: there has been little effort in research or practice to develop equitable practices for assessing much beyond technical skills in programming. Even within the scope of the K-12 CS standards, we do not yet know how to assess students’ conceptual understanding of computer hardware and networks, their creative skills in devising algorithms, their ability to organize more complex computer programs, or their ability to productively collaborate. And there has been effectively no research on how to use assessment to develop students’ moral and ethical reasoning skills to understand the impact of computing on society and individual lives. CS teachers are therefore on the forefront of creatively exploring ways of using assessment to guide learning of the broadening scope of CS knowledge.
 
-|||TODO Something to convey a broader context of caring feedback.||
+|question.jpg||TODO Something to convey a broader context of caring feedback.||
 
 # Equitable CS Assessment
 

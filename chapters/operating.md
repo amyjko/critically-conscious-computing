@@ -35,7 +35,7 @@ This liberal copying and sharing was also accompanied by fierce, anti-competitiv
 
 These economic trends interacted closely with the creation of modern operating systems. Before this shift, merging with a major competitor, acquiring a smaller competitor before they could grow, and creating vertical monopolies would generally invite antitrust investigations. Today, decades of acquisitions, mergers, and vertical integration have changed the rich, complex, and diverse landscape of computer systems and operating systems of the 1960s into a sterile and stable landscape today, with only Microsoft, Apple, and Google, dominating desktop and mobile operating systems, along with most of the internet that we interact with on a regular basis. All of these monopolies still have their roots in the earliest problems that human computer operators had, of trying to maximize use of a computer’s CPU to execute programs, prioritize urgent jobs over others, and maintain the hardware utilized by the CPU. In fact, some of these operating systems still use source code written in the 1960’s. The history of operating systems is therefore not just a series of events, but a set of artifacts, computer code, still used today by billions.
 
-||||TODO Something that portrays the software that runs and maintains all of the hardware in a computer. Like an invisible hand managing all of the components described in the previous chapter.|
+|question.jpg|||TODO Something that portrays the software that runs and maintains all of the hardware in a computer. Like an invisible hand managing all of the components described in the previous chapter.|
 
 # Components of Modern Operating Systems
 
@@ -81,7 +81,7 @@ Because operating system providers determine the rules for which programs can ru
 
 Because operating systems are so central in shaping how we use computers, and yet they have become so privatized and monopolized, operating systems are now gatekeepers, centralizing power, resulting in a single monolithic leverage point for determining policy about what programs and data are allowed on computers. Most operating systems privatize these decisions, shifting them from individual moral judgement or public policy to private decisions by CEOs and boards. And, as we began this chapter discussing, they automate, replacing the facile intelligence of people with algorithms that promise speed. Therefore, far from being a mundane, almost invisible interface between hardware and software, operating systems are a center of power and conflict in an increasingly digital world.
 
-||||TODO Youth inspecting an operating system, both its internals and how it’s positioned in the world.|
+|question.jpg|||TODO Youth inspecting an operating system, both its internals and how it’s positioned in the world.|
 
 # Teaching Operating Systems
 

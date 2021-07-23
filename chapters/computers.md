@@ -26,7 +26,7 @@ Just a few years later in 1947, William Shockley, John Bardeen, and Walter Bratt
 
 Since the transistor was invented, there have been decades of refinements on the basic technology, to the point where modern computers can fit billions of them onto a computer chip the size of one’s thumb. And each of these billions of transistors do the same basic task of storing a binary digit, possibly representing part of a number, part of a computer program, or part of the latest viral video on YouTube.
 
-||||TODO Figure. Portrayal of the insides of modern computers and their various parts; perhaps reusing the metaphor in the section, but with a clear sense of caveat?|
+|question.jpg|||TODO Figure. Portrayal of the insides of modern computers and their various parts; perhaps reusing the metaphor in the section, but with a clear sense of caveat?|
 
 # The Modern Computer
 

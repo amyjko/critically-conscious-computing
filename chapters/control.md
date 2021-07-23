@@ -23,7 +23,7 @@ Indiana’s digitization efforts sought to automate the application process, hav
 
 But that’s not how it worked out. Over the course of several years, it became very clear that while the eligibility criteria encoded into state law had not changed, something was different about the decisions that the algorithm was making: fewer people were being approved, and residents had less clarity about why they were being denied. The decisions that the algorithm was making were, in general, less flexible, less explainable, and less transparent than the caseworkers that used to make the decisions. The result was that Indiana denied more than a million applications for food stamps and other aid, a 54% increase in denials compared to the three years before the automation was launched.
 
-|||TODO Something to convey a computer using information to make a decision, but ignoring social context||
+|question.jpg||TODO Something to convey a computer using information to make a decision, but ignoring social context||
 
 # Conditionals Encode Decision Logic
 These differences between the caseworker decisions and the algorithm decisions all reduce to  what we call *control structures* in computer programs. Control structures include low-level CPU instructions like a `jump if equal` instruction (like those discussed in the [Encoding Intelligence|intelligence] chapter), which might compare the bit sequences of two values in memory, and go to a particular instruction in a program if they are equal, and go to the next instruction in a program if they are not. CPUs have similar instructions like `jump if zero`, `jump if less than`, `jump of greater than`, all encoding basic mathematical inequalities into hardware, and form the basis for how computer programs make all of their decisions. 
@@ -188,7 +188,7 @@ while True:
 
 This while loop will continue executing as long as `True` is true--in other words, forever, because when will `True` ever be anything other than true? This type of indefinite loop is known as an infinite loop. In many cases, an infinite loop happens by accident when code is written incorrectly. But sometimes a programmer might intentionally want an algorithm to actually run forever. They might do this to indicate that the algorithm should always process applications, forever, until the program is halted by a person. This gets at the reliability goals of Indiana’s plans: computer programs can keep processing without fatigue, forever, as long as they have electricity and people to maintain them, whereas a caseworker needs to take breaks, a lunch, and eventually go home for the night. Of course, it also means that it processes applications without exception—it doesn’t matter if there’s an earthquake, a change in law, a pandemic, or another crisis that might require reversing the decision logic. The algorithm, in this example, is ignorant of what is happening in the world, completely dependent on human beings to do the right thing in exceptional circumstances.
 
-|||TODO Something that conveys a software developer making a decision about someone’s food stamp eligibility instead of a social worker.||
+|question.jpg||TODO Something that conveys a software developer making a decision about someone’s food stamp eligibility instead of a social worker.||
 
 # Delegating Decisions to Developers
 
@@ -282,7 +282,7 @@ Of course, tracing a program’s execution can be incredibly boring--and inevita
 
 This method of bringing social context can be paired with having students bring in their own personal data as well. For example, rather than just choosing an arbitrary value for `number\_of\_dependents` above, students could determine their own value, and trace the algorithm to see how it would decide their family’s eligibility.
 
-|||TODO An example of someone tracing the program above using the strategy below||
+|question.jpg||TODO An example of someone tracing the program above using the strategy below||
 
 After modeling tracing, then it’s time to teach students to trace programs independently. The best evidence suggests that tracing not only requires knowledge of syntax and semantics, but also strategies for scaffolding students’ attention to detail by providing them an explicit procedure<xie18>:
 

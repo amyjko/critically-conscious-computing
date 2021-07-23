@@ -15,7 +15,7 @@ What we did not discuss in that earlier chapter, is where and how data is stored
 
 In this chapter, we’ll describe many types of data structures, from the smallest possible units of storage (variables) to the largest and most complex data structures (databases), and then return to each of these data structures’ capacity for injustice. We’ll then end with a discussion of how to teach data structures critically, developing students’ awareness of the power and peril of organizing data for computation.
 
-|||TODO Something that conveys many tiny boxes with labels on them in which only one object can be held, and many single values, like a number or a word, about to enter those differently labeled boxes.||
+|question.jpg||TODO Something that conveys many tiny boxes with labels on them in which only one object can be held, and many single values, like a number or a word, about to enter those differently labeled boxes.||
 
 # Variables and Data Types
 
@@ -117,7 +117,7 @@ The examples above show two commonly used data types, integers and strings, but 
 
 It’s easy to get caught up in all of these technical details and forget that all variables store data that represent something in the world. For example, while social security numbers are a well defined data type, they are still fraught with problems: not all people who live in America have them; they are sensitive data that can be used to steal identity; they can change if numbers are lost; and they reveal information about people such as where they were born. And other aspects of the first author’s identity that one might try to store in a variable might be even more complex, including age (which depends on time zones), race (which depends on her family’s history of immigration and the historical geographic boundaries around nations). As we discussed in [Encoding Information|information], data is often a reduction of a much messier, and often uncertain and changing reality. Variables are therefore a rigid, reductive data structure tool for storing those imperfect models of a complex world.
 
-|||TODO Something that conveys a long list of many nearly identically shaped things and a another thing with a unique shape that is excluded from the list, as well as some kind of robot machinery that’s processing each item in the list one item at a time.||
+|question.jpg||TODO Something that conveys a long list of many nearly identically shaped things and a another thing with a unique shape that is excluded from the list, as well as some kind of robot machinery that’s processing each item in the list one item at a time.||
 
 # Lists
 As should be clear by now, data structures are not "natural" in any sense. How to store numbers and text in memory, and how to conveniently change and refer to values in memory with variables, were very much inventions, each aimed at solving a particular problem of expression to make the work of a software developer easier. 
@@ -167,7 +167,7 @@ ssn.remove(81)
 
 This example adds the number `123` to the end of the list and then removes the first value in the list, starting from the beginning, that’s equal to `81`, resulting in the list `[555, 9297, 123]`. Of course, this makes no sense: we don’t manipulate social security numbers in this way, and the resulting list is an invalid social security number. In fact, social security numbers do not change one part at a time; they are changed in entirety. Just as in the examples above that compared an integer to a string, this _should_ be a data type error: if Python knew that our list represented a social security number, it would be able to warn us that it’s not valid to append or remove numbers. However, Python does not know that, because it does not know anything about social security number data types and we didn’t teach it the rules about social security number data types. Therefore, it can’t help us find that mistake. It’s up to a programmer to ensure the logic of the program is consistent with the logic of the data types in the world--and if some information has no well defined data type (e.g., personality) or the structure or rules of a data type is disputed (e.g., gender categories and whether they can change), then there is no way for a program to represent that data type correctly. Programs and programmers nevertheless attempt to represent such information as data structures, and use that data to make decisions; this is one way that data structures can oppress.
 
-|||TODO A depiction of a social media profile showing lots of metadata about a person, such as their name, location, interests, etc., but also not faithfully representing the person entirely, providing an example of a named record and its approximation of reality.||
+|question.jpg||TODO A depiction of a social media profile showing lots of metadata about a person, such as their name, location, interests, etc., but also not faithfully representing the person entirely, providing an example of a named record and its approximation of reality.||
 
 # Named Records
 
@@ -274,7 +274,7 @@ dad.children.append(child)
 
 The example above makes a part of a family tree, with a child named "Jan", who has a mother represented by the mom dictionary, and a dad represented by the dad dictionary. The two lines at the end add the child to the list of children that the mom and dad have. Each of the mom and dad dictionaries have mother and father properties as well, but those properties are set to None. Of course, this doesn’t mean that these two people don’t have parents, just that there’s no data to represent them. It might not even mean that mom and dad do not have other children; it may just be that there’s no data about them. And of course, all of these labels "mother" and "father", and the idea that children can only have two and only two parents are entirely exclusionary. Some children have only one parent, some have two mothers, some have two fathers, some have non-binary parents with no gender, and some may even have more then two parents or guardians. So even our attempt to use all of the data structures we’ve discussed to create a more sophisticated tree data structure fails to represent the diversity of families.
 
-|||TODO A depiction of a large table of data with column names and row numbers and people narrowly crammed inside each row, represented by the values in the table.||
+|question.jpg||TODO A depiction of a large table of data with column names and row numbers and people narrowly crammed inside each row, represented by the values in the table.||
 
 # Databases
 
@@ -349,7 +349,7 @@ D’Ignazio and Klein, 2020, in their book Data Feminism<dignazio20>, provide a 
 
 Designers of databases and any other kind of data structures, therefore have a responsibility to account for these limitations in their choices, approaching the assumptions they make about data with humility, to avoid reinforcing systems of oppression, or creating new ones. And users of them, including everyone in society that uses data, needs to recognize that computers cannot structure and present reality perfectly, and that it’s imperfections can do great harm.
 
-|||TODO A depiction of students taking about how data is organized and represented||
+|question.jpg||TODO A depiction of students taking about how data is organized and represented||
 
 # Teaching Data Structures
 

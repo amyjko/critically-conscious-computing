@@ -120,7 +120,7 @@ In this example, the code will indicate that an application should be reviewed, 
 
 These various forms of conditionals allow us to get closer to the decision making of a human case worker, but at the cost of increasingly complex code. And, even with all this complexity, there will still be elements of human judgment that are difficult, if not impossible, to replicate. For example, what if the data the program is using is incorrect, because the person who entered it into the web form typed it in correctly or misunderstood a question? A case worker might notice that and double-check, whereas the algorithms above have no ability to inspect the accuracy of the data.
 
-|||TODO Something to convey a computer doing the same thing over and over and never getting tired, but also never stopping to ponder the implications of its decisions||
+|Chapter11_Figure03_Implications.png|Five metal balls hanging from vertical wires, with one ball flying left after being hit by the other balls, cracking some glass. A small person looks on at the destruction.|Repetition can break things.|TODO|
 
 # Loops
 
@@ -200,7 +200,7 @@ Of course, how sophisticated a program’s decisions are is purely a function of
 
 Is it possible to ever faithfully represent human judgement with control structures? It’s certainly possible to get closer. The IBM project almost certainly had more sophisticated control logic than our examples above, checking many more conditions and having much more complex procedures for when to escalate applications to the caseworkers that remained on staff. Perhaps a robust design workshop with caseworkers would have led to logic that was more aligned with their practices, such as checking for errors and reaching out to applications to help them secure approval. Other more advanced logic might even be used, such as the statistical reasoning used in machine learning, to try to predict which applications might need human review to be successfully approved. But as we shall see in later chapters, even machine learning and other forms of artificial intelligence are limited in their ability to mimic human reasoning, especially reasoning that requires empathy, context, and moral judgement.
 
-|||TODO A figure of a student very very carefully watching a machine make decisions very very quickly||
+|Chapter11_Figure05_Observing.png|A young girl watching a traffic signal change and blink, very very closely, as she looms over traffic.|Watch programs closely; they decide quickly.|TODO|
 
 # Teaching Control Structures
 

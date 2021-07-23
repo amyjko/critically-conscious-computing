@@ -29,7 +29,7 @@ This power, and the narrow set of values around which it was cultivated, have al
 
 In this chapter, we will try to dispel the myth of programming languages as an impenetrable mystery. We’ll do this by showing where they came from, who created them, and why, and then discuss how teachers might help students overcome the same myth. In subsequent chapters, we’ll discuss some of the major features of programming languages and how they are used to construct programs.
 
-||||TODO A clear depiction of a punch card with a program punched into it. The punch card should be legible, and punches should be visible, but everything around it is flexible. Ideally, it would integrate with some of the descriptions in the text|
+|Chapter10_Figure02_PunchcardMissile.png|A punchcard with a parabola and missle behind it.|The first programs computed missle trajectories.|TODO|
 
 # Punch Card Programming Languages
 
@@ -41,7 +41,7 @@ Now, imagine a CPU with 50 kinds of instructions. If `je` is represented by `101
 
 The values behind the invention of punch card programming were relatively straightforward: computers were being used to calculate missile trajectories in war time and to make costly business decisions, and so preventing errors was of the utmost importance. Had computers first been used to procedurally create digital art, or to connect communities, error prevention might have been a lower priority, and we might have instead ended up with languages that were less about calculation, but more about surprise and serendipity.
 
-||||TODO A depiction of a COBOL example, and a sense of it being used to do advanced math, and maybe Grace Hopper hanging around. Examples here: https://en.wikibooks.org/wiki/Fortran/Fortran_examples#Simple_Fortran_II_program|
+|Chapter10_Figure03_COBOL.png|Grace Hopper looking down at a document, with COBOL instructions written on paper behind her.|Grace Hopper invented the first high-level programming language.|TODO|
 
 # Textual Programming Languages
 
@@ -199,7 +199,7 @@ While this abbreviated history reveals that programming language designs ultimat
 
 The communities that support languages have similar exclusionary norms. For example, many programming language designs are evolved through community processes. Python, for example, which is particularly progressive in its inclusion efforts, has a diversity statement and a code of conduct, and a steering council of five members at the time of this writing charged with enforcing them. However, they are all from Western, English-speaking countries, only one identifies as a woman, and none are people of color. Their views shape the evolution of the language and its community, which shape the kinds of software created with Python, which shapes the kinds of experiences that everyone in the world have with software built with Python. For example, up until version 3 of Python, Unicode support was not the default, meaning that most Python programs and communities used text encodings that excluded most of the world’s languages. Python 3, while it now uses Unicode by default, was largely ignored by developers for a decade, because so much of the world’s Python code was already written in Python 2, and it was not compatible. This demonstrates how choices long ago by Python’s designer in 1989—to privilege English—continue to live on today.
 
-|||TODO A teacher talking about the origins of a programming language with students.||
+|Chapter10_Figure05_StudentLanguage.png|A Black student playing a trumpet, but with code blaring out.|Learning a language is like learning an instrument.|TODO|
 
 # Teaching Programming Languages
 

@@ -188,6 +188,8 @@ while True:
 
 This while loop will continue executing as long as `True` is true--in other words, forever, because when will `True` ever be anything other than true? This type of indefinite loop is known as an infinite loop. In many cases, an infinite loop happens by accident when code is written incorrectly. But sometimes a programmer might intentionally want an algorithm to actually run forever. They might do this to indicate that the algorithm should always process applications, forever, until the program is halted by a person. This gets at the reliability goals of Indiana’s plans: computer programs can keep processing without fatigue, forever, as long as they have electricity and people to maintain them, whereas a caseworker needs to take breaks, a lunch, and eventually go home for the night. Of course, it also means that it processes applications without exception—it doesn’t matter if there’s an earthquake, a change in law, a pandemic, or another crisis that might require reversing the decision logic. The algorithm, in this example, is ignorant of what is happening in the world, completely dependent on human beings to do the right thing in exceptional circumstances.
 
+# TODO Address event handlers
+
 |question.jpg||TODO Something that conveys a software developer making a decision about someone’s food stamp eligibility instead of a social worker.||
 
 # Delegating Decisions to Developers

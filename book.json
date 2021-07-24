@@ -119,6 +119,13 @@
 			"section": "Code"
 		},
 		{
+			"id": "programming",
+			"title": "Programming",
+			"authors": ["ko", "wortzman"],
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
+			"section": "Code"
+		},
+		{
 			"id": "aiml", 
 			"title": "Artificial Intelligence and Machine Learning", 
 			"authors": ["ko"],
@@ -143,6 +150,13 @@
 			"Geek genes, prior knowledge, stumbling points and learning edge momentum: parts of the one elephant?",
 			"#icer",
 			"https://doi.org/10.1145/2493394.2493416"
+		],
+		"ambler02": [
+			"Scott Ambler",
+			2002,
+			"Agile Modeling: Effective Practices for EXtreme Programming and the Unified Process",
+			"Wiley",
+			"https://www.google.com/books/edition/Agile_Modeling/uh_jSk2FSa0C?hl=en&gbpv=0"
 		],
 		"amdahl64": [
 			"Gene M. Amdahl, Gerrit A. Blaauw, and Frederick P. Brooks",
@@ -199,6 +213,13 @@
 			"Is 40 the new 60? How popular media portrays the employability of older software developers",
 			"IEEE Software",
 			"https://doi.org/10.1109/MS.2020.3014178"
+		],
+		"bandy21": [
+			"Jack Bandy",
+			2021,
+			"Problematic Machine Behavior: A Systematic Literature Review of Algorithm Audits",
+			"Proceedings of the ACM Human-Computer Interaction",
+			"https://doi.org/10.1145/3449148"
 		],
 		"bartik13": [
 			"Jean Jennings Bartik, Jean Bartik, Jon T. Rickman, Kim D. Todd",
@@ -262,6 +283,13 @@
 			"Developing the theory of formative assessment",
 			"Education Assessment, Evaluation, and Accountability",
 			"https://doi.org/10.1007/s11092-008-9068-5"
+		],
+		"blackwell01": [
+			"Alan F. Blackwell, Rob Hague",
+			2001,
+			"AutoHAN: An architecture for programming the home",
+			"IEEE Symposia on Human-Centric Computing Languages and Environments",
+			"https://doi.org/10.1109/HCC.2001.995253"
 		],
 		"blackwell02": [
 			"Alan F. Blackwell",
@@ -340,12 +368,26 @@
 			"ACM Symposium on User Interface Software & Technology",
 			"https://doi.org/10.1145/2807442.2807498"
 		],
+		"cherubini07": [
+			"Mauro Cherubini, Gina Venolia, Rob DeLine, Amy J. Ko",
+			2007,
+			"Let's go to the whiteboard: how and why software developers use drawings",
+			"#chi",
+			"https://doi.org/10.1145/1240624.1240714"
+		],
 		"chipman20": [
 			"Hannah E. Chipman, Marnie Hill, Tiffany Barnes",
 			2020,
 			"The AP Computer Science Principles Exam: Teacher Reflections",
 			"#sigcse",
 			"https://doi.org/10.1145/3328778.3372698"	
+		],
+		"clarkemidura19": [
+			"Jody Clarke-Midura, Victor R. Lee, Jessica F. Shumway, and Megan M. Hamilton",
+			2019,
+			"The building blocks of coding: A comparison of early childhood coding toys",
+			"Information and Learning Sciences",
+			"https://doi.org/10.1108/ILS-06-2019-0059"
 		],
 		"codding20": [
 			"Diane Codding, Bataul Alkhateeb, Chrystalla Mouza, Lori Pollock",
@@ -465,6 +507,13 @@
 			"What's in a Surname? The Effects of Surname Initials on Academic Success",
 			"Journal of Economic Perspectives",
 			"https://doi.org/https://doi.org/10.1257/089533006776526085"
+		],
+		"ellis07": [
+			"Heidi JC Ellis, Ralph A. Morelli, Trishan R. De Lanerolle, Gregory W. Hislop",
+			2007,
+			"Holistic software engineering education based on a humanitarian open source project",
+			"IEEE Conference on Software Engineering Education & Training",			
+			"https://doi.org/10.1109/CSEET.2007.26"
 		],
 		"englebart62": [
 			"Douglas Engelbart",
@@ -725,6 +774,13 @@
 			"IEEE Annals of the History of Computing",
 			"https://doi.org/10.1109/85.329756"
 		],
+		"hunt99": [
+			"Andrew Hunt, David Thomas",
+			1999,
+			"The Pragmatic Programmer: From Journeyman to Master",
+			"Pearson Education",
+			"https://www.google.com/books/edition/The_Pragmatic_Programmer/5wBQEp6ruIAC?hl=en&gbpv=0"
+		],
 		"hunt10": [
 			"Earl Hunt",
 			2010,
@@ -837,12 +893,26 @@
 			"Communications of the ACM",
 			"https://doi.org/10.1145/1232743.1232745"
 		],
+		"ko04": [
+			"Amy J. Ko, Brad A. Myers, Htet Htet Aung",
+			2004,
+			"Six learning barriers in end-user programming systems",
+			"IEEE Symposium on Visual Languages-Human Centric Computing",
+			"https://doi.org/10.1109/VLHCC.2004.47"
+		],
 		"ko11": [
 			"Amy J. Ko, Yann Riche",
 			2011,
 			"The Role of Conceptual Knowledge in API Usability",
 			"IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
 			"https://doi.org/10.1109/VLHCC.2011.6070395"
+		],
+		"ko11b": [
+			"Amy J. Ko, Robin Abraham, Laura Beckwith, Alan Blackwell, Margaret Burnett, Martin Erwig, Chris Scaffidi, Joseph Lawrance, Henry Lieberman, Brad Myers, Mary Beth Rosson, Gregg Rothermel, Mary Shaw, and Susan Wiedenbeck",
+			2011,
+			"The state of the art in end-user software engineering",
+			"ACM Computing Surveys",
+			"https://doi.org/10.1145/1922649.1922658"
 		],
 		"ko18": [
 			"Amy J. Ko, Leanne Hwa, Katie Davis, Jason C. Yip",
@@ -857,6 +927,13 @@
 			"Teaching Explicit Programming Strategies to Adolescents",
 			"#sigcse",
 			"https://doi.org/10.1145/3287324.3287371"
+		],
+		"ko20": [
+			"Amy J. Ko, Alannah Oleson, Neil Ryan, Yim Register, Benjamin Xie, Mina Tari, Matthew Davidson, Stefania Druga, Dastyni Loksa",
+			2020,
+			"It is time for more critical CS education",
+			"Communications of the ACM",
+			"https://doi.org/10.1145/3424000"
 		],
 		"laadan11": [
 			"Oren Laadan, Jason Nieh, Nicolas Viennot",
@@ -878,6 +955,13 @@
 			"AccessCSforall: making computer science accessible to K-12 students in the United States",
 			"ACM SIGACCESS Accessibility and Computing",
 			"https://doi.org/10.1145/3124144.3124145"
+		],
+		"latoza20": [
+			"Thomas D. LaToza, Maryam Arab, Dastyni Loksa, and Amy J. Ko",
+			2020,
+			"Explicit programming strategies",
+			"Empirical Software Engineering",
+			"https://doi.org/10.1007/s10664-020-09810-1"
 		],
 		"lazar07": [
 			"Jonathan Lazar, Aaron Allen, Jason Kleinman, and Chris Malarkey",
@@ -984,6 +1068,13 @@
 			"Cork University Press",
 			"https://www.google.com/books/edition/The_Life_and_Work_of_George_Boole/PHfPoAEACAAJ?hl=en"
 		],
+		"magnusson11": [
+			"Thor Magnusson",
+			2011,
+			"Algorithms as Scores: Coding Live Music",
+			"Leonardo Music Journal",
+			"https://doi.org/10.1162/LMJ_a_00056"
+		],
 		"malmi19": [
 			"Lauri Malmi, Ian Utting, Amy J. Ko",
 			2019,
@@ -1068,6 +1159,20 @@
 			"interactions",
 			"https://doi.org/10.1145/274430.274436"
 		],
+		"myers11": [
+			"Glenford J. Myers, Corey Sandler, Tom Badgett",
+			2011,
+			"The Art of Software Testing",
+			"Wiley",
+			"https://www.google.com/books/edition/The_Art_of_Software_Testing/GjyEFPkMCwcC?hl=en&gbpv=0"
+		],
+		"nardi93": [
+			"Bonnie A. Nardi",
+			1993,
+			"A Small Matter of Programming: Perspectives on End User Computing",
+			"MIT Press",
+			"https://www.google.com/books/edition/A_Small_Matter_of_Programming/0drDRT370eoC?hl=en&gbpv=0"			
+		],
 		"nelsen16": [
 			"R. Arvid Nelsen",
 			2016,
@@ -1145,6 +1250,13 @@
 			"#icer",
 			"https://doi.org/10.1145/2960310.2960316"
 		],
+		"parlante17": [
+			"Nick Parlante, Julie Zelenski, Dave Feinberg, Kunal Mishra, Josh Hug, Kevin Wayne, Michael Guerzhoy, Jackie Chi Kit Cheung, François Pitt",
+			2017,
+			"Nifty Assignments",
+			"#sigcse",
+			"https://doi.org/10.1145/3017680.3028255"
+		],
 		"parnas72": [
 			"David L. Parnas",
 			1972,
@@ -1165,6 +1277,13 @@
 			"Mindstorms: Children, computers, and powerful ideas",
 			"Basic books",
 			"https://www.google.com/books/edition/Mindstorms/nDjRDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"pearson11": [
+			"Matt Pearson",
+			2011,
+			"Generative Art: A Practical Guide to Using Processing",
+			"Manning Publications",
+			"https://www.google.com/books/edition/Generative_Art/fTozEAAAQBAJ?hl=en&gbpv=0"
 		],
 		"peckham07": [
 			"Joan Peckham, Lisa L. Harlow, David A. Stuart, Barbara Silver, Helen Mederer, and Peter D. Stephenson",
@@ -1200,6 +1319,20 @@
 			"A multi-classroom report on the value of peer instruction",
 			"ACM Innovation and Technology in Computer Science Education (ITiCSE)",
 			"https://doi.org/10.1145/1999747.1999788"
+		],
+		"prather19": [
+			"James Prather, Raymond Pettit, Brett A. Becker, Paul Denny, Dastyni Loksa, Alani Peters, Zachary Albrecht, Krista Masci",
+			2019,
+			"First Things First: Providing Metacognitive Scaffolding for Interpreting Problem Prompts",
+			"#sigcse",
+			"https://doi.org/10.1145/3287324.3287374"
+		],
+		"prather20": [
+			"James Prather, Brett A. Becker, Michelle Craig, Paul Denny, Dastyni Loksa, Lauren Margulieux",
+			2020,
+			"What Do We Think We Think We Are Doing? Metacognition and Self-Regulation in Programming",
+			"#icer",
+			"https://doi.org/10.1145/3372782.3406263"
 		],
 		"pugh09": [
 			"Emerson W. Pugh",
@@ -1285,6 +1418,13 @@
 			"Empirical Software Engineering",
 			"https://doi.org/10.1007/s10664-010-9150-8"
 		],
+		"robins03": [
+			"Anthony Robins, Janet Rountree, Nathan Rountree",
+			2003,
+			"Learning and teaching programming: A review and discussion",
+			"Computer Science Education",
+			"https://doi.org/10.1076/csed.13.2.137.14200"
+		],
 		"robins10": [
 			"Anthony Robins , Janet Rountree, Nathan Rountree",
 			2010,
@@ -1319,6 +1459,20 @@
 			 "A survey of decision tree classifier methodology",
 			 "IEEE Transactions on Systems, Man, and Cybernetics",
 			 "https://doi.org/10.1109/21.97458"
+		],
+		"sax20": [
+			"Linda J. Sax, Kaitlin N.S. Newhouse, Joanna Goode, Max Skorodinsky, Tomoko M. Nakajima, Michelle Sendowski",
+			2020,
+			"Does AP CS Principles Broaden Participation in Computing? An Analysis of APCSA and APCSP Participants",
+			"#sigcse",
+			"https://doi.org/10.1145/3328778.3366826"
+		],
+		"scaffidi05": [
+			"Christopher Scaffidi, Mary Shaw, Brad Myers",
+			2005,
+			"Estimating the numbers of end users and end user programmers",
+			"IEEE Symposium on Visual Languages and Human-Centric Computing",
+			"https://doi.org/10.1109/VLHCC.2005.34"
 		],
 		"scherer19": [
 			"Ronny Scherer, Fazilat Siddiq, Bárbara Sánchez Viveros",
@@ -1418,6 +1572,13 @@
 			"Simon and Schuster",
 			"https://www.google.com/books/edition/A_Mind_at_Play/yHfxyQEACAAJ?hl=en"
 		],
+		"swidan18": [
+			"Alaaeddin Swidan, Felienne Hermans, Marileen Smit",
+			2018,
+			"Programming Misconceptions for School Students",
+			"#icer",
+			"https://doi.org/10.1145/3230977.3230995"
+		],
 		"tanenbaum15": [
 			"Andrew S. Tanenbaum, Herbert Bos",
 			2015,
@@ -1452,6 +1613,13 @@
 			"A Theory of Robust API Knowledge",
 			"#toce",
 			"https://doi.org/10.1145/3444945"
+		],
+		"thomson14": [
+			"Richard E. Thomson, William J. Emery",
+			2014,
+			"Data Analysis Methods in Physical Oceanography",
+			"Elsevier Science",
+			"https://www.google.com/books/edition/Data_Analysis_Methods_in_Physical_Oceano/59fEAgAAQBAJ?hl=en&gbpv=0"	
 		],
 		"thorndike98": [
 			"Edward L. Thorndike", 
@@ -1530,6 +1698,13 @@
 			"Environmental Impact Assessment Review",
 			"https://doi.org/10.1016/j.eiar.2005.04.001"
 		],
+		"williams18": [
+			"Editors: A. Mark Williams, Aaron Kozbelt, K. Anders Ericsson, Robert R. Hoffman",
+			2018,
+			"The Cambridge Handbook of Expertise and Expert Performance",
+			"Cambridge University Press",
+			"https://www.google.com/books/edition/The_Cambridge_Handbook_of_Expertise_and/HM5TDwAAQBAJ?hl=en&gbpv=0"
+		],
 		"wood11": [
 			"Jo Wood, Donia Badawood, Jason Dykes, Aidan Slingsby",
 			2011,
@@ -1578,6 +1753,13 @@
 			"An investigation of the effects of programming with Scratch on the preservice IT teachers’ self-efficacy perceptions and attitudes towards computer programming",
 			"British Journal of Educational Technology",
 			"https://doi.org/10.1111/bjet.12453"
+		],
+		"zeller09": [
+			"Andreas Zeller",
+			2009,
+			"Why Programs Fail: A Guide to Systematic Debugging",
+			"Elsevier Science",
+			"https://www.google.com/books/edition/Why_Programs_Fail/E5uIKu9Y8UEC?hl=en&gbpv=0"
 		],
 		"zhang19": [
 			"LeChen Zhang, Jalal Nouri",

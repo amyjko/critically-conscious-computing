@@ -424,6 +424,7 @@ Whereas the methods presented earlier explicitly focus on developing skills in u
 This chapter prepared you to help students...
 
 ,CSTA, Original Standard, Revised Standard
+,2-AP-10,Use flowcharts and/or pseudocode to address complex problems as algorithms.,Use flowcharts and/or pseudocode to analyze problems algorithmically and sociotechnically
 ,2-AP-13, Decompose problems and subproblems into parts to facilitate the design\, implementation\, and review of programs., Decompose problems and subproblems into parts to facilitate the design\, implementation\, and review of programs\, while faithfully representing the diversity of people and contexts being supported.
 ,2-AP-14, Create procedures with parameters to organize code and make it easier to reuse., Create procedures with parameters to organize code and make it easier to reuse\, while accounting for the implications of those procedures in diversity\, equity\, and inclusion.
 ,3A-CS-01, Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects., Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects\, making it more difficult to observe their embedded biases.

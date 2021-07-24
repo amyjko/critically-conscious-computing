@@ -25,7 +25,7 @@ Embedded in this history of calculation, number systems, and computing, were the
 
 Since the invention of numbers and calculation, teaching arithmetic has long been considered essential to education, including in Ancient Greece, the Roman Empire, ancient Egypt, and the broader classical education in medieval Europe. Thus, when public education emerged in the United States in the 19th century, and industrialization increased demand for basic numeracy skills to participate in trade, democratizing the skills of calculation was a goal<klein03>. Counting, calculation, and arithmetic became critical skills, just as they were thousands of years prior in Asia and the Middle East. To the extent that we view CS as the discipline concerned with how to calculate, and CS education as about teaching people how to calculate, CS education has been part of education across the world for millennia in the form of arithmetic.
 
-|Chapter01_Figure03_ENIAC.png|Two women programming the ENIAC|Computer programming in the 1960's.|Jessie Huynh|
+|Chapter01_Figure03_ENIAC.png|Two women programming the ENIAC|Computer programming in the 1960's.|Jessie Huynh|<
 
 # Computers Professionalize and Industrialize CS Education
 
@@ -39,7 +39,7 @@ As higher education created these privileged pathways to CS education, industry 
 
 As academic CS emerged in higher education, meetings amongst CS faculty formalized, and the [Association for Computing Machinery|https://www.acm.org] (ACM) emerged<doyle15>. This professional society sought to organize, support, and advocate for the research and practice of CS internationally. Originally, it was open to all who were interested; in 1966, it adopted grades of membership and membership fees, and constituted rules around the creation of “special interest groups” (SIGs), to organize members into interest areas. As most of the members were faculty at colleges and universities, and digital computers were new, CS education was of central interest to its members. The result was that the very first ACM SIG was the Special Interest Group on Computer Science Education (SIGCSE). It first met in 1968, then formalized its SIG, and has held an annual conference every year since to discuss and share advances in CS education. Of course, since it was founded by faculty in higher education, and ideas from CS were largely absent in primary and secondary education, its dominant focus for many decades was higher education CS. And since the primary contributors were White men engaged in CS research, and who lacked any training in education or education research, most of the contributions to the conference were practical in nature, sharing valuable tips, techniques, tools, and experiences about CS teaching.
 
-|Chapter01_Figure04_Papert.png|TODO|Seymour Papert wonders how computers might transform education.|Jessie Huynh|
+|Chapter01_Figure04_Papert.png|TODO|Seymour Papert wonders how computers might transform education.|Jessie Huynh|>
 
 # Attention Turns to Primary and Secondary School
 

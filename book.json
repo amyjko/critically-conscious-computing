@@ -6,7 +6,8 @@
 		{ "id": "wortzman", "name": "Brett Wortzman", "url": "https://homes.cs.washington.edu/~brettwo/" },
 		{ "id": "davidson", "name": "Matt Davidson", "url": "https://www.linkedin.com/in/matt-davidson-he-him-92379916/" },
 		{ "id": "oleson", "name": "Alannah Oleson", "url": "http://alannaholeson.com" },
-		{ "id": "mara", "name": "Mara Kirdani-Ryan", "url": "https://marakr.com" }
+		{ "id": "mara", "name": "Mara Kirdani-Ryan", "url": "https://marakr.com" },
+		{ "id": "druga", "name": "Stefania Druga", "url": "https://stefania11.github.io" }
 	],
 	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
 	"cover": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
@@ -126,9 +127,9 @@
 			"section": "Code"
 		},
 		{
-			"id": "aiml", 
-			"title": "Artificial Intelligence and Machine Learning", 
-			"authors": ["ko"],
+			"id": "ai", 
+			"title": "Artificial Intelligence", 
+			"authors": ["ko", "druga"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"section": "Methods"
 		}
@@ -171,6 +172,13 @@
 			"The charisma machine: The life, death, and legacy of One Laptop per Child",
 			"MIT Press",
 			"https://www.google.com/books/edition/The_Charisma_Machine/yYy5DwAAQBAJ?hl=en&gbpv=0"
+		],
+		"ananny16": [
+			"Mike Ananny, Kate Crawford",
+			2016,			
+			"Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability",
+			"New Media & Society",
+			"https://doi.org/10.1177%2F1461444816676645"
 		],
 		"andrus12": [
 			"Jeremy Andrus, Jason Nieh",
@@ -270,6 +278,13 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/Grace_Hopper_and_the_Invention_of_the_In/dr34DwAAQBAJ?hl=en&gbpv=0"
 		],
+		"birhane21": [
+			"Abeba Birhane, Pratyusha Kalluri, Dallas Card, William Agnew, Ravit Dotan, Michelle Bao",
+			2021,
+			"The Values Encoded in Machine Learning Research",
+			"arXiv",
+			"https://arxiv.org/abs/2106.15590"
+		],
 		"bjarnadóttir14": [
 			"Kristín Bjarnadóttir",
 			2014,
@@ -318,6 +333,27 @@
 			"An Investigation of the Laws of Thought: On which are Founded the Mathematical Theories of Logic and Probabilities",
 			"Walton and Maberly",
 			"https://www.google.com/books/edition/An_Investigation_of_the_Laws_of_Thought/SWgLVT0otY8C?hl=en&gbpv=0"
+		],
+		"boyd11": [
+			"Danah Boyd, Kate Crawford",
+			2011,
+			"Six Provocations for Big Data",
+			"A Decade in Internet Time: Symposium on the Dynamics of the Internet and Society",
+			"http://dx.doi.org/10.2139/ssrn.1926431"
+		],
+		"braga16": [
+			"Adriana Braga, Robert K. Logan",
+			2016,
+			"The Emperor of Strong AI Has No Clothes: Limits to Artificial Intelligence",
+			"Information",
+			"https://doi.org/10.3390/info8040156"
+		],
+		"broussard19": [
+			"Meredith Broussard",
+			2019,
+			"Artificial Unintelligence: How Computers Misunderstand the World",
+			"MIT Press",
+			"https://www.google.com/books/edition/Artificial_Unintelligence/4r34DwAAQBAJ?hl=en&gbpv=0"
 		],
 		"browne15": [
 			"Simone Browne",
@@ -438,6 +474,13 @@
 			"ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW)",
 			"https://doi.org/10.1145/2818048.2819984"
 		],
+		"dasgupta17": [
+			"Sayamindu Dasgupta, Benjamin Mako Hill",
+			2017,
+			"Scratch Community Blocks: Supporting Children as Data Scientists",
+			"#chi",
+			"https://doi.org/10.1145/3025453.3025847"
+		],
 		"davidson21": [
 			"Matt Davidson, Amy J. Ko, Brett Wortzman",
 			2021,
@@ -472,6 +515,27 @@
 			"Data Feminism",
 			"MIT Press",
 			"https://www.google.com/books/edition/Data_Feminism/x5nSDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"dressel18": [
+			"Julia Dressel, Hany Farid",
+			2018,
+			"The accuracy, fairness, and limits of predicting recidivism",
+			"Science Advances",
+			"https://doi.org/10.1126/sciadv.aao5580"
+		],
+		"druga19": [
+			"Stefania Druga, Sarah T. Vu, Eesh Likhith, Tammy Qiu",
+			2019,
+			"Inclusive AI literacy for kids around the world",
+			"Proceedings of FabLearn",
+			"https://doi.org/10.1145/3311890.3311904"
+		],
+		"druga21": [
+			"Stefania Druga, Amy J Ko",
+			2021,
+			"How do children’s perceptions of machine intelligence change when training and coding smart programs?",
+			"ACM Interaction Design and Children",
+			"https://doi.org/10.1145/3459990.3460712"
 		],
 		"drysdale05": [
 			"Scot Drysdale, Judith Hromcik, David Reed, Reg Hahne",
@@ -556,6 +620,13 @@
 			"How to Design Programs: An Introduction to Programming and Computing",
 			"MIT Press",
 			"https://www.google.com/books/edition/_/P6hcDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"frankish14": [
+			"Keith Frankish, Milton Keynes, William M. Ramsey",
+			2014,
+			"The Cambridge Handbook of Artificial Intelligence",
+			"Cambridge University Press",
+			"https://doi.org/10.1017/CBO9781139046855"
 		],
 		"freire68": [
 			"Paulo Freire",
@@ -816,6 +887,13 @@
 			"Parlor Press",
 			"https://www.google.com/books/edition/Antiracist_Writing_Assessment_Ecologies/m6sWEAAAQBAJ?hl=en&gbpv=0"
 		],
+		"jobin19": [
+			"Anna Jobin, Marcello Ienca, Effy Vayena",
+			2019,
+			"The global landscape of AI ethics guidelines",
+			"Nature Machine Intelligence",
+			"https://doi.org/10.1038/s42256-019-0088-2"
+		],
 		"kafai14": [
 			"Yasmin B. Kafai, Eunkyoung Lee, Kristin Searle, Deborah Fields, Eliot Kaplan, Debora Lui",
 			2014,
@@ -1026,6 +1104,13 @@
 			"ARPA",
 			"https://www.kurzweilai.net/memorandum-for-members-and-affiliates-of-the-intergalactic-computer-network"
 		],
+		"liebowitz19": [
+			"Jay Liebowitz",
+			2019,
+			"The Handbook of Applied Expert Systems",
+			"CRC Press",
+			"https://www.google.com/books/edition/The_Handbook_of_Applied_Expert_Systems/WzX3DwAAQBAJ?hl=en&gbpv=0"
+		],
 		"light99": [
 			"Jennifer S. Light",
 			1999,
@@ -1039,6 +1124,13 @@
 			"The dimensions of variation in the teaching of data structures",
 			"#sigcse",
 			"https://doi.org/10.1145/1026487.1008023"
+		],
+		"lu04": [
+			"Hugo Liu, Push Singh",
+			2004,
+			"ConceptNet — A Practical Commonsense Reasoning Tool-Kit",
+			"BT Technology Journal",
+			"https://doi.org/10.1023/B:BTTJ.0000047600.45421.6d"
 		],
 		"lubar92": [
 			"Steven Lubar",
@@ -1089,6 +1181,13 @@
 			"#toce",
 			"https://doi.org/10.1145/1868358.1868363"
 		],
+		"mariescuistodor19": [
+			"Radu Mariescu-Istodor, Ilkka Jormanainen",
+			2019,
+			"Machine Learning for High School Students",
+			"ACM Koli Calling International Conference on Computing Education Research",
+			"https://doi.org/10.1145/3364510.3364520"			
+		],
 		"margolis03": [
 			"Jane Margolis, Allan Fisher",
 			2003,
@@ -1131,12 +1230,26 @@
 			"#iticse",
 			"https://doi.org/10.1145/572133.572137"
 		],
+		"melsión21": [
+			"Gaspar Isaac Melsión, Ilaria Torre, Eva Vidal, Iolanda Leite",
+			2021,
+			"Using Explainability to Help Children Understand Gender Bias in AI",
+			"ACM Interaction Design and Children",
+			"https://doi.org/10.1145/3459990.3460719"
+		],
 		"menninger13": [
 			"Karl Menninger",
 			2013,
 			"Number words and number symbols: A cultural history of numbers",
 			"Courier Corporation",
 			"https://www.google.com/books/edition/Number_Words_and_Number_Symbols/RXbCAgAAQBAJ?hl=en&gbpv=0"
+		],
+		"minker12": [
+			"Jack Minker",
+			2012,
+			"Logic-Based Artificial Intelligence",
+			"Springer",
+			"https://www.google.com/books/edition/Logic_Based_Artificial_Intelligence/QJPTBwAAQBAJ?hl=en&gbpv=0"
 		],
 		"murphy08": [
 			"Laurie Murphy, Lynda Thomas",
@@ -1355,6 +1468,13 @@
 			"#iticse",
 			"https://doi.org/10.1145/3341525.3387361"
 		],
+		"rader18": [
+			"Emilee Rader, Kelley Cotter, Janghee Cho",
+			2018,
+			"Explanations as Mechanisms for Supporting Algorithmic Transparency",
+			"#chi",
+			"https://doi.org/10.1145/3173574.3173677"
+		],
 		"raines96": [
 			"Getting the Message Through: A Branch History of the U.S. Army Signal Corps",
 			1996,
@@ -1438,6 +1558,13 @@
 			"Changing Race: Latinos, the Census and the History of Ethnicity",
 			"NYU Press",
 			"https://www.google.com/books/edition/Changing_Race/siAVCgAAQBAJ?hl=en&gbpv=0"
+		],
+		"russell16": [
+			"Stuart Jonathan Russell, Peter Norvig",
+			2016,
+			"Artificial Intelligence: A Modern Approach",
+			"Pearson",
+			"https://www.google.com/books/edition/Artificial_Intelligence/XS9CjwEACAAJ?hl=en"
 		],
 		"ryoo20": [
 			"Jean J. Ryoo, Tiera Tanksley, Cynthia Estrada, and Jane Margolis",
@@ -1565,6 +1692,13 @@
 			"History of Programming Languages",
 			"https://en.wikipedia.org/wiki/Bjarne_Stroustrup"
 		],
+		"song15": [
+			"Il-Yeol Song, Yongjun Zhu",
+			2015,
+			"Big data and data science: what should we teach?",
+			"Expert Systems",
+			"https://doi.org/10.1111/exsy.12130"
+		],
 		"soni17": [
 			"Jimmy Soni, Rob Goodman",
 			2017,
@@ -1649,6 +1783,13 @@
 			"Parsing the Turing Test",
 			"https://doi.org/10.1007/978-1-4020-6710-5_3"
 		],
+		"turner18": [
+			"Jacob Turner",
+			2018,
+			"Robot Rules: Regulating Artificial Intelligence",
+			"Springer",
+			"https://www.google.com/books/edition/Robot_Rules/moB1DwAAQBAJ?hl=en&gbpv=0"
+		],
 		"vogel19": [
 			"Sara Vogel, Christopher Hoadley, Laura Ascenzi-Moreno, Kate Menken",
 			2019,
@@ -1705,6 +1846,13 @@
 			"Cambridge University Press",
 			"https://www.google.com/books/edition/The_Cambridge_Handbook_of_Expertise_and/HM5TDwAAQBAJ?hl=en&gbpv=0"
 		],
+		"wollowski16": [
+			"Michael Wollowski, Robert Selkowitz, Laura Brown, Ashok Goel, George Luger, Jim Marshall, Andrew Neel, Todd Neller, Peter Norvig",
+			2016,
+			"A Survey of Current Practice and Teaching of AI",
+			"Proceedings of the AAAI Conference on Artificial Intelligence",
+			"https://ojs.aaai.org/index.php/AAAI/article/view/9857"
+		],
 		"wood11": [
 			"Jo Wood, Donia Badawood, Jason Dykes, Aidan Slingsby",
 			2011,
@@ -1753,6 +1901,13 @@
 			"An investigation of the effects of programming with Scratch on the preservice IT teachers’ self-efficacy perceptions and attitudes towards computer programming",
 			"British Journal of Educational Technology",
 			"https://doi.org/10.1111/bjet.12453"
+		],
+		"zamble01": [
+			"Edward Zamble, Vernon L. Quinsey",
+			2001,
+			"The Criminal Recidivism Process",
+			"Cambridge University Press",
+			"https://www.google.com/books/edition/The_Criminal_Recidivism_Process/41WBi_sAP9EC?hl=en&gbpv=0"
 		],
 		"zeller09": [
 			"Andreas Zeller",

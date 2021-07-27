@@ -209,23 +209,20 @@ This last session meets the fourth learning objective, while also linking operat
 
 While this unit gives a basic introduction to operating systems concepts, it does not attempt to build a robust understanding of operating systems algorithms or issues. This might leave students fluent with the basic concept of an operating system, but it will not develop the kind of detailed technical understanding needed to even troubleshoot operating system problems, let alone discuss the nuanced differences between operating system designs. Such knowledge is not part of most learning standards, though it does appear in higher education computer science courses on operating systems, and is even discussed in popular technology journalism about operating systems. Instead of depth, the unit focuses on critically conscious breadth, helping students see the many diverse and surprising ways that operating systems connect to society.
 
-# Relevant Learning Standards
+@standardsHeader
+@standardsBlurb
 
-This chapter prepared you to help students...
+@cstaHeader
+@csta3ACS02
+@csta3BCS01
+@csta3AIC19
+@csta3AIC30
+@csta2NI05
+@csta2NI06
+@csta3ANI05
+@csta3ANI06
+@csta3ANI08
+@csta3BNI04
 
-,CSTA, Original Standard, Revised Standard
-,3A-CS-02, Compare levels of abstraction and interactions between application software\, system software\, and hardware layers.,Examine how levels of abstraction in operating systems and hardware shape and constrain what and how applications are created and used.
-,3B-CS-01, Categorize the roles of operating system software., Explain how specific features of operating systems dictate how software can be used.
-,3A-IC-19, Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.,Explain how organizations use software to surveil users in order to monetize their activity for profit.
-,3A-IC-19, Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users., Explain how organizations use software to surveil users in order to monetize their activity for profit.
-,3A-IC-30, Evaluate the social and economic implications of privacy in the context of safety\, law\, or ethics., Evaluate the interaction between privacy\, power\, computing\, safety\, law\, and ethics.
-,2-NI-05, Explain how physical and digital security measures protect electronic information., Explain how physical and digital security measures protect electronic information\, while also making it harder to access.
-,2-NI-06, Apply multiple methods of encryption to model the secure transmission of information., Apply multiple methods of encryption to model the secure transmission of information\, while recognizing the potential for permanent data loss.
-,3A-NI-05, Give examples to illustrate how sensitive data can be affected by malware and other attacks., Give examples to illustrate how sensitive data can be affected by malware\, ransomware\, and harassers.
-,3A-NI-06, Recommend security measures to address various scenarios based on factors such as efficiency\, feasibility\, and ethical impacts.,Recommend security measures to address various scenarios based on efficiency\, feasibility\, harassment\, and oppression.
-,3A-NI-07, Compare various security measures\, considering tradeoffs between the usability and security of a computing system., Compare various security measures\, considering tradeoffs between the usability\, security\, and accessibility of a computing system.
-,3A-NI-08, Explain tradeoffs when selecting and implementing cybersecurity recommendations., Explain tradeoffs to convenience and safety when selecting and implementing cybersecurity recommendations.
-,3B-NI-04, Compare ways software developers protect devices and information from unauthorized access., Compare ways software developers protect devices and information from unauthorized access\, while also creating learnability and usability barriers.
-
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,15, Identify figures\, groups\, events and a variety of strategies and philosophies relevant to the history of social justice around the world.,Identify figures\, groups\, events and a variety of strategies and philosophies relevant to the history of computer science and social justice.
+@toleranceHeader
+@tolerance15

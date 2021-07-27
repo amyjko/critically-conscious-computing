@@ -163,21 +163,20 @@ The last session focuses on transfer, from the school context to broader society
 
 This unit positions students not only as critics of computing, but also critics of social contexts in general, while also giving them experience in the role of designing social contexts, and advocating for change in social contexts. Throughout, it grounds their understanding in the particular powers of computing, hopefully helping them see the computers in their lives no longer as innocuous, neutral objects, but powerful machines for enforcing social rules. The unit also works well as a priming for more involved design projects, where students must make more detailed and complex design decisions.
 
-# Relevant Learning Standards
+@standardsHeader
+@standardsBlurb
 
-This chapter prepared you to help students...
+@cstaHeader
+@csta2IC20
+@csta2IC21
+@csta3AIC24
+@csta3AIC25
+@csta3AIC27
+@csta3BIC25
+@csta3BIC26
 
-,CSTA,Original Standard, Critically Conscious Revision
-,2-IC-20, Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options., Examine power imbalances in the design of computing techniques that create\, amplify\, and reinforce inequities and injustices in society.
-,2-IC-21, Discuss issues of bias and accessibility in the design of existing technologies., Describe how software excludes groups marginalized by their gender\, race\, ethnicity\, language\, and ability.
-,3A-IC-24, Evaluate the ways computing impacts personal\, ethical\, social\, economic\, and cultural practices., Critique how computing amplifies\, centralizes\, privatizes\, and automates social processes in society\, impacting individuals\, communities\, and cultures.
-,3A-IC-25, Test and refine computational artifacts to reduce bias and equity deficits., Systematically examine software for bias\, exclusion\, inequity\, and injustice\, identifying ways to redesign it or deter its use.
-,3A-IC-27, Use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields., Harness tools and collaboration methods to engage diverse teams in community-based projects.
-,3B-IC-25, Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society., Critique the design\, engineering\, and use of software in society\, examining who it helps and who it hurts.
-,3B-IC-26, Evaluate the impact of equity\, access\, and influence on the distribution of computing resources in a global society., Examine inequities in access to computing devices and the internet and how those inequities amplify other inequities and systems of oppression in society.
-
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,9, Respond to diversity by building empathy\, respect\, understanding and connection., Respond to diversity by engaging in community-based\, inclusive software design social justice.
-,12, Recognize unfairness on the individual level (e.g.\, biased speech) and injustice at the institutional or systemic level (e.g.\, discrimination)., Recognize unfairness on the individual level (e.g.\, software developers having bias against particular groups) and injustice at the institutional or systemic level (e.g.\, data and algorithms perpetuating injustice at scale).
-,13, Analyze the harmful impact of bias and injustice on the world\, historically and today., Analyze the harmful impact of algorithmic and data bias and injustice on the world\, historically and today. 
-,14, Recognize that power and privilege influence relationships on interpersonal\, intergroup and institutional levels and consider how they have been affected by those dynamics., Recognize that computing-based power and privilege influence relationships on interpersonal\, intergroup and institutional levels and consider how they have been affected by those dynamics.
+@toleranceHeader
+@tolerance9
+@tolerance12
+@tolerance13
+@tolerance14

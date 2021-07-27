@@ -419,21 +419,19 @@ Sessions should leave this session with a greater critical consciousness about c
 
 Whereas the methods presented earlier explicitly focus on developing skills in using and designing functions, this method prioritizes critical consciousness over skills. This is a tradeoff in learning objectives: students who focus on designing functions will be more capable of writing programs to solve particular computational problems, but may not see the social problems they might create with their designs, whereas students who focus on critically examining the implications of functions might see their consequences more clearly, but be less well positioned to design them. A curriculum that balances these two over time might resolve these tradeoffs.
 
-# Relevant Learning Standards
+@standardsHeader
+@standardsBlurb
 
-This chapter prepared you to help students...
+@cstaHeader
+@csta2AP10
+@csta2AP13
+@csta2AP14
+@csta3ACS01
+@csta3AAP17
+@csta3AAP18
+@csta3AAP20
+@csta3BAP16
 
-,CSTA, Original Standard, Revised Standard
-,2-AP-10,Use flowcharts and/or pseudocode to address complex problems as algorithms.,Use flowcharts and/or pseudocode to analyze problems algorithmically and sociotechnically
-,2-AP-13, Decompose problems and subproblems into parts to facilitate the design\, implementation\, and review of programs., Decompose problems and subproblems into parts to facilitate the design\, implementation\, and review of programs\, while faithfully representing the diversity of people and contexts being supported.
-,2-AP-14, Create procedures with parameters to organize code and make it easier to reuse., Create procedures with parameters to organize code and make it easier to reuse\, while accounting for the implications of those procedures in diversity\, equity\, and inclusion.
-,3A-CS-01, Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects., Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects\, making it more difficult to observe their embedded biases.
-,3A-AP-17, Decompose problems into smaller components through systematic analysis\, using constructs such as procedures\, modules\, and/or objects.,Decompose problems into smaller components through systematic analysis\, using constructs such as procedures\, modules\, and/or objects\, while accounting for the implications of those procedures in diversity\, equity\, and inclusion.
-,3A-AP-18, Create artifacts by using procedures within a program\, combinations of data and procedures\, or independent but interrelated programs., Create artifacts by using procedures within a program\, combinations of data and procedures\, or independent but interrelated programs\, while accounting for embedded biases in reused code.
-,3A-AP-20, Evaluate licenses that limit or restrict use of computational artifacts when using resources such as libraries., Evaluate licenses that limit or restrict use of computational artifacts\, and how those licenses may limit the responsibility of their producers.
-,3B-AP-16, Demonstrate code reuse by creating programming solutions using libraries and APIs., Demonstrate code reuse by creating programming solutions using libraries and APIs\, while accounting for embedded biases in those abstractions.
-
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,12, Recognize unfairness on the individual level (e.g.\, biased speech) and injustice at the institutional or systemic level (e.g.\, discrimination)., Recognize unfairness on the individual level (e.g.\, software developers having bias against particular groups) and injustice at the institutional or systemic level (e.g.\, data and algorithms perpetuating injustice at scale).
-,14, Recognize that power and privilege influence relationships on interpersonal\, intergroup\, and institutional levels and consider how they have been affected by those dynamics., Recognize that computing-based power and privilege influence relationships on interpersonal\, intergroup\, and institutional levels and consider how they have been affected by those dynamics.
-
+@toleranceHeader
+@tolerance12
+@tolerance14

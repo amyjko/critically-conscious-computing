@@ -450,13 +450,13 @@ These five sessions cover the rules of control structures in language, just as t
 
 The key tradeoff of this approach is coverage of material. If the goal of a class is to help students build robust knowledge of the control structures in a programming language, the above unit will involve far less deliberate practice with reading and writing. Therefore, this unit explicitly deemphasizes that skill, prioritizing every students’ ability to relate control structures to their lives at school. The underlying hypothesis behind this trade is that students in secondary school will benefit more from a sociotechnical literacy of control structures than a purely technical one; after all, they can learn the purely technical skills elsewhere.
 
-# Relevant Learning Standards
-This chapter prepared you to help students...
+@standardsHeader
+@standardsBlurb
 
-,CSTA, Original Standard, Revised Standard
-,2-AP-12, Design and iteratively develop programs that combine control structures\, including nested loops and compound conditionals., Design and iteratively develop programs that model and critically examine decision logic with control structures\, nested loops and compound conditionals.
+@cstaHeader
+@csta2AP12
 
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,8, Respectfully express curiosity about the history and lived experiences of others and will exchange ideas and beliefs in an open-minded way., Respectfully express curiosity about the history and lived experiences of others and will discuss how to respect those experiences when designing algorithms in an open-minded way.
-,10, Examine diversity in social\, cultural\, political\, and historical contexts rather than in ways that are superficial or oversimplified., Examine how to design for diversity in the social\, cultural\, political\, and historical contexts of both society and computing\, rather than in ways that are superficial or oversimplified.
-,12, Recognize unfairness on the individual level (e.g.\, biased speech) and injustice at the institutional or systemic level (e.g.\, discrimination)., Recognize unfairness on the individual level (e.g.\, software developers having bias against particular groups) and injustice at the institutional or systemic level (e.g.\, data and algorithms perpetuating injustice at scale).
+@toleranceHeader
+@tolerance8
+@tolerance10
+@tolerance12

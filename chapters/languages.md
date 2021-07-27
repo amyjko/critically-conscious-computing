@@ -372,14 +372,13 @@ This final session situates Python against other languages, using the contrast t
 
 This lesson has many strengths and weaknesses relative to the problem set and creative expression approaches to teaching programming languages. It’s core strengths are helping students see programming languages as designed artifacts with particular values and failings, and helping give students a sense of critical agency when using them. It’s core weakness is that it does not engage students in using the language to create; rather, it positions students as critical observers of a language. The example above also only focuses on a small subset of Python. Of course, such a lesson can just be the beginning of a series of units that more directly engage students with the full range of syntactic and semantic rules in Python, and in writing programs using that broader range of futures. In the coming chapters, we will discuss methods for teaching specific language constructs, including [Control Structures|control], [Data Structures|data], and [Functions, Objects, and APIs|functions], as each has their own pedagogical challenges.
 
-# Relevant Learning Standards
+@standardsHeader
+@standardsBlurb
 
-This chapter prepared you to help students...
+@cstaHeader
+@csta3BAP24
 
-,CSTA, Original Standard, Revised Standard
-,3B-AP-24, Compare multiple programming languages and discuss how their features make them suitable for solving different types of problems., Compare multiple programming languages\, examining how their creators\, origins\, and values make them more or less suitable for different people and problems.
-
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,3, Recognize that people’s multiple identities interact and create unique and complex individuals., Recognize how computing often ignores how people’s multiple identities interact and create unique and complex individuals.
-,5, Students will recognize traits of the dominant culture\, their home culture and other cultures and understand how they negotiate their own identity in multiple spaces., Students will recognize traits of the dominant computing culture\, their home culture and other cultures and understand how they negotiate their own identity in multiple computing spaces.
-,10, Examine diversity in social\, cultural\, political\, and historical contexts rather than in ways that are superficial or oversimplified., Examine how to design for diversity in the social\, cultural\, political\, and historical contexts of both society and computing\, rather than in ways that are superficial or oversimplified.
+@toleranceHeader
+@tolerance3
+@tolerance5
+@tolerance10

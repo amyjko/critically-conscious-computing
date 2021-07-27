@@ -1930,6 +1930,96 @@
 			"PublicAffairs",
 			"https://www.google.com/books/edition/The_Age_of_Surveillance_Capitalism/Xbg9jgEACAAJ?hl=en"
 		]
-	}
+	},
+	"symbols": {
+		"standardsHeader": "# Relevant Learning Standards",
+		"standardsBlurb": "This chapter prepared you to help students…",
 
+		"cstaHeader": ",CSTA, Original Standard, Revised Standard",
+		"csta2CS01": ",2-CS-01, Recommend improvements to the design of computing devices\\, based on an analysis of how users interact with the devices., Observe and analyze how marginalized users interact with computing devices to identify improvements or redesigns necessary for inclusion.",
+		"csta2CS02": ",2-CS-02, Design projects that combine hardware and software components to collect and exchange data., Design and critique projects that combine hardware and software to collect and process data.",
+		
+		"csta2NI04": ",2-NI-04, Model the role of protocols in transmitting data across networks and the Internet., Explain the role of protocols in transmitting data across networks and the internet\\, and how such protocols are sometimes used to censor communication.",
+		"csta2NI05": ",2-NI-05, Explain how physical and digital security measures protect electronic information., Explain how physical and digital security measures protect electronic information\\, while also making it harder to access.",
+		"csta2NI06": ",2-NI-06, Apply multiple methods of encryption to model the secure transmission of information., Apply multiple methods of encryption to model the secure transmission of information\\, while recognizing the potential for permanent data loss.",
+		
+		"csta2AP10": ",2-AP-10,Use flowcharts and/or pseudocode to address complex problems as algorithms.,Use flowcharts and/or pseudocode to analyze problems algorithmically and sociotechnically",
+		"csta2AP11": ",2-AP-11, Create clearly named variables that represent different data types and perform operations on their values., Create clearly named variables that faithfully capture the diversity of the phenomena they represent\\, and perform operations on their values that account for this diversity.",
+		"csta2AP12": ",2-AP-12, Design and iteratively develop programs that combine control structures\\, including nested loops and compound conditionals., Design and iteratively develop programs that model and critically examine decision logic with control structures\\, nested loops and compound conditionals.",
+		"csta2AP13": ",2-AP-13, Decompose problems and subproblems into parts to facilitate the design\\, implementation\\, and review of programs., Decompose problems and subproblems into parts to facilitate the design\\, implementation\\, and review of programs\\, while faithfully representing the diversity of people and contexts being supported.",
+		"csta2AP14": ",2-AP-14, Create procedures with parameters to organize code and make it easier to reuse., Create procedures with parameters to organize code and make it easier to reuse\\, while accounting for the implications of those procedures in diversity\\, equity\\, and inclusion.",
+		
+		"csta2IC20": ",2-IC-20, Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options., Examine power imbalances in the design of computing techniques that create\\, amplify\\, and reinforce inequities and injustices in society.",
+		"csta2IC21": ",2-IC-21, Discuss issues of bias and accessibility in the design of existing technologies., Describe how software excludes groups marginalized by their gender\\, race\\, ethnicity\\, language\\, and ability.",
+		"csta2IC23": ",2-IC-23, Describe tradeoffs between allowing information to be public and keeping information private and secure., Describe individual and collective tradeoffs of the surveillance that computing enables.",
+		
+		"csta2DA07": ",2-DA-07, Represent data using multiple encoding schemes., Represent data using multiple encoding schemes while explicitly accounting for their modeling limitations.",
+		"csta2DA08": ",2-DA-08, Collect data using computational tools and transform the data to make it more useful and reliable., Examine the social implications of computational data collection and analysis.",
+		
+		"csta3ANI04": ",3A-NI-04, Evaluate the scalability and reliability of networks\\, by describing the relationship between routers\\, switches\\, servers\\, topology\\, and addressing., Evaluate the scalability\\, reliability\\, and exploitability of networks\\, by describing the relationship between routers\\, switches\\, servers\\, topology\\, and addressing.",
+		"csta3ANI05": ",3A-NI-05, Give examples to illustrate how sensitive data can be affected by malware and other attacks., Give examples to illustrate how sensitive data can be affected by malware\\, ransomware\\, and harassers.",
+		"csta3ANI06": ",3A-NI-06, Recommend security measures to address various scenarios based on factors such as efficiency\\, feasibility\\, and ethical impacts.,Recommend security measures to address various scenarios based on efficiency\\, feasibility\\, harassment\\, and oppression.",
+		"csta3ANI07": ",3A-NI-07, Compare various security measures\\, considering tradeoffs between the usability and security of a computing system., Compare various security measures\\, considering tradeoffs between the usability\\, security\\, and accessibility of a computing system.",
+		"csta3ANI08": ",3A-NI-08, Explain tradeoffs when selecting and implementing cybersecurity recommendations., Explain tradeoffs to convenience and safety when selecting and implementing cybersecurity recommendations.",
+
+		"csta3AIC19": ",3A-IC-19, Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.,Explain how organizations use software to surveil users in order to monetize their activity for profit.",
+		"csta3AIC24": ",3A-IC-24, Evaluate the ways computing impacts personal\\, ethical\\, social\\, economic\\, and cultural practices., Critique how computing amplifies\\, centralizes\\, privatizes\\, and automates social processes in society\\, impacting individuals\\, communities\\, and cultures.",
+		"csta3AIC25": ",3A-IC-25, Test and refine computational artifacts to reduce bias and equity deficits., Systematically examine software for bias\\, exclusion\\, inequity\\, and injustice\\, identifying ways to redesign it or deter its use.",
+		"csta3AIC26": ",3A-IC-26, Demonstrate ways a given algorithm applies to problems across disciplines, Demonstrate ways a given algorithm impacts diversity\\, equity\\, and inclusion across disciplines",
+		"csta3AIC27": ",3A-IC-27, Use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields., Harness tools and collaboration methods to engage diverse teams in community-based projects.",
+		"csta3AIC30": ",3A-IC-30, Evaluate the social and economic implications of privacy in the context of safety\\, law\\, or ethics., Evaluate the interaction between privacy\\, power\\, computing\\, safety\\, law\\, and ethics.",
+
+		"csta3ACS01": ",3A-CS-01, Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects., Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects\\, making it more difficult to observe their embedded biases.",
+		"csta3ACS02": ",3A-CS-02, Compare levels of abstraction and interactions between application software\\, system software\\, and hardware layers.,Examine how levels of abstraction in operating systems and hardware shape and constrain what and how applications are created and used.",
+
+		"csta3AAP14": ",3A-AP-14, Use lists to simplify solutions\\, generalizing computational problems instead of repeatedly using simple variables., Decide whether and how to use lists to simplify solutions\\, generalizing computational problems instead of repeatedly using simple variables only when generalization would not erase diversity.",
+		"csta3AAP15": ",3A-AP-15, Justify the selection of specific control structures when tradeoffs involve implementation\\, readability\\, and program performance\\, and explain the benefits and drawbacks of choices made., Examine the tradeoffs in the selection of specific control structures relative to tradeoffs between implementation\\, readability\\, performance\\, ethics\\, inclusion\\, and justice.",
+		"csta3AAP17": ",3A-AP-17, Decompose problems into smaller components through systematic analysis\\, using constructs such as procedures\\, modules\\, and/or objects.,Decompose problems into smaller components through systematic analysis\\, using constructs such as procedures\\, modules\\, and/or objects\\, while accounting for the implications of those procedures in diversity\\, equity\\, and inclusion.",
+		"csta3AAP18": ",3A-AP-18, Create artifacts by using procedures within a program\\, combinations of data and procedures\\, or independent but interrelated programs., Create artifacts by using procedures within a program\\, combinations of data and procedures\\, or independent but interrelated programs\\, while accounting for embedded biases in reused code.",
+		"csta3AAP19": ",3A-AP-19, Systematically design and develop programs for broad audiences by incorporating feedback from users., Design and engineer software using design methods that center marginalized and oppressed groups’ voices and needs.",
+		"csta3AAP20": ",3A-AP-20, Evaluate licenses that limit or restrict use of computational artifacts when using resources such as libraries., Evaluate licenses that limit or restrict use of computational artifacts\\, and how those licenses may limit the responsibility of their producers.",
+
+		"csta3ADA09": ",3A-DA-09, Translate between different bit representations of real-world phenomena\\, such as characters\\, numbers\\, and images., Translate between different bit representations of real-world phenomena\\, such as characters\\, numbers\\, and images\\, accounting for the information lost in translation.",
+
+		"csta3BCS01": ",3B-CS-01, Categorize the roles of operating system software., Explain how specific features of operating systems dictate how software can be used.",
+		"csta3BCS02": ",3B-CS-02, Illustrate ways computing systems implement logic\\, input\\, and output through hardware components.,Illustrate ways that values shape the how computing systems implement logic\\, input\\, and output through hardware components.",
+
+		"csta3BNI03": ",3B-NI-03, Describe the issues that impact network functionality (e.g.\\, bandwidth\\, load\\, delay\\, topology)., Describe the issues that impact network functionality (e.g.\\, bandwidth\\, load\\, delay\\, topology\\, censorship\\, capitalism).",
+		"csta3BNI04": ",3B-NI-04, Compare ways software developers protect devices and information from unauthorized access., Compare ways software developers protect devices and information from unauthorized access\\, while also creating learnability and usability barriers.",
+
+		"csta3BIC25": ",3B-IC-25, Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society., Critique the design\\, engineering\\, and use of software in society\\, examining who it helps and who it hurts.",
+		"csta3BIC26": ",3B-IC-26, Evaluate the impact of equity\\, access\\, and influence on the distribution of computing resources in a global society., Examine inequities in access to computing devices and the internet and how those inequities amplify other inequities and systems of oppression in society.",
+		"csta3BIC27": ",3B-IC-27, Predict how computational innovations that have revolutionized aspects of our culture might evolve., predict how computational innovations will shape culture in positive and negative ways.",
+		
+		"csta3BAP08": ",3B-AP-08, Describe how artificial intelligence drives many software and physical systems., Describe how artificial intelligence can automate complex human decisions\\, while also encoding and amplifying bias.",
+		"csta3BAP09": ",3B-AP-09, Implement an artificial intelligence algorithm to play a game against a human opponent or solve a problem., Analyze the intelligence\\, bias\\, tradeoffs\\, and limitations of an artificial intelligence algorithm.",
+		"csta3BAP10": ",3B-AP-10, Use and adapt classic algorithms to solve computational problems., Use and adapt classic algorithms to solve computational problems without creating new social problems.",
+		"csta3BAP11": ",3B-AP-11, Evaluate algorithms in terms of their efficiency\\, correctness\\, and clarity., Evaluate algorithms in terms of their efficiency\\, correctness\\, clarity\\, and impact on society.",
+		"csta3BAP12": ",3B-AP-12,Compare and contrast fundamental data structures and their uses.,Compare and contrast fundamental data structures\\, their uses\\, and their limitations in faithfully representing diversity.",
+		"csta3BAP15": ",3B-AP-15, Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution., Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution without amplifying systems of oppression.",
+		"csta3BAP16": ",3B-AP-16, Demonstrate code reuse by creating programming solutions using libraries and APIs., Demonstrate code reuse by creating programming solutions using libraries and APIs\\, while accounting for embedded biases in those abstractions.",
+		"csta3BAP17": ",3B-AP-17, Plan and develop programs for broad audiences using a software life cycle process., Plan and develop programs that center marginalized groups using a software life cycle process.",
+		"csta3BAP24": ",3B-AP-24, Compare multiple programming languages and discuss how their features make them suitable for solving different types of problems., Compare multiple programming languages\\, examining how their creators\\, origins\\, and values make them more or less suitable for different people and problems.",
+
+		"toleranceHeader": ",Teaching Tolerance, Original Standard, Critically Conscious Revision",
+		"tolerance1": "",
+		"tolerance2": "",
+		"tolerance3": ",3, Recognize that people’s multiple identities interact and create unique and complex individuals., Recognize how computing often ignores how people’s multiple identities interact and create unique and complex individuals.",
+		"tolerance4": "",
+		"tolerance5": ",5, Students will recognize traits of the dominant culture\\, their home culture and other cultures and understand how they negotiate their own identity in multiple spaces., Students will recognize traits of the dominant computing culture\\, their home culture and other cultures and understand how they negotiate their own identity in multiple computing spaces.",
+		"tolerance6": ",6, Students will express comfort with people who are both similar to and different from them and engage respectfully with all people., Students will express comfort with people who are both similar to and different from them and create data and algorithms that engage respectfully with all people.",
+		"tolerance7": "",
+		"tolerance8": ",8, Respectfully express curiosity about the history and lived experiences of others and will exchange ideas and beliefs in an open-minded way., Respectfully express curiosity about the history and lived experiences of others and will discuss how to respect those experiences when designing algorithms in an open-minded way.",
+		"tolerance9": ",9, Respond to diversity by building empathy\\, respect\\, understanding and connection., Respond to diversity by engaging in community-based\\, inclusive software design social justice.",
+		"tolerance10": ",10, Examine diversity in social\\, cultural\\, political\\, and historical contexts rather than in ways that are superficial or oversimplified., Examine how to design for diversity in the social\\, cultural\\, political\\, and historical contexts of both society and computing\\, rather than in ways that are superficial or oversimplified.",
+		"tolerance11": ",11, Recognize stereotypes and relate to people as individuals rather than representatives of groups., Recognize stereotypes encoded in data and represent people in algorithms as individuals rather than representatives of groups.",
+		"tolerance12": ",12, Recognize unfairness on the individual level (e.g.\\, biased speech) and injustice at the institutional or systemic level (e.g.\\, discrimination)., Recognize unfairness on the individual level (e.g.\\, software developers having bias against particular groups) and injustice at the institutional or systemic level (e.g.\\, data and algorithms perpetuating injustice at scale).",
+		"tolerance13": ",13, Analyze the harmful impact of bias and injustice on the world\\, historically\\, and today., Analyze the harmful impact of algorithmic and data bias and injustice on the world\\, historically\\, and today. ",
+		"tolerance14": ",14, Recognize that power and privilege influence relationships on interpersonal\\, intergroup\\, and institutional levels and consider how they have been affected by those dynamics., Recognize that computing-based power and privilege influence relationships on interpersonal\\, intergroup\\, and institutional levels and consider how they have been affected by those dynamics.",
+		"tolerance15": ",15, Identify figures\\, groups\\, events and a variety of strategies and philosophies relevant to the history of social justice around the world.,Identify figures\\, groups\\, events and a variety of strategies and philosophies relevant to the history of computer science and social justice.",
+		"tolerance16": ",16, Express empathy when people are excluded or mistreated because of their identities and concern when they themselves experience bias., Express empathy when software excludes or harms people because of their identities and concern when they themselves are excluded or harmed by software.",
+		"tolerance17": ",17, Recognize their own responsibility to stand up to exclusion\\, prejudice\\, and injustice., Recognize their own responsibility to stand up to exclusion\\, prejudice\\, and injustice when designing\\, engineering\\, and choosing software.",
+		"tolerance19": ",19, Make principled decisions about when and how to take a stand against bias and injustice in their everyday lives and will do so despite negative peer or group pressure., Make principled decisions about when and how to take a stand against algorithmic bias and injustice in their everyday lives and will do so despite negative peer or group pressure.",
+		"tolerance20": ",20, Plan and carry out collective action against bias and injustice in the world and will evaluate what strategies are most effective., Plan and carry out collective action against data and algorithmic bias and injustice in the world and will evaluate what strategies are most effective."
+	}
 }

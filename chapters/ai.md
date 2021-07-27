@@ -283,21 +283,20 @@ This fifth and final session builds upon students' critical examination of the d
 
 As with other units in this book, this example emphasizes critical perspectives on computing, at the expense of deeply developing skills. It does not cover a large set of AI or machine learning techniques, it does not develop robust knowledge of their underlying mechanics, and it does not connect these deeply to statistics. However, it does focus on a literacy that is likely more universal: comprehending the limited intelligence of weak AI and the urgent need to engage affected stakeholders in decisions about how AI is used in society.
 
-# Relevant Learning Standards
+@standardsHeader
+@standardsBlurb
 
-This chapter prepared you to help students…
+@cstaHeader
+@csta3BAP08
+@csta3BAP09
 
-,CSTA, Original Standard, Revised Standard
-,3B-AP-08, Describe how artificial intelligence drives many software and physical systems., Describe how artificial intelligence can automate complex human decisions\, while also encoding and amplifying bias.
-,3B-AP-09, Implement an artificial intelligence algorithm to play a game against a human opponent or solve a problem., Analyze the intelligence\, bias\, tradeoffs\, and limitations of an artificial intelligence algorithm.
-
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,3, Recognize that people’s multiple identities interact and create unique and complex individuals., Recognize how computing often ignores how people’s multiple identities interact and create unique and complex individuals.
-,6, Students will express comfort with people who are both similar to and different from them and engage respectfully with all people., Students will express comfort with people who are both similar to and different from them and create data and algorithms that engage respectfully with all people.
-,9, Respond to diversity by building empathy\, respect\, understanding and connection., Respond to diversity by engaging in community-based\, inclusive software design social justice.
-,11, Recognize stereotypes and relate to people as individuals rather than representatives of groups., Recognize stereotypes encoded in data and represent people in algorithms as individuals rather than representatives of groups.
-,12, Recognize unfairness on the individual level (e.g.\, biased speech) and injustice at the institutional or systemic level (e.g.\, discrimination)., Recognize unfairness on the individual level (e.g.\, software developers having bias against particular groups) and injustice at the institutional or systemic level (e.g.\, data and algorithms perpetuating injustice at scale).
-,13, Analyze the harmful impact of bias and injustice on the world\, historically\, and today., Analyze the harmful impact of algorithmic and data bias and injustice on the world\, historically\, and today. 
-,14, Recognize that power and privilege influence relationships on interpersonal\, intergroup\, and institutional levels and consider how they have been affected by those dynamics., Recognize that computing-based power and privilege influence relationships on interpersonal\, intergroup\, and institutional levels and consider how they have been affected by those dynamics.
-,17, Recognize their own responsibility to stand up to exclusion\, prejudice\, and injustice., Recognize their own responsibility to stand up to exclusion\, prejudice\, and injustice when designing\, engineering\, and choosing software.
-,19, Make principled decisions about when and how to take a stand against bias and injustice in their everyday lives and will do so despite negative peer or group pressure., Make principled decisions about when and how to take a stand against algorithmic bias and injustice in their everyday lives and will do so despite negative peer or group pressure.
+@toleranceHeader
+@tolerance3
+@tolerance6
+@tolerance9
+@tolerance11
+@tolerance12
+@tolerance13
+@tolerance14
+@tolerance17
+@tolerance19

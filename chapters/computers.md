@@ -185,17 +185,16 @@ By the end of these five sessions, students should not only be able to identify 
 
 The clearest limitation of this example unit is that it prioritizes critical consciousness of the industrial and economic systems behind computer manufacturing and use at the expense of a robust technical understanding of computer architecture. This technical understanding can be valuable for helping students link the ideas in computer science more closely to how they are implemented in hardware. However, such ideas are rigorously taught in post-secondary CS education settings already. For the purposes of secondary CS education, focusing learning on both the global and local social and economic systems surrounding computing devices is more likely to grow students’ critical consciousness of computers.
 
-# Relevant Learning Standards
+@standardsHeader
+@standardsBlurb
 
-This chapter prepared you to help students...
+@cstaHeader
+@csta2CS02
+@csta3BCS02
+@csta3BIC27
+@csta2NI04
+@csta3ANI04
+@csta3BNI03
 
-,CSTA, Original Standard, Revised Standard
-,2-CS-02, Design projects that combine hardware and software components to collect and exchange data., Design and critique projects that combine hardware and software to collect and process data.
-,3B-CS-02, Illustrate ways computing systems implement logic\, input\, and output through hardware components.,Illustrate ways that values shape the how computing systems implement logic\, input\, and output through hardware components.
-,3B-IC-27, Predict how computational innovations that have revolutionized aspects of our culture might evolve., predict how computational innovations will shape culture in positive and negative ways.
-,2-NI-04, Model the role of protocols in transmitting data across networks and the Internet., Explain the role of protocols in transmitting data across networks and the internet\, and how such protocols are sometimes used to censor communication.
-,3A-NI-04, Evaluate the scalability and reliability of networks\, by describing the relationship between routers\, switches\, servers\, topology\, and addressing., Evaluate the scalability\, reliability\, and exploitability of networks\, by describing the relationship between routers\, switches\, servers\, topology\, and addressing.
-,3B-NI-03, Describe the issues that impact network functionality (e.g.\, bandwidth\, load\, delay\, topology)., Describe the issues that impact network functionality (e.g.\, bandwidth\, load\, delay\, topology\, censorship\, capitalism).
-
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,12, Recognize unfairness on the individual level (e.g.\, biased speech) and injustice at the institutional or systemic level (e.g.\, discrimination)., Recognize unfairness on the individual level (e.g.\, software developers having bias against particular groups) and injustice at the institutional or systemic level (e.g.\, data and algorithms perpetuating injustice at scale).
+@toleranceHeader
+@tolerance12

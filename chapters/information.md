@@ -249,20 +249,18 @@ The limitations of this algorithm, whether it is executed by staff or a computer
 After these sessions, students should be able to recognize that data is not always neutral or objective, and is often biased, inaccurate, and unfair, encoding particular values. They should also be able to see how algorithms can amplify these values and biases by automating systems in ways that erase context. Students may end the unit feeling unsettled about systems that shape their experiences at school and beyond, but also more critically conscious of those systems as designed by people with particular goals and values.
 Perhaps the largest limitation of this method is that it goes deep into one system, and only broad into a few systems. Students will not necessarily transfer this understanding to other systems they encounter in their lives. After all, many software systems are invisible, much of the data they use is invisible, and how that data is gathered and interpreted is invisible. To counteract this, one might consider teaching students to assume that software is involved in every system (as it often is), and critically question how it is being used and why.
 
-# Relevant Learning Standards
+@standardsHeader
+@standardsBlurb
 
-This chapter prepared you to help students...
+@cstaHeader
+@csta2DA07
+@csta2DA08
+@csta2IC23
+@csta3ADA09
+@csta3AIC19
+@csta3AIC30
 
-,CSTA, Original Standard, Critically Conscious Revision
-,2-DA-07, Represent data using multiple encoding schemes., Represent data using multiple encoding schemes while explicitly accounting for their modeling limitations.
-,2-DA-08, Collect data using computational tools and transform the data to make it more useful and reliable., Examine the social implications of computational data collection and analysis.
-,3A-DA-09, Translate between different bit representations of real-world phenomena\, such as characters\, numbers\, and images., Translate between different bit representations of real-world phenomena\, such as characters\, numbers\, and images\, accounting for the information lost in translation.
-,2-IC-23, Describe tradeoffs between allowing information to be public and keeping information private and secure., Describe individual and collective tradeoffs of the surveillance that computing enables.
-,3A-IC-19, Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.,Explain how organizations use software to surveil users in order to monetize their activity for profit.
-,3A-IC-30, Evaluate the social and economic implications of privacy in the context of safety\, law\, or ethics., Evaluate the interaction between privacy\, power\, computing\, safety\, law\, and ethics.
-
-
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,2, Develop language and historical and cultural knowledge that affirm and accurately describe their membership in multiple identity groups., Develop language and historical and cultural knowledge that explains the interactions between computing and their membership in multiple identity groups.
-,3, Recognize that people’s multiple identities interact and create unique and complex individuals., Recognize how computing often ignores how people’s multiple identities interact and create unique and complex individuals.
-,10, Examine diversity in social\, cultural\, political\, and historical contexts rather than in ways that are superficial or oversimplified., Examine how to design for diversity in the social\, cultural\, political\, and historical contexts of both society and computing\, rather than in ways that are superficial or oversimplified.
+@toleranceHeader
+@tolerance2
+@tolerance3
+@tolerance10

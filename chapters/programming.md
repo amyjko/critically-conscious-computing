@@ -286,18 +286,17 @@ This session helps students identify the differences between verification and de
 
 Across these six sessions, this unit should help students recognize the distinct activities of programming and identify ways to audit for injustice in each of them. By focusing on a single function, it removes the complexity of building larger programs, but also removes the potential of creating something more personally interesting to students. This unit might be sequenced after another more creative unit, helping students to learn the benefits of more structured programming workflows after having led some less structured—and likely messier—projects.
 
-# Relevant Learning Standards
+@standardsHeader
+@standardsBlurb
 
-This chapter prepared you to help students…
+@cstaHeader
+@csta2AP10
+@csta2AP12
+@csta2AP13
+@csta2AP14
+@csta3AAP17
+@csta3BAP17
 
-,CSTA, Original Standard, Revised Standard
-,2-AP-10, Use flowcharts and/or pseudocode to address complex problems as algorithms., Use flowcharts and/or pseudocode to analyze problems algorithmically and sociotechnically.
-,2-AP-12, Design and iteratively develop programs that combine control structures\, including nested loops and compound conditionals., Design and iteratively develop programs that model and critically examine decision logic with control structures\, nested loops and compound conditionals.
-,2-AP-13, Decompose problems and subproblems into parts to facilitate the design\, implementation\, and review of programs., Decompose problems and subproblems into parts to facilitate the design\, implementation\, and review of programs\, while faithfully representing the diversity of people and contexts being supported.
-,2-AP-14, Create procedures with parameters to organize code and make it easier to reuse., Create procedures with parameters to organize code and make it easier to reuse\, while accounting for the implications of those procedures in diversity, equity, and inclusion.
-,3A-AP-17, Decompose problems into smaller components through systematic analysis\, using constructs such as procedures\, modules\, and/or objects., Decompose problems into smaller components through systematic analysis\, using constructs such as procedures\, modules\, and/or objects\, while accounting for the implications of those procedures in diversity\, equity\, and inclusion.
-,3B-AP-17, Plan and develop programs for broad audiences using a software life cycle process., Plan and develop programs that center marginalized groups using a software life cycle process.
-
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,13, Analyze the harmful impact of bias and injustice on the world\, historically and today., Analyze the harmful impact of algorithmic and data bias and injustice on the world\, historically and today. 
-,14, Recognize that power and privilege influence relationships on interpersonal\, intergroup and institutional levels and consider how they have been affected by those dynamics., Recognize that computing-based power and privilege influence relationships on interpersonal\, intergroup and institutional levels and consider how they have been affected by those dynamics.
+@toleranceHeader
+@tolerance13
+@tolerance14

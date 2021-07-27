@@ -466,13 +466,13 @@ By the end of this last session, students should recognize how data structures a
 
 While this unit might provide a rich understanding of data in society, it does so at the expense of any depth in technical aspects of foundational data structures and their operations. Details about data types, list operations, nuances about the differences between lists and arrays, and other conventional topics in data structure education might emerge in an extended version of the unit. On the other hand, it’s important to question whether robust knowledge of data structures is necessary for all secondary learning contexts; such concepts are currently college level material, and are also in tension with a more critical literacy of computing that might be more relevant to all students, rather than just those who aspire to be software developers.
 
-# Relevant Learning Standards
-This chapter prepared you to help students...
+@standardsHeader
+@standardsBlurb
 
-,CSTA,Original Standard, Revised Standard
-,2-AP-11, Create clearly named variables that represent different data types and perform operations on their values., Create clearly named variables that faithfully capture the diversity of the phenomena they represent\, and perform operations on their values that account for this diversity. 
-,3A-AP-14, Use lists to simplify solutions\, generalizing computational problems instead of repeatedly using simple variables., Decide whether and how to use lists to simplify solutions\, generalizing computational problems instead of repeatedly using simple variables only when generalization would not erase diversity.
-,3B-AP-12,Compare and contrast fundamental data structures and their uses.,Compare and contrast fundamental data structures\, their uses\, and their limitations in faithfully representing diversity.
+@cstaHeader
+@csta2AP11
+@csta3AAP14
+@csta3BAP12
 
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,14, Recognize that power and privilege influence relationships on interpersonal\, intergroup\, and institutional levels and consider how they have been affected by those dynamics., Recognize that computing-based power and privilege influence relationships on interpersonal\, intergroup\, and institutional levels and consider how they have been affected by those dynamics.
+@toleranceHeader
+@tolerance14

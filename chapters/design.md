@@ -269,18 +269,17 @@ This unit achieves many things: students learn that CS, as an engineering discip
 
 However, while this framing gives students exposure to both disciplines, it also has limitations. Most notably, it takes extra time to address both design and engineering, taking time away from conceptual foundations of CS, which may be important for later assessments or entry into higher education CS. One way to address these tensions is homework, shifting some work outside of class. Another way to address these tensions is course sequencing, finding ways of addressing the breadth of these foundations in one course (e.g., an Exploring Computer Science curriculum), and shifting deeper content knowledge to subsequent electives (e.g., an AP CS A class).
 
-# Relevant Learning Standards
+@standardsHeader
+@standardsBlurb
 
-This chapter prepared you to help students...
+@cstaHeader
+@csta2CS01
+@csta2IC20
+@csta2IC21
+@csta3AAP19
 
-,CSTA, Original Standard, Critically Conscious Revision
-,2-CS-01, Recommend improvements to the design of computing devices\, based on an analysis of how users interact with the devices., Observe and analyze how marginalized users interact with computing devices to identify improvements or redesigns necessary for inclusion.
-,2-IC-01, Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options., Identify the potential for both benefits and harms from computing\, and specifically whom they affect.
-,2-IC-21, Discuss issues of bias and accessibility in the design of existing technologies., Describe how software excludes groups marginalized by their gender\, race\, ethnicity\, language\, and ability.
-,3A-AP-19, Systematically design and develop programs for broad audiences by incorporating feedback from users., Design and engineer software using design methods that center marginalized and oppressed groups’ voices and needs.
-
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,10, Examine diversity in social\, cultural\, political\, and historical contexts rather than in ways that are superficial or oversimplified., Examine how to design for diversity in the social\, cultural\, political\, and historical contexts of both society and computing\, rather than in ways that are superficial or oversimplified.
-,16, Express empathy when people are excluded or mistreated because of their identities and concern when they themselves experience bias., Express empathy when software excludes or harms people because of their identities and concern when they themselves are excluded or harmed by software.
-,17, Recognize their own responsibility to stand up to exclusion\, prejudice\, and injustice., Recognize their own responsibility to stand up to exclusion\, prejudice\, and injustice when designing\, engineering\, and choosing software.
-,19, Make principled decisions about when and how to take a stand against bias and injustice in their everyday lives and will do so despite negative peer or group pressure., Make principled decisions about when and how to take a stand against algorithmic bias and injustice in their everyday lives and will do so despite negative peer or group pressure.
+@toleranceHeader
+@tolerance10
+@tolerance16
+@tolerance17
+@tolerance19

@@ -368,16 +368,16 @@ By shifting students’ perspectives each day, students’ critical consciousnes
 
 The limitations of this method are clear relative to teaching the algorithm canon: students will not learn about canonical algorithms, will not struggle through their technical implementation, and will not learn to formally analyze algorithm correctness or efficiency. It trades these learning objectives for a broader literacy that is hopefully more pertinent to students who will interact with algorithms every day, but likely not be engaged in designing or implementing them.
 
-# Relevant Learning Standards
-This chapter prepared you to help students...
+@standardsHeader
+@standardsBlurb
 
-,CSTA, Original Standard, Revised Standard
-,3A-AP-15, Justify the selection of specific control structures when tradeoffs involve implementation\, readability\, and program performance\, and explain the benefits and drawbacks of choices made., Examine the tradeoffs in the selection of specific control structures relative to tradeoffs between implementation\, readability\, performance\, ethics\, inclusion\, and justice.
-,3B-AP-15, Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution., Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution without amplifying systems of oppression.
-,3A-IC-26, Demonstrate ways a given algorithm applies to problems across disciplines, Demonstrate ways a given algorithm impacts diversity\, equity\, and inclusion across disciplines
-,3B-AP-10, Use and adapt classic algorithms to solve computational problems., Use and adapt classic algorithms to solve computational problems without creating new social problems.
-,3B-AP-11, Evaluate algorithms in terms of their efficiency\, correctness\, and clarity., Evaluate algorithms in terms of their efficiency\, correctness\, clarity\, and impact on society.
+@cstaHeader
+@csta3AAP15
+@csta3BAP15
+@csta3AIC26
+@csta3BAP10
+@csta3BAP11
 
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,14, Recognize that power and privilege influence relationships on interpersonal\, intergroup and institutional levels and consider how they have been affected by those dynamics., Recognize that computing-based power and privilege influence relationships on interpersonal\, intergroup and institutional levels and consider how they have been affected by those dynamics.
-,20, Plan and carry out collective action against bias and injustice in the world and will evaluate what strategies are most effective., Plan and carry out collective action against data and algorithmic bias and injustice in the world and will evaluate what strategies are most effective.
+@toleranceHeader
+@tolerance14
+@tolerance20

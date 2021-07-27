@@ -295,15 +295,13 @@ Through this series of debates and reflections, students should have a more prec
 
 One limitation of the analytical method above is that it positions students as critics of technology rather than creators. An alternative is to engage students in creating with intelligent assistants, encountering the limitations of machine intelligence as they attempt to create with it. In later units that address the specific concepts in programming, this focus will shift from a critical role to a design role.
 
+@standardsHeader
+@standardsBlurb
 
-# Relevant Learning Standards
+@cstaHeader
+@csta2IC20
+@csta2AP12
+@csta3AAP15
 
-This chapter prepared you to help students...
-
-,CSTA, Original Standard, Critically Conscious Revision
-,2-AP-12, Design and iteratively develop programs that combine control structures\, including nested loops and compound conditionals., Design and iteratively develop programs that model and critically examine decision logic with control structures\, nested loops and compound conditionals.
-,3-AP-15, Justify the selection of specific control structures when tradeoffs involve implementation\, readability\, and program performance\, and explain the benefits and drawbacks of choices made., Examine the tradeoffs in the selection of specific control structures relative to tradeoffs between implementation\, readability\, performance\, ethics\, inclusion\, and justice.
-,2-IC-20, Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options., Examine power imbalances in the design of computing techniques that create\, amplify\, and reinforce inequities and injustices in society.
-
-,Teaching Tolerance, Original Standard, Critically Conscious Revision
-,14, Students will recognize that power and privilege influence relationships on interpersonal\, intergroup\, and institutional levels and consider how they have been affected by those dynamics., Students will recognize that computing-based power and privilege influence relationships on interpersonal\, intergroup\, and institutional levels and consider how they have been affected by those dynamics.
+@toleranceHeader
+@tolerance14

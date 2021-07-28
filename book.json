@@ -120,18 +120,18 @@
 			"section": "Code"
 		},
 		{
-			"id": "programming",
-			"title": "Programming",
-			"authors": ["ko", "wortzman"],
-			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
-			"section": "Code"
-		},
-		{
 			"id": "ai", 
 			"title": "Artificial Intelligence", 
 			"authors": ["ko", "druga"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
-			"section": "Methods"
+			"section": "Code"
+		},
+		{
+			"id": "programming",
+			"title": "Programming",
+			"authors": ["ko", "wortzman"],
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
+			"section": "Skills"
 		},
 		{
 			"id": "verification", 

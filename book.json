@@ -132,6 +132,13 @@
 			"authors": ["ko", "druga"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"section": "Methods"
+		},
+		{
+			"id": "verification", 
+			"title": "Verification and Debugging", 
+			"authors": ["ko"],
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
+			"section": "Skills"
 		}
 	],
 	"revisions": [
@@ -151,6 +158,13 @@
 			"Geek genes, prior knowledge, stumbling points and learning edge momentum: parts of the one elephant?",
 			"#icer",
 			"https://doi.org/10.1145/2493394.2493416"
+		],
+		"ahmadzadeh05": [
+			"Marzieh Ahmadzadeh, Dave Elliman, Colin Higgins",
+			2005,
+			"An analysis of patterns of debugging among novice computer science students",
+			"#iticse",
+			"https://doi.org/10.1145/1067445.1067472"
 		],
 		"ambler02": [
 			"Scott Ambler",
@@ -186,6 +200,13 @@
 			"Teaching operating systems using Android",
 			"#sigcse",
 			"https://doi.org/10.1145/2157136.2157312"
+		],
+		"anthopoulos16": [
+			"Leonidas Anthopoulos, Christopher G. Reddick, Irene Giannakidou, Nikolaos Mavridism",
+			2016,
+			"Why e-government projects fail? An analysis of the Healthcare.gov website",
+			"Government Information Quarterly",
+			"https://doi.org/10.1016/j.giq.2015.07.003"
 		],
 		"arwajo20": [
 			"Ian Arawjo",
@@ -249,6 +270,20 @@
 			"Bill Gates: A Biography",
 			"ABC-CLIO",
 			"https://www.google.com/books/edition/Bill_Gates_A_Biography/klV_BAAAQBAJ?hl=en&gbpv=0"
+		],
+		"begel08": [
+			"Andrew Begel, Beth Simon",
+			2008,
+			"Novice software developers, all over again",
+			"#icer",
+			"https://doi.org/10.1145/1404520.1404522"
+		],
+		"beller14": [
+			"Moritz Beller, Alberto Bacchelli, Andy Zaidman, Elmar Juergens",
+			2014,
+			"Modern code reviews in open-source projects: which problems do they fix?",
+			"Mining Software Repositories",
+			"https://doi.org/10.1145/2597073.2597082"
 		],
 		"berggren86": [
 			"J.L. Berggren",
@@ -327,6 +362,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/3287324.3287372"			
 		],
+		"böttcher16": [
+			"Axel Böttcher, Veronika Thurner, Kathrin Schlierkamp, Daniela Zehetmeier",
+			2016,
+			"Debugging students' debugging process",
+			"IEEE Frontiers in Education Conference (FIE)",
+			"https://doi.org/10.1109/FIE.2016.7757447"
+		],
 		"boole54": [
 			"George Boole",
 			1854,
@@ -361,6 +403,13 @@
 			"Dark Matters: On the Surveillance of Blackness",
 			"Duke University Press",
 			"https://www.google.com/books/edition/Dark_Matters/snmJCgAAQBAJ?hl=en&gbpv=0"
+		],
+		"burg13": [
+			"Brian Burg, Richard Bailey, Amy J. Ko, Michael D. Ernst",
+			2013,
+			"Interactive record/replay for web application debugging",
+			"ACM Symposium on User Interface Software and Technology (UIST)",
+			"http://doi.org/10.1145/2501988.2502050"
 		],
 		"burks89": [
 			"Alice R. Burks, Arthur Walter Burks",
@@ -501,6 +550,13 @@
 			"The First Industrial Revolution",
 			"Cambridge University Press",
 			"https://www.google.com/books/edition/The_First_Industrial_Revolution/eMBG_soDdNoC?hl=en&gbpv=0"
+		],
+		"denner14": [
+			"Jill Denner, Linda Werner, Shannon Campe, Eloy Ortiz",
+			2014,
+			"Pair programming: Under what conditions is it advantageous for middle school students?",
+			"Journal of Research on Technology in Education",
+			"https://doi.org/10.1080/15391523.2014.888272"
 		],
 		"desnoyers11": [
 			"Peter J. Desnoyers",
@@ -796,6 +852,13 @@
 			"Springer",
 			"https://www.google.com/books/edition/Guide_to_Teaching_Computer_Science/iekXBgAAQBAJ?hl=en&gbpv=0"
 		],
+		"hermans16": [
+			"Felienne Hermans, Efthimia Aivaloglou",
+			2016,
+			"Do code smells hamper novice programming? A controlled experiment on Scratch programs",
+			"International Conference on Program Comprehension (ICPC)",
+			"https://doi.org/10.1109/ICPC.2016.7503706"
+		],
 		"hermans18": [
 			"Felienne Hermans, Alaaeddin Swidan, Efthimia Aivaloglou, Marileen Smit",
 			2018,
@@ -894,6 +957,13 @@
 			"Nature Machine Intelligence",
 			"https://doi.org/10.1038/s42256-019-0088-2"
 		],
+		"johnson10": [
+			"Maggie Johnson, Max Senges",
+			2010,
+			"Learning to be a programmer in a complex organization: A case study on practice‐based learning during the onboarding process at Google",
+			"Journal of Workplace Learning",
+			"https://doi.org/10.1108/13665621011028620"
+		],
 		"kafai14": [
 			"Yasmin B. Kafai, Eunkyoung Lee, Kristin Searle, Deborah Fields, Eliot Kaplan, Debora Lui",
 			2014,
@@ -928,6 +998,13 @@
 			"Pool halls, chips, and war games: Women in the culture of computing",
 			"Psychology of Women Quarterly",
 			"https://doi.org/10.1111%2Fj.1471-6402.1985.tb00895.x"
+		],
+		"kim18": [
+			"ChanMin Kim, Jiangmei Yuan, Lucas Vasconcelos, Minyoung Shin, Roger B. Hill",
+			2018,
+			"Debugging during block-based programming",
+			"Instructional Science",
+			"https://doi.org/10.1007/s11251-018-9453-5"		
 		],
 		"kim19": [
 			"Tae Wan Kim, Santiago Mejia",
@@ -978,6 +1055,13 @@
 			"IEEE Symposium on Visual Languages-Human Centric Computing",
 			"https://doi.org/10.1109/VLHCC.2004.47"
 		],
+		"ko05": [
+			"Amy J. Ko, Brad A. Myers",
+			2005,
+			"A Framework and Methodology for Studying the Causes of Software Errors in Programming Systems",
+			"Journal of Visual Languages and Computing",
+			"http://dx.doi.org/10.1016/j.jvlc.2004.08.003"
+		],
 		"ko11": [
 			"Amy J. Ko, Yann Riche",
 			2011,
@@ -1026,6 +1110,13 @@
 			"Teaching in an open village: a case study on culturally responsive computing in compulsory education",
 			"Computer Science Education",
 			"https://doi.org/10.1080/08993408.2021.1874228"
+		],
+		"lachney21b": [
+			"Michael Lachney, Aman Yadav, Matt Drazin, Madison C. Allen, William Babbitt",
+			2021,
+			"Culturally Responsive Debugging: a Method to Support Cultural Experts’ Early Engagement with Code",
+			"TechTrends",
+			"https://doi.org/10.1007/s11528-021-00618-4"
 		],
 		"ladner17": [
 			"Richard Ladner, Andreas Stefik",
@@ -1097,6 +1188,13 @@
 			"#icer",
 			"https://doi.org/10.1145/2493394.2493415"
 		],
+		"li15": [
+			"Paul Luo Li, Amy J. Ko, Jiamin Zhu",
+			2015,
+			"What makes a great software engineer?",
+			"IEEE/ACM International Conference on Software Engineering",
+			"http://dx.doi.org/10.1109/ICSE.2015.335"
+		],
 		"licklider63": [
 			"J. C. R. Licklider",
 			1963,
@@ -1167,6 +1265,13 @@
 			"Leonardo Music Journal",
 			"https://doi.org/10.1162/LMJ_a_00056"
 		],
+		"maalej14": [
+			"Walid Maalej, Rebecca Tiarks, Tobias Roehm, Rainer Koschke",
+			2014,
+			"On the Comprehension of Program Comprehension",
+			"ACM Transactions on Software Engineering and Methodology",
+			"https://doi.org/10.1145/2622669"
+		],
 		"malmi19": [
 			"Lauri Malmi, Ian Utting, Amy J. Ko",
 			2019,
@@ -1180,6 +1285,13 @@
 			"The Scratch Programming Language and Environment",
 			"#toce",
 			"https://doi.org/10.1145/1868358.1868363"
+		],
+		"mäntylä08": [
+			"Mika V. Mäntylä, Casper Lassenius",
+			2008,
+			"What types of defects are really discovered in code reviews?",
+			"IEEE Transactions on Software Engineering",
+			"https://doi.org/10.1109/TSE.2008.71"
 		],
 		"mariescuistodor19": [
 			"Radu Mariescu-Istodor, Ilkka Jormanainen",
@@ -1215,6 +1327,13 @@
 			"Folk Pedagogy and the Geek Gene: Geekiness Quotient",
 			"#sigcse",
 			"https://doi.org/10.1145/3017680.3017746"
+		],
+		"mccauley08": [
+			"Renee McCauley, Sue Fitzgerald, Gary Lewandowski, Laurie Murphy, Beth Simon, Lynda Thomas, Carol Zander",
+			2008,
+			"Debugging: a review of the literature from an educational perspective",
+			"Computer Science Education",
+			"https://doi.org/10.1080/08993400802114581"
 		],
 		"mcilwain19": [
 			"Charlton D. McIlwain",
@@ -1559,6 +1678,13 @@
 			"NYU Press",
 			"https://www.google.com/books/edition/Changing_Race/siAVCgAAQBAJ?hl=en&gbpv=0"
 		],
+		"rothermel01": [
+			"Gregg Rothermel, Margaret Burnett, Lixin Li, Christopher Dupuis, Andrei Sheretov",
+			2001,
+			"A methodology for testing spreadsheets",
+			"ACM Transactions on Software Engineering and Methodology",
+			"https://doi.org/10.1145/366378.366385"
+		],
 		"russell16": [
 			"Stuart Jonathan Russell, Peter Norvig",
 			2016,
@@ -1635,6 +1761,13 @@
 			"Fibonacci’s Liber Abaci: a translation into modern English of Leonardo Pisano’s book of calculation",
 			"Springer Science & Business Media",
 			"https://www.google.com/books/edition/Fibonacci_s_Liber_Abaci/jsEqBgAAQBAJ?hl=en&gbpv=0"
+		],
+		"siy01": [
+			"Harvey Siy, Lawrence Votta",
+			2001,
+			"Does the modern code inspection have value?",
+			"IEEE International Conference on Software Maintenance",
+			"https://doi.org/10.1109/ICSM.2001.972741"
 		],
 		"skiena20": [
 			"Steven S. Skiena",
@@ -1818,6 +1951,20 @@
 			"Intelligent Technologies for Interactive Entertainment",
 			"https://doi.org/10.1007/978-3-319-08189-2_3"
 		],
+		"weintrop15": [
+			"David Weintrop",
+			2015,
+			"Blocks, text, and the space between: The role of representations in novice programming environments",
+			"IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+			"https://doi.org/10.1109/VLHCC.2015.7357237"
+		],
+		"weintrop15b": [
+			"David Weintrop, Uri Wilensky",
+			2015,
+			"To block or not to block, that is the question: students' perceptions of blocks-based programming",
+			"ACM International Conference on Interaction Design and Children (IDC)",
+			"https://doi.org/10.1145/2771839.2771860"
+		],
 		"weintrop17": [
 			"David Weintrop, Uri Wilensky",
 			2017,
@@ -1938,7 +2085,8 @@
 		"cstaHeader": ",CSTA, Original Standard, Revised Standard",
 		"csta2CS01": ",2-CS-01, Recommend improvements to the design of computing devices\\, based on an analysis of how users interact with the devices., Observe and analyze how marginalized users interact with computing devices to identify improvements or redesigns necessary for inclusion.",
 		"csta2CS02": ",2-CS-02, Design projects that combine hardware and software components to collect and exchange data., Design and critique projects that combine hardware and software to collect and process data.",
-		
+		"csta2CS03": ",2-CS-03, Systematically identify and fix problems with computing devices and their components., Systematically identify and fix both technical and social problems with computing devices and their components.",
+
 		"csta2NI04": ",2-NI-04, Model the role of protocols in transmitting data across networks and the Internet., Explain the role of protocols in transmitting data across networks and the internet\\, and how such protocols are sometimes used to censor communication.",
 		"csta2NI05": ",2-NI-05, Explain how physical and digital security measures protect electronic information., Explain how physical and digital security measures protect electronic information\\, while also making it harder to access.",
 		"csta2NI06": ",2-NI-06, Apply multiple methods of encryption to model the secure transmission of information., Apply multiple methods of encryption to model the secure transmission of information\\, while recognizing the potential for permanent data loss.",
@@ -1948,7 +2096,9 @@
 		"csta2AP12": ",2-AP-12, Design and iteratively develop programs that combine control structures\\, including nested loops and compound conditionals., Design and iteratively develop programs that model and critically examine decision logic with control structures\\, nested loops and compound conditionals.",
 		"csta2AP13": ",2-AP-13, Decompose problems and subproblems into parts to facilitate the design\\, implementation\\, and review of programs., Decompose problems and subproblems into parts to facilitate the design\\, implementation\\, and review of programs\\, while faithfully representing the diversity of people and contexts being supported.",
 		"csta2AP14": ",2-AP-14, Create procedures with parameters to organize code and make it easier to reuse., Create procedures with parameters to organize code and make it easier to reuse\\, while accounting for the implications of those procedures in diversity\\, equity\\, and inclusion.",
-		
+		"csta2AP15": ",2-AP-15, Seek and incorporate feedback from team members and users to refine a solution that meets user needs., Seek and incorporate feedback from team members and users to refine a solution that meets user needs while dismantling systems of oppression.",
+		"csta2AP17": ",2-AP-17, Systematically test and refine programs using a range of test cases., Systematically test and refine programs using test cases that cover both common and exceptional cases.",
+
 		"csta2IC20": ",2-IC-20, Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options., Examine power imbalances in the design of computing techniques that create\\, amplify\\, and reinforce inequities and injustices in society.",
 		"csta2IC21": ",2-IC-21, Discuss issues of bias and accessibility in the design of existing technologies., Describe how software excludes groups marginalized by their gender\\, race\\, ethnicity\\, language\\, and ability.",
 		"csta2IC23": ",2-IC-23, Describe tradeoffs between allowing information to be public and keeping information private and secure., Describe individual and collective tradeoffs of the surveillance that computing enables.",
@@ -1971,6 +2121,7 @@
 
 		"csta3ACS01": ",3A-CS-01, Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects., Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects\\, making it more difficult to observe their embedded biases.",
 		"csta3ACS02": ",3A-CS-02, Compare levels of abstraction and interactions between application software\\, system software\\, and hardware layers.,Examine how levels of abstraction in operating systems and hardware shape and constrain what and how applications are created and used.",
+		"csta3ACS03": ",3A-CS-03, Develop guidelines that convey systematic troubleshooting strategies that others can use to identify and fix errors., Develop systematic strategies that others can use to identify and fix both technical and sociotechnical defects.",
 
 		"csta3AAP14": ",3A-AP-14, Use lists to simplify solutions\\, generalizing computational problems instead of repeatedly using simple variables., Decide whether and how to use lists to simplify solutions\\, generalizing computational problems instead of repeatedly using simple variables only when generalization would not erase diversity.",
 		"csta3AAP15": ",3A-AP-15, Justify the selection of specific control structures when tradeoffs involve implementation\\, readability\\, and program performance\\, and explain the benefits and drawbacks of choices made., Examine the tradeoffs in the selection of specific control structures relative to tradeoffs between implementation\\, readability\\, performance\\, ethics\\, inclusion\\, and justice.",
@@ -1978,7 +2129,8 @@
 		"csta3AAP18": ",3A-AP-18, Create artifacts by using procedures within a program\\, combinations of data and procedures\\, or independent but interrelated programs., Create artifacts by using procedures within a program\\, combinations of data and procedures\\, or independent but interrelated programs\\, while accounting for embedded biases in reused code.",
 		"csta3AAP19": ",3A-AP-19, Systematically design and develop programs for broad audiences by incorporating feedback from users., Design and engineer software using design methods that center marginalized and oppressed groups’ voices and needs.",
 		"csta3AAP20": ",3A-AP-20, Evaluate licenses that limit or restrict use of computational artifacts when using resources such as libraries., Evaluate licenses that limit or restrict use of computational artifacts\\, and how those licenses may limit the responsibility of their producers.",
-
+		"csta3AAP21": ",3A-AP-21, Evaluate and refine computational artifacts to make them more usable and accessible., Evaluate and refine computational artifacts to make them more usable\\, accessible\\, and just.",		
+		
 		"csta3ADA09": ",3A-DA-09, Translate between different bit representations of real-world phenomena\\, such as characters\\, numbers\\, and images., Translate between different bit representations of real-world phenomena\\, such as characters\\, numbers\\, and images\\, accounting for the information lost in translation.",
 
 		"csta3BCS01": ",3B-CS-01, Categorize the roles of operating system software., Explain how specific features of operating systems dictate how software can be used.",
@@ -1999,6 +2151,7 @@
 		"csta3BAP15": ",3B-AP-15, Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution., Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution without amplifying systems of oppression.",
 		"csta3BAP16": ",3B-AP-16, Demonstrate code reuse by creating programming solutions using libraries and APIs., Demonstrate code reuse by creating programming solutions using libraries and APIs\\, while accounting for embedded biases in those abstractions.",
 		"csta3BAP17": ",3B-AP-17, Plan and develop programs for broad audiences using a software life cycle process., Plan and develop programs that center marginalized groups using a software life cycle process.",
+		"csta3BAP21": ",3B-AP-21, Develop and use a series of test cases to verify that a program performs according to its design specifications., Develop and use a series of test cases to verify that a program performs according to its design specifications\\, as well as to ethical and moral principles.",
 		"csta3BAP24": ",3B-AP-24, Compare multiple programming languages and discuss how their features make them suitable for solving different types of problems., Compare multiple programming languages\\, examining how their creators\\, origins\\, and values make them more or less suitable for different people and problems.",
 
 		"toleranceHeader": ",Teaching Tolerance, Original Standard, Critically Conscious Revision",

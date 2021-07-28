@@ -262,7 +262,7 @@ ol ol ol li:before {
 }
 
 .chapter .table tbody tr:nth-child(even) {
-    background-color: #E0E0E0;
+    background-color: #F1F1F1;
 }
 
 .chapter table tr:last-child td:first-child {

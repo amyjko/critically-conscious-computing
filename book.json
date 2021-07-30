@@ -139,6 +139,13 @@
 			"authors": ["ko"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"section": "Skills"
+		},
+		{
+			"id": "tools", 
+			"title": "Tools",
+			"authors": ["ko"],
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
+			"section": "Skills"
 		}
 	],
 	"revisions": [
@@ -263,6 +270,13 @@
 			"Beyond equity as inclusion: A framework of \"rightful presence\" for guiding justice-oriented studies in teaching and learning",
 			"Educational Researcher",
 			"https://doi.org/10.3102%2F0013189X20927363"
+		],
+		"becker19": [
+			"Brett A. Becker, Paul Denny, Raymond Pettit, Durell Bouchard, Dennis J. Bouvier, Brian Harrington, Amir Kamil, Amey Karkare, Chris McDonald, Peter-Michael Osera, Janice L. Pearce, James Prather",
+			2019,
+			"Compiler error messages considered unhelpful: The landscape of text-based programming error message research",
+			"#iticse",
+			"https://doi.org/10.1145/3344429.3372508"
 		],
 		"becraft14": [
 			"Michael B. Becraft",
@@ -431,6 +445,13 @@
 			"Gender shades: Intersectional accuracy disparities in commercial gender classification",
 			"Conference on fairness, accountability and transparency",
 			"http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf"
+		],
+		"cai19": [
+			"Carrie J. Cai, Philip J. Guo",
+			2019,
+			"Software developers learning machine learning: Motivations, hurdles, and desires",
+			"IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+			"https://doi.org/10.1109/VLHCC.2019.8818751"
 		],
 		"carpenter88": [
 			"Thomas P. Carpenter, Elizabeth Fennema, Penelope L. Peterson, Deborah A. Carey",
@@ -796,6 +817,13 @@
 			"#icer",
 			"https://doi.org/10.1145/3372782.3406267"
 		],
+		"guzdial06": [
+			"Mark Guzdial, Allison Elliott Tew",
+			2006,
+			"Imagineering inauthentic legitimate peripheral participation: an instructional design approach for motivating computing education",
+			"#icer",
+			"https://doi.org/10.1145/1151588.1151597"
+		],
 		"guzdial15": [
 			"Mark Guzdial",
 			2015,
@@ -978,6 +1006,13 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/Connected_Code/LA38DwAAQBAJ?hl=en&gbpv=0"
 		],
+		"kelleher05": [
+			"Caitlin Kelleher, Randy Pausch",
+			2005,
+			"Lowering the barriers to programming: A taxonomy of programming environments and languages for novice programmers",
+			"ACM Computing Surveys",
+			"https://doi.org/10.1145/1089733.1089734"
+		],
 		"kelleher07": [
 			"Caitlin Kelleher, Randy Pausch, Sara Kiesler",
 			2007,
@@ -1097,6 +1132,13 @@
 			"Communications of the ACM",
 			"https://doi.org/10.1145/3424000"
 		],
+		"kölling15": [
+			"Michael Kölling, Neil C. C. Brown, Amjad Altadmri",
+			2015,
+			"Frame-Based Editing: Easing the Transition from Blocks to Text-Based Programming",
+			"ACM Workshop in Primary and Secondary Computing Education (WiPSCE)",
+			"https://doi.org/10.1145/2818314.2818331"
+		],
 		"laadan11": [
 			"Oren Laadan, Jason Nieh, Nicolas Viennot",
 			2011,
@@ -1187,6 +1229,13 @@
 			"Mining data from the AP CS a exam: patterns, non-patterns, and replication failure",
 			"#icer",
 			"https://doi.org/10.1145/2493394.2493415"
+		],
+		"li09": [
+			"Linda C. Li, Jeremy M. Grimshaw, Camilla Nielsen, Maria Judd, Peter C. Coyte, Ian D. Graham",
+			2009,
+			"Evolution of Wenger's concept of community of practice",
+			"Implementation Science",
+			"https://doi.org/10.1186/1748-5908-4-11"
 		],
 		"li15": [
 			"Paul Luo Li, Amy J. Ko, Jiamin Zhu",
@@ -1377,6 +1426,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/1597849.1384344"
 		],
+		"murphyhill19": [
+			"Emerson Murphy-Hill, Edward K. Smith, Caitlin Sadowski, Ciera Jaspan, Collin Winter, Matthew Jorde, Andrea Knight, Andrew Trenk, Steve Gross",
+			2019,
+			"Do developers discover new tools on the toilet?",
+			"IEEE/ACM International Conference on Software Engineering (ICSE)",
+			"https://doi.org/10.1109/ICSE.2019.00059"
+		],
 		"mott14": [
 			"Martez E. Mott, Jacob O. Wobbrock",
 			2014,
@@ -1503,6 +1559,13 @@
 			"IEEE Transactions on Software Engineering",
 			"https://doi.org/10.1109/TSE.1985.232209"
 		],
+		"parnin11": [
+			"Chris Parnin, Christoph Treude",
+			2011,
+			"Measuring API documentation on the web",
+			"International Workshop on Web 2.0 for Software Engineering",
+			"https://doi.org/10.1145/1984701.1984706"
+		],
 		"papert93": [
 			"Seymour A. Papert",
 			1993,
@@ -1622,6 +1685,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/3328778.3366951"
 		],
+		"reis04": [
+			"Charles Reis, Robert Cartwright",
+			2004,
+			"Taming a professional IDE for the classroom",
+			"#sigcse",
+			"https://doi.org/10.1145/971300.971357"
+		],
 		"reimer03": [
 			"Yolanda Jacobs Reimer, Sarah A. Douglas",
 			2003,
@@ -1649,6 +1719,13 @@
 			"Crystal Fire: The Invention of the Transistor and the Birth of the Information Age",
 			"Norton",
 			"https://www.google.com/books/edition/Crystal_Fire/SZ6wm5ZSUmsC?hl=en&gbpv=0"
+		],
+		"roberts82": [
+			"Teresa L. Roberts, Thomas P. Moran",
+			1982,
+			"Evaluation of text editors",
+			"ACM Conference on Human Factors in Computing Systems (CHI)",
+			"https://doi.org/10.1145/800049.801770"
 		],
 		"robillard11": [
 			"Martin Robillard, Rob DeLine",
@@ -1916,6 +1993,13 @@
 			"Parsing the Turing Test",
 			"https://doi.org/10.1007/978-1-4020-6710-5_3"
 		],
+		"turkle90": [
+			"Sherry Turkle, Seymour Papert",
+			1990,
+			"Epistemological Pluralism: Styles and Voices within the Computer Culture",
+			"Signs",
+			"https://doi.org/10.1086/494648"
+		],
 		"turner18": [
 			"Jacob Turner",
 			2018,
@@ -2151,6 +2235,7 @@
 		"csta3BAP15": ",3B-AP-15, Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution., Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution without amplifying systems of oppression.",
 		"csta3BAP16": ",3B-AP-16, Demonstrate code reuse by creating programming solutions using libraries and APIs., Demonstrate code reuse by creating programming solutions using libraries and APIs\\, while accounting for embedded biases in those abstractions.",
 		"csta3BAP17": ",3B-AP-17, Plan and develop programs for broad audiences using a software life cycle process., Plan and develop programs that center marginalized groups using a software life cycle process.",
+		"csta3BAP20": ",3B-AP-20, Use version control systems\\, integrated development environments (IDEs)\\, and collaborative tools and practices (code documentation) in a group software project., Select\\, critique\\, and use version control systems\\, integrated development environments (IDEs)\\, and collaborative tools and practices (code documentation) in a group software project.",
 		"csta3BAP21": ",3B-AP-21, Develop and use a series of test cases to verify that a program performs according to its design specifications., Develop and use a series of test cases to verify that a program performs according to its design specifications\\, as well as to ethical and moral principles.",
 		"csta3BAP24": ",3B-AP-24, Compare multiple programming languages and discuss how their features make them suitable for solving different types of problems., Compare multiple programming languages\\, examining how their creators\\, origins\\, and values make them more or less suitable for different people and problems.",
 
@@ -2172,6 +2257,7 @@
 		"tolerance15": ",15, Identify figures\\, groups\\, events and a variety of strategies and philosophies relevant to the history of social justice around the world.,Identify figures\\, groups\\, events and a variety of strategies and philosophies relevant to the history of computer science and social justice.",
 		"tolerance16": ",16, Express empathy when people are excluded or mistreated because of their identities and concern when they themselves experience bias., Express empathy when software excludes or harms people because of their identities and concern when they themselves are excluded or harmed by software.",
 		"tolerance17": ",17, Recognize their own responsibility to stand up to exclusion\\, prejudice\\, and injustice., Recognize their own responsibility to stand up to exclusion\\, prejudice\\, and injustice when designing\\, engineering\\, and choosing software.",
+		"tolerance18": ",18, Students will plan and carry out collective action against bias and injustice in the world and will evaluate what strategies are most effective., Plan and carry out collective action against bias and injustice in the world of computing and will evaluate what strategies are most effective.",
 		"tolerance19": ",19, Make principled decisions about when and how to take a stand against bias and injustice in their everyday lives and will do so despite negative peer or group pressure., Make principled decisions about when and how to take a stand against algorithmic bias and injustice in their everyday lives and will do so despite negative peer or group pressure.",
 		"tolerance20": ",20, Plan and carry out collective action against bias and injustice in the world and will evaluate what strategies are most effective., Plan and carry out collective action against data and algorithmic bias and injustice in the world and will evaluate what strategies are most effective."
 	}

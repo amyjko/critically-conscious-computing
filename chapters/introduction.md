@@ -105,7 +105,7 @@ The [Kapor Center|https://www.kaporcenter.org]'s [Culturally Responsive-Sustaini
 
 "
 Culturally responsive-sustaining computer science pedagogy ensures that students’ interests, identities, and cultures are embraced and validated, students develop knowledge of computing content and its utility in the world, strong CS identities are developed, and students engage in larger socio-political critiques about technology’s purpose, potential, and impact.
-" Kapor Center, [Culturally Responsive-Sustaining Computer Science Education|https://www.kaporcenter.org/equitableCS/]
+"< Kapor Center, [Culturally Responsive-Sustaining Computer Science Education|https://www.kaporcenter.org/equitableCS/]
 
 To help you navigate the standards, we include a table here that provides an index into the CSTA K-12 CS Learning Standards and where they are covered in the book. Each chapter also includes the specific standards it covers.
 

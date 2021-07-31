@@ -146,6 +146,13 @@
 			"authors": ["ko"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 			"section": "Skills"
+		},
+		{
+			"id": "projects", 
+			"title": "Projects",
+			"authors": ["ko"],
+			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
+			"section": "Skills"
 		}
 	],
 	"revisions": [
@@ -376,6 +383,20 @@
 			"#sigcse",
 			"https://doi.org/10.1145/3287324.3287372"			
 		],
+		"boehm88": [
+			"Barry W. Boehm",
+			1988,
+			 "A spiral model of software development and enhancement",
+			 "Computer",
+			 "https://doi.org/10.1109/2.59"
+		],
+		"boss18": [
+			"Suzie Boss, John Larmer",
+			2018,
+			"Project Based Teaching: How to Create Rigorous and Engaging Learning Experiences",
+			"ASCD",
+			"https://www.google.com/books/edition/Project_Based_Teaching/TVlxDwAAQBAJ?hl=en&gbpv=0"
+		],
 		"böttcher16": [
 			"Axel Böttcher, Veronika Thurner, Kathrin Schlierkamp, Daniela Zehetmeier",
 			2016,
@@ -403,6 +424,13 @@
 			"The Emperor of Strong AI Has No Clothes: Limits to Artificial Intelligence",
 			"Information",
 			"https://doi.org/10.3390/info8040156"
+		],
+		"brennan19": [
+			"Karen Brennan",
+			2019,
+			"How kids manage self-directed programming projects: Strategies and structures",
+			"Journal of the Learning Sciences",
+			"https://doi.org/10.1080/10508406.2021.1936531"
 		],
 		"broussard19": [
 			"Meredith Broussard",
@@ -453,6 +481,13 @@
 			"IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
 			"https://doi.org/10.1109/VLHCC.2019.8818751"
 		],
+		"calefato17": [
+			"Fabio Calefato, Filippo Lanubile, Nicole Novielli",
+			2017,
+			"A preliminary analysis on the effects of propensity to trust in distributed software development",
+			"International Conference on Global Software Engineering (ICGSE)",
+			"https://doi.org/10.1109/ICGSE.2017.1"
+		],
 		"carpenter88": [
 			"Thomas P. Carpenter, Elizabeth Fennema, Penelope L. Peterson, Deborah A. Carey",
 			1988,
@@ -501,6 +536,13 @@
 			"Building equitable computing classrooms through culturally responsive professional development",
 			"Society for Information Technology & Teacher Education International Conference",
 			"https://www.learntechlib.org/primary/p/215769/"
+		],
+		"cohen14": [
+			"Elizabeth G. Cohen, Rachel A. Lotan",
+			2014,
+			"Designing Groupwork: Strategies for the Heterogeneous Classroom",
+			"Teachers College Press",
+			"https://www.google.com/books/edition/Designing_Groupwork/0K07BAAAQBAJ?hl=en&gbpv=0"
 		],
 		"cooper03": [
 			"Stephen Cooper, Wanda Dann, Randy Pausch",
@@ -683,6 +725,13 @@
 			"Automating inequality: How high-tech tools profile, police, and punish the poor",
 			"St. Martin's Press",
 			"https://www.google.com/books/edition/Automating_Inequality/pn4pDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"fan20": [
+			"Ka Siu Fan, Shahi Abdul Ghani, Nikolaos Machairas, Lorenzo Lenti, Ka Hay Fan, Daniel Richardson, Aneya Scott, Dimitri Aristotle Raptis",
+			2020,
+			"COVID-19 prevention and treatment information on the internet: a systematic analysis and quality assessment",
+			"British Medical Journal",
+			"http://dx.doi.org/10.1136/bmjopen-2020-040487"
 		],
 		"feaster11": [
 			"Yvon Feaster, Luke Segars, Sally K. Wahba, Jason O. Hallstrom",
@@ -880,6 +929,13 @@
 			"Springer",
 			"https://www.google.com/books/edition/Guide_to_Teaching_Computer_Science/iekXBgAAQBAJ?hl=en&gbpv=0"
 		],
+		"herbsleb03": [
+			"James D Herbsleb, Audris Mockus",
+			2003,
+			"An empirical study of speed and communication in globally distributed software development",
+			"IEEE Transactions on Software Engineering",
+			"https://doi.org/10.1109/TSE.2003.1205177"
+		],
 		"hermans16": [
 			"Felienne Hermans, Efthimia Aivaloglou",
 			2016,
@@ -971,6 +1027,13 @@
 			"Big Data & Society",
 			"https://doi.org/10.1177%2F2053951716674238"
 		],
+		"inozemtseva14": [
+			"Laura Inozemtseva, Reid Holmes",
+			2014,
+			"Coverage is not strongly correlated with test suite effectiveness",
+			"ACM/IEEE International Conference on Software Engineering (ICSE)",
+			"https://doi.org/10.1145/2568225.2568271"
+		],
 		"inoue15": [
 			"Asao B. Inoue",
 			2015,
@@ -1006,6 +1069,13 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/Connected_Code/LA38DwAAQBAJ?hl=en&gbpv=0"
 		],
+		"kalliamvakou17": [
+			"Eirini Kalliamvakou, Christian Bird, Thomas Zimmermann, Andrew Begel, Robert DeLine, Daniel M. German",
+			2017,
+			"What makes a great manager of software engineers?",
+			"IEEE Transactions on Software Engineering",
+			"https://doi.org/10.1109/TSE.2017.2768368"
+		],
 		"kelleher05": [
 			"Caitlin Kelleher, Randy Pausch",
 			2005,
@@ -1019,6 +1089,13 @@
 			"Storytelling Alice motivates middle school girls to learn computer programming",
 			"#chi",
 			"https://doi.org/10.1145/1240624.1240844"
+		],
+		"kelly05": [
+			"Brian Kelly, David Sloan, Lawrie Phipps, Helen Petrie, Fraser Hamilton",
+			2005,
+			"Forcing standardization or accommodating diversity? A framework for applying the WCAG in the real world",
+			"International Cross-Disciplinary Workshop on Web Accessibility (W4A)",
+			"https://doi.org/10.1145/1061811.1061820"
 		],
 		"keuning18": [
 			"Hieke Keuning, Johan Jeuring, Bastiaan Heeren",
@@ -1111,6 +1188,13 @@
 			"ACM Computing Surveys",
 			"https://doi.org/10.1145/1922649.1922658"
 		],
+		"ko17": [
+			"Amy J. Ko",
+			2017,
+			"A three-year participant observation of software startup software evolution",
+			"IEEE/ACM 39th International Conference on Software Engineering: Software Engineering in Practice Track (ICSE-SEIP)",
+			"https://doi.org/10.1109/ICSE-SEIP.2017.29"
+		],
 		"ko18": [
 			"Amy J. Ko, Leanne Hwa, Katie Davis, Jason C. Yip",
 			2018,
@@ -1188,6 +1272,13 @@
 			"Journal of Hazardous Materials",
 			"https://doi.org/10.1016/S0304-3894(99)00191-0"
 		],
+		"lee12": [
+			"Michael J. Lee, Amy J. Ko",
+			2012,
+			"Representations of user feedback in an Agile, collocated software team",
+			"International Workshop on Co-operative and Human Aspects of Software Engineering (CHASE)",
+			"https://doi.org/10.1109/CHASE.2012.6223028"
+		],
 		"lee14": [
 			"Michael J. Lee, Faezeh Bahmani, Irwin Kwan, Jilian LaFerte, Polina Charters, Amber Horvath, Fanny Luor, Jill Cao, Catherine Law, Michael Beswetherick, Sheridan Long, Margaret Burnett, Amy J. Ko",
 			2014,
@@ -1216,6 +1307,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/3408877.3432370"
 		],
+		"lenberg18": [
+			"Per Lenberg, Robert Feldt",
+			2018,
+			"Psychological safety and norm clarity in software engineering teams",
+			"International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)",
+			"https://doi.org/10.1145/3195836.3195847"
+		],
 		"lesser17": [
 			"Lawrence M. Lesser",
 			2017,
@@ -1236,6 +1334,13 @@
 			"Evolution of Wenger's concept of community of practice",
 			"Implementation Science",
 			"https://doi.org/10.1186/1748-5908-4-11"
+		],
+		"li11": [
+			"Paul Luo Li, Ryan Kivett, Zhiyuan Zhan, Sung-eok Jeon, Nachiappan Nagappan, Brendan Murphy, Amy J. Ko",
+			2011,
+			"Characterizing the differences between pre- and post- release versions of software",
+			"ACM/IEEE International Conference on Software Engineering (ICSE)",
+			"https://doi.org/10.1145/1985793.1985894"
 		],
 		"li15": [
 			"Paul Luo Li, Amy J. Ko, Jiamin Zhu",
@@ -1362,6 +1467,13 @@
 			"Stuck in the Shallow End: Education, Race, and Computing",
 			"MIT Press",
 			"https://www.google.com/books/edition/Stuck_in_the_Shallow_End/WOI9rGJSFCcC?hl=en&gbpv=0"
+		],
+		"markus01": [
+			"Lynne M. Markus",
+			2001,
+			"Toward a theory of knowledge reuse: Types of knowledge reuse situations and factors in reuse success",
+			"Journal of Management Information Systems",
+			"https://doi.org/10.1080/07421222.2001.11045671"
 		],
 		"mccartney99": [
 			"Scott McCartney",
@@ -1587,12 +1699,26 @@
 			"#sigcse",
 			"https://doi.org/10.1145/1269900.1268790"
 		],
+		"petre16": [
+			"Marian Petre, André van der Hoek",
+			2016,
+			"Software Design Decoded: 66 Ways Experts Think",
+			"MIT Press",
+			"https://www.google.com/books/edition/Software_Design_Decoded/EVE4DQAAQBAJ?hl=en&gbpv=0"
+		],
 		"philip16": [
 			"Thomas M. Philip, Maria C. Olivares-Pasillas, Janet Rocha",
 			2016,
 			"Becoming racially literate about data and data-literate about race: Data visualizations in the classroom as a site of racial-ideological micro-contestations",
 			"Cognition and Instruction",
 			"https://doi.org/10.1080/07370008.2016.1210418"
+		],
+		"pohl10": [
+			"Klaus Pohl",
+			2010,
+			"Requirements Engineering: Fundamentals, Principles, and Techniques",
+			"Springer",
+			"https://www.google.com/books/edition/Requirements_Engineering/0i2ERQAACAAJ?hl=en"
 		],
 		"pombrio17": [
 			"Justin Pombrio, Shriram Krishnamurthi, Kathi Fisler",
@@ -1720,6 +1846,13 @@
 			"Norton",
 			"https://www.google.com/books/edition/Crystal_Fire/SZ6wm5ZSUmsC?hl=en&gbpv=0"
 		],
+		"robbins17": [
+			"Dean Robbins",
+			2017,
+			"Margaret and the Moon: How Margaret Hamilton Saved the First Lunar Landing",
+			"Alfred A. Knopf",
+			"https://www.google.com/books/edition/Margaret_and_the_Moon/7WK0DgAAQBAJ?hl=en&gbpv=0"
+		],
 		"roberts82": [
 			"Teresa L. Roberts, Thomas P. Moran",
 			1982,
@@ -1775,6 +1908,13 @@
 			"Take space, make space: how students use computer science to disrupt and resist marginalization in schools",
 			"Computer Science Education",
 			"https://doi.org/10.1080/08993408.2020.1805284"
+		],
+		"sadowski19": [
+			"Caitlin Sadowski, Thomas Zimmermann",
+			2019,
+			"Rethinking Productivity in Software Engineering",
+			"Apress",
+			"https://www.google.com/books/edition/Rethinking_Productivity_in_Software_Engi/AIAPvAEACAAJ?hl=en"
 		],
 		"sáezlópez16": [
 			"José-Manuel Sáez-López, Marcos Román-González, Esteban Vázquez-Cano",
@@ -2070,12 +2210,26 @@
 			"Environmental Impact Assessment Review",
 			"https://doi.org/10.1016/j.eiar.2005.04.001"
 		],
+		"williams03": [
+			"Laurie Williams, Robert R. Kessler",
+			2003,
+			"Pair Programming Illuminated",
+			"Addison-Wesley",
+			"https://www.google.com/books/edition/Pair_Programming_Illuminated/LRQhdlrKNE8C?hl=en&gbpv=0"
+		],
 		"williams18": [
-			"Editors: A. Mark Williams, Aaron Kozbelt, K. Anders Ericsson, Robert R. Hoffman",
+			"A. Mark Williams, Aaron Kozbelt, K. Anders Ericsson, Robert R. Hoffman",
 			2018,
 			"The Cambridge Handbook of Expertise and Expert Performance",
 			"Cambridge University Press",
 			"https://www.google.com/books/edition/The_Cambridge_Handbook_of_Expertise_and/HM5TDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"winters20": [
+			"Titus Winters, Tom Manshreck, Hyrum Wright",
+			2020,
+			"Software Engineering at Google: Lessons Learned from Programming Over Time",
+			"O'Reilly",
+			"https://www.google.com/books/edition/Software_Engineering_at_Google/V3TTDwAAQBAJ?hl=en&gbpv=0"
 		],
 		"wollowski16": [
 			"Michael Wollowski, Robert Selkowitz, Laura Brown, Ashok Goel, George Luger, Jim Marshall, Andrew Neel, Todd Neller, Peter Norvig",
@@ -2182,9 +2336,12 @@
 		"csta2AP14": ",2-AP-14, Create procedures with parameters to organize code and make it easier to reuse., Create procedures with parameters to organize code and make it easier to reuse\\, while accounting for the implications of those procedures in diversity\\, equity\\, and inclusion.",
 		"csta2AP15": ",2-AP-15, Seek and incorporate feedback from team members and users to refine a solution that meets user needs., Seek and incorporate feedback from team members and users to refine a solution that meets user needs while dismantling systems of oppression.",
 		"csta2AP17": ",2-AP-17, Systematically test and refine programs using a range of test cases., Systematically test and refine programs using test cases that cover both common and exceptional cases.",
+		"csta2AP18": ",2-AP-18, Distribute tasks and maintain a project timeline when collaboratively developing computational artifacts., Distribute tasks and maintain a project timeline without letting technical constraints determine design and its impacts on society.",
+		"csta2AP19": ",2-AP-19, Document programs in order to make them easier to follow\\, test\\, and debug., Document programs in order to make the rationale behind their construction easier to comprehend and audit.",
 
 		"csta2IC20": ",2-IC-20, Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options., Examine power imbalances in the design of computing techniques that create\\, amplify\\, and reinforce inequities and injustices in society.",
 		"csta2IC21": ",2-IC-21, Discuss issues of bias and accessibility in the design of existing technologies., Describe how software excludes groups marginalized by their gender\\, race\\, ethnicity\\, language\\, and ability.",
+		"csta2IC22": ",2-IC-22, Collaborate with many contributors through strategies such as crowdsourcing or surveys when creating a computational artifact., Collaborate with marginalized stakeholders when designing and creating a computational artifact to ensure the software dismantles rather than amplifies systems of oppression.",
 		"csta2IC23": ",2-IC-23, Describe tradeoffs between allowing information to be public and keeping information private and secure., Describe individual and collective tradeoffs of the surveillance that computing enables.",
 		
 		"csta2DA07": ",2-DA-07, Represent data using multiple encoding schemes., Represent data using multiple encoding schemes while explicitly accounting for their modeling limitations.",
@@ -2207,13 +2364,16 @@
 		"csta3ACS02": ",3A-CS-02, Compare levels of abstraction and interactions between application software\\, system software\\, and hardware layers.,Examine how levels of abstraction in operating systems and hardware shape and constrain what and how applications are created and used.",
 		"csta3ACS03": ",3A-CS-03, Develop guidelines that convey systematic troubleshooting strategies that others can use to identify and fix errors., Develop systematic strategies that others can use to identify and fix both technical and sociotechnical defects.",
 
+		"csta3AAP13": ",3A-AP-13, Create prototypes that use algorithms to solve computational problems by leveraging prior student knowledge and personal interests., Create prototypes that use algorithms to dismantle systems of oppression by leveraging prior student knowledge and personal interests.",
 		"csta3AAP14": ",3A-AP-14, Use lists to simplify solutions\\, generalizing computational problems instead of repeatedly using simple variables., Decide whether and how to use lists to simplify solutions\\, generalizing computational problems instead of repeatedly using simple variables only when generalization would not erase diversity.",
 		"csta3AAP15": ",3A-AP-15, Justify the selection of specific control structures when tradeoffs involve implementation\\, readability\\, and program performance\\, and explain the benefits and drawbacks of choices made., Examine the tradeoffs in the selection of specific control structures relative to tradeoffs between implementation\\, readability\\, performance\\, ethics\\, inclusion\\, and justice.",
+		"csta3AAP16": ",3A-AP-16, Design and iteratively develop computational artifacts for practical intent\\, personal expression\\, or to address a societal issue by using events to initiate instructions., Design and iteratively develop computational artifacts for practical intent\\, personal expression\\, or to help dismantle systems of oppression by using events to initiate instructions.",
 		"csta3AAP17": ",3A-AP-17, Decompose problems into smaller components through systematic analysis\\, using constructs such as procedures\\, modules\\, and/or objects.,Decompose problems into smaller components through systematic analysis\\, using constructs such as procedures\\, modules\\, and/or objects\\, while accounting for the implications of those procedures in diversity\\, equity\\, and inclusion.",
 		"csta3AAP18": ",3A-AP-18, Create artifacts by using procedures within a program\\, combinations of data and procedures\\, or independent but interrelated programs., Create artifacts by using procedures within a program\\, combinations of data and procedures\\, or independent but interrelated programs\\, while accounting for embedded biases in reused code.",
 		"csta3AAP19": ",3A-AP-19, Systematically design and develop programs for broad audiences by incorporating feedback from users., Design and engineer software using design methods that center marginalized and oppressed groups’ voices and needs.",
 		"csta3AAP20": ",3A-AP-20, Evaluate licenses that limit or restrict use of computational artifacts when using resources such as libraries., Evaluate licenses that limit or restrict use of computational artifacts\\, and how those licenses may limit the responsibility of their producers.",
-		"csta3AAP21": ",3A-AP-21, Evaluate and refine computational artifacts to make them more usable and accessible., Evaluate and refine computational artifacts to make them more usable\\, accessible\\, and just.",		
+		"csta3AAP21": ",3A-AP-21, Evaluate and refine computational artifacts to make them more usable and accessible., Evaluate and refine computational artifacts to make them more usable\\, accessible\\, and just.",
+		"csta3AAP22": ",3A-AP-22, Design and develop computational artifacts working in team roles using collaborative tools., Design and develop computational artifacts working in team roles using collaborative tools\\, while centering stakeholders not on the team.",
 		
 		"csta3ADA09": ",3A-DA-09, Translate between different bit representations of real-world phenomena\\, such as characters\\, numbers\\, and images., Translate between different bit representations of real-world phenomena\\, such as characters\\, numbers\\, and images\\, accounting for the information lost in translation.",
 
@@ -2232,11 +2392,13 @@
 		"csta3BAP10": ",3B-AP-10, Use and adapt classic algorithms to solve computational problems., Use and adapt classic algorithms to solve computational problems without creating new social problems.",
 		"csta3BAP11": ",3B-AP-11, Evaluate algorithms in terms of their efficiency\\, correctness\\, and clarity., Evaluate algorithms in terms of their efficiency\\, correctness\\, clarity\\, and impact on society.",
 		"csta3BAP12": ",3B-AP-12,Compare and contrast fundamental data structures and their uses.,Compare and contrast fundamental data structures\\, their uses\\, and their limitations in faithfully representing diversity.",
+		"csta3BAP14": ",3B-AP-14, Construct solutions to problems using student-created components\\, such as procedures\\, modules and/or objects., Construct software using student-created components\\, such as procedures\\, modules and/or objects.",
 		"csta3BAP15": ",3B-AP-15, Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution., Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution without amplifying systems of oppression.",
 		"csta3BAP16": ",3B-AP-16, Demonstrate code reuse by creating programming solutions using libraries and APIs., Demonstrate code reuse by creating programming solutions using libraries and APIs\\, while accounting for embedded biases in those abstractions.",
 		"csta3BAP17": ",3B-AP-17, Plan and develop programs for broad audiences using a software life cycle process., Plan and develop programs that center marginalized groups using a software life cycle process.",
 		"csta3BAP20": ",3B-AP-20, Use version control systems\\, integrated development environments (IDEs)\\, and collaborative tools and practices (code documentation) in a group software project., Select\\, critique\\, and use version control systems\\, integrated development environments (IDEs)\\, and collaborative tools and practices (code documentation) in a group software project.",
 		"csta3BAP21": ",3B-AP-21, Develop and use a series of test cases to verify that a program performs according to its design specifications., Develop and use a series of test cases to verify that a program performs according to its design specifications\\, as well as to ethical and moral principles.",
+		"csta3BAP22": ",3B-AP-22, Modify an existing program to add additional functionality and discuss intended and unintended implications (e.g.\\, breaking other functionality)., Modify an existing program to add additional functionality and discuss intended and unintended sociotechnical implications.",
 		"csta3BAP24": ",3B-AP-24, Compare multiple programming languages and discuss how their features make them suitable for solving different types of problems., Compare multiple programming languages\\, examining how their creators\\, origins\\, and values make them more or less suitable for different people and problems.",
 
 		"toleranceHeader": ",Teaching Tolerance, Original Standard, Critically Conscious Revision",

@@ -38,7 +38,7 @@ While programming is like these activities in its universal relevance to society
 
 Programming is also social, but in varying ways. For example, when programming is done alone, it can be quite an immersive experience, with one’s whole consciousness consumed by a set of source files, their interdependencies, and a vision for how they might be changed that drive revision after revision. And yet even in that isolation, it is an activity that relies on the knowledge of others, often in the form of documentation, help forums online, and code that others have written to be reused, as we discussed in [Abstractions|abstractions]. But when programming is done in a group—as it almost always is in all but the smallest of projects—it can also be rich with communication, coordination, collaboration, compromise, and even conflict around design choices.
 
-|question.jpg||A depiction of the same person doing many different things, but on the same object. Maybe like a person using an exercise ball in a dozen very different ways.||>
+|Chapter16_Figure03_Exerciseball.png|A woman in many positions working with an abstract hot pink circle.|Programming requires a diversity of skills.|Jessie Huynh|>
 
 # Programming Skills
 
@@ -149,7 +149,7 @@ Another critical kind of self-regulation is *comprehension monitoring*. Because 
 
 Finally, *self-explanation* is another essential form of self-regulation. When programmers attempt to explain to themselves how a program works, why an algorithm might solve a problem, or what might be causing a failure, they build stronger models of what problem they are solving and how the program is solving it. For example, some programmers will use a strategy of carrying a rubber duck, or some other object or person, and try to explain to themselves the problem they are facing<hunt99>. Questions programmers frequently ask themselves are “How does this program execute?” or “How is the program producing this failure?”
 
-|question.jpg||Something that conveys a developer racing to create something, causing havoc in the process, and seeing no responsibility for their actions. Maybe a metaphor of a wreckless driver?||>
+|Chapter16_Figure04_RecklessDriver.png|A car crashing into an old CRT computer display with several miniature humans running away and one holding his head in disbelief|Coding, like any activity involving power tools, comes with responsibility.|Jessie Huynh|>
 
 # Programming and Responsibility
 
@@ -161,7 +161,7 @@ Another tactic is to simply slow down. Software is an industry and a medium that
 
 Of course, in the absence of policy, all of these tactics require some voluntary action. In most countries in the world, programmers have no legal responsibility for what they make, and software companies regularly use software licenses that absolve them of any legal liability for what impact software has on an individual or community. This is unlike nearly all other professions: engineers who design buildings and bridges are responsible if they fall down, health care providers are responsible for medical errors, and scientists are responsible for the trustworthiness of their discoveries. Society has not yet decided to make programmers responsible for their code and its impact, and until it does, making room for algorithmic justice will require personal and organizational will.
 
-|question.jpg||A classroom full of students doing a diversity of things, some in front of computers, some in front of whiteboards, some in conversation with peers, and some gesturing wildly. A teacher facilitates all of these.||
+|Chapter16_Figure05_Classroom.png|A classroom full of youth working at computers, whiteboards, desks, and tables.|Programming is a social and creative skill that should be learned with others.|Jessie Huynh|
 
 # Teaching Programming
 

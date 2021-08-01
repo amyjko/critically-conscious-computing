@@ -133,7 +133,6 @@ code {
     margin-bottom: 3em;
     margin-left: 10%;
     margin-right: 10%;
-    position: relative;
 }
 
 .blockquote > p {
@@ -143,9 +142,9 @@ code {
 
 .blockquote:before {
     content: "\201C";
-    position: absolute;
-    top: 40pt;
-    left: -20pt;
+    position: relative;
+    top: 80pt;
+    left: -40pt;
     font-family: "Modum Extra";
     font-size: 120pt;
     font-weight: bold;
@@ -153,7 +152,7 @@ code {
     z-index: -1;
 }
 
-.blockquote-footer {
+blockquote .blockquote-caption {
     margin-top: 0.5em;
     text-align: right;
     font-family: "Arvo";
@@ -161,7 +160,7 @@ code {
     color: #424242;
 }
 
-.footnote-link, .citation {
+.footnote-symbol, .citation-symbol {
     font-family: "Modum";
     font-style: normal;
 }

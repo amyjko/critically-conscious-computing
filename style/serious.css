@@ -312,9 +312,9 @@ hr {
 .definition {
 	display: block;
 	border-left: 2px solid #1B499C;
-	padding-left: 0.5em;
-	font-size: 80%;
-	line-height: 1.5em;
+	padding-left: 0.5rem;
+	font-size: 0.8rem;
+	line-height: 1.2rem;
 }
 
 .definition em {

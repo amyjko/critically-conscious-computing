@@ -2422,5 +2422,12 @@
 		"tolerance18": ",18, Students will plan and carry out collective action against bias and injustice in the world and will evaluate what strategies are most effective., Plan and carry out collective action against bias and injustice in the world of computing and will evaluate what strategies are most effective.",
 		"tolerance19": ",19, Make principled decisions about when and how to take a stand against bias and injustice in their everyday lives and will do so despite negative peer or group pressure., Make principled decisions about when and how to take a stand against algorithmic bias and injustice in their everyday lives and will do so despite negative peer or group pressure.",
 		"tolerance20": ",20, Plan and carry out collective action against bias and injustice in the world and will evaluate what strategies are most effective., Plan and carry out collective action against data and algorithmic bias and injustice in the world and will evaluate what strategies are most effective."
+	},
+	"glossary": {
+		"lang": {
+			"phrase": "programming language",
+			"definition": "A notational user interface for telling computers what we want them to compute at some later point in the future.",
+			"synonyms": ["language", "coding language"]
+		}
 	}
 }

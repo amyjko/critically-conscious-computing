@@ -160,6 +160,11 @@ blockquote .blockquote-caption {
     color: #424242;
 }
 
+.blockquote-caption:before {
+    content: "—";
+    margin-right: 0.25em;
+}
+
 .footnote-symbol, .citation-symbol {
     font-family: "Modum";
     font-style: normal;

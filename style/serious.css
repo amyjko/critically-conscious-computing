@@ -168,6 +168,7 @@ blockquote .blockquote-caption {
 .footnote-symbol, .citation-symbol {
     font-family: "Modum";
     font-style: normal;
+    color: #1B499C;
 }
 
 .footnote {
@@ -305,7 +306,7 @@ hr {
     margin-right: 3em;
 }
 
-.terminology {
+.terminology .marginal-interactor {
 	border-bottom: 2px solid #1B499C;
 }
 
@@ -315,6 +316,16 @@ hr {
 	padding-left: 0.5rem;
 	font-size: 0.8rem;
 	line-height: 1.2rem;
+}
+
+.terminology .marginal-interactor.marginal-hovered {
+    border-bottom-color: #1B499C !important;
+    border-bottom-width: 3px;
+}
+
+.terminology .marginal.marginal-hovered .definition {
+    border-left-color: #1B499C !important;
+    border-left-width: 3px !important;
 }
 
 .definition em {

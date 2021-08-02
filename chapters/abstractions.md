@@ -24,7 +24,7 @@ All of these hidden details are what computer science generally refers to as *in
 
 * Operating system developers, tasked with reliably executing the programs that a user wants to be run, do not have to understand the particular details of how computer hardware works, because those details have been hidden, allowing developers to think of computers as machines that run programs reliably. Their only job is to think about how to make sure those programs execute quickly, efficiently using the shared resources of a computer.
 
-* Software developers, tasked with writing computer programs, do not have to understand how an operating system works, because details and nuances about its resources have been hidden behind ideas like “processes” and “memory”, rather than the much more complicated details of how instructors are moved from memory to CPU, and done so efficiently. Their only job is to decide how to write programs to meet requirements.
+* Software developers, tasked with writing computer programs, do not have to understand how an operating system works, because details and nuances about its resources have been hidden behind ideas like "processes" and "memory", rather than the much more complicated details of how instructors are moved from memory to CPU, and done so efficiently. Their only job is to decide how to write programs to meet requirements.
 
 * Software users, trying to use computer programs, do not have to understand how the programs are implemented in code, because the details about a program’s implementation have been hidden behind user interfaces that take input and respond with output, but hide everything else. Our only job as users is to work and play with computers.
 
@@ -63,22 +63,22 @@ def y(x):
   return 5 * x + 2
 `The same line as above.
 
-Just as with the formula above, this function takes any value `x` and returns it times `5`, plus `2`. Computing, however, expanded the notion of a function to also include *names*, to help give more meaningful, human readable descriptions of what input is being provided and what output is being computed. The function above allows a programmer to call a function by name; for example, the Python code `y(3)`python means “_call the function y with the value 3, execute it, and then obtain the value it returns_”. In this case, this would mean finding the function named `y`, setting a variable `x` to the value provided, `3`, getting the value of `x` and multiplying it by `5`, adding `2` to the result, and then returning the value to whatever part of the program that called the function `y`. This process is therefore unlike functions in math in many ways: we can give functions names that are more than just a single letter; we can use functions anywhere in a program where they are defined, and we can reuse functions throughout a program, to avoid having to write the same code multiple times.
+Just as with the formula above, this function takes any value `x` and returns it times `5`, plus `2`. Computing, however, expanded the notion of a function to also include *names*, to help give more meaningful, human readable descriptions of what input is being provided and what output is being computed. The function above allows a programmer to call a function by name; for example, the Python code `y(3)`python means "_call the function y with the value 3, execute it, and then obtain the value it returns_". In this case, this would mean finding the function named `y`, setting a variable `x` to the value provided, `3`, getting the value of `x` and multiplying it by `5`, adding `2` to the result, and then returning the value to whatever part of the program that called the function `y`. This process is therefore unlike functions in math in many ways: we can give functions names that are more than just a single letter; we can use functions anywhere in a program where they are defined, and we can reuse functions throughout a program, to avoid having to write the same code multiple times.
 
 Functions in programs can have more than one input. We call each of these named inputs *arguments*. For example, consider this Python function, which has to arguments:
 
 `python
 def isEligibleToVote(age, citizenship):
-    return age >= 18 and citizenship == “US”
+    return age >= 18 and citizenship == "US"
 `
 
-These two arguments, `age` and `citizenship`, are used to compute a Boolean `True` or `False` value as to whether someone is eligible to vote. We would call it by writing the Python code `eligibleToVote(12, “Canada”)`python, which would return the value `False`. While this might look quite different from the mathematical function above, we could write it in a more mathematical syntax:
+These two arguments, `age` and `citizenship`, are used to compute a Boolean `True` or `False` value as to whether someone is eligible to vote. We would call it by writing the Python code `eligibleToVote(12, "Canada")`python, which would return the value `False`. While this might look quite different from the mathematical function above, we could write it in a more mathematical syntax:
 
 The inputs given to a function’s arguments can come from anywhere, but it’s critical to note that it is the _values_ that are passed to functions, not the containers that store those values. For example, consider this program:
 
 `python
 age = 20
-citizenship = “Pakistan”
+citizenship = "Pakistan"
 isEligibleToVote(age, citizenship) # Returns False
 `
 
@@ -88,7 +88,7 @@ This program therefore produces the same result:
 
 `python
 a = 20
-c = “Pakistan”
+c = "Pakistan"
 isEligibleToVote(a, c) # Returns False
 `
 
@@ -105,9 +105,9 @@ This power leverages the all three of the ideas in the previous section:
 
 * Functions _hide_ information, replacing all of the details and nuances of how something is computed with a name and few inputs. For example, to compute eligibility to vote with the function above, one only needs to know the function name `eligibleToVote` and provide an age and citizenship. The logic of what determines eligibility is hidden, unless the person writing a program that uses `eligibleToVote` has access to the source code of `eligibleToVote`.
 
-* Functions _abstract_, taking the complex idea of voting eligibility (which in our example only considers two factors, but in reality in the U.S., involves countless others, such as whether someone has committed a felony, or owes the government money in some states), and reduces it down to just a name: `eligibleToVote`. This allows people using this function to no longer think about all of those nuances, instead just thinking of it as “eligibility.”
+* Functions _abstract_, taking the complex idea of voting eligibility (which in our example only considers two factors, but in reality in the U.S., involves countless others, such as whether someone has committed a felony, or owes the government money in some states), and reduces it down to just a name: `eligibleToVote`. This allows people using this function to no longer think about all of those nuances, instead just thinking of it as "eligibility."
 
-* Functions _encapsulate_, structuring details in a way that facilitates abstraction and information hiding. For example, the function above only exposes two details: `age` and `citizenship`. It could have exposed other details, such as details about when someone became a citizen, someone’s precise birthdate. It could also have allowed for a return value that was more than a binary value, letting some answers be “it depends” or “the Supreme Court decision on this person’s eligibility is pending.” But the particular way the function was encapsulated did not allow for these different inputs or outputs.
+* Functions _encapsulate_, structuring details in a way that facilitates abstraction and information hiding. For example, the function above only exposes two details: `age` and `citizenship`. It could have exposed other details, such as details about when someone became a citizen, someone’s precise birthdate. It could also have allowed for a return value that was more than a binary value, letting some answers be "it depends" or "the Supreme Court decision on this person’s eligibility is pending." But the particular way the function was encapsulated did not allow for these different inputs or outputs.
 
 Another aspect of the power of functions is that they can be combined with other functions and logic to make even more complex functions that themselves abstract, encapsulate, and hide detail. For example, a progressive political campaign could use eligibleToVote to automate the selection of who to call to encourage to vote:
 
@@ -115,7 +115,7 @@ Another aspect of the power of functions is that they can be combined with other
 def selectOutreachList(people):
     outreachList = []
     for person in people:
-        if isEligibleToVote(person.age, person.citizenship) and person.politics == “progressive”:
+        if isEligibleToVote(person.age, person.citizenship) and person.politics == "progressive":
             outreachList.add(person)
     return outreachList
 `
@@ -136,7 +136,7 @@ class Voter:
     self.vote = None
 
   def isEligibleToVote():
-     return self.age >= 18 and self.citizenship == “US”
+     return self.age >= 18 and self.citizenship == "US"
 
   def recordVote(candidate):
      self.vote = candidate
@@ -147,7 +147,7 @@ In object orientation terminology, the code above represents a *class*, which re
 But: we have not yet created a `Voter` object. To do that, we have to create an object using the class. In Python, that is as simple as:
 
 `python
-amy = Voter(41, “US”)
+amy = Voter(41, "US")
 print(amy.isEligibleVoter())
 `
 
@@ -192,7 +192,7 @@ classifyFace(image)
 
 However, the semantics here are much more difficult. What is the structure of the image value that is passed in? What happens if the image contains multiple faces? What happens if the image does not contain faces? What if the image is not well lit? What if the image contains faces, but of mammals, but not humans? What if the person in the image is a Black Woman, which most facial recognition algorithms are demonstrably worse at classifying<buolamwini18>? Because the code for such functions is often not available for inspection, or perhaps too complex to comprehend, API learning requires different knowledge:
 
-* *Domain knowledge*. This includes both knowledge about the domain in the world that the API is modeling, but also how it is modeling it. For example, for a face recognition API, what is an image? What does it mean for an image to “contain” things? What counts as a “face”? What words does the API use to represent ideas like images, faces, and names? Without understanding these ideas, and how the API represents them, learners often cannot find documentation about the API, understand the examples it gives, or make predictions about other aspects of its behavior.
+* *Domain knowledge*. This includes both knowledge about the domain in the world that the API is modeling, but also how it is modeling it. For example, for a face recognition API, what is an image? What does it mean for an image to "contain" things? What counts as a "face"? What words does the API use to represent ideas like images, faces, and names? Without understanding these ideas, and how the API represents them, learners often cannot find documentation about the API, understand the examples it gives, or make predictions about other aspects of its behavior.
 
 * *Execution semantics*. This includes knowledge about how a function in an API behaves: what types of inputs it will tolerate, what types of errors it might produce, how it maps inputs to outputs, how long that might take, how accurate the results might be, and so on. In the case of face recognition, this might be semantics like classification only working accurately when there is one well lit. White face directly facing the camera, and when the person whose face appears in a photo is in a private database that maps faces to names. Without understanding these properties of a function’s behavior, learners will struggle to write programs using the API that do precisely what they want, and struggle to debug programs because they can’t explain or predict the behavior of a function.
 
@@ -224,7 +224,7 @@ That doesn’t look problematic at all, right? What if the function’s code was
 
 `python
 def eligibleToVote(person):
-    return person.race == “White” and person.disability is None
+    return person.race == "White" and person.disability is None
 `
 
 This explicitly racist, ableist logic is encapsulated away in a function that potentially no one could see in this hypothetical example. But such logic is far from hypothetical: racist logic is encoded in recidivism predictions, loan eligibility applications, and even Google search<noble18>, often without any ability for the public to audit their logic.
@@ -254,7 +254,7 @@ Similarly, in languages like [Scratch|https://scratch.mit.edu], one of the simpl
 % TODO Should probably include this as an image to make it authentic, but then it's not accessible. Hmm...
 `scratch
 when start is clicked
-  switch costume to “fun costume”
+  switch costume to "fun costume"
 `
 
 This example uses the `switch costume` API function, which modifies a Scratch sprite’s appearance.  In some sense, then, teaching programming languages necessitates teaching at least a small amount about functions, as functions are ubiquitous in programming.
@@ -269,7 +269,7 @@ Another challenge with APIs, especially in project-based settings, is that no AP
 
 Whereas teaching function and API use can involve skills like assessing feasibility, understanding new domain concepts, modeling the opaque behavior of functions, and trying to discover API usage patterns to realize some vision for a program, designing functions is a different skill entirely.
 
-One well established method for teaching function design comes from the book How to Design Programs<felleisen18>. This book starts from a “pure” view of functions, where, given some inputs, a function performs some analysis or operations on the inputs to determine the output. (Impure functions might have other side effects, as in the examples in the previous section of printing something output in Python or changing a character’s costume in Scratch). The book recommends teaching this design recipe:
+One well established method for teaching function design comes from the book How to Design Programs<felleisen18>. This book starts from a "pure" view of functions, where, given some inputs, a function performs some analysis or operations on the inputs to determine the output. (Impure functions might have other side effects, as in the examples in the previous section of printing something output in Python or changing a character’s costume in Scratch). The book recommends teaching this design recipe:
 
 1. Identify what information must be represented and how it is represented in a programming language.
 2. Write the function header, determining the inputs and their data types, and writing a description of what the function should compute.
@@ -284,7 +284,7 @@ Teaching this high level process is a form of scaffolding that can help students
 
 Whereas the previous two sections describe methods for developing programming skill using functions, there are many reasons why programming might not be the goal. Students in a social studies class might be studying capitalism, and one might teach them about how functions can be an instrument of profit. Students in a civics class might examine how functions are an instrument of power. Students in a science class might examine how functions are used to analyze data to make scientific judgements. All of these purposes demand a different literacy toward functions, one that examines their role in society, rather than harnessing them as tools for creativity.
 
-In this example unit, we demonstrate one method for teaching this critical examination. The unit uses a function of particular interest to many secondary students, especially high school students: the functions used to determine college admissions. This lesson examines an approximation of Texas’s college admissions process, which by state law uses a “top 10%” rule to automatically admit students who are in the top 10% of their class by GPA, Texas residents, and graduating from a public or private school in Texas, or a school in Texas operated by the Department of Defense. All other students undergo a holistic review of other factors. The key twist in this lesson is that students begin only being able to use the function, and not see it’s logic. The lesson then makes the logic transparent, and moves into more critical perspectives on unintended consequences of this function, and how it might be made more equitable.
+In this example unit, we demonstrate one method for teaching this critical examination. The unit uses a function of particular interest to many secondary students, especially high school students: the functions used to determine college admissions. This lesson examines an approximation of Texas’s college admissions process, which by state law uses a "top 10%" rule to automatically admit students who are in the top 10% of their class by GPA, Texas residents, and graduating from a public or private school in Texas, or a school in Texas operated by the Department of Defense. All other students undergo a holistic review of other factors. The key twist in this lesson is that students begin only being able to use the function, and not see it’s logic. The lesson then makes the logic transparent, and moves into more critical perspectives on unintended consequences of this function, and how it might be made more equitable.
 
 The learning objectives are as follows:
 
@@ -380,7 +380,7 @@ The third session engages students in critically reflecting on the fairness of t
 =
 ### Session 3: Admissions function fairness
 
-* Bring up the algorithm again, and explain that it’s an approximation of the admissions function used by Texas public universities, which has a “top 10%” rule.
+* Bring up the algorithm again, and explain that it’s an approximation of the admissions function used by Texas public universities, which has a "top 10%" rule.
 
 * Divide the class into philosophical chairs groups and prompt: is it fair? What is fair about it and what is not? Capture responses in a shared space.
 

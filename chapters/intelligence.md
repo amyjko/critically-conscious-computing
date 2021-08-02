@@ -9,7 +9,7 @@
 
 Computer science, as a discipline, engages many questions about data, information, process, algorithms, code, and more. But two questions in CS are central: _what is intelligence_ and can _we create intelligence_? Many disciplines have long pondered this first question: the earliest philosophers wondered what knowledge was and how it combined to form wisdom<kim19>; behavioral scientists have long studied how human memory, emotion, and decision making shape intelligence<hunt10>; and scientists have long pondered how intelligence varies across the species<thorndike98>. Computer science has pondered intelligence by investigating how to represent intelligence, independent from our minds, in the form of algorithms. Questions about intelligence are therefore not only central to computing, but to much of the social sciences.
 
-What distinguishes computing from these other disciplines is that it is also concerned with creating intelligence. For instance, one person who imagined this possibility was the son of a banker, Charles Babbage<hyman85>, who first imagined a mechanical machine in 1822 that could automatically calculate mathematical formulas. Later in his life, he met an aristocrat’s teen daughter, Ada Lovelace <essinger14>, who had fallen deeply in love with mathematics, and became enamoured with Babbage’s vision of a machine that could calculate. She extended Babbage’s ideas much further, imagining a more general purpose machine capable of far more than just numerical calculation. She also imagined an idea at the foundation of computer science and how it views intelligence: the algorithm, a series of steps that would operate on abstract symbols. She wrote the first algorithm--to compute a mathematical sum of powers--conceiving of the notion of “loops” in which a machine iterates on a set of data, and “variables” in which to keep track of data. To Lovelace, algorithms were a way of capturing the kind of mathematical intelligence that people have, and encoding it in a repeatable form. These ideas later inspired Alan Turing<copeland04> to generalize the notion of algorithms further, which ultimately led to an even broader community of scholars ultimately creating the field of computer science.
+What distinguishes computing from these other disciplines is that it is also concerned with creating intelligence. For instance, one person who imagined this possibility was the son of a banker, Charles Babbage<hyman85>, who first imagined a mechanical machine in 1822 that could automatically calculate mathematical formulas. Later in his life, he met an aristocrat’s teen daughter, Ada Lovelace <essinger14>, who had fallen deeply in love with mathematics, and became enamoured with Babbage’s vision of a machine that could calculate. She extended Babbage’s ideas much further, imagining a more general purpose machine capable of far more than just numerical calculation. She also imagined an idea at the foundation of computer science and how it views intelligence: the algorithm, a series of steps that would operate on abstract symbols. She wrote the first algorithm--to compute a mathematical sum of powers--conceiving of the notion of "loops" in which a machine iterates on a set of data, and "variables" in which to keep track of data. To Lovelace, algorithms were a way of capturing the kind of mathematical intelligence that people have, and encoding it in a repeatable form. These ideas later inspired Alan Turing<copeland04> to generalize the notion of algorithms further, which ultimately led to an even broader community of scholars ultimately creating the field of computer science.
 
 |Chapter06_Figure02_PortraitPortrayals.png|Babbage, Lovelace, and Turing in 19th century photo frames|These three were obsessed with symbolic intelligence, Babbage out of capitalist greed, and Lovelace and Turing out of curiosity.|TODO|
 
@@ -17,8 +17,8 @@ What distinguishes computing from these other disciplines is that it is also con
 
 The essence of the intelligence that Babbage, Lovelace, and Turing imagined reduced a computer’s intelligence to a few key ideas:
 
-* A “memory” to which abstract “symbols” can be saved and retrieved
-* A list of “instructions”, executed in order, each doing one of the following:
+* A "memory" to which abstract "symbols" can be saved and retrieved
+* A list of "instructions", executed in order, each doing one of the following:
     ** Retrieving or saving a symbol from memory. This drew upon a metaphor of how people memorize or recall facts.
     ** Perform an operation on the symbols in memory. This drew upon the metaphor of how people reason about information in their working memories.
     ** Changing which instruction executes next, possibly based on some symbol in memory. This drew upon a metaphor of how people make decisions.
@@ -117,7 +117,7 @@ That basic fact has not changed since the dawn of modern computer science.
 
 # Data-Driven Intelligence
 
-As we shall discuss later in our chapter on [Artificial Intelligence|ai], there is another way that computer scientists have invented to encode intelligence. Rather than having software developers carefully translate human intelligence into reads, writes, arithmetic, and jumps, some kinds of artificial intelligence instead use large sets of data to “learn” intelligence. This method is known as machine learning, and uses data to specify, probabilistically, how to act in particular situations. This idea stemmed from Turing’s original questions about intelligence, but rather than engage them from the perspective of symbolic reasoning, they engaged them from the perspective of human learning, which involves observation, practice, and feedback.
+As we shall discuss later in our chapter on [Artificial Intelligence|ai], there is another way that computer scientists have invented to encode intelligence. Rather than having software developers carefully translate human intelligence into reads, writes, arithmetic, and jumps, some kinds of artificial intelligence instead use large sets of data to "learn" intelligence. This method is known as machine learning, and uses data to specify, probabilistically, how to act in particular situations. This idea stemmed from Turing’s original questions about intelligence, but rather than engage them from the perspective of symbolic reasoning, they engaged them from the perspective of human learning, which involves observation, practice, and feedback.
 
 Of course, just as with symbolic intelligence, the kind of learning that computers do looks very little like human learning. For example, one simple but broadly used type of artificial intelligence is called a *decision tree*<safavian91>. Here is an example of a decision tree that attempts to encode a teacher’s classroom management skills:
 
@@ -275,9 +275,9 @@ By this fourth session, students should have a rich sense of the tradeoffs of we
 =
 ### Session 5: Imagining futures
 
-* Pose the question, “Why did web search win?”, and review the answers that the debates have surfaced: speed, accurate enough.
+* Pose the question, "Why did web search win?", and review the answers that the debates have surfaced: speed, accurate enough.
 
-* Then pose the question, “Why did libraries lose?”, and review the answers that have surfaced: low value of accuracy, low cost of misinformation, high cost of retrieval.
+* Then pose the question, "Why did libraries lose?", and review the answers that have surfaced: low value of accuracy, low cost of misinformation, high cost of retrieval.
 
 * *Summative assessment*. Prompt students to consider these choices that society has made about where they get information, and prepare a short 1 minute speech describing the future that they would prefer to see. Is it one that continues the status quo, leaving people to judge the quality and credibility of information for themselves, or one that somehow engages experts to evaluate information? What consequences can they imagine of their future on themselves, their families, and the world?
 

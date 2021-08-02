@@ -304,13 +304,13 @@ A table named ssn, storing social security numbers, represented by area, group, 
 
 The first table has two rows, each representing one of the authors of this chapter, and six columns. Each column has a name (which, like variables, could have been anything), as well as a data type (just like variables). Each column has a different purpose. The first column, `id`, represents an unique identifier, something to distinguish one person from another. This makes it quick to find a particular person by their ID. The `name`, `birthdate`, `gender`, and `citizenship` are like we discussed above, all problematic in their own ways. And the last column, `ssnid`, refers to the id of a social security number in the second table, meaning those numbers--`91` and `82`--each correspond to a row in the second table.
 
-Unlike variables, lists, and dictionaries, the database tables above are designed for scale: each table could have millions of rows to represent millions of people; columns could be added later to represent other aspects of each person. And most importantly, because data is organized in this way, it’s possible to query the tables to quickly find people that match particular criteria. The most common programming language for writing queries is called SQL (which is just an acronym for “structured query language”). A simple query might be something like:
+Unlike variables, lists, and dictionaries, the database tables above are designed for scale: each table could have millions of rows to represent millions of people; columns could be added later to represent other aspects of each person. And most importantly, because data is organized in this way, it’s possible to query the tables to quickly find people that match particular criteria. The most common programming language for writing queries is called SQL (which is just an acronym for "structured query language"). A simple query might be something like:
 
 `sql
-SELECT name, ssnid WHERE gender=”Woman” FROM people
+SELECT name, ssnid WHERE gender="Woman" FROM people
 `
 
-This example finds all of the rows in people for which the gender column is equal to the text `“Woman”`, and returns their names. If the table above only had the two values shown, the result would be:
+This example finds all of the rows in people for which the gender column is equal to the text `"Woman"`, and returns their names. If the table above only had the two values shown, the result would be:
 
 ,name,ssnid
 ,Amy J. Ko,91
@@ -319,7 +319,7 @@ The result of the query above is another table with the two requested columns.
 If the table had millions of rows, the result might have had millions of women. But what if our query had more restrictive criteria? We can use Boolean operators, just as discussed in [Encoding Intelligence|intelligence], to express those criteria:
 
 `sql
-SELECT name, ssnid WHERE gender=”Woman” and (citizenship=”Canada” or citizenship=”Mexico”) FROM people
+SELECT name, ssnid WHERE gender="Woman" and (citizenship="Canada" or citizenship="Mexico") FROM people
 `
 
 If our table only had the two rows above, the result would have been an empty table, since no row’s data matches that Boolean expression:
@@ -364,7 +364,7 @@ There are many things to know about data structures and many skills for using th
 
 Understanding all of the ways discussed in the prior section that data, data structures, and data operations can inadvertently erase diversity, and reinforce or even create systems of oppression
 
-Unfortunately, while there are many existing ways of teaching the above (with perhaps the exception of the last bullet), there is still little research insight into which of these ways are most effective. But there are some exceptions. For example, some studies have examined which types of metaphors for variables are most helpful in learning, finding that the “container” metaphor we used above works well when there is a single value involved, but that it breaks down when there are multiple values<hermans18>. Others have found that students can readily engage in imagining alternative data structure designs to represent information, and can explore their tradeoffs, but often overlook crucial considerations without prompting or scaffolding<gu20>. Some researchers have surfaced the critical difference between teaching students how to implement common data structures and how to use them<lister04>. A great many have explored educational technologies to support data structure learning, especially data structure visualization tools that demonstrate how operations on data structures manipulate their contents<baker99>. However, these approaches, and generally any approach that relies on visual descriptions of data structures, exclude students who are blind<baker19>.
+Unfortunately, while there are many existing ways of teaching the above (with perhaps the exception of the last bullet), there is still little research insight into which of these ways are most effective. But there are some exceptions. For example, some studies have examined which types of metaphors for variables are most helpful in learning, finding that the "container" metaphor we used above works well when there is a single value involved, but that it breaks down when there are multiple values<hermans18>. Others have found that students can readily engage in imagining alternative data structure designs to represent information, and can explore their tradeoffs, but often overlook crucial considerations without prompting or scaffolding<gu20>. Some researchers have surfaced the critical difference between teaching students how to implement common data structures and how to use them<lister04>. A great many have explored educational technologies to support data structure learning, especially data structure visualization tools that demonstrate how operations on data structures manipulate their contents<baker99>. However, these approaches, and generally any approach that relies on visual descriptions of data structures, exclude students who are blind<baker19>.
 
 While the above work provides some guidance into teaching data structures as technical ideas, there is even less work teaching data structures as sociotechnical ideas. In the unit plan below, we offer one approach to examining both the social and technical dimensions of data structures.
 
@@ -457,7 +457,7 @@ In the last session, students evaluate their designs by presenting them to their
 
 * Have each group present their redesigned data structure, advertiser interface, and pronouns to the class. Each group provides a few minutes of description, and then students in the class react with what they like and dislike about the design, with respect to how students with marginalized gender identities might be impacted.
 
-* After presentations, begin a philosophical chairs discussion with the prompt, “Gender should be removed from the social media profile.” Students move to one side of the room or the other based on their agreement, then students take turns defending their position, citing the design alternatives as evidence.
+* After presentations, begin a philosophical chairs discussion with the prompt, "Gender should be removed from the social media profile." Students move to one side of the room or the other based on their agreement, then students take turns defending their position, citing the design alternatives as evidence.
 
 * End the class returning to the overarching theme of data structures imperfectly reflecting reality, but having concrete impacts in reality.
 =

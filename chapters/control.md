@@ -37,7 +37,7 @@ The shift from case worker judgements in Indiana to algorithmic judgements ultim
 4. return false
 `A simple conditional in machine instructions.
 
-That little bit of hypothetical machine code means “read the number of dependents from the computer’s memory”--which might be a number that an applicant entered into a web form, or a number computed by counting the number of entries in a list of dependents entered into the web form--then compare the number to zero. If the number is equal to zero, then the jump instruction causes the CPU to skip to step 4 of the program, returning false, to represent that the application does not meet the eligibility requirement, and halt the program. However, if the number is not zero, then the next step of the program, step 3, is executed, returning true to represent that it does meet the eligibility requirement, then halt the program.
+That little bit of hypothetical machine code means "read the number of dependents from the computer’s memory"--which might be a number that an applicant entered into a web form, or a number computed by counting the number of entries in a list of dependents entered into the web form--then compare the number to zero. If the number is equal to zero, then the jump instruction causes the CPU to skip to step 4 of the program, returning false, to represent that the application does not meet the eligibility requirement, and halt the program. However, if the number is not zero, then the next step of the program, step 3, is executed, returning true to represent that it does meet the eligibility requirement, then halt the program.
 
 In reality, though, the case worker’s decision is much more complicated. They might look at what someone had written on a paper form, notice that some of the children had different last names than the applicant, and ask the applicant to clarify this difference. Then, based on the applicant’s response, the case worker might have the applicant remove dependents from their application, or determine that they were dependents despite having different last names. We could attempt to write new code that captures these additional steps, but it will quickly become extremely complicated. And, depending on the type of information the case officer might request and the format in which it might be provided, it might not even be possible to reduce the decision to simple checks. The task might be so nuanced, only a trained person could do it humanely.
 
@@ -80,11 +80,11 @@ To allow for more nuanced logic, programming languages include other kinds of co
 
 `python
 if number_of_rejections > 2
-    return “Review”
+    return "Review"
 elif resident and number_of_dependents > 0 and number_of_people_in_household > 2 and gross_monthly_income < 1000:
-    return “Approve”
+    return "Approve"
 else:
-    return “Deny”
+    return "Deny"
 `A conditional with three cases, two which check a condition, and one catch all case inside the `else`.
 
 The algorithm above now has three possible outcomes. Imagine a policy, for example, that says that if someone has applied and been rejected more than twice, a case worker should review the application rather than an algorithm. The first condition checks that. If that condition is not true, then the `elif` case is checked, which is the one from our earlier example that checks eligibility. If that case isn’t true, then the application is denied. The algorithm is inching closer to something resembling the logic that a caseworker might use, but again, has the same unforgiving, rigid thresholds. For example, in this algorithm, a case worker would never see an application until someone was rejected twice first.
@@ -93,13 +93,13 @@ We can combine and expand these control structures in additional ways to cover a
 
 `python
 if number_of_rejections > 2
-    return “Review”
+    return "Review"
 elif resident and number_of_dependents > 0 and number_of_people_in_household > 2 and gross_monthly_income < 1000:
-    return “Approve”
+    return "Approve"
 elif number_of_dependents > number_of_people_in_household:
-    return “Request Information”
+    return "Request Information"
 else:
-    return “Deny”
+    return "Deny"
 `A conditional with four cases.
 
 Here, the application indicates more dependents than people in the household, which would imply that some dependents were _not_ part of the household. This is certainly possible, but uncommon, so it would make sense to ask the applicant to confirm the situation. In the code, we check the first elif case as described above, but if it is false, we check a second elif case before proceeding to the else.
@@ -108,11 +108,11 @@ As one more extension, maybe we don’t want to immediately deny the applicant i
 
 `python
 if number_of_rejections > 2
-    return “Review”
+    return "Review"
 elif resident and number_of_dependents > 0 and number_of_people_in_household > 2 and gross_monthly_income < 1000:
-    return “Approve”
+    return "Approve"
 elif number_of_dependents > number_of_people_in_household:
-    return “Request Information”
+    return "Request Information"
 # Add additional code here
 `A conditional with no `else` case, leaving the rest of the program to do more reasoning to make a decision.
 
@@ -130,20 +130,20 @@ Of course, Indiana’s systems also had to process a never ending stream of appl
 for application in applications_file:
     # code to read values from application file>    
     if number_of_rejections > 2
-        status = “Review”
+        status = "Review"
     elif (resident and number_of_dependents > 0 and 
            number_of_people_in_household > 2 and 
            gross_monthly_income < 1000):
-        status = “Approve”
+        status = "Approve"
     else:
-        status = “Deny”
+        status = "Deny"
     # code to write status to file
 `A Python _for each_ loop, which allows us to process a whole list of data using the same logic.
 
 This enhanced algorithm adds a few new elements. First, notice the lines starting with `#`; you can safely ignore those, since how to read and write from a file is out of scope for this chapter. The important addition here is the Python `for` keyword, which requires three additional syntactic elements:
 
 * A variable in which to store the value currently being examined, in this case the programmer named `application`, but could have been named anything, such as `case`, `app` (or even `banana`!).
-* The `in` keyword, which the [Guido van Rossum|https://en.wikipedia.org/wiki/Guido_van_Rossum], the creator of Python, could have named anything (e.g.,`from`, `of`, `inside`, but he chose the English proposition “in”).
+* The `in` keyword, which the [Guido van Rossum|https://en.wikipedia.org/wiki/Guido_van_Rossum], the creator of Python, could have named anything (e.g.,`from`, `of`, `inside`, but he chose the English proposition "in").
 * A variable that stores a list of values, in this case `applications\_file` (which again, could have been named anything).
 
 This Python _for each_ loop instructs the program to read the values in the list, one at a time, and perform a set of instructions on each value. This is what is known as a `definite` loop, because it has a fixed number of times that it will execute, based on the length of the list. The for loop executes all of the indented instructions for each application, one at a time. If this file of applications had one item, it would execute the indented instructions once, for the single item in the file; if the file had ten thousand applications, it would execute it ten thousand times, once for each application, one at a time.
@@ -156,14 +156,14 @@ Let’s consider one last change to the Indiana algorithm. Now instead of assumi
 while has_another_application:
     # Add code to read the application’s data into variables
     if number_of_rejections > 2
-        status = “Review”
+        status = "Review"
     elif (resident and 
           number_of_dependents > 0 and 
           number_of_people_in_household > 2 and 
           gross_monthly_income < 1000):
-        status = “Approve”
+        status = "Approve"
     else:
-        status = “Deny”
+        status = "Deny"
     # Add code to write the status somewhere
 `A python `while` loop, which loops indefinitely until it's condition is `False`.
 
@@ -175,14 +175,14 @@ Imagine, however, that we wanted the program to process applications _forever_, 
 while True:
     # Add code to read the application’s data into variables
     if number_of_rejections > 2
-        status = “Review”
+        status = "Review"
     elif (resident and 
           number_of_dependents > 0 and 
           number_of_people_in_household > 2 and 
           gross_monthly_income < 1000):
-        status = “Approve”
+        status = "Approve"
     else:
-        status = “Deny”
+        status = "Deny"
     # Add code to write the status somewhere
 `A python infinite loop, which has a condition that is always true
 
@@ -382,11 +382,11 @@ The second session builds upon this foundation, posing the possibility of automa
 `python
 for student in students_list:
     if student.absent == 1:
-        status = “Warning to student”
+        status = "Warning to student"
     if student.absent < 3:
-        status = “Warning to principal”
+        status = "Warning to principal"
     else:
-        status = “Automated phone call to parents”
+        status = "Automated phone call to parents"
 `
 
 * *Formative assessment*. Provide a list of the rules used to execute Python programs. Then, using the methods for teaching tracing above, have the class step through the program, attempting to follow the semantic rules and tracing the logic of the program one step at a time using example students that are and are not absent, while explaining each rule. At each step, have students pose questions about what each step will do, and how it would be different if the data or logic was different. Correct any misconceptions of the syntactic and semantic rules that surface. After each step, solicit from the class discrepancies between the context brainstormed in the previous session and the logic in the program. Is the logic of the program fair? What context or circumstances is it ignoring?

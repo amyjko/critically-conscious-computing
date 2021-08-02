@@ -12,6 +12,7 @@
 	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
 	"cover": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
 	"unknown": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko|",
+	"tags": [ "draft" ],
 	"description": "TODO I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. I still need to write this. If you see something missing or wrong, [submit an issue|https://github.com/amyjko/critically-conscious-computing].",
 	"chapters": [
 		{

@@ -165,7 +165,7 @@ blockquote .blockquote-caption {
 }
 
 .blockquote-caption:before {
-    content: "—";
+    content: "--";
     margin-right: 0.25em;
 }
 

@@ -312,8 +312,8 @@ hr {
 
 .definition {
 	display: block;
-	border-left: 2px solid #1B499C;
-	padding-left: 0.5rem;
+    background: linear-gradient(to right, #1B499C 0px, #1B499C 2px, transparent 2px) no-repeat right;
+	padding-left: 0.75rem;
 	font-size: 0.8rem;
 	line-height: 1.2rem;
 }
@@ -324,8 +324,7 @@ hr {
 }
 
 .terminology .marginal.marginal-hovered .definition {
-    border-left-color: #1B499C !important;
-    border-left-width: 3px !important;
+    background: linear-gradient(to right, #1B499C 0px, #1B499C 3px, transparent 3px) no-repeat right;
 }
 
 .definition em {

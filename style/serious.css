@@ -114,13 +114,13 @@ ol li.reference::before {
 }
 
 .outline-header {
-    text-indent: -1em;
-    padding-left: 1em;
-
+    text-indent: 0;
+    padding-left: 0;
 }
 
-.outline-header:before {
-    content: "> ";
+.outline-header a:hover, .navigation-footer a:hover {
+    text-decoration: underline;
+    font-weight: normal;
 }
 
 code {

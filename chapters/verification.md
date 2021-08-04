@@ -39,13 +39,13 @@ This function has a relatively simple *requirement*: it should, given a list of 
 
 * If `numbers` is an empty array, then the very last line will compute `0/0`, which will produce a Python `ZeroDivisionError` when the program executes. Is that what the requirement intended? Perhaps a better behavior would be to return an error message that there is no such thing as an average of an empty list of numbers. But producing a `ZeroDivisionError` isn’t exactly wrong, it’s just not particularly helpful. This simple example shows how requirements are rarely precise enough to consider all possible situations in which a program might execute, and therefore how it is often ambiguous what "correct" program behavior means.
 
-* More concerning is that if we give the function above a list like `\[1, 2, 3]`, we should get the average `2`, right? But instead, we get `1`. That’s because of a fairly severe defect on the `sum = sum + 1` line: it’s not adding the numbers in the list to the sum accumulator variable! It’s just adding `1` each time. It should be `sum = sum + number`. But we would only notice that defect in certain cases. If given the list `[1, 1, 1]`, the program would behave correctly, computing a mean of `1`, just using the wrong logic.
+* More concerning is that if we give the function above a list like `[1, 2, 3]`, we should get the average `2`, right? But instead, we get `1`. That’s because of a fairly severe defect on the `sum = sum + 1` line: it’s not adding the numbers in the list to the sum accumulator variable! It’s just adding `1` each time. It should be `sum = sum + number`. But we would only notice that defect in certain cases. If given the list `[1, 1, 1]`, the program would behave correctly, computing a mean of `1`, just using the wrong logic.
 
-* Lastly, what if the array given to average is something like `\["cat", "dog", "rabbit"]`? There is no such thing as an average of three words, and so the correct behavior might be to produce an error that says something like "`The array must have only numbers.`" Instead, because the program does not verify that the list only contains numbers, it would produce no failure, just returning the number 1. And if we fixed the defect above, we would get the (confusing) error `TypeError: unsupported operand type(s) for Div` on the last line, because the + in Python, in addition to computing addition, also concatenates strings, so the last line would compute `"0catdograbbit" / 3`.
+* Lastly, what if the array given to average is something like `["cat", "dog", "rabbit"]`? There is no such thing as an average of three words, and so the correct behavior might be to produce an error that says something like "`The array must have only numbers.`" Instead, because the program does not verify that the list only contains numbers, it would produce no failure, just returning the number 1. And if we fixed the defect above, we would get the (confusing) error `TypeError: unsupported operand type(s) for Div` on the last line, because the + in Python, in addition to computing addition, also concatenates strings, so the last line would compute `"0catdograbbit" / 3`.
 
 All three of the issues above are *defects*, because they deviate in some way from the intended requirement.
 
-What then, is a *failure*? Whereas defects are problems with the _code_ in a program, failures are problems with the _output_ of a program. In the program above, any time the program returns something other than a valid average or an intended error message, the program has failed. This distinction is important because programs with defects do not always fail. For example, if we gave the function above the arrays `\[1]`, `\[0, 1, 2]`, or `\[5, -5, 1]`, it would correctly compute the mean of 1 each time. But that would have only been a coincidence; for any array with a mean of something other than 1, it would fail, producing incorrect output.
+What then, is a *failure*? Whereas defects are problems with the _code_ in a program, failures are problems with the _output_ of a program. In the program above, any time the program returns something other than a valid average or an intended error message, the program has failed. This distinction is important because programs with defects do not always fail. For example, if we gave the function above the arrays `[1]`, `[0, 1, 2]`, or `[5, -5, 1]`, it would correctly compute the mean of 1 each time. But that would have only been a coincidence; for any array with a mean of something other than 1, it would fail, producing incorrect output.
 
 The example above illustrates that what counts as a failure depends entirely on how clear a program’s requirements are. We can all agree with some confidence that we know what an average is; we may not agree, however, on what the program should do when it receives data for which there is no average (an empty list, or a list of non-number values). Because the requirement is vague about that, whether the program is defective is vague. 
 
@@ -80,12 +80,12 @@ def average(numbers):
 Testing the function above might mean generating many possible lists of values, executing the function with those lists, and seeing which of those lists produce a failure. For example, imagine we sent these lists to the function:
 
 ,Input, Output, Correct?
-,`\[]`, `ZeroDivisionError`, 𐄂
-,`\[1]`, `1`, ✓
-,`\[1, 2]`, `1`, 𐄂
-,`\[1, 2, 3]`, `1`, 𐄂
-,`\[1, 1, 1]`, `1`, ✓
-,`\["cat", "dog"]`, `TypeError: unsupported operand type(s) for Div`, 𐄂
+,`[]`, `ZeroDivisionError`, 𐄂
+,`[1]`, `1`, ✓
+,`[1, 2]`, `1`, 𐄂
+,`[1, 2, 3]`, `1`, 𐄂
+,`[1, 1, 1]`, `1`, ✓
+,`["cat", "dog"]`, `TypeError: unsupported operand type(s) for Div`, 𐄂
 ,`6`, `TypeError: 'int' object is not iterable on line 1`, 𐄂
 
 By enumerating many possible inputs, we found the three defects discussed earlier. In fact, we found a new defect too: if we give the function simply the number 6, it doesn’t know how to iterate through the number, since it’s not a list. 
@@ -137,7 +137,7 @@ def max(list):
   return max
 `
 
-This function uses a variable to remember the largest number found in the list so far, then iterates through the list, checking if the next number in the list is larger than the largest number it’s found so far. After checking every number, it returns. But, if we give max the list `\[5,2,3]`, it returns `2` instead of `5`. Why? A working backwards strategy can help us find out:
+This function uses a variable to remember the largest number found in the list so far, then iterates through the list, checking if the next number in the list is larger than the largest number it’s found so far. After checking every number, it returns. But, if we give max the list `[5,2,3]`, it returns `2` instead of `5`. Why? A working backwards strategy can help us find out:
 
 1. Start from the line of code that returned the wrong output.
 2. Identify what was wrong in the current line.
@@ -145,7 +145,7 @@ This function uses a variable to remember the largest number found in the list s
 4. Otherwise, identify the lines of code that caused that wrong thing to occur.
 5. Move to each of those lines of that line, and repeat step 2.
 
-Using this strategy to debug the failure caused by executing max with `\[5,2,3]`, we would do the following:
+Using this strategy to debug the failure caused by executing max with `[5,2,3]`, we would do the following:
 
 * Step 1. Move to line 6, because it’s the line that returned the wrong number.
 * Step 2. The thing that’s wrong is the value of max; it should be 5, but it’s 2.

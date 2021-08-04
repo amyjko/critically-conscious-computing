@@ -105,9 +105,9 @@ until not swapped
 
 The behavior of this algorithm becomes visible when we test it with an example list of names; each line below represents one loop of the `until` above:
 
-* `\[Smith, Jackson, Lee\]` Start of 1st pass; two swaps, so `swapped` is true
-* `\[Jackson, Lee, Smith\]` Start of 2nd pass; no swaps, so `swapped` is false
-* `\[Jackson, Lee, Smith\]` Start of 3rd pass; `swapped` is false, so done
+* `[Smith, Jackson, Lee]` Start of 1st pass; two swaps, so `swapped` is true
+* `[Jackson, Lee, Smith]` Start of 2nd pass; no swaps, so `swapped` is false
+* `[Jackson, Lee, Smith]` Start of 3rd pass; `swapped` is false, so done
 
 This algorithm, which is called *bubble sort* (for the way that out of order elements slowly "bubble up" to their right position), uses a fairly simple approach: it scans the list of students, swapping any students that are out of order based on their family names, and does this repeatedly until it finishes a complete scan of the list in which no students were out of order. It uses the `swapped` variable to remember if any students in the list were `swapped` on a given pass. This basic algorithm is something that any person could follow mechanically, much like they follow arithmetic steps for addition (e.g., summing digits, carrying numbers, moving from right to left). Sorting a list of names using these steps might take a person a few minutes. The key insight in CS is that by being precise about these steps, as the algorithm above does, we can have a computer execute the steps quickly and without error. In fact, on a modern computer, the sorting algorithm above could sort a list of 30 student names in less than 10 milliseconds, tens of thousands of times faster than a person.
 

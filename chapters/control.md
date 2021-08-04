@@ -455,19 +455,25 @@ The key tradeoff of this approach is coverage of material. If the goal of a clas
 @standardsBlurb
 
 @cstaHeader
+@cstaAP
 @csta2AP12
 @csta3AAP15
 
 @toleranceHeader
+@toleranceDiversity
 @tolerance8
 @tolerance10
+@toleranceJustice
 @tolerance12
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1e
 @teacher1f
+@teacher3
 @teacher3b
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5d

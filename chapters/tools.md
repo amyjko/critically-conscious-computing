@@ -84,14 +84,14 @@ As we’ve noted throughout this chapter, tools are shaped by communities and th
 
 If we consider these four dimensions across many programming systems, it becomes easier to make choices about which tools might best align with the goals of our teaching. Consider the systems below, for example, which are some of the more popular and notable systems used in CS education:
 
-,Programming System,Prior Knowledge,Learnability,Accessibility,Community
-,[Scratch|http://scratch.mit.edu],One of the supported natural languages; based animation,Willingness to tinker; ability to read and follow tutorials, Assumes sight and ability to perform precise motor movements, Youth and teachers engaged in creative expression\, sharing\, play
-,[MIT App Inventor|https://appinventor.mit.edu], One of the support natural languages; smartphone app conventions, Willingness to tinker; ability to read and follow tutorials, Assumes sight and ability to perform precise motor movements, Teachers interested in creating mobile applications
-,[Quorum|http://quorumlanguage.com], English, Willingness to tinker; ability to read and follow tutorials, Fully accessible, Teachers committed to including students with disabilities in CS education
-,[MakeCode|http://makecode.com], One of the support natural languages; sensor terminology, Willingness to tinker; ability to read and follow tutorials, Assumes sight and ability to perform precise motor movements, Youth and teachers interested in tinkering with hardware/software
-,[Bootstrap|https://bootstrapworld.org], English; arithmetic, Assumes learners will be scaffolded heavily by teacher guidance, Assumes ability to use keyboard, Teachers interested in connecting CS to math and data science
-,[Python|http://python.org], Basic CS data structures and algorithms, Assumes learners will search for and learn from materials independently\, teaching themselves, Assumes ability to use keyboard, Programmers concerned with readable code; data scientists concerned with analyzing data.
-,[Java|https://www.java.com/en/], Basic CS data structures and algorithms, Assumes learners will search for and learn from materials independently\, teaching themselves, Assumes ability to use keyboard, Programmers concerned with creating reliable\, maintainable\, portable code
+,Programming System|Prior Knowledge|Learnability|Accessibility|Community
+,[Scratch|http://scratch.mit.edu]|One of the supported natural languages; based animation|Willingness to tinker; ability to read and follow tutorials| Assumes sight and ability to perform precise motor movements| Youth and teachers engaged in creative expression\, sharing\| play
+,[MIT App Inventor|https://appinventor.mit.edu]| One of the support natural languages; smartphone app conventions| Willingness to tinker; ability to read and follow tutorials| Assumes sight and ability to perform precise motor movements| Teachers interested in creating mobile applications
+,[Quorum|http://quorumlanguage.com]| English| Willingness to tinker; ability to read and follow tutorials| Fully accessible| Teachers committed to including students with disabilities in CS education
+,[MakeCode|http://makecode.com]| One of the support natural languages; sensor terminology| Willingness to tinker; ability to read and follow tutorials| Assumes sight and ability to perform precise motor movements| Youth and teachers interested in tinkering with hardware/software
+,[Bootstrap|https://bootstrapworld.org]| English; arithmetic| Assumes learners will be scaffolded heavily by teacher guidance| Assumes ability to use keyboard| Teachers interested in connecting CS to math and data science
+,[Python|http://python.org]| Basic CS data structures and algorithms| Assumes learners will search for and learn from materials independently\, teaching themselves| Assumes ability to use keyboard| Programmers concerned with readable code; data scientists concerned with analyzing data.
+,[Java|https://www.java.com/en/]| Basic CS data structures and algorithms| Assumes learners will search for and learn from materials independently\, teaching themselves| Assumes ability to use keyboard| Programmers concerned with creating reliable\, maintainable\, portable code
 Examples of different programming systems and their various assumptions.
 
 The table above has many caveats. First, programming systems are always changing, and so the details above may change as well, as communities and their tools evolve. Second, it is very hard to discover the details above, because most communities do not make their assumptions clear to newcomers, and they only become clear as you attempt to learn and use the tools from the community. Third, there is no centralized list of programming systems and their various assumptions and values, and so finding information about communities can be difficult. Perhaps as CS education matures, support for selecting, evaluating, and using various tools for CS education will mature as well.
@@ -275,23 +275,32 @@ These four sessions are a minimalist way to both engage students in learning cor
 @standardsBlurb
 
 @cstaHeader
+@cstaAP
 @csta3BAP19
 @csta3BAP20
 
 @toleranceHeader
+@toleranceIdentity
 @tolerance5
+@toleranceDiversity
 @tolerance10
+@toleranceJustice
 @tolerance11
+@toleranceAction
 @tolerance17
 @tolerance18
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1e
 @teacher1f
+@teacher2
 @teacher2e
+@teacher3
 @teacher3b
 @teacher3e
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5d

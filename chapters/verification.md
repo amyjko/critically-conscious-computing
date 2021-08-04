@@ -79,14 +79,14 @@ def average(numbers):
 
 Testing the function above might mean generating many possible lists of values, executing the function with those lists, and seeing which of those lists produce a failure. For example, imagine we sent these lists to the function:
 
-,Input, Output, Correct?
-,`[]`, `ZeroDivisionError`, 𐄂
-,`[1]`, `1`, ✓
-,`[1, 2]`, `1`, 𐄂
-,`[1, 2, 3]`, `1`, 𐄂
-,`[1, 1, 1]`, `1`, ✓
-,`["cat", "dog"]`, `TypeError: unsupported operand type(s) for Div`, 𐄂
-,`6`, `TypeError: 'int' object is not iterable on line 1`, 𐄂
+,Input| Output| Correct?
+,`[]`| `ZeroDivisionError`| 𐄂
+,`[1]`| `1`| ✓
+,`[1| 2]`| `1`| 𐄂
+,`[1, 2, 3]`| `1`| 𐄂
+,`[1, 1, 1]`| `1`| ✓
+,`["cat", "dog"]`| `TypeError: unsupported operand type(s) for Div`| 𐄂
+,`6`| `TypeError: 'int' object is not iterable on line 1`| 𐄂
 
 By enumerating many possible inputs, we found the three defects discussed earlier. In fact, we found a new defect too: if we give the function simply the number 6, it doesn’t know how to iterate through the number, since it’s not a list. 
 
@@ -329,28 +329,36 @@ Of course, what this unit does not do is provide mastery of verification or debu
 @standardsBlurb
 
 @cstaHeader
+@cstaIC
 @csta3AIC25
 @csta3BIC26
+@cstaAP
 @csta2AP15
 @csta2AP17
 @csta3AAP19
 @csta3AAP21
 @csta3BAP21
 @csta3BAP23
+@cstaCS
 @csta2CS01
 @csta2CS03
 @csta3ACS03
 
 @toleranceHeader
+@toleranceJustice
 @tolerance13
+@toleranceAction
 @tolerance16
 @tolerance19
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1e
 @teacher1f
+@teacher3
 @teacher3b
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5d

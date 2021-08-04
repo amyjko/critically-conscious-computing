@@ -356,7 +356,9 @@ While this unit plan portrays an ideal, there are many ways that it might be lim
 @standardsBlurb
 
 @cstaHeader
+@cstaIC
 @csta2IC22
+@cstaAP
 @csta2AP18
 @csta2AP19
 @csta3AAP13
@@ -369,16 +371,21 @@ While this unit plan portrays an ideal, there are many ways that it might be lim
 @csta3BAP22
 
 @toleranceHeader
+@toleranceIdentity
 @tolerance4
+@toleranceAction
 @tolerance16
 @tolerance17
 @tolerance19
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1f
+@teacher3
 @teacher3b
 @teacher3e
+@teacher4
 @teacher5a
 @teacher5c
 @teacher5d

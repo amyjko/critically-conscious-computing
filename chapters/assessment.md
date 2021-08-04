@@ -230,15 +230,23 @@ Throughout the rest of this book, we will give examples of how one might achieve
 This chapter prepared you to...
 
 @teacherHeader
+@teacher1
+@teacher1a
 @teacher1f
+@teacher2
 @teacher2d
+@teacher3
 @teacher3b
 @teacher3c
+@teacher4
 @teacher4b
 @teacher4c
 @teacher4g
 @teacher4f
+@teacher5
+@teacher5a
 @teacher5b
 @teacher5c
+@teacher5d
 @teacher5f
 @teacher5e

@@ -85,9 +85,9 @@ Something special happened when we reached `10`: we ran out of single digit symb
 
 Those numbers might look strange, but they follow the same pattern of counting as in decimal: when one runs out of single digits while counting up, one creates another "place" to the left to represent larger numbers. Let’s compare binary and decimal "places" and the quantities they represent:
 
-,Base,4th digit, 3rd digit, 2nd digit, 1st digit
-,Decimal, 1000 => 1 thousand, 100 => 1 hundred, 10 => 1 ten, 1 => 1 one
-,Binary, 1000 => 1 eight, 100 => 1 four, 10 => 1 two, 1 => 1 one
+,Base|4th digit| 3rd digit| 2nd digit| 1st digit
+,Decimal| 1000 => 1 thousand| 100 => 1 hundred| 10 => 1 ten| 1 => 1 one
+,Binary| 1000 => 1 eight| 100 => 1 four| 10 => 1 two| 1 => 1 one
 
 Clearly, decimal values can encode much larger numbers with fewer digits because they have 10 digits to work with; with binary, there are only two digits, and so numbers require many more symbols to represent the same number.
 
@@ -110,8 +110,8 @@ The sequence of remainders above, read in reverse, is `101001`, which is `41` in
 
 Translating a decimal number back into binary follows a different algorithm. For each place in the binary digit, we write down the power of two it represents in decimal, as follows:
 
-,32’s place, 16’s place, 8’s place, 4’s place, 2’s place, 1’s place
-,1, 0, 1, 0, 0, 1
+,32’s place| 16’s place| 8’s place| 4’s place| 2’s place| 1’s place
+,1| 0| 1| 0| 0| 1
 
 Then, for each place, we multiply the decimal number the place represents by the binary digit, and sum the products. For example:
 
@@ -253,25 +253,33 @@ Perhaps the largest limitation of this method is that it goes deep into one syst
 @standardsBlurb
 
 @cstaHeader
+@cstaIC
 @csta2IC23
 @csta3AIC29
 @csta3AIC30
+@cstaDA
 @csta2DA07
 @csta2DA08
 @csta3ADA09
 
 @toleranceHeader
+@toleranceIdentity
 @tolerance1
 @tolerance2
 @tolerance3
+@toleranceDiversity
 @tolerance10
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1d
 @teacher1f
+@teacher2
 @teacher2d
+@teacher3
 @teacher3b
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5d

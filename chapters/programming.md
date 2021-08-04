@@ -290,6 +290,7 @@ Across these six sessions, this unit should help students recognize the distinct
 @standardsBlurb
 
 @cstaHeader
+@cstaAP
 @csta2AP10
 @csta2AP12
 @csta2AP13
@@ -298,14 +299,18 @@ Across these six sessions, this unit should help students recognize the distinct
 @csta3BAP17
 
 @toleranceHeader
+@toleranceJustice
 @tolerance13
 @tolerance14
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1e
 @teacher1f
+@teacher3
 @teacher3b
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5d

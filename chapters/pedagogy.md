@@ -138,21 +138,27 @@ These and other curricula, while excellent for helping youth develop skills and 
 This chapter prepared you to...
 
 @teacherHeader
+@teacher1
+@teacher1a
 @teacher1f
+@teacher2
 @teacher2a
 @teacher2b
 @teacher2c
 @teacher2d
 @teacher2e
+@teacher3
 @teacher3a
 @teacher3b
 @teacher3c
 @teacher3d
+@teacher4
 @teacher4a
 @teacher4b
 @teacher4d
 @teacher4e
 @teacher4f
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5c

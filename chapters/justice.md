@@ -167,6 +167,7 @@ This unit positions students not only as critics of computing, but also critics 
 @standardsBlurb
 
 @cstaHeader
+@cstaIC
 @csta2IC20
 @csta2IC21
 @csta3AIC24
@@ -178,15 +179,20 @@ This unit positions students not only as critics of computing, but also critics 
 @csta3BIC28
 
 @toleranceHeader
+@toleranceDiversity
 @tolerance9
+@toleranceJustice
 @tolerance12
 @tolerance13
 @tolerance14
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1f
+@teacher3
 @teacher3b
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5d

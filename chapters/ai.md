@@ -81,15 +81,15 @@ This simple decision tree uses two factors--what machine learning calls *feature
 
 However, teachers may have very different criteria for tardiness. Could a learning management system use machine learning to learn each teacher’s unique logic, without someone having to program each specific logic? Machine learning algorithms try to do this by automatically creating these decision trees from probabilistic patterns in labeled data. For example, imagine you kept a log of each of the factors in the table below and tracked the teacher’s tardiness judgement each time a student arrived to class. The resulting log might be:
 
-,Late?, Excuse?, Tardy?, Prediction
-,True, True, False, False
-,True, True, True, *False*
-,False, False, False, False
-,False, False, True, *False*
-,True, True, False, False
-,True, False, True, True
-,False, True, False, False
-,False, False, False, False
+,Late?| Excuse?| Tardy?| Prediction
+,True| True| False| False
+,True| True| True| *False*
+,False| False| False| False
+,False| False| True| *False*
+,True| True| False| False
+,True| False| True| True
+,False| True| False| False
+,False| False| False| False
 A data set of features, labels, and decision tree predictions.
 
 To learn a decision tree from the data above, the decision tree algorithm would analyze the patterns of `true` and `false` for each feature, computing the probabilities of that they lead to a tardy outcome, and discover that lateness provides the most information about the likely outcome, and excuse provides a little less, and generate a decision tree like the one above. A central question then, is how often the decision tree was correct: two of the eight cases (in bold) above were incorrect: the teacher did not mark a student tardy, even though the decision tree predicted they would. If we trust the teacher’s judgement, then we might argue that this decision tree is missing some critical features (e.g., whether a tardy would result in an unnecessarily harsh punishment, a first time offense, a good excuse). Should the learning management system adopt a machine learning algorithm that gets 25% of its predictions wrong? Is it worth the effort to gather more data about more features to make its predictions more accurate? Is all of this effort worth the time to save the teacher the effort of having to make tardy judgements for all of their students? And if a teacher does adopt it, what kinds of decisions will it make that the teacher wouldn’t have made themselves? And how would students advocate against it? Would the teacher be able to explain the logic behind the classifier’s decision? These are the types of questions that should be asked about applications of machine learning, but often are not, because so many people put undue faith into the objectivity of data and algorithms.
@@ -98,15 +98,15 @@ There are many other kinds of supervised machine learning algorithms beyond deci
 
 A second major type of machine learning is *unsupervised*. Unlike supervised machine learning, which requires a label on the outcome of some observation, unsupervised techniques only get the features, and no label. Let’s consider the same data above, but without the tardiness labels:
 
-,Late?, Excuse?
-,True, True
-,True, True
-,False, False
-,False, False
-,True, True
-,True, False
-,False, True
-,False, False
+,Late?| Excuse?
+,True| True
+,True| True
+,False| False
+,False| False
+,True| True
+,True| False
+,False| True
+,False| False
 Two features with no labels.
 
 The job of an unsupervised algorithm is to take the data above and generate optimally distinct groups of observations that cluster together. One such algorithm is called *hierarchical clustering*, which tries to find a way of grouping the 8 observations into groups that are maximally different from each other as groups, but minimally different within groups. For example, what if we grouped the data above into three clusters: 
@@ -287,24 +287,32 @@ As with other units in this book, this example emphasizes critical perspectives 
 @standardsBlurb
 
 @cstaHeader
+@cstaAP
 @csta3BAP08
 @csta3BAP09
 
 @toleranceHeader
+@toleranceIdentity
 @tolerance3
+@toleranceDiversity
 @tolerance6
 @tolerance9
+@toleranceJustice
 @tolerance11
 @tolerance12
 @tolerance13
 @tolerance14
+@toleranceAction
 @tolerance17
 @tolerance19
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1f
+@teacher3
 @teacher3b
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5d

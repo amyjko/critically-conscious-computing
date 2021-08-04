@@ -129,12 +129,12 @@ Of course, just as with symbolic intelligence, the kind of learning that compute
 
 This decision tree, and others like it, are often automatically derived by machine learning algorithms by considering labeled data. For example, consider this hypothetical labeled data that describe several times a teacher observed a student and took an action:
 
-,Off task, Usually Off task, Teacher Action
-,Yes, Yes, Talk to student
-,Yes, No, Be attentive
-,Yes, No, Do nothing
-,No, No, Do nothing
-,No, Yes, Do nothing
+,Off task| Usually Off task| Teacher Action
+,Yes| Yes| Talk to student
+,Yes| No| Be attentive
+,Yes| No| Do nothing
+,No| No| Do nothing
+,No| Yes| Do nothing
 
 Machine learning algorithms "learns" a decision tree by analyzing the probability of different actions based on these two variables of `Off Task` and `Usually Off Task`, generating a decision tree that maximizes how well a candidate decision tree predicts `Teacher Action` based on the given data. It is, therefore, a kind of mindless pattern matching mimicry.
 
@@ -299,18 +299,24 @@ One limitation of the analytical method above is that it positions students as c
 @standardsBlurb
 
 @cstaHeader
+@cstaIC
 @csta2IC20
+@cstaAP
 @csta2AP12
 @csta3AAP15
 
 @toleranceHeader
+@toleranceJustice
 @tolerance14
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1e
 @teacher1f
+@teacher3
 @teacher3b
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5d

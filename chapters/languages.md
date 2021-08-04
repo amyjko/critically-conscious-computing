@@ -376,21 +376,29 @@ This lesson has many strengths and weaknesses relative to the problem set and cr
 @standardsBlurb
 
 @cstaHeader
+@cstaAP
 @csta3BAP24
+@cstaCS
 @csta3ACS01
 @csta3ACS02
 
 @toleranceHeader
+@toleranceIdentity
 @tolerance3
 @tolerance5
+@toleranceDiversity
 @tolerance10
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1f
+@teacher2
 @teacher2e
+@teacher3
 @teacher3b
 @teacher3e
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5d

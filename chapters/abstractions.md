@@ -423,7 +423,9 @@ Whereas the methods presented earlier explicitly focus on developing skills in u
 @standardsBlurb
 
 @cstaHeader
+@cstaCS
 @csta3ACS01
+@cstaAP
 @csta2AP10
 @csta2AP13
 @csta2AP14
@@ -435,14 +437,18 @@ Whereas the methods presented earlier explicitly focus on developing skills in u
 @csta3BAP16
 
 @toleranceHeader
+@toleranceAction
 @tolerance12
 @tolerance14
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1f
+@teacher3
 @teacher3b
 @teacher3e
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5d

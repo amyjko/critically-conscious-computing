@@ -94,11 +94,16 @@ CS educators work amidst the outcomes of this history, its ideas, and its constr
 This chapter prepared you to...
 
 @teacherHeader
+@teacher1
+@teacher1a
 @teacher1f
+@teacher2
 @teacher2a
 @teacher2b
 @teacher2c
+@teacher3
 @teacher3d
 @teacher3f
+@teacher4
 @teacher4a
 @teacher4d

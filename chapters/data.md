@@ -290,16 +290,16 @@ Whereas the data structures above are ubiquitous in computer programs, and neces
 
 Here is an example of two database table (with fake data), mirroring our examples above:
 
-,id (integer),name (text),birthdate (text),gender (text),citizenship (text),ssnid (integer)
-,1,Amy J. Ko, April 19th\, 1980, Woman, USA, 91
-,2, Brett Wortzman, January 3rd\, 2078, Man, USA, 82
-,...,,,,,
+,id (integer)|name (text)|birthdate (text)|gender (text)|citizenship (text)|ssnid (integer)
+,1|Amy J. Ko| April 19th, 1980| Woman| USA| 91
+,2| Brett Wortzman| January 3rd, 2078| Man| USA| 82
+,...|||||
 A table of named people, represented by a few distinct data types.
 
-,id (integer), area (integer), group (integer), serial (integer)
-,91, 555, 123, 9297
-,82, 123, 04, 8423
-,...,,,
+,id (integer)| area (integer)| group (integer)| serial (integer)
+,91| 555| 123| 9297
+,82| 123| 04| 8423
+,...|||
 A table named ssn, storing social security numbers, represented by area, group, and serial.
 
 The first table has two rows, each representing one of the authors of this chapter, and six columns. Each column has a name (which, like variables, could have been anything), as well as a data type (just like variables). Each column has a different purpose. The first column, `id`, represents an unique identifier, something to distinguish one person from another. This makes it quick to find a particular person by their ID. The `name`, `birthdate`, `gender`, and `citizenship` are like we discussed above, all problematic in their own ways. And the last column, `ssnid`, refers to the id of a social security number in the second table, meaning those numbers--`91` and `82`--each correspond to a row in the second table.
@@ -312,8 +312,8 @@ SELECT name, ssnid WHERE gender="Woman" FROM people
 
 This example finds all of the rows in people for which the gender column is equal to the text `"Woman"`, and returns their names. If the table above only had the two values shown, the result would be:
 
-,name,ssnid
-,Amy J. Ko,91
+,name| ssnid
+,Amy J. Ko| 91
 The result of the query above is another table with the two requested columns.
 
 If the table had millions of rows, the result might have had millions of women. But what if our query had more restrictive criteria? We can use Boolean operators, just as discussed in [Encoding Intelligence|intelligence], to express those criteria:
@@ -324,7 +324,7 @@ SELECT name, ssnid WHERE gender="Woman" and (citizenship="Canada" or citizenship
 
 If our table only had the two rows above, the result would have been an empty table, since no row’s data matches that Boolean expression:
 
-,name,ssnid
+,name|ssnid
 An empty table.
 
 Databases have many clear advantages over other simpler data structures. Imagine, for example, trying to represent all of the data in Facebook in individual variables, or a big list or dictionary: no such list would fit in a single computer’s memory. Databases allow this data to be stored across multiple computers, and queried by multiple computers, enabling web applications that serve billions of people quickly and reliably.
@@ -470,20 +470,27 @@ While this unit might provide a rich understanding of data in society, it does s
 @standardsBlurb
 
 @cstaHeader
+@cstaAP
 @csta2AP11
 @csta3AAP14
 @csta3BAP12
+@cstaDA
 @csta3ADA10
 
 @toleranceHeader
+@toleranceDiversity
 @tolerance7
+@toleranceJustice
 @tolerance14
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1d
 @teacher1f
+@teacher3
 @teacher3b
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5d

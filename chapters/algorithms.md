@@ -372,22 +372,29 @@ The limitations of this method are clear relative to teaching the algorithm cano
 @standardsBlurb
 
 @cstaHeader
+@cstaIC
 @csta3AIC26
+@cstaAP
 @csta3AAP15
 @csta3BAP15
 @csta3BAP10
 @csta3BAP11
 
 @toleranceHeader
+@toleranceJustice
 @tolerance14
+@toleranceAction
 @tolerance20
 
 @teacherHeader
+@teacher1
 @teacher1a
 @teacher1d
 @teacher1e
 @teacher1f
+@teacher3
 @teacher3b
+@teacher5
 @teacher5a
 @teacher5c
 @teacher5d

@@ -137,12 +137,24 @@ These and other curricula, while excellent for helping youth develop skills and 
 
 This chapter prepared you to...
 
-,*Standard*, *Original Standard*, *Critically Conscious Revision*
-,2a, Examine issues of equity in CS, Examine issues of equity and justice in CS
-,2b, Minimize threats to inclusion, Create culturally responsive and sustaining learning environments for all students
-,2c, Represent diverse perspectives, Make space for diverse perspectives\, values\, and assets from both students and broader society
-,3c, Examine and counteract personal bias, Examine and overcome both personal and structural bias
-,3d, Commit to the mission of CS for all students, Advocate for and implement structural change to capacity\, access\, participation\, and experience for CS for All 
-,4a, Analyze CS curricula, Critically examine\, adapt\, and develop CS curricula
-,4d, Build connections between CS and other disciplines, Identify authentic integration points between CS and other disciplines
-,4e, Plan projects that have personal meaning to students, Situate CS learning in students’ identities\, values\, goals\, and communities
+@teacherHeader
+@teacher1f
+@teacher2a
+@teacher2b
+@teacher2c
+@teacher2d
+@teacher2e
+@teacher3a
+@teacher3b
+@teacher3c
+@teacher3d
+@teacher4a
+@teacher4b
+@teacher4d
+@teacher4e
+@teacher4f
+@teacher5a
+@teacher5c
+@teacher5c
+@teacher5d
+@teacher5e

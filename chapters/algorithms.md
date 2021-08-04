@@ -381,3 +381,14 @@ The limitations of this method are clear relative to teaching the algorithm cano
 @toleranceHeader
 @tolerance14
 @tolerance20
+
+@teacherHeader
+@teacher1a
+@teacher1d
+@teacher1e
+@teacher1f
+@teacher3b
+@teacher5a
+@teacher5c
+@teacher5d
+@teacher5e

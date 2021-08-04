@@ -229,12 +229,16 @@ Throughout the rest of this book, we will give examples of how one might achieve
 
 This chapter prepared you to...
 
-,Teaching Standard, Original Standard, Critically Conscious Revision
-,2d, Use data for decision-making to improve equity, Proactively understand and address inequities in students’ lives and communities to support CS learning
-,3c, Examine and counteract personal bias, Examine and overcome both personal and structural bias
-,4c, Design inclusive learning experiences, Design culturally responsive and sustaining learning experiences that advance justice
-,4g, Inform instruction through assessment, Co-design responsive\, participatory\, and educative formative assessments to support learning
-,5b, Cultivate a positive classroom climate, Ensure all students feel safe\, supported\, valued\, and heard
-,5f, Guide students’ use of feedback, Guide students to both seek and learn from feedback\, as well as organize and advocate to offer feedback to those with power
-
-
+@teacherHeader
+@teacher1f
+@teacher2d
+@teacher3b
+@teacher3c
+@teacher4b
+@teacher4c
+@teacher4g
+@teacher4f
+@teacher5b
+@teacher5c
+@teacher5f
+@teacher5e

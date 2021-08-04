@@ -300,3 +300,12 @@ As with other units in this book, this example emphasizes critical perspectives 
 @tolerance14
 @tolerance17
 @tolerance19
+
+@teacherHeader
+@teacher1a
+@teacher1f
+@teacher3b
+@teacher5a
+@teacher5c
+@teacher5d
+@teacher5e

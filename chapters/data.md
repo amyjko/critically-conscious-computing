@@ -478,3 +478,13 @@ While this unit might provide a rich understanding of data in society, it does s
 @toleranceHeader
 @tolerance7
 @tolerance14
+
+@teacherHeader
+@teacher1a
+@teacher1d
+@teacher1f
+@teacher3b
+@teacher5a
+@teacher5c
+@teacher5d
+@teacher5e

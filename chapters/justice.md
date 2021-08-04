@@ -182,3 +182,12 @@ This unit positions students not only as critics of computing, but also critics 
 @tolerance12
 @tolerance13
 @tolerance14
+
+@teacherHeader
+@teacher1a
+@teacher1f
+@teacher3b
+@teacher5a
+@teacher5c
+@teacher5d
+@teacher5e

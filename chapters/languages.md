@@ -384,3 +384,14 @@ This lesson has many strengths and weaknesses relative to the problem set and cr
 @tolerance3
 @tolerance5
 @tolerance10
+
+@teacherHeader
+@teacher1a
+@teacher1f
+@teacher2e
+@teacher3b
+@teacher3e
+@teacher5a
+@teacher5c
+@teacher5d
+@teacher5e

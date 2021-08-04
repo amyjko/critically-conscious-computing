@@ -2381,7 +2381,7 @@
 		"csta3AIC25": ",3A-IC-25, Test and refine computational artifacts to reduce bias and equity deficits., Systematically examine software for bias\\, exclusion\\, inequity\\, and injustice\\, identifying ways to redesign it or deter its use.",
 		"csta3AIC26": ",3A-IC-26, Demonstrate ways a given algorithm applies to problems across disciplines, Demonstrate ways a given algorithm impacts diversity\\, equity\\, and inclusion across disciplines",
 		"csta3AIC27": ",3A-IC-27, Use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields., Harness tools and collaboration methods to engage diverse teams in community-based projects.",
-		"csta3AIC28": ",3A-IC-28, Explain the beneficial and harmful effects that intellectual property laws can have on innovation., Explain the beneficial and harmful effects that intellectual property laws can have on innovation, equity, and justice.",
+		"csta3AIC28": ",3A-IC-28, Explain the beneficial and harmful effects that intellectual property laws can have on innovation., Explain the beneficial and harmful effects that intellectual property laws can have on innovation\\, equity\\, and justice.",
 		"csta3AIC29": ",3A-IC-29, Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.,Explain how organizations use software to surveil users in order to monetize their activity for profit.",
 		"csta3AIC30": ",3A-IC-30, Evaluate the social and economic implications of privacy in the context of safety\\, law\\, or ethics., Evaluate the interaction between privacy\\, power\\, computing\\, safety\\, law\\, and ethics.",
 
@@ -2405,8 +2405,8 @@
 		"csta3BAP15": ",3B-AP-15, Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution., Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution without amplifying systems of oppression.",
 		"csta3BAP16": ",3B-AP-16, Demonstrate code reuse by creating programming solutions using libraries and APIs., Demonstrate code reuse by creating programming solutions using libraries and APIs\\, while accounting for embedded biases in those abstractions.",
 		"csta3BAP17": ",3B-AP-17, Plan and develop programs for broad audiences using a software life cycle process., Plan and develop programs that center marginalized groups using a software life cycle process.",
-		"csta3BAP18": ",3B-AP-18, Explain security issues that might lead to compromised computer programs., Explain how technical security vulnerabilities might lead to individual, community, and sociopolitical consequences",
-		"csta3BAP19": ",3B-AP-19, Develop programs for multiple computing platforms., Develop programs for multiple computing platforms while accounting for their tradeoffs with respect to usability, disability, and access.",
+		"csta3BAP18": ",3B-AP-18, Explain security issues that might lead to compromised computer programs., Explain how technical security vulnerabilities might lead to individual\\, community\\, and sociopolitical consequences",
+		"csta3BAP19": ",3B-AP-19, Develop programs for multiple computing platforms., Develop programs for multiple computing platforms while accounting for their tradeoffs with respect to usability\\, disability\\, and access.",
 		"csta3BAP20": ",3B-AP-20, Use version control systems\\, integrated development environments (IDEs)\\, and collaborative tools and practices (code documentation) in a group software project., Select\\, critique\\, and use version control systems\\, integrated development environments (IDEs)\\, and collaborative tools and practices (code documentation) in a group software project.",
 		"csta3BAP21": ",3B-AP-21, Develop and use a series of test cases to verify that a program performs according to its design specifications., Develop and use a series of test cases to verify that a program performs according to its design specifications\\, as well as to ethical and moral principles.",
 		"csta3BAP22": ",3B-AP-22, Modify an existing program to add additional functionality and discuss intended and unintended implications (e.g.\\, breaking other functionality)., Modify an existing program to add additional functionality and discuss intended and unintended sociotechnical implications.",
@@ -2416,13 +2416,13 @@
 		"csta3BIC25": ",3B-IC-25, Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society., Critique the design\\, engineering\\, and use of software in society\\, examining who it helps and who it hurts.",
 		"csta3BIC26": ",3B-IC-26, Evaluate the impact of equity\\, access\\, and influence on the distribution of computing resources in a global society., Examine inequities in access to computing devices and the internet and how those inequities amplify other inequities and systems of oppression in society.",
 		"csta3BIC27": ",3B-IC-27, Predict how computational innovations that have revolutionized aspects of our culture might evolve., predict how computational innovations will shape culture in positive and negative ways.",
-		"csta3BIC28": ",3B-IC-28, Debate laws and regulations that impact the development and use of software., Debate laws and regulations that impact the development, use, and social impacts of software.",
+		"csta3BIC28": ",3B-IC-28, Debate laws and regulations that impact the development and use of software., Debate laws and regulations that impact the development\\, use\\, and social impacts of software.",
 
 		"toleranceHeader": ",[Social Justice Standards|https://www.learningforjustice.org/frameworks/social-justice-standards], Original Standard, Critically Conscious Revision",
 		"tolerance1": ",1, Students will develop positive social identities based on their membership in multiple groups in society., Students will develop positive social identities based on their membership in multiple groups in society and how they are or are not represented in data.",
 		"tolerance2": ",2, Students will develop language and historical and cultural knowledge that affirm and accurately describe their membership in multiple identity groups., Students will develop language and historical and cultural knowledge that affirm and accurately describe their membership in multiple identity groups and identify how software often does not.",
 		"tolerance3": ",3, Recognize that people’s multiple identities interact and create unique and complex individuals., Recognize how computing often ignores how people’s multiple identities interact and create unique and complex individuals.",
-		"tolerance4": ",4, Students will express pride\\, confidence and healthy self-esteem without denying the value and dignity of other people., Students will express pride, confidence and healthy self-esteem through creative coding without using computation to deny the value and dignity of other people.",
+		"tolerance4": ",4, Students will express pride\\, confidence\\, and healthy self-esteem without denying the value and dignity of other people., Students will express pride\\, confidence\\, and healthy self-esteem through creative coding without using computation to deny the value and dignity of other people.",
 		"tolerance5": ",5, Students will recognize traits of the dominant culture\\, their home culture and other cultures and understand how they negotiate their own identity in multiple spaces., Students will recognize traits of the dominant computing culture\\, their home culture and other cultures and understand how they negotiate their own identity in multiple computing spaces.",
 		"tolerance6": ",6, Students will express comfort with people who are both similar to and different from them and engage respectfully with all people., Students will express comfort with people who are both similar to and different from them and create data and algorithms that engage respectfully with all people.",
 		"tolerance7": ",7, Students will develop language and knowledge to accurately and respectfully describe how people (including themselves) are both similar to and different from each other and others in their identity groups., Students will develop software that uses language and knowledge to accurately and respectfully describe how people (including themselves) are both similar to and different from each other and others in their identity groups.",
@@ -2438,7 +2438,45 @@
 		"tolerance17": ",17, Recognize their own responsibility to stand up to exclusion\\, prejudice\\, and injustice., Recognize their own responsibility to stand up to exclusion\\, prejudice\\, and injustice when designing\\, engineering\\, and choosing software.",
 		"tolerance18": ",18, Students will plan and carry out collective action against bias and injustice in the world and will evaluate what strategies are most effective., Plan and carry out collective action against bias and injustice in the world of computing and will evaluate what strategies are most effective.",
 		"tolerance19": ",19, Make principled decisions about when and how to take a stand against bias and injustice in their everyday lives and will do so despite negative peer or group pressure., Make principled decisions about when and how to take a stand against algorithmic bias and injustice in their everyday lives and will do so despite negative peer or group pressure.",
-		"tolerance20": ",20, Plan and carry out collective action against bias and injustice in the world and will evaluate what strategies are most effective., Plan and carry out collective action against data and algorithmic bias and injustice in the world and will evaluate what strategies are most effective."
+		"tolerance20": ",20, Plan and carry out collective action against bias and injustice in the world and will evaluate what strategies are most effective., Plan and carry out collective action against data and algorithmic bias and injustice in the world and will evaluate what strategies are most effective.",
+
+		"teacherHeader": ",[CSTA Teacher Standards|https://csteachers.org/page/standards-for-cs-teachers-interactive], Original Standard, Critically Conscious Revision",
+
+		"teacher1a": ",1a, Apply CS practices, Apply CS practices in ways that center equity and justice for marginalized groups.",
+		"teacher1b": ",1b, Apply knowledge of computing systems, Apply knowledge of computing systems to leverage computing for critical consciousness.",
+		"teacher1c": ",1c, Model networks and the Internet, Explain how the architecture of the internet shapes its accessibility\\, access\\, and impact on society.",
+		"teacher1d": ",1d, Use and analyze data, Apply principles of data feminism to critically examine the use of data for shaping decisions.",
+		"teacher1e": ",1e, Develop programs and interpret algorithms, Develop programs and interpret algorithms through an equity and justice lens.",
+		"teacher1f": ",1f, Analyze impacts of computing, Analyze the interaction between computing\\, power\\, oppression\\, and justice.",
+
+		"teacher2a": ",2a, Examine issues of equity in CS, Examine issues of equity and justice in CS",
+		"teacher2b": ",2b, Minimize threats to inclusion, Create culturally responsive and sustaining learning environments for all students",
+		"teacher2c": ",2c, Represent diverse perspectives, Make space for diverse perspectives\\, values\\, and assets from both students and broader society",
+		"teacher2d": ",2d, Use data for decision-making to improve equity, Use data\\, values\\, and other forms of knowledge to improve equity\\, inclusion\\, and justice in teaching.",
+		"teacher2e": ",2e, Use accessible instructional materials, Use accessible instructional materials\\, programming languages\\, tools\\, and platforms.",
+
+		"teacher3a": ",3a, Pursue targeted professional development, Pursue anti-racist professional development that centers culturally responsive and sustaining pedagogy that develops critical consciousness of computing and justice.",
+		"teacher3b": ",3b, Model continuous learning, Learn alongside students\\, modeling sociotechnical humility\\, vulnerability\\, curiosity\\, and confidence.",
+		"teacher3c": ",3c, Examine and counteract personal bias, Examine and overcome both personal and structural bias",
+		"teacher3d": ",3d, Commit to the mission of CS for all students, Advocate for and implement structural change to capacity\\, access\\, participation\\, and experience for CS for All",
+		"teacher3e": ",3e, Leverage community resources, Engage communities of practice and their resources\\, while understanding their values and who they intend serve.",
+		"teacher3f": ",3f, Participate in CS professional learning communities, Create\\, support\\, enrich\\, and sustain diverse CS professional learning communities",
+
+		"teacher4a": ",4a, Analyze CS curricula, Critically examine\\, adapt\\, and develop CS curricula",
+		"teacher4b": ",4b, Develop standards-aligned learning experiences, Develop learning experiences that account for standards and their limitations.",
+		"teacher4c": ",4c, Design inclusive learning experiences, Design culturally responsive and sustaining learning experiences that advance justice",
+		"teacher4d": ",4d, Build connections between CS and other disciplines, Identify authentic integration points between CS and other disciplines",
+		"teacher4e": ",4e, Plan projects that have personal meaning to students, Situate CS learning in students’ identities\\, values\\, goals\\, and communities",
+		"teacher4f": ",4f, Plan instruction to foster student understanding, Co-construct learning and assessment to foster student interest\\, identity\\, and agency.",
+		"teacher4g": ",4g, Inform instruction through assessment, Co-design responsive\\, participatory\\, and educative formative assessments to support learning",
+
+		"teacher5a": ",5a, Use inquiry to faciliate student learning, Use inquiry and discourse to faciliate students' critical consciousness.",
+		"teacher5b": ",5b, Cultivate a positive classroom climate, Ensure all students feel safe\\, supported\\, valued\\, and heard",
+		"teacher5c": ",5c, Promote student self-efficacy, Center student agency\\, assets\\, values\\, and culture.",
+		"teacher5d": ",5d, Support student collaboration, Center student collaboration and discourse to foster critical consciousness.",
+		"teacher5e": ",5e, Encourage student communication, Encourage student communication\\, reflection\\, writing\\, and speaking about CS equity and justice.",
+		"teacher5f": ",5f, Guide students’ use of feedback, Guide students to both seek and learn from feedback\\, as well as organize and advocate to offer feedback to those with power"
+
 	},
 	"glossary": {
 		"lang": {

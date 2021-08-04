@@ -284,3 +284,15 @@ These four sessions are a minimalist way to both engage students in learning cor
 @tolerance11
 @tolerance17
 @tolerance18
+
+@teacherHeader
+@teacher1a
+@teacher1e
+@teacher1f
+@teacher2e
+@teacher3b
+@teacher3e
+@teacher5a
+@teacher5c
+@teacher5d
+@teacher5e

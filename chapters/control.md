@@ -248,6 +248,7 @@ if number_of_dependents > 0:
     return True
 else:
     return False
+`
 
 To trace this example, we might execute the program twice, once with `number\_of\_dependents` as `0`, and once with a value greater than `0`. With `0`, we should show students, step by step, what the program does:
 
@@ -461,3 +462,13 @@ The key tradeoff of this approach is coverage of material. If the goal of a clas
 @tolerance8
 @tolerance10
 @tolerance12
+
+@teacherHeader
+@teacher1a
+@teacher1e
+@teacher1f
+@teacher3b
+@teacher5a
+@teacher5c
+@teacher5d
+@teacher5e

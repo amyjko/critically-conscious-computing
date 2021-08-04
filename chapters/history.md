@@ -93,11 +93,12 @@ CS educators work amidst the outcomes of this history, its ideas, and its constr
 
 This chapter prepared you to...
 
-,*Standard*, *Original Standard*, *Critically Conscious Revision*
-,2a,        Examine issues of equity in CS,                     Examine issues of equity and justice in CS
-,2b,        Minimize threats to inclusion,                      Create culturally responsive and sustaining learning environments for all students
-,2c,        Represent diverse perspectives,                     Make space for diverse perspectives\, values\, and assets from both students and broader society
-,3d,        Commit to the mission of CS for all students,       Advocate for and implement structural change to capacity\, access\, participation\, and experience for CS for All
-,3f,        Participate in CS professional learning communities,Create\, support\, enrich\, and sustain diverse CS professional learning communities
-,4a,        Analyze CS curricula,                               Critically examine\, adapt\, and develop CS curricula
-,4d,        Build connections between CS and other disciplines, Identify authentic integration points between CS and other disciplines
+@teacherHeader
+@teacher1f
+@teacher2a
+@teacher2b
+@teacher2c
+@teacher3d
+@teacher3f
+@teacher4a
+@teacher4d

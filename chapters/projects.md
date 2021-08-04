@@ -100,7 +100,7 @@ Even small projects engage this tension. Returning to our meme app example, imag
 
 Because many engineering constraints are novel, it is not always clear whether they are feasible to overcome. This necessarily means that students and professionals who encounter them will have to learn before they can make a judgement about the feasibility of a requirement. They might need to learn a new programming language, a new API, a new concept in computer science, how to interact with a new community, and how to build something they have never built. To students, this lack of knowledge might be read as inability or failure, but to professional software engineers, learning is an inescapable and authentic part of software engineering projects. No requirements, however clear, can fully detail all of the knowledge that will be required to achieve them, and so most projects require engineers to acquire new knowledge to complete them.
 
-Because of the rich complexity of many engineering decisions and their implications for software stakeholders, an important practice is capturing *design rationale*. One of the most common practices is to write rationale inside of code comments, to annotate a choice in coe with the reasoning behind the choice and its implications. For example, one can imagine the part of facebook.com that verifies whether a new post will be posted:
+Because of the rich complexity of many engineering decisions and their implications for software stakeholders, an important practice is capturing *design rationale*. One of the most common practices is to write rationale inside of code comments, to annotate a choice in code with the reasoning behind the choice and its implications. For example, one can imagine the part of facebook.com that verifies whether a new post will be posted:
 
 `python
 def submitPost(user, text)
@@ -362,6 +362,7 @@ While this unit plan portrays an ideal, there are many ways that it might be lim
 @csta3AAP13
 @csta3AAP16
 @csta3AAP22
+@csta3AAP23
 @csta3AIC27
 @csta3BAP14
 @csta3BAP17

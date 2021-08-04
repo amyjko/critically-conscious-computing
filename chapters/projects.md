@@ -1,5 +1,5 @@
 =
-### Key ideas
+@keyIdeas
 * Software engineering is creating software for a particular purpose, for particular people.
 * Project phases include design, requirements, implementation, verification, and release, but these are iterative, not linear.
 * Each phase poses distinct moral and ethical questions that can be easily ignored as technical concerns dominate.

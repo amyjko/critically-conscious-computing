@@ -1,5 +1,5 @@
 =
-### _Key Ideas_
+@keyIdeas
 * Design is deciding what to make, for whom, and why.
 * Engineering is deciding how to implement a design.
 * Computer science is often seen popularly as blending design and engineering, but it is mostly an engineering discipline.

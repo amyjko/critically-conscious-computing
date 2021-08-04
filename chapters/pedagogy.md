@@ -1,5 +1,5 @@
 =
-### _Key Ideas_
+@keyIdeas
 * Most recent arguments for teaching CS have stemmed from goals of serving industry or providing literacy for an informed citizenry, with some arguments centering questions of diversity, equity, and inclusion.
 * An alternative argument for teaching CS is developing students’ critical consciousness of computing and society by offering counternarratives that surface issues of power, oppression, and injustice at the heart of computing.
 * Predominant CS pedagogy focuses on CS skill development, though newer perspectives in culturally relevant pedagogy, culturally responsive pedagogy, and teaching frameworks of rightful presence can promote critical consciousness to varying degrees.

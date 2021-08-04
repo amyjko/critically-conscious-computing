@@ -1,5 +1,5 @@
 =
-### _Key Ideas_
+@keyIdeas
 * The intellectual founders of computer science envisioned computers as mimicking human intelligence
 * One type of mimicry is symbolic intelligence, which uses computer memory, arithmetic, lists of instructions, and Boolean logic to process data and make decisions.
 * A second and more recent type of mimicry is data-driven intelligence, which uses large datasets of past human behavior to extract patterns for how computers use data to classify information and take actions.

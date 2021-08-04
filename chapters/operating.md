@@ -1,5 +1,5 @@
 =
-### _Key Ideas_
+@keyIdeas
 * The original computer operating systems were people who managed a computer’s limited processing resources.
 * The masculine culture of computing emerged from the creation of operating systems, which replaced human operators.
 * Modern operating systems use components like kernels, memory management, process management, network management, and user interfaces to automate the management of a computer’s resources and enable multitasking.

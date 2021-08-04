@@ -1,5 +1,5 @@
 =
-### _Key Ideas_
+@keyIdeas
 * CS emerged from the invention of numbers, manual algorithms for arithmetic calculations, and tools to accelerate these calculations.
 
 * The digital computer created demand for knowledge of CS, which displaced informal CS learning in workplaces with higher education degrees, pursued primarily by non-disabled White and Asian men.

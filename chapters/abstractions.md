@@ -1,5 +1,5 @@
 =
-### _Key ideas_
+@keyIdeas
 * Information hiding is a strategy in computing for reducing complexity.
 * Abstraction involves deciding which information to hide, to simplify interfaces between processes and procedures.
 * Encapsulation involves organize code and data to simplify reuse, often making some information visible, and other information hidden.

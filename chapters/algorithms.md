@@ -1,5 +1,5 @@
 =
-### _Key ideas_
+@keyIdeas
 * Algorithms are step-by-step procedures for completing tasks and exist independent of computers.
 * Algorithms can be encoded in programming languages to be executed quickly and reliably on a computer.
 * Because algorithms model unjust phenomena in the world, and do so imperfectly, they can reinforce, perpetuate, and amplify those unjust phenomena.

@@ -1,5 +1,5 @@
 =
-### _Key Ideas_
+@keyIdeas
 * Computing is not neutral; it is imbued with the values of its creators.
 * Harm from data and algorithms stems from pre-existing systems of oppression in society at both the individual and structural levels.
 * Data and algorithms can cause harm by amplifying, centralizing, privatizing, automating, and abstracting.

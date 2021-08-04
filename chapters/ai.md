@@ -1,5 +1,5 @@
 =
-### Key ideas
+@keyIdeas
 * Artificial intelligence (AI) is concerned with replicating human intelligence and ability.
 * AI has made many advances in replicating specific skills, primarily through using large data sets created through human labor, and using that data to build machine learned classifiers.
 * AI perpetuates whatever values and biases were encoded in its algorithms and data, and depending on how they are used, create new systems of oppression.

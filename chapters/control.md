@@ -1,7 +1,7 @@
 % TODO We didn't cover for loops or nested loops.
 
 =
-### _Key ideas_
+@keyIdeas
 * The foundation of a computer’s ability to make decisions is the conditional
 * Conditionals require programmers to reduce all decision structures that might leverage Boolean logic, data comparisons, and other kinds of case-based logic.
 * Conditionals are also used in definite and indefinite loops, which allow a computer to make large numbers of decisions on fixed sets of information, or even infinite amounts of information, indefinitely.

@@ -1,5 +1,5 @@
 =
-### _Key Ideas_
+@keyIdeas
 * Digital computers were invented as a way of replacing people with something faster, less error prone, and tireless, mirroring the capitalist values of the industrial revolution.
 * Modern computers include a CPU, system clock, RAM, secondary storage, and a variety of input and output devices that must align with the abilities of people to be accessible.
 * Computers generate immense waste, much of which is only visible in developing countries where that waste is processed with human hands.

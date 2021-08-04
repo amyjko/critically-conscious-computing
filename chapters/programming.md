@@ -1,5 +1,5 @@
 =
-### Key ideas
+@keyIdeas
 * Many people program, not just professional software developers.
 * Programming consists of many distinct activities--design, planning, reuse, implementation, verification, debugging--each with their own challenges.
 * Orchestrating these activities requires self-regulated problem skills that many programmers lack.

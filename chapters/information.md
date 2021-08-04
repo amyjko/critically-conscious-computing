@@ -1,5 +1,5 @@
 =
-### _Key Ideas_
+@keyIdeas
 * Data is a biased, imperfect record of information from the past that is often used to categorize and marginalize people.
 * Computers encode information as bits, stripping away the nuance and complexity of information
 * Most CS education overlooks the importance of teaching about information, technically or socially.

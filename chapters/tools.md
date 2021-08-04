@@ -1,5 +1,5 @@
 =
-### Key ideas
+@keyIdeas
 * Tools are essential to creating software because they automate tasks that would be prohibitively time consuming and error prone to be done manually.
 * Tools are created by specific people, for specific people, for specific tasks, and thus have their own values, expectations, assumptions, and community norms
 * It is not always apparent who a tool is for or for what tasks it is defined, as tool designers do not make their assumptions explicit

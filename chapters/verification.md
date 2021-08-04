@@ -1,5 +1,5 @@
 =
-### Key ideas
+@keyIdeas
 * All programming requires verification and debugging; it is an inescapable part of making software.
 * Requirements are what people have agreed a program should do; failures are deviations from requirements; defects are the parts of a program that caused a failure. 
 * Verifications skills include analyzing a program for defects, or running a program on various inputs to observe failures.

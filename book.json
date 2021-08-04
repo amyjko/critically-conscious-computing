@@ -2321,7 +2321,7 @@
 		"standardsHeader": "# Relevant Learning Standards",
 		"standardsBlurb": "This chapter covered the concepts in the following learning standards:",
 
-		"cstaHeader": ",CSTA Learning, Original Standard, Critically Conscious Revision",
+		"cstaHeader": ",[CSTA Learning Standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-standards], Original Standard, Critically Conscious Revision",
 		"csta2CS01": ",2-CS-01, Recommend improvements to the design of computing devices\\, based on an analysis of how users interact with the devices., Observe and analyze how marginalized users interact with computing devices to identify improvements or redesigns necessary for inclusion.",
 		"csta2CS02": ",2-CS-02, Design projects that combine hardware and software components to collect and exchange data., Design and critique projects that combine hardware and software to collect and process data.",
 		"csta2CS03": ",2-CS-03, Systematically identify and fix problems with computing devices and their components., Systematically identify and fix both technical and social problems with computing devices and their components.",
@@ -2418,7 +2418,7 @@
 		"csta3BIC27": ",3B-IC-27, Predict how computational innovations that have revolutionized aspects of our culture might evolve., predict how computational innovations will shape culture in positive and negative ways.",
 		"csta3BIC28": ",3B-IC-28, Debate laws and regulations that impact the development and use of software., Debate laws and regulations that impact the development, use, and social impacts of software.",
 
-		"toleranceHeader": ",Teaching Tolerance, Original Standard, Critically Conscious Revision",
+		"toleranceHeader": ",[Social Justice Standards|https://www.learningforjustice.org/frameworks/social-justice-standards], Original Standard, Critically Conscious Revision",
 		"tolerance1": "",
 		"tolerance2": "",
 		"tolerance3": ",3, Recognize that people’s multiple identities interact and create unique and complex individuals., Recognize how computing often ignores how people’s multiple identities interact and create unique and complex individuals.",

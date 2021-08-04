@@ -172,6 +172,7 @@ This unit positions students not only as critics of computing, but also critics 
 @csta3AIC24
 @csta3AIC25
 @csta3AIC27
+@csta3AIC28
 @csta3BIC25
 @csta3BIC26
 

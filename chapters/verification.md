@@ -329,16 +329,17 @@ Of course, what this unit does not do is provide mastery of verification or debu
 @standardsBlurb
 
 @cstaHeader
-@csta2CS01
-@csta2CS03
+@csta3AIC25
+@csta3BIC26
 @csta2AP15
 @csta2AP17
-@csta3ACS03
 @csta3AAP19
 @csta3AAP21
-@csta3AIC25
 @csta3BAP21
 @csta3BAP23
+@csta2CS01
+@csta2CS03
+@csta3ACS03
 
 @toleranceHeader
 @tolerance13

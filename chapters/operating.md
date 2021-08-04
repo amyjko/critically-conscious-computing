@@ -213,8 +213,6 @@ While this unit gives a basic introduction to operating systems concepts, it doe
 @standardsBlurb
 
 @cstaHeader
-@csta3ACS02
-@csta3BCS01
 @csta3AIC29
 @csta3AIC30
 @csta2NI05
@@ -225,6 +223,8 @@ While this unit gives a basic introduction to operating systems concepts, it doe
 @csta3ANI08
 @csta3BNI04
 @csta3BAP18
+@csta3ACS02
+@csta3BCS01
 
 @toleranceHeader
 @tolerance15

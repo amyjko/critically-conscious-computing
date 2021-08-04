@@ -275,6 +275,7 @@ These four sessions are a minimalist way to both engage students in learning cor
 @standardsBlurb
 
 @cstaHeader
+@csta3BAP19
 @csta3BAP20
 
 @toleranceHeader

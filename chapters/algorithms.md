@@ -372,9 +372,9 @@ The limitations of this method are clear relative to teaching the algorithm cano
 @standardsBlurb
 
 @cstaHeader
+@csta3AIC26
 @csta3AAP15
 @csta3BAP15
-@csta3AIC26
 @csta3BAP10
 @csta3BAP11
 

@@ -377,6 +377,8 @@ This lesson has many strengths and weaknesses relative to the problem set and cr
 
 @cstaHeader
 @csta3BAP24
+@csta3ACS01
+@csta3ACS02
 
 @toleranceHeader
 @tolerance3

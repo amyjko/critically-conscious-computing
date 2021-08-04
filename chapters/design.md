@@ -273,10 +273,10 @@ However, while this framing gives students exposure to both disciplines, it also
 @standardsBlurb
 
 @cstaHeader
-@csta2CS01
 @csta2IC20
 @csta2IC21
 @csta3AAP19
+@csta2CS01
 
 @toleranceHeader
 @tolerance10

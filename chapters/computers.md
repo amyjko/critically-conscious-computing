@@ -189,12 +189,12 @@ The clearest limitation of this example unit is that it prioritizes critical con
 @standardsBlurb
 
 @cstaHeader
-@csta2CS02
-@csta3BCS02
 @csta3BIC27
 @csta2NI04
 @csta3ANI04
 @csta3BNI03
+@csta2CS02
+@csta3BCS02
 
 @toleranceHeader
 @tolerance12

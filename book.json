@@ -2468,9 +2468,9 @@
 
 		"teacher1": ",*CS Knowledge and Skills*",
 		"teacher1a": ",1a| Apply CS practices.| _Apply CS practices in ways that center equity and justice for marginalized groups._",
-		"teacher1b": ",1b| Apply knowledge of computing systems.| _Apply knowledge of computing systems to leverage computing for critical consciousness._",
-		"teacher1c": ",1c| Model networks and the Internet.| _Explain how the architecture of the internet shapes its accessibility, access, and impact on society._",
-		"teacher1d": ",1d| Use and analyze data.| _Apply principles of data feminism to critically examine the use of data for shaping decisions._",
+		"teacher1b": ",1b| Apply knowledge of computing systems.| _Develop critical consciousness of computing systems knowlege._",
+		"teacher1c": ",1c| Model networks and the Internet.| _Explain how the internet shapes its accessibility, access, and impact on society._",
+		"teacher1d": ",1d| Use and analyze data.| _Apply critical perspectives to the use and analysis of data to make decisions._",
 		"teacher1e": ",1e| Develop programs and interpret algorithms.| _Develop programs and interpret algorithms through an equity and justice lens._",
 		"teacher1f": ",1f| Analyze impacts of computing.| _Analyze the interaction between computing, power, oppression, and justice._",
 
@@ -2482,21 +2482,21 @@
 		"teacher2e": ",2e| Use accessible instructional materials.| _Use accessible instructional materials, programming languages, tools, and platforms._",
 
 		"teacher3": ",*Professional Growth and Identity*",
-		"teacher3a": ",3a| Pursue targeted professional development.| _Pursue anti-racist professional development that centers culturally responsive and sustaining pedagogy that develops critical consciousness of computing and justice._",
-		"teacher3b": ",3b| Model continuous learning.| _Learn alongside students, modeling sociotechnical humility, vulnerability, curiosity, and confidence._",
-		"teacher3c": ",3c| Examine and counteract personal bias.| _Examine and overcome both personal and structural bias._",
-		"teacher3d": ",3d| Commit to the mission of CS for all students.| _Advocate for and implement structural change to capacity, access, participation, and experience for CS for All._",
+		"teacher3a": ",3a| Pursue targeted professional development.| _Pursue anti-racist professional development that centers culturally responsive and sustaining pedagogy and critical consciousness._",
+		"teacher3b": ",3b| Model continuous learning.| _Learn alongside students, modeling sociotechnical humility, vulnerability, and curiosity._",
+		"teacher3c": ",3c| Examine and counteract personal bias.| _Examine, overcome, and counter both personal and structural bias._",
+		"teacher3d": ",3d| Commit to the mission of CS for all students.| _Advocate for and implement structural change in CS education capacity, access, participation, and experience._",
 		"teacher3e": ",3e| Leverage community resources.| _Engage communities of practice and their resources, while understanding their values and who they intend serve._",
 		"teacher3f": ",3f| Participate in CS professional learning communities.| _Create, support, enrich, and sustain diverse CS professional learning communities._",
 
 		"teacher4": ",*Instructional Design*",
-		"teacher4a": ",4a| Analyze CS curricula.| _Critically examine, adapt, and develop CS curricula._",
+		"teacher4a": ",4a| Analyze CS curricula.| _Critically examine and adapt CS curricula._",
 		"teacher4b": ",4b| Develop standards-aligned learning experiences.| _Develop learning experiences that account for standards and their limitations._",
 		"teacher4c": ",4c| Design inclusive learning experiences.| _Design culturally responsive and sustaining learning experiences that advance justice._",
 		"teacher4d": ",4d| Build connections between CS and other disciplines.| _Identify authentic integration points between CS and other disciplines._",
 		"teacher4e": ",4e| Plan projects that have personal meaning to students.| _Situate CS learning in students’ identities, values, goals, and communities._",
 		"teacher4f": ",4f| Plan instruction to foster student understanding.| _Co-construct learning and assessment to foster student interest, identity, and agency._",
-		"teacher4g": ",4g| Inform instruction through assessment.| _Co-design responsive, participatory, and educative formative assessments to support learning._",
+		"teacher4g": ",4g| Inform instruction through assessment.| _Co-design culturally responsive, participatory, and educative formative assessments to support learning._",
 
 		"teacher5": ",*Classroom Practice*",
 		"teacher5a": ",5a| Use inquiry to faciliate student learning.| _Use inquiry and discourse to faciliate students' critical consciousness._",
@@ -2504,7 +2504,7 @@
 		"teacher5c": ",5c| Promote student self-efficacy.| _Center student agency, assets, values, and culture._",
 		"teacher5d": ",5d| Support student collaboration.| _Center student collaboration and discourse to foster critical consciousness._",
 		"teacher5e": ",5e| Encourage student communication.| _Encourage student communication, reflection, writing, and speaking about CS equity and justice._",
-		"teacher5f": ",5f| Guide students’ use of feedback.| _Guide students to both seek and learn from feedback, as well as organize and advocate to offer feedback to those with power_"
+		"teacher5f": ",5f| Guide students’ use of feedback.| _Guide students to both seek and learn from feedback, as well provide it to those with power._"
 
 	},
 	"glossary": {

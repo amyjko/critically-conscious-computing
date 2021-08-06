@@ -140,7 +140,7 @@ Machine learning algorithms "learns" a decision tree by analyzing the probabilit
 
 Is this intelligent? One way to answer that question is to ask whether this is effective classroom management. It isn’t, particularly; clearly whether to intervene is a much more situated decision, dependent on many more variables than just current and past off task behavior, including who the student is, what the activity is, when in the school year it is, whether the behavior is disruptive to others, whether a teacher perceives a learning opportunity from intervention. Thus, the decision tree is only as "intelligent" as the data it is given, and this data is not very "intelligent." The magic of machine learning methods such as decision trees is therefore still limited to its ability to efficiently and effectively learn from data, and to whatever intelligence is encoded into that data--not in its ability to critically question what the data means or what implications the behavior might have on students. That remains something only people can do.
 
-|question.jpg|||TODO Something that conveys the challenge of deciding what intelligence a computer should have and how that intelligence should be used in the world|
+|Chapter06_Figure04_Debating.png|Two sides, separated by the lady justice statue, with people on the scale on the left weighing down the scales, in front of a backdrop of abstract boxes and schematics, and on the right, with a smaller group lift on another scale, in front of a backdrop of large silhouettes of people.|What kind of intelligence should be digitized?|Jessie Huynh|
 
 # Designing Intelligence
 

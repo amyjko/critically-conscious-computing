@@ -180,7 +180,7 @@ Unfortunately, most research on CS education does not engage this third question
 
 A critically conscious pedagogy for discussing automation would likely go beyond engaging youth in designing and engineering software in multidisciplinary ways. Rather, it would engage youth in making decisions about whether and how to automate, and surface the critical individual, organizational, community, and societal tensions in these automation choices. Blending these pedagogies with culturally sustaining ones, teaching methods might help students position themselves within these automation choices, asking them what world they want, why they want it, and what effect getting it might have on others. Because such teaching methods are underexplored, teachers should expect to experiment, reflect, and deeply engage their students in shaping how to discuss automation and computing.
 
-|question.jpg|||TODO Something that portrays libraries and search engines in a war|
+|Chapter06_Figure06_Library.png|A massive wall of books with stairs leading to them, with bright magenta sections of books highlighted and an ominous Google Search text box hovering in the center behind the walls.|What did we gain by automating the work of librarians? What did we lose?|Jessie Huynh|
 
 ## Unit Plan: Libraries vs. Search Engines
 

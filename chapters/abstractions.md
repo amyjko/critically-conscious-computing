@@ -14,7 +14,7 @@ Modern software, however, is anything but transparent. In fact, by design, softw
 
 In this chapter, examine the foundational ideas of information hiding, abstraction, and encapsulation in computer science, and the many ways that these ideas are manifested in programming languages (e.g., functions, objects, APIs, and more). We then consider the many social implications of these abstraction techniques, and how to develop youth critical consciousness of these implications.
 
-|question.jpg||TODO Something that conveys a whole bunch of computational complexity inside some container, most of which is invisible outside the container, which has a very simple and limited interface||
+|question.jpg|TODO|TODO Something that conveys a whole bunch of computational complexity inside some container, most of which is invisible outside the container, which has a very simple and limited interface|TODO|
 
 # Hiding Detail
 
@@ -38,7 +38,7 @@ The second information hiding strategy is *encapsulation*<parnas85>. This is the
 
 All three of these ideas--information hiding, abstract, and encapsulation--often work together to reduce complexity. Words, stereotypes, and programs are abstractions and encapsulations that hide details, offering power in their simplicity, while often masking critical nuances, exceptions, and details.
 
-|question.jpg||TODO Something that conveys the idea of inputs going into a black box, and outputs coming out, with no visibility about what’s inside. Ideally, there are a fixed number of inputs, and they are a diversity of things, like numbers and words, and there is one output, which could be anything.||
+|question.jpg|TODO|TODO Something that conveys the idea of inputs going into a black box, and outputs coming out, with no visibility about what’s inside. Ideally, there are a fixed number of inputs, and they are a diversity of things, like numbers and words, and there is one output, which could be anything.|TODO|
 
 # Abstractions and Encapsulation in Code
 
@@ -202,7 +202,7 @@ Unfortunately, most APIs poorly document all of this knowledge, leaving many lea
 
 All of this is an inevitable side effect of information hiding, abstraction, and encapsulation. The benefits of these strategies are to remove details, but the other side of this removal means that any time someone needs to know one of those details, they have to learn them somehow. The price to pay, then, for the immense complexity of modern software enabled by information hiding, is that sometimes we have to understand that complexity, and information hiding may make that understanding harder.
 
-|question.jpg||TODO Something that conveys a very important, very interesting black box (like Google Search), and many people trying to see inside it, but it is heavily guarded and controlled||
+|question.jpg|TODO|TODO Something that conveys a very important, very interesting black box (like Google Search), and many people trying to see inside it, but it is heavily guarded and controlled|TODO|
 
 # The Tradeoffs of Abstraction
 
@@ -231,7 +231,7 @@ This explicitly racist, ableist logic is encapsulated away in a function that po
 
 Perhaps the biggest challenge with encapsulation is that it is so powerful and necessary for creating software that we often cannot avoid it. Imagine, for example, that the public decided that the voting machines created by [Dominion|https://www.dominionvoting.com] could not be trusted. Because they are built upon so many layers of encapsulated functions, the only recourse to creating a public voting system platform would be to recreate it in its entirety--the hardware, the software, and the maintenance workflows. It is far easier for a local government to delegate this work to a private company--relying on its encapsulation of voting logic--than it is to recreate its own voting platforms. Dominion knows this, and uses this leverage to maintain control over its monopoly on electronic voting.
 
-|question.jpg||TODO A portrayal of teachers and students talking about black boxes with secret insides and inspectable outsides.||
+|question.jpg|TODO|TODO A portrayal of teachers and students talking about black boxes with secret insides and inspectable outsides.|TODO|
 
 # Teaching Abstraction
 

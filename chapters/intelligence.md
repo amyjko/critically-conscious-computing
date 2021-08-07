@@ -171,7 +171,7 @@ What do we make of the identities of these four intellectual forces who shaped t
 
 Does the potential for harm that may come from encoding intelligence, or the identities of the people who do this encoding, mean that we should stop creating software? Not necessarily. There is certainly work in the world that should be fast, reliable, and safely performed by computers instead of people. If software designers can envision it and engineers can build it, or learn it from data, then perhaps some of these tasks are valuable to automate. But it does mean that we have to much more carefully understand the limitations of software, and think carefully about when to use it, whether we are deciding whether to use a software program, voting democratically on technology policy, or designing software to be used by others.
 
-|question.jpg|||TODO Something that portrays teachers and students debating people and machines|
+|question.jpg|TODO|TODO Something that portrays teachers and students debating people and machines|TODO|
 
 # Teaching Intelligence
 Engaging students in the two fundamental questions of what is intelligence? and how do we create it necessarily requires developing students’ critical consciousness with a third question: should we create it? Posing this question first engages students in reasoning about the ethical, moral, social, and economic implications of technology on society, while also necessarily engaging in questions about what kind of intelligence is and is not possible with software, and what kinds of automation are desirable, and for whom.

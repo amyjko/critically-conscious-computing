@@ -51,7 +51,7 @@ As Papert’s ideas were shaping teachers’ efforts, software companies like Ap
 
 The result of these failed education reform efforts throughout the 1980’s and 90’s were that only a select few were encouraged into CS education. Computer and video game companies marketed to White boys<kiesler85>; White boys like Bill Gates<becraft14> and Paul Allen got privileged access to computer labs via their private high schools; and movies like [War Games|https://www.imdb.com/title/tt0086567/] portrayed White boys as isolated nerds who were rewarded for breaking rules. While these Western ideas shaped the youth in North America and Europe who pursued CS education in higher education, the rapid growth in economic opportunity generated interest throughout Asia, creating interest amongst wealthy Indian and Chinese boys who could attend universities in the United States and Europe. These global economic and cultural trends further reinforced the lack of diversity in CS at all levels, creating an almost exclusively higher education system of White and Asian boys.
 
-|question.jpg||CS for All event||
+|question.jpg|TODO|TODO|TODO|
 
 # A Second Attempt at K-12 CS Education Reform
 

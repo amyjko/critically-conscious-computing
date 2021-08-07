@@ -17,7 +17,7 @@ Throughout this book, we have talked about computation, computers, and code as i
 
 Programming, then, unlike most of the concepts we’ve discussed thus far in the book, is not so much a technical idea, but rather a creative human activity that draws upon and is constrained by the ideas in computer science. Throughout the rest of this chapter, we’ll discuss who engages in programming and why, then deconstruct the key activities and skills necessary for successful programming of these various kinds. We will then turn to one teaching method for developing these skills through targeted scaffolding of self-regulation, while centering the responsibility of programmers as they make.
 
-|question.jpg||Something that conveys a diversity of people creating a diversity of things, but all with the same tool. For example, someone making music with code, someone playing with code, someone teaching with code, someone analyzing data with code, someone making code to sell.||<
+|question.jpg|TODO|Something that conveys a diversity of people creating a diversity of things, but all with the same tool. For example, someone making music with code, someone playing with code, someone teaching with code, someone analyzing data with code, someone making code to sell.|TODO|<
 
 # Who codes?
 

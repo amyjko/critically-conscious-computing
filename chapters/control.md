@@ -23,7 +23,7 @@ Indiana’s digitization efforts sought to automate the application process, hav
 
 But that’s not how it worked out. Over the course of several years, it became very clear that while the eligibility criteria encoded into state law had not changed, something was different about the decisions that the algorithm was making: fewer people were being approved, and residents had less clarity about why they were being denied. The decisions that the algorithm was making were, in general, less flexible, less explainable, and less transparent than the caseworkers that used to make the decisions. The result was that Indiana denied more than a million applications for food stamps and other aid, a 54% increase in denials compared to the three years before the automation was launched.
 
-|question.jpg||TODO Something to convey a computer using information to make a decision, but ignoring social context||
+|question.jpg|TODO|TODO Something to convey a computer using information to make a decision, but ignoring social context|TODO|
 
 # Conditionals Encode Decision Logic
 These differences between the caseworker decisions and the algorithm decisions all reduce to  what we call *control structures* in computer programs. Control structures include low-level CPU instructions like a `jump if equal` instruction (like those discussed in the [Encoding Intelligence|intelligence] chapter), which might compare the bit sequences of two values in memory, and go to a particular instruction in a program if they are equal, and go to the next instruction in a program if they are not. CPUs have similar instructions like `jump if zero`, `jump if less than`, `jump of greater than`, all encoding basic mathematical inequalities into hardware, and form the basis for how computer programs make all of their decisions. 
@@ -190,7 +190,7 @@ This while loop will continue executing as long as `True` is true--in other word
 
 # TODO Address event handlers
 
-|question.jpg||TODO Something that conveys a software developer making a decision about someone’s food stamp eligibility instead of a social worker.||
+|question.jpg|TODO|TODO Something that conveys a software developer making a decision about someone’s food stamp eligibility instead of a social worker.|TODO|
 
 # Delegating Decisions to Developers
 
@@ -285,7 +285,7 @@ Of course, tracing a program’s execution can be incredibly boring--and inevita
 
 This method of bringing social context can be paired with having students bring in their own personal data as well. For example, rather than just choosing an arbitrary value for `number\_of\_dependents` above, students could determine their own value, and trace the algorithm to see how it would decide their family’s eligibility.
 
-|question.jpg||TODO An example of someone tracing the program above using the strategy below||
+|question.jpg|TODO|TODO An example of someone tracing the program above using the strategy below|TODO|
 
 After modeling tracing, then it’s time to teach students to trace programs independently. The best evidence suggests that tracing not only requires knowledge of syntax and semantics, but also strategies for scaffolding students’ attention to detail by providing them an explicit procedure<xie18>:
 

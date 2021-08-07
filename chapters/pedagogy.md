@@ -72,7 +72,7 @@ Freire, in imagining such dialogic pedagogy, viewed politics as inseparable from
 
 For many teachers, it may be concerning to imagine giving up so much control to students, and frightening to imagine intentionally facilitating student organizing and activism. After all, much of modern teaching is concerned with behavioral matters such as classroom management, regulating student attention, and preventing disruption. Freire would respond to these concerns and fears by naming them for what they are: the reactions of an oppressor who sees risk in giving up power by enabling student agency, embracing student diversity, and building up student assets. He would argue that if we want students who grow to be leaders of social change, framing schools as places of control and regulation is exactly the opposite of learning. Freire challenged teachers to have faith that if we center students’ lives in our teaching, and empower them to shape their learning, whatever disruption they cause might be what the late activist [John Lewis|https://en.wikipedia.org/wiki/John_Lewis] called, "...good trouble, necessary trouble".
 
-|question.jpg||TODO Something that portrays storytelling||
+|question.jpg|TODO|TODO Something that portrays storytelling|TODO|
 
 # Critical CS Content Knowledge
 

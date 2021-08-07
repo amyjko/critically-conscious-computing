@@ -127,7 +127,7 @@ Regardless of how sophisticated an encoding is, all computer encodings eventuall
 
 This fact has important implications: nothing a computer does with data is guaranteed to be accurate, fair, or true. It rests entirely upon the people gathering data and creating software to ensure that the limitations of data are known and accounted for, and that uses of that data in software do not inadvertently create new problems in people’s lives<dignazio20>. For example, returning to the U.S. Census, we can ask: what responsibility do the software engineers, scientists, and marketers who might use code to process U.S. Census data have to understand the limitations of census data? And if they cannot envision fair ways of using that limited data in software, what responsibility do they have to resist creating software that might do harm by amplifying the way that data encodings misrepresent reality? These are questions that are just as central to computer science as are technical questions about how to convert decimal to binary.
 
-|question.jpg|||TODO Something representing teachers talking about data.|
+|question.jpg|TODO|TODO Something representing teachers talking about data.|TODO|
 
 # Teaching Data Critically
 
@@ -137,7 +137,7 @@ Research on how to teach critical perspectives on data is scant<weiland17>, thou
 
 What we do know is that a key pedagogical decision in talking about data with students is deciding what data to discuss. As we noted above in our discussion of the Census, seemingly mundane topics like counting and classifying the people that live in a country can have surprising and unexpected intersections with issues of safety, privacy, identity, and belonging Culturally sustaining and critical pedagogy might recommend choosing data that is personally meaningful and interesting to all students, and then engaging them in critical examination of its limitations, especially when that data is used in software to automate decisions. One challenge in doing this in the social context of a classroom is how to choose a type of information that is inclusive to all students’ interests and identities, but also not so politically charged that there’s no room for learning about how computers encode information. Identifying these topics requires both student voice, but also some domain knowledge about the data domains students might explore, and what political tensions they might engage.
 
-|question.jpg|||TODO Something that conveys measurement of lateness|
+|question.jpg|TODO|TODO Something that conveys measurement of lateness|TODO|
 
 ## Unit Plan: Encoding Tardiness
 

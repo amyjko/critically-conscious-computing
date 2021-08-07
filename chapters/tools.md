@@ -96,7 +96,7 @@ Examples of different programming systems and their various assumptions.
 
 The table above has many caveats. First, programming systems are always changing, and so the details above may change as well, as communities and their tools evolve. Second, it is very hard to discover the details above, because most communities do not make their assumptions clear to newcomers, and they only become clear as you attempt to learn and use the tools from the community. Third, there is no centralized list of programming systems and their various assumptions and values, and so finding information about communities can be difficult. Perhaps as CS education matures, support for selecting, evaluating, and using various tools for CS education will mature as well.
 
-|Chapter18_Figure04_Writing.png|Several students learning to use a pencil to write, and a teacher helping over the shoulder of one student.|Learning tools is part of learning, like learning pencils is a part of learning writing.|Amy J. Ko|
+|Chapter18_Figure04_Writing.png|Several students learning to use a pencil to write, and a teacher helping over the shoulder of one student.|Learning tools is part of learning, like learning pencils is a part of learning writing.|Jessie Huynh|
 
 # Teaching Tools
 

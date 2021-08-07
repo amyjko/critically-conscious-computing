@@ -19,7 +19,7 @@ Even when software does work as intended, there can be dispute about whether the
 
 Therefore, while verification and debugging of software might seem like a purely technical skillset, it is actually at the heart of how software creators--developers, designers, and their organizations--negotiate disputes with software users about how software works and behaves in their lives. In the rest of this chapter, we will define and illustrate some of these skills, and then share methods for teaching them that highlights the way that these skills are a site for negotiating who decides what software does and doesn’t do.
 
-|question.jpg|Placeholder|Something that conveys how something is supposed to go, and it deviates from that intended path into some unexpected direction, and people have to deal with the unintended behavior|Amy J. Ko|
+|Chapter17_Figure02_Deviate.png|A bird's eye view of a car in one lane of a highway swerving into opposing traffic, causing a pileup.|Defects are nothing more than deviations from expectations.|Jessie Huynh|
 
 # Requirements, Defects, and Failures
 
@@ -99,7 +99,7 @@ These two strategies also illustrate, however, how unlike some STEM disciplines,
 
 Because requirements, implementation, and verification are hard, this creates tensions around responsibility. Who defines what is required, and therefore "correct"? For example, let’s return to the New Mexico example from the beginning of this chapter, in which Deloitte launched a system with a defect. Could Deloitte have caught that defect before launch with better verification? Was the defect due to incorrect or vague requirements, or a mistake on a developer's part? Was there enough time in the contract to properly verify the system? Since it is not theoretically possible to find all possible defects, can software consultancies like Deloitte be held responsible for unexpected failures? Clearly Deloitte could have done more to verify, but would that additional verification effort have found the defect? Was the budget high enough to account for the additional verification effort that might have been required? None of these questions have obvious answers, and so when users encounter problems with software, it’s not always clear who to blame, or whether blame is even the right concept.
 
-|question.jpg|Placeholder|Something that conveys the delicate work of finding and fixing the cause of a hidden problem in a system. Car engine repair and open heart surgery might be good metaphors.|Amy J. Ko|
+|Chapter17_Figure04_Surgery.png|An operating room with a team operating on a person, and above hovers a large instrument holding a bug and a projection of code in the background; one of the team members looks back to refer to it.|Finding bugs is surgical.|Jessie Huynh|
 
 # Debugging
 
@@ -169,7 +169,7 @@ Stepping back further, it is instructive to compare ideas of verification and de
 
 In contrast, verification and debugging of code requires entirely different skills, by entirely different people. One single computer program was written to automate New Mexico’s services, meaning that every citizen that interacted with it was treated the same way, independent of who they were. If the program did something bad, it was up to the Deloitte engineers to inspect the program’s behavior and change it if it was wrong. Because of this, the government was no longer really in charge of ensuring its services were meeting its standard--Deloitte and its engineers were, even though they had no training in policy or interacting with people needing welfare. This fundamentally shifted power and responsibility for ensuring that government services were being offered "correctly" to a private third party, one that had little incentive to meet the public’s needs. In fact, because of the way the contract was structured, Deloitte received maintenance payments every month because there were failures to debug and fix, rewarding Deloitte for making mistakes.
 
-|question.jpg|Placeholder|Something depicting a teacher and student inspecting code together, brainstorming, wondering, checking, and while many other students are having similar difficulties.|Amy J. Ko|
+|Chapter17_Figure05_Inspecting.png|A pair of students working in front of a laptop, and students on the side working alone in frustration.|Verification and debugging should be social, in practice, and in substance.|Jessie Huynh|
 
 # Teaching Verification and Debugging
 

@@ -1,28 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=block');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=block');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300&display=block');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500&display=block');
 
 @font-face {
     font-family: "Modum";
+    font-display: block;
     src: url('../fonts/The Northern Block Ltd - Modum.otf') format('opentype'); 
 }
 
 @font-face {
     font-family: "Modum";
+    font-display: block;
     src: url('../fonts/The Northern Block Ltd - Modum Italic.otf') format('opentype'); 
     font-style: italic;
 }
 
 @font-face {
     font-family: "Modum";
+    font-display: block;
     src: url('../fonts/The Northern Block Ltd - Modum Bold.otf') format('opentype'); 
     font-weight: bold;
 }
 
 @font-face {
     font-family: "Modum";
+    font-display: block;
     src: url('../fonts/The Northern Block Ltd - Modum Bold Italic.otf') format('opentype'); 
     font-weight: bold;
     font-style: italic;
@@ -30,6 +33,7 @@
 
 @font-face {
     font-family: "Modum Extra";
+    font-display: block;
     src: url('../fonts/The Northern Block Ltd - Modum ExtraBold.otf') format('opentype'); 
     font-weight: bold;
 }

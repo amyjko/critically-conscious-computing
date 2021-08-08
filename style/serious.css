@@ -78,6 +78,11 @@ h4 {
     font-weight: 400;
 }
 
+.toc .chapter-body {
+    font-size: 12pt;
+    line-height: 1.6em;
+}
+
 .subtitle {
     margin-bottom: 0em;
 }

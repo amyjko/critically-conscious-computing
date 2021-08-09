@@ -59,7 +59,7 @@ Because design and engineering are different activities, teaching CS requires te
 
 Let’s consider three ways of framing CS in relation to design and their pedagogical tradeoffs. We’ll then present an example unit plan for the third alternative, which we believe best balances disciplinary authenticity and engagement.
 
-|Chapter05_Figure05_Constructionism.png|A child constructing legos, but the legos are in their own mind|Teaching CS _as_ design has some benefits, but masks design as a distinct skill.|TODO|
+|Chapter05_Figure05_Constructionism.png|A child constructing legos, but the legos are in their own mind|Teaching CS _as_ design has some benefits, but masks design as a distinct skill.|Jessie Huynh|
 
 ## Teaching CS as Design
 
@@ -77,7 +77,7 @@ Another risk with equating CS with design is that it ignores essential aspects o
 
 Finally, equating CS activities and design activities tends to misrepresent the reality of CS-related roles in the workforce, leading students to pursue CS careers when they really might be more interested in design roles. Software engineers typically don’t design software; they build it, based on what designers have designed. User experience (UX) designers, interaction designers, and even business-minded product managers determine what software should do and set requirements accordingly. Clarity around what counts as design and what counts as CS can help students make informed decisions about future education or career choices.
 
-|Chapter05_Figure06_APCSProblem.png|An AP CS A exam question, which includes a class declaration and a question that prompts the student to write a method|Engineering-centered pedagogies focus on problem solving, as in this AP CS exam prompt.|TODO|
+|Chapter05_Figure06_APCSProblem.png|An AP CS A exam question, which includes a class declaration and a question that prompts the student to write a method|Engineering-centered pedagogies focus on problem solving, as in this AP CS exam prompt.|Jessie Huynh|
 
 ## Teaching CS as Engineering
 
@@ -95,7 +95,7 @@ Teaching CS solely as engineering also obscures the computing-specific kind of d
 
 One method for teaching CS as engineering, while still centering the human concerns that underlie it, is to carefully contextualize engineering problems in their design situations. For example, in the direct instruction above, a critically conscious approach to explaining Python loops might begin by explaining why computers might be used to process long lists of data, and whether having computers process such data is always a good idea. Consider spell checking in word processing software, which has long lists of words that are considered to be spelled correctly; if a word in an essay does not appear in that list, it is underlined with a red squiggly line. The direct instruction could provide examples of where this use of a list is problematic (e.g., displaying warnings on most non-Western names unlikely to appear in a dictionary). This shows learners what lists are for, situates them in issues of justice, and raises questions about design. Then, problem sets might focus less on asking students to write basic algorithms that use loops, and instead ask them to critically analyze algorithms that others have written, and modify them to be more just, or make an argument for why the algorithm should no longer be used. This might involve reading a basic algorithm that does spell checking, and having students understand and critique it. These approaches still center CS concepts, but at least situate them in their application. We will give examples of such approaches in later chapters.
 
-|question.jpg|TODO|TODO An illustration of students alternating between design and engineering roles.|TODO|
+|Chapter05_Figure07_Alternating.png|Two Black girls, both emerging from the two sides of the Chinese yin-yang symbol, one working on hardware and the other on 3D geometries.|Design and engineering is a never-ending duality, and should be taught as such.|Jessie Huynh|
 
 ## Unit Plan: Teaching CS as Design-Informed Engineering
 

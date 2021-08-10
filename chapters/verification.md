@@ -51,7 +51,7 @@ The example above illustrates that what counts as a failure depends entirely on 
 
 Vagueness in requirements, therefore, is at the heart of disagreements between what a program’s creators think a program should do, and what its users think it should do. Returning to the Indiana example shared earlier, perhaps IBM _did_ build the system according to Indiana’s requirements, but those requirements were vague. When considering the immense cost to people in poverty in Indiana, was IBM to blame for not further clarifying requirements with Indiana, or was the Indiana government to blame for not devising clearer requirements? Or perhaps _both_ are to blame for not ensuring that the requirements would equitably meet the needs of Indiana residents in poverty? While creating software might often seem like a strictly technical endeavor, these examples show that it is clearly not: whether software is working as intended is a socially-constructed, collectively-determined subjective judgement, not a strictly logical one.
 
-|question.jpg|Placeholder|Something depicting a person inspecting code multiple times, each time in a distinct way, and judging whether what it does is correct or incorrect.|Amy J. Ko|
+|Chapter17_Figure03_Inspecting.png|A series of images of a man's face, each one looking at a different angle, with code in the backdrop.|Verification is about imagining the unexpected.|Jessie Huynh|
 
 # Verification
 

@@ -35,7 +35,7 @@ This liberal copying and sharing was also accompanied by fierce, anti-competitiv
 
 These economic trends interacted closely with the creation of modern operating systems. Before this shift, merging with a major competitor, acquiring a smaller competitor before they could grow, and creating vertical monopolies would generally invite antitrust investigations. Today, decades of acquisitions, mergers, and vertical integration have changed the rich, complex, and diverse landscape of computer systems and operating systems of the 1960s into a sterile and stable landscape today, with only Microsoft, Apple, and Google, dominating desktop and mobile operating systems, along with most of the internet that we interact with on a regular basis. All of these monopolies still have their roots in the earliest problems that human computer operators had, of trying to maximize use of a computer’s CPU to execute programs, prioritize urgent jobs over others, and maintain the hardware utilized by the CPU. In fact, some of these operating systems still use source code written in the 1960’s. The history of operating systems is therefore not just a series of events, but a set of artifacts, computer code, still used today by billions.
 
-|question.jpg|TODO|TODO Something that portrays the software that runs and maintains all of the hardware in a computer. Like an invisible hand managing all of the components described in the previous chapter.|TODO|
+|Chapter09_Figure04_InvisibleHand.png|A pile of computer hardware, with two-dimensional hands reaching out from the screens to touch keys and components.|Computers are made of distinct parts, each formerly human work.|Jessie Huynh|
 
 # Components of Modern Operating Systems
 

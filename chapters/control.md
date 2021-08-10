@@ -190,7 +190,7 @@ This while loop will continue executing as long as `True` is true--in other word
 
 # TODO Address event handlers
 
-|question.jpg|TODO|TODO Something that conveys a software developer making a decision about someone’s food stamp eligibility instead of a social worker.|TODO|
+|Chapter11_Figure04_Eligibility.png|A large man at a laptop on the left looking down at the screen with a food stamp benefits form behind him, and tiny people lined up behind the laptop screen waiting for benefits.|Who decides matters, but too often, we don't discuss it.|Jessie Huynh|
 
 # Delegating Decisions to Developers
 

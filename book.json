@@ -161,35 +161,35 @@
 			"id": "humanities", 
 			"title": "CS + Humanities",
 			"authors": ["ko"],
-			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"image": null,
 			"section": "Integration"
 		},
 		{
 			"id": "arts", 
 			"title": "CS + Arts",
 			"authors": ["ko"],
-			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"image": null,
 			"section": "Integration"
 		},
 		{
 			"id": "math", 
 			"title": "CS + Mathematics",
 			"authors": ["ko"],
-			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"image": null,
 			"section": "Integration"
 		},
 		{
 			"id": "science", 
 			"title": "CS + Science",
 			"authors": ["ko"],
-			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"image": null,
 			"section": "Integration"
 		},
 		{
 			"id": "engineering", 
 			"title": "CS + Engineering",
 			"authors": ["ko"],
-			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"image": null,
 			"section": "Integration"
 		},
 		{

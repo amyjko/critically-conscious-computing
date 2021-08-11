@@ -158,6 +158,48 @@
 			"section": "Skills"
 		},
 		{
+			"id": "humanities", 
+			"title": "CS + Humanities",
+			"authors": ["ko"],
+			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"section": "Integration"
+		},
+		{
+			"id": "arts", 
+			"title": "CS + Arts",
+			"authors": ["ko"],
+			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"section": "Integration"
+		},
+		{
+			"id": "math", 
+			"title": "CS + Mathematics",
+			"authors": ["ko"],
+			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"section": "Integration"
+		},
+		{
+			"id": "science", 
+			"title": "CS + Science",
+			"authors": ["ko"],
+			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"section": "Integration"
+		},
+		{
+			"id": "engineering", 
+			"title": "CS + engineering",
+			"authors": ["ko"],
+			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"section": "Integration"
+		},
+		{
+			"id": "conclusion", 
+			"title": "Conclusion",
+			"authors": ["ko"],
+			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"section": "Conclusion"
+		},
+		{
 			"id": "standards", 
 			"title": "Standards", 
 			"authors": ["ko"],

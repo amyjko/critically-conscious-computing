@@ -141,7 +141,7 @@ But release can also reveal that however the world worked when a project’s req
 
 Software, therefore, is never done. In this way, software engineering projects are not something that start and stop, but rather, an ongoing shared discourse about what computation should do, for whom, and how. The more that anyone engaged in making software--whether students or software engineering professionals--can see it as that, the more likely they are to critically examine what they are making before, during, after they’ve made it.
 
-|Chapter19_Figure03_NASCAR.png|Several NASCAR pit crew workers working in tandem to prepare a car to re-enter a race; the car glows blue with bits.|Software engineering requires diverse people combining diverse social and technical skills to a shared goal.|Jessie Huynh|>
+|Chapter19_Figure03_NASCAR.png|Several NASCAR pit crew workers working in tandem to prepare a car to re-enter a race; the car glows blue with bits.|Software engineering requires diverse people combining diverse social and technical skills to a shared goal.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|>
 
 # Teamwork
 

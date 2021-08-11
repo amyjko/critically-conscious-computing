@@ -14,7 +14,7 @@ Each of these questions seek *information* about people living in the United Sta
 
 Much of what makes computers powerful are their ability to store, retrieve, analyze, and compute information. But as the distinction above makes clear, computers aren’t really processing information, they’re processing data. For example, when the first author of this chapter filled out the 2020 census, she wanted to indicate her ethnicity as Danish and Cantonese, as those are the two most meaningful ancestries that shape her ethnic identity. But the census form did not allow for those answers, so she instead had to describe herself as "White" and "Chinese."  This approximation, while imperfect, allows for researchers to use computers to quickly analyze racial and ethnic data about her response and others’, allowing algorithms to count her as a "White" person, as  "Chinese" person, or as a "biracial" person. It also allows people to use computers to create data visualizations about race, for example, plotting the migration of Asian families across the United States over time. But in no way does the computer know or understand her actual racial identity: that information is a rich, personal, evolving story of family, self-perception, and history. The data "White" and "Chinese" only captures a small and likely misleading portion of that story.
 
-|Chapter07_Figure01Reduction.png|A face, reduced into parts, losing a sense of a face.|Data can only approximate information.|Ashley Wang|
+|Chapter07_Figure01Reduction.png|A face, reduced into parts, losing a sense of a face.|Data can only approximate information.|Ashley Wang [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
 
 # Data and Society
 
@@ -41,7 +41,7 @@ At the heart of computer’s use of data are also several privacy issues. The pr
 
 Because computers operate on data at such scale and speed, they amplify the benefits and harms of data, while also being completely dependent on data. Machine learning requires data to be valuable, and yet is strongly affected by biases in data. Data takes immense effort to create, maintain, and manage, and yet an algorithm processes it as abstract ones and zeroes, with no history of what it means, who created it, why, or how its meaning might have changed since it was recorded. Therefore, while computers--and more specifically the people who write the algorithms that they execute--can make astounding use of data to create exciting new experiences, they can also ignore its meaning, history, and potential for harm.
 
-|Chapter07_Figure02Binary.png|A book, glowing green, with binary digits flowing in and out of it, while being held by a hand.|Binary tries to represent everything|Ashley Wang|
+|Chapter07_Figure02Binary.png|A book, glowing green, with binary digits flowing in and out of it, while being held by a hand.|Binary tries to represent everything|Ashley Wang [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
 
 # Encoding Information as Bits
 

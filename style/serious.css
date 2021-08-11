@@ -63,6 +63,11 @@ h1, h2, h3, h4 {
     margin-bottom: 1em;
 }
 
+.outline {
+    font-family: "Arvo", serif;
+    font-weight: normal;
+}
+
 h1 {
     font-size: 2.4rem;
     margin-top: 0em;
@@ -140,8 +145,17 @@ ol li.reference::before {
     padding-left: 0;
 }
 
+.outline-header a {
+    color: rgb(180,180,180);
+}
+
+.outline-header-active a {
+	color: black;
+}
+
 .outline-header a:hover, .navigation-footer a:hover {
     text-decoration: underline;
+    color: black;
     font-weight: normal;
 }
 
@@ -159,6 +173,7 @@ code {
     margin-bottom: 2em;
     margin-left: 10%;
     margin-right: 10%;
+    background-color: white;
 }
 
 .blockquote > p {

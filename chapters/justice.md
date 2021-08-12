@@ -12,7 +12,7 @@ The opposing view is that algorithms and data are inherently not neutral. As num
 
 But in many ways, software is also far more powerful from past information technologies such as television, telephones, books, or paper, making its potential for harm greater. In this chapter, we’ll discuss the powerful forces behind computing that position it for harm, and then discuss one possible method for teaching youth about these forces in ways that center their voices and experiences.
 
-|question.jpg|TODO|TODO Something that conveys the five concepts of amplification, centralization, privatization, automation, and abstraction, and a sense of unfairness or harm|TODO|
+|Chapter04_Figure02_TSA.png|A row of human silhouettes, with normative male- and female-bodied ones on the left and right with check marks above their heads, and a group in the middle with an x including people with non-normative bodies.|Computing has a way of insisting on binaries, erasing diversity.|Jessie Huynh|
 
 # How Computing Does Harm
 

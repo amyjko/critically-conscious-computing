@@ -120,7 +120,7 @@ In this example, the code will indicate that an application should be reviewed, 
 
 These various forms of conditionals allow us to get closer to the decision making of a human case worker, but at the cost of increasingly complex code. And, even with all this complexity, there will still be elements of human judgment that are difficult, if not impossible, to replicate. For example, what if the data the program is using is incorrect, because the person who entered it into the web form typed it in correctly or misunderstood a question? A case worker might notice that and double-check, whereas the algorithms above have no ability to inspect the accuracy of the data.
 
-|Chapter11_Figure03_Implications.png|Five metal balls hanging from vertical wires, with one ball flying left after being hit by the other balls, cracking some glass. A small person looks on at the destruction.|Repetition can break things.|TODO|
+|Chapter11_Figure03_Implications.png|Five metal balls hanging from vertical wires, with one ball flying left after being hit by the other balls, cracking some glass. A small person looks on at the destruction.|Repetition can break things.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
 
 # Loops
 

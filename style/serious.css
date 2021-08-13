@@ -40,8 +40,14 @@
     font-weight: bold;
 }
 
+@font-face {
+    font-family: "Epilogue";
+    font-display: block;
+    src: url('../fonts/Epilogue-Light.woff2') format('woff2');
+    font-weight: 300;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=block');
-@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300&display=block');
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500&display=block');
 
 body {
@@ -214,7 +220,7 @@ blockquote .blockquote-caption {
 .footnote {
     font-family: "Epilogue";
     font-weight: 300;
-    font-size: 80%;
+    font-size: 10pt;
     line-height: 1.5em;
 }
 

@@ -275,7 +275,7 @@ def getRecommendations(currentVideo)
   videos.sort(video -> video.interest).reverse()
   # Return the top three videos
   return videos[0:2]
-`A hypothetical JavaScript example of video recommendations.
+`A hypothetical Python example of video recommendations.
 
 * Step through with an example in a CS Unplugged manner, tracing the code to explain the logic of each of its steps, nominating students to represent a list of videos, each of the functions called. Solicit questions, pose questions, or think-pair-share each line to assess comprehension.
 * End class by posing a question: who wrote this at Google and why? Surface the different beliefs, reinforcing that a person wrote it to solve a particular problem. What problem?

@@ -2555,7 +2555,7 @@
 	"glossary": {
 		"lang": {
 			"phrase": "programming language",
-			"definition": "A notational user interface for telling computers what we want them to compute at some later point in the future._",
+			"definition": "A notational user interface for telling computers what we want them to compute at some later point in the future.",
 			"synonyms": ["language", "coding language"]
 		}
 	}

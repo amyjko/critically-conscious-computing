@@ -137,7 +137,7 @@ Research on how to teach critical perspectives on data is scant<weiland17>, thou
 
 What we do know is that a key pedagogical decision in talking about data with students is deciding what data to discuss. As we noted above in our discussion of the Census, seemingly mundane topics like counting and classifying the people that live in a country can have surprising and unexpected intersections with issues of safety, privacy, identity, and belonging Culturally sustaining and critical pedagogy might recommend choosing data that is personally meaningful and interesting to all students, and then engaging them in critical examination of its limitations, especially when that data is used in software to automate decisions. One challenge in doing this in the social context of a classroom is how to choose a type of information that is inclusive to all students’ interests and identities, but also not so politically charged that there’s no room for learning about how computers encode information. Identifying these topics requires both student voice, but also some domain knowledge about the data domains students might explore, and what political tensions they might engage.
 
-|question.jpg|TODO|TODO Something that conveys measurement of lateness|TODO|
+|Chapter07_Figure05_Lateness.png|A child running away from the view toward a classroom with a clock and tardy slips flying behind them.|Even lateness is algorithmic.|Ashley Wang [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
 
 ## Unit Plan: Encoding Tardiness
 

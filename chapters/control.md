@@ -23,7 +23,7 @@ Indiana’s digitization efforts sought to automate the application process, hav
 
 But that’s not how it worked out. Over the course of several years, it became very clear that while the eligibility criteria encoded into state law had not changed, something was different about the decisions that the algorithm was making: fewer people were being approved, and residents had less clarity about why they were being denied. The decisions that the algorithm was making were, in general, less flexible, less explainable, and less transparent than the caseworkers that used to make the decisions. The result was that Indiana denied more than a million applications for food stamps and other aid, a 54% increase in denials compared to the three years before the automation was launched.
 
-|Chapter11_Figure02_IgnoringContext.png|A Tetris-like collection of shapes, with people, flags, and history obscured behind them.|When computers make decisions, they often ignore and overwhelm social context.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter11_Figure02_IgnoringContext.png|A Tetris-like collection of shapes, with people, flags, and history obscured behind them.|When computers make decisions, they often ignore and overwhelm social context.|@jessie|
 
 # Conditionals Encode Decision Logic
 These differences between the caseworker decisions and the algorithm decisions all reduce to  what we call *control structures* in computer programs. Control structures include low-level CPU instructions like a `jump if equal` instruction (like those discussed in the [Encoding Intelligence|intelligence] chapter), which might compare the bit sequences of two values in memory, and go to a particular instruction in a program if they are equal, and go to the next instruction in a program if they are not. CPUs have similar instructions like `jump if zero`, `jump if less than`, `jump of greater than`, all encoding basic mathematical inequalities into hardware, and form the basis for how computer programs make all of their decisions. 
@@ -120,7 +120,7 @@ In this example, the code will indicate that an application should be reviewed, 
 
 These various forms of conditionals allow us to get closer to the decision making of a human case worker, but at the cost of increasingly complex code. And, even with all this complexity, there will still be elements of human judgment that are difficult, if not impossible, to replicate. For example, what if the data the program is using is incorrect, because the person who entered it into the web form typed it in correctly or misunderstood a question? A case worker might notice that and double-check, whereas the algorithms above have no ability to inspect the accuracy of the data.
 
-|Chapter11_Figure03_Implications.png|Five metal balls hanging from vertical wires, with one ball flying left after being hit by the other balls, cracking some glass. A small person looks on at the destruction.|Repetition can break things.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter11_Figure03_Implications.png|Five metal balls hanging from vertical wires, with one ball flying left after being hit by the other balls, cracking some glass. A small person looks on at the destruction.|Repetition can break things.|@jessie|
 
 # Loops
 
@@ -190,7 +190,7 @@ This while loop will continue executing as long as `True` is true--in other word
 
 # TODO Address event handlers
 
-|Chapter11_Figure04_Eligibility.png|A large man at a laptop on the left looking down at the screen with a food stamp benefits form behind him, and tiny people lined up behind the laptop screen waiting for benefits.|Who decides matters, but too often, we don't discuss it.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter11_Figure04_Eligibility.png|A large man at a laptop on the left looking down at the screen with a food stamp benefits form behind him, and tiny people lined up behind the laptop screen waiting for benefits.|Who decides matters, but too often, we don't discuss it.|@jessie|
 
 # Delegating Decisions to Developers
 

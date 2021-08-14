@@ -14,7 +14,7 @@ Tools in computer science are no different. Consider, for example, one kind of t
 
 To help reduce this complexity, the rest of this chapter discusses various kinds of tools in CS and the skills they require to use, and then frames tools critically, showing how a choice of tool is actually a choice of values, about inclusion, equity, and community. We will then discuss one method for teaching tools that centers these critical views of tools, helping students to see their relationship to tools with more agency.
 
-|Chapter18_Figure02_Tools.png|An overhead x-ray of several carpentry tools, with a large pixelated mouse cursor hovering over the toolbox.|Making computing requires many distinct tools.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter18_Figure02_Tools.png|An overhead x-ray of several carpentry tools, with a large pixelated mouse cursor hovering over the toolbox.|Making computing requires many distinct tools.|@jessie|
 
 # Kinds of programming tools
 
@@ -66,7 +66,7 @@ Much of the lack of support for debugging comes from a longstanding culture in c
 
 There are of course many other tools that people who write code use. As code changes, they may rely on version control tools to track changes, allowing them to revert to previous versions if there’s a mistake and combine their work with others’ edits. They may use issue trackers to keep track of failures that haven’t been debugged and fixed, or ideas for features they might add. They may use tools for writing and generating documentation about the program they are writing, so that others can more easily learn how to reuse it or change a program. They may use project management tools to keep track of programming tasks, to divide up work and collaborate with other people.
 
-|Chapter18_Figure03_Soup.png|A bowl of green soup with several utensils covering over it, and the spoon about to be selected.|"The right tool for the job" applies in CS too.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter18_Figure03_Soup.png|A bowl of green soup with several utensils covering over it, and the spoon about to be selected.|"The right tool for the job" applies in CS too.|@jessie|
 
 # Comparing and Selecting Tools
 
@@ -96,7 +96,7 @@ Examples of different programming systems and their various assumptions.
 
 The table above has many caveats. First, programming systems are always changing, and so the details above may change as well, as communities and their tools evolve. Second, it is very hard to discover the details above, because most communities do not make their assumptions clear to newcomers, and they only become clear as you attempt to learn and use the tools from the community. Third, there is no centralized list of programming systems and their various assumptions and values, and so finding information about communities can be difficult. Perhaps as CS education matures, support for selecting, evaluating, and using various tools for CS education will mature as well.
 
-|Chapter18_Figure04_Writing.png|Several students learning to use a pencil to write, and a teacher helping over the shoulder of one student.|Learning tools is part of learning, like learning pencils is a part of learning writing.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter18_Figure04_Writing.png|Several students learning to use a pencil to write, and a teacher helping over the shoulder of one student.|Learning tools is part of learning, like learning pencils is a part of learning writing.|@jessie|
 
 # Teaching Tools
 

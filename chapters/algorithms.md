@@ -30,7 +30,7 @@ The value of the first becomes clear when we try to do the second. And the poten
 
 In the rest of this chapter, we’ll discuss how CS formalized the idea of algorithms, discriminate between different types of algorithm design and implementation skills, survey some of the foundational algorithms that CS has invented, and then discuss methods for how to teach algorithms and algorithm design.
 
-|Chapter13_Figure02_Sortinglist.png|Several horizontal purple bars and blurry hands trying and failing to put them in a column|CS likes to sort things.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter13_Figure02_Sortinglist.png|Several horizontal purple bars and blurry hands trying and failing to put them in a column|CS likes to sort things.|@jessie|
 
 # Searching and Sorting Data
 
@@ -121,7 +121,7 @@ These considerations question the algorithm by questioning the problem that it p
 
 Of course, all of the considerations above still have nothing to do with computers. All of the same issues would apply, for example, if we stepped back into the pre-digital era in the 1950’s with paper gradebooks: the difference was that teachers were making the judgement of how to order students in the list. With the computer-based gradebooks of today, the decision of how to order students is no longer the teachers’, but that of software designers and developers, writing some code, and making choices about how to order students. These choices, which may be done without consultation with any teachers, are done privately, meaning that no one can inspect the logic used to order students; they are made uniformly for all teachers of the school with no ability to control the ordering without advocating to the private company. And then, because the developer is writing instructions to be later executed, the decision about how to order students is ultimately made by an algorithm, without consideration for the specific students in the class, the rich diversity of their names, and the implications of a particular ordering in the social context of the classroom. The algorithm, executed automatically, frees the teacher from having to do the labor of re-sorting students every time a student joins or leaves a class, but at the expense of their agency in determining the semantics of that ordering. Algorithms, thus, are rich with value judgements, even when considered outside the context of a computer executing them, but the implementation of algorithms as code, executed on a computer,  is full of value judgements as well.
 
-|Chapter13_Figure03_Efficiency_Ethics.png|A man in front of a laptop pondering markets on the left and people on the right.|Designing algorithms is social _and_ technical.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter13_Figure03_Efficiency_Ethics.png|A man in front of a laptop pondering markets on the left and people on the right.|Designing algorithms is social _and_ technical.|@jessie|
 
 # Algorithm Design and Implementation
 
@@ -181,7 +181,7 @@ Of course, even if a programmer does consult with designers, and designers do co
 
 Would a programmer imagine this edge case? Would a designer? Would a teacher, when consulted about the hypothetical impacts of this algorithm? And is this scenario better than a world in which there was no algorithm helping the algorithm monitor students’ submissions? Ultimately, all algorithms, even simple ones like the above, when implemented on a computer, are a way of delegating tasks to a computer. In every case, we should imaginatively and inclusively consider the implications of delegating that work to something with so little intelligence and context. Edge cases, therefore, are not merely a technical term for some exceptions for algorithms to consider, but rather the inevitable fact of diversity: people on the margins, if not designed explicitly into an algorithm core behavior, will be ignored, and likely underserved or even oppressed by its actions.
 
-|Chapter13_Figure04_Algorithms.png|Fourth, all engaged in different activities, one sorting, one analyzing text, one scanning a map, one querying data.|Common problems and common solutions (with unintended consequences).|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter13_Figure04_Algorithms.png|Fourth, all engaged in different activities, one sorting, one analyzing text, one scanning a map, one querying data.|Common problems and common solutions (with unintended consequences).|@jessie|
 
 # Canonical Algorithms
 
@@ -209,7 +209,7 @@ A central question in CS education is whether students should learn these canoni
 
 Whether it is algorithms designed for a particular problem, or canonical algorithms emerging from CS foundations, the same basic pattern of algorithm design, algorithm implementation, and unintended consequences has played out over and over since we began automating algorithms digitally. Someone imagined the benefits of automating shift work scheduling, implemented it without consulting affected communities, and inadvertently caused single mothers to never see their children<oneil16>. Google thought it would be a good idea to apply face recognition discriminating between people and animals, implemented it without testing it on a diversity of faces, and ended up [classifying Black people|https://www.theverge.com/2018/1/12/16882408/google-racist-gorillas-photo-recognition-algorithm-ai] in photos as gorillas. Over and over, algorithm designers make the same mistake of meticulously analyzing algorithms for their overall correctness, efficiency, and accuracy, but overlooking the impact on the margins of diversity. And the public, still enamored with the power of algorithms to automate human tasks, freely delegate critical human activities to algorithms, in the hopes of saving some time, but often at the expense of justice. Understanding algorithms from these perspectives not only gives us a greater appreciation for their power, but also their peril.
 
-|Chapter13_Figure05_Steps.png|A group of students at the foot of purple stair steps that a teacher is beginning to climb.|Talking about steps.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter13_Figure05_Steps.png|A group of students at the foot of purple stair steps that a teacher is beginning to climb.|Talking about steps.|@jessie|
 
 # Teaching Algorithms
 

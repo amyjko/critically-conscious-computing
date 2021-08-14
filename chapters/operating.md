@@ -25,7 +25,7 @@ Throughout this transformation from mainframe to PC, Hollywood reinforced stereo
 
 This masculine style of computing spread to other New England colleges and high schools through Dartmouth’s Kiewit Network. While some women in universities retained access to computers, for instance women at Mount Holyoke used the burgeoning Dartmouth network to correspond with men at Dartmouth, arranging dates while avoiding expensive long-distance calls<rankin18>, men, especially white, wealthy men, enjoyed greater access. As computers became a widespread signal of social status, men, especially those at wealthy single-sex private schools, had access at much higher rates. Computing education was tied to mathematics, and, in general, men were encouraged to take math courses, while women were encouraged to become wives and homemakers. The history of women in computing and their role as computer programmers and operators was forgotten and replaced by a world shaped by wealthy elite men at Dartmouth specifically, and higher education broadly.
 
-|Chapter09_Figure03_Monopoly.png|Gigantic men's dress pants and shoes stepping upon the U.S. capital building with the Windows, Apple, and Google logos floating above.|Private enterprise overtakes scientific endeavor|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter09_Figure03_Monopoly.png|Gigantic men's dress pants and shoes stepping upon the U.S. capital building with the Windows, Apple, and Google logos floating above.|Private enterprise overtakes scientific endeavor|@jessie|
 
 # From Hobby to Marketplace
 
@@ -35,7 +35,7 @@ This liberal copying and sharing was also accompanied by fierce, anti-competitiv
 
 These economic trends interacted closely with the creation of modern operating systems. Before this shift, merging with a major competitor, acquiring a smaller competitor before they could grow, and creating vertical monopolies would generally invite antitrust investigations. Today, decades of acquisitions, mergers, and vertical integration have changed the rich, complex, and diverse landscape of computer systems and operating systems of the 1960s into a sterile and stable landscape today, with only Microsoft, Apple, and Google, dominating desktop and mobile operating systems, along with most of the internet that we interact with on a regular basis. All of these monopolies still have their roots in the earliest problems that human computer operators had, of trying to maximize use of a computer’s CPU to execute programs, prioritize urgent jobs over others, and maintain the hardware utilized by the CPU. In fact, some of these operating systems still use source code written in the 1960’s. The history of operating systems is therefore not just a series of events, but a set of artifacts, computer code, still used today by billions.
 
-|Chapter09_Figure04_InvisibleHand.png|A pile of computer hardware, with two-dimensional hands reaching out from the screens to touch keys and components.|Computers are made of distinct parts, each formerly human work.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter09_Figure04_InvisibleHand.png|A pile of computer hardware, with two-dimensional hands reaching out from the screens to touch keys and components.|Computers are made of distinct parts, each formerly human work.|@jessie|
 
 # Components of Modern Operating Systems
 
@@ -59,7 +59,7 @@ As computers connected to the internet, operating systems also needed ways of ma
 % DEFINITION
 Throughout all of these shifts from human operator to computer operating system, the interface to using a computer changed. In the mainframe era, one would say to the human operator, "_Can you run this program?_" and the human operator would say "_Sure, but there are a few more programs before you. Give me an hour?_" Operating systems first replaced this human interaction with *command line interfaces* (CLIs), where one would engage in a more restricted dialog with a computer. For example, to run a program in Unix, one needs to simply navigate to the file folder containing the program and then type it's name (if one wanted to run the popular text editor vim, and programs were stored in a folder named programs, one would type `cd programs;`bash to open the programs folder, and  `./vim`bash to run the program{ The "./" preceeding the program name signals that the program is located in the currently open folder, which is represented by a "." in Unix.}). These command line interfaces required users to remember many commands and follow their syntax precisely, and so researchers at Xerox PARC in the 1970’s worked on a simpler interface, which we now know as *graphical user interfaces* (GUIs). Instead of writing commands, programs were represented visually by icons, and they could be selected with a pointing device called a mouse. This changed the operation of a computer from writing a series of commands to performing clicks, drags, text entry into forms to manipulate files, run programs, and access input and output devices.
 
-|Chapter09_Figure05_AccessBlocked.png|Rodin's thinking man surrounded by iconographic locks, passwords, thumprints, and warnings.|Part of an operating system's job is keeping people out.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter09_Figure05_AccessBlocked.png|Rodin's thinking man surrounded by iconographic locks, passwords, thumprints, and warnings.|Part of an operating system's job is keeping people out.|@jessie|
 
 # Operating Systems as Gatekeepers
 
@@ -81,7 +81,7 @@ Because operating system providers determine the rules for which programs can ru
 
 Because operating systems are so central in shaping how we use computers, and yet they have become so privatized and monopolized, operating systems are now gatekeepers, centralizing power, resulting in a single monolithic leverage point for determining policy about what programs and data are allowed on computers. Most operating systems privatize these decisions, shifting them from individual moral judgement or public policy to private decisions by CEOs and boards. And, as we began this chapter discussing, they automate, replacing the facile intelligence of people with algorithms that promise speed. Therefore, far from being a mundane, almost invisible interface between hardware and software, operating systems are a center of power and conflict in an increasingly digital world.
 
-|Chapter09_Figure06_OperatingSystem.png|A slanted view of operating system icons and window tiles, with a woman trapped inside behind a window.|Operating systems, and therefore Microsoft, Google, and Apple, control nearly everything about our digital lives.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter09_Figure06_OperatingSystem.png|A slanted view of operating system icons and window tiles, with a woman trapped inside behind a window.|Operating systems, and therefore Microsoft, Google, and Apple, control nearly everything about our digital lives.|@jessie|
 
 # Teaching Operating Systems
 

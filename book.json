@@ -22,7 +22,7 @@
 			"id": "introduction", 
 			"title": "Introduction", 
 			"authors": ["ko"],
-			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|",
+			"image": "|Chapter00_Figure01_Introcover.png|The phrase 'Hello World', with a boy on the left speaking through a can to a girl on the right, who is looking away.|Let's talk about computing.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|",
 			"numbered": false
 		},
 		{
@@ -2371,6 +2371,9 @@
 		]
 	},
 	"symbols": {
+
+		"jessie": "Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]",
+		"ashley": "Ashley Wang [CC0|https://creativecommons.org/publicdomain/zero/1.0/]",
 
 		"keyIdeas": "### _Key ideas_",
 

@@ -26,7 +26,7 @@ Just a few years later in 1947, William Shockley, John Bardeen, and Walter Bratt
 
 Since the transistor was invented, there have been decades of refinements on the basic technology, to the point where modern computers can fit billions of them onto a computer chip the size of one’s thumb. And each of these billions of transistors do the same basic task of storing a binary digit, possibly representing part of a number, part of a computer program, or part of the latest viral video on YouTube.
 
-|Chapter08_Figure03_Insides.png|A human skeleton on the left, a health care provider in the middle pointing to the right, and on the right, a skeleton made out of computer parts, including a display, mice, mouse cursors, and cables.|Computers have many distinct parts, many mimicking human anatomy and intelligence.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter08_Figure03_Insides.png|A human skeleton on the left, a health care provider in the middle pointing to the right, and on the right, a skeleton made out of computer parts, including a display, mice, mouse cursors, and cables.|Computers have many distinct parts, many mimicking human anatomy and intelligence.|@jessie|
 
 # The Modern Computer
 
@@ -60,7 +60,7 @@ In addition to all of the hardware above, most modern computers also have  *netw
 
 All of this internet functionality requires surprising physical infrastructure: for example, to enable internet communication between Eastern United States and Europe, there are thousands of fiber optic cables running under the ocean, in a waterproof tube to protect it from sharks, transmitting bits at the speed of light. And whether a computer’s internet connection is fast and functional depends on each part of this infrastructure: a webpage might not load if the network card in a computer fails, if it’s connection to a modem fails, if a router fails, or a server is offline. In fact, a packet of data might make it all the way to its destination device, but if that device is offline, or overwhelmed with requests, it may not be received. There may also be intentional reasons it is not received: for example, China includes special software and hardware in its routers to automatically censor some data from ever reaching Chinese computers; this is often informally known as the [Great Firewall of China|https://en.wikipedia.org/wiki/Great_Firewall]. Many internet service providers (ISPs) also want to use hardware to privilege certain data packets sent by companies who pay them more money; this issue, known as [net neutrality|https://en.wikipedia.org/wiki/Net_neutrality], concerns whether all data should be moved at the same speed, or allowed to be privileged based on market competition.
 
-|Chapter08_Figure04_Ewaste.png|A woman crouching over a pile of computer garbage with a radiation symbol hovering over her shoulder.|All computers are eventually garbage.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter08_Figure04_Ewaste.png|A woman crouching over a pile of computer garbage with a radiation symbol hovering over her shoulder.|All computers are eventually garbage.|@jessie|
 
 # Computer Waste
 
@@ -74,7 +74,7 @@ Another difference between human computers and computing technology is the fuel 
 
 The future of computer hardware will likely look much like its past: constant innovation, an obsession with speed, the replacement of people, and the wasteful, polluting, and often toxic discarding of old technology. The question for the future of computers is whether the single goal of speed will continue to drive innovation, or whether new goals, such as sustainability and accessibility will begin to also shape their evolution.
 
-|Chapter08_Figure05_Inspecting.png|Several students peeking and peering into different parts of computers.|Students need to understand that computers are objects, not magic.|Jessie Huynh [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter08_Figure05_Inspecting.png|Several students peeking and peering into different parts of computers.|Students need to understand that computers are objects, not magic.|@jessie|
 
 # Teaching Computers
 

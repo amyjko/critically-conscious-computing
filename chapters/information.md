@@ -14,7 +14,7 @@ Each of these questions seek *information* about people living in the United Sta
 
 Much of what makes computers powerful are their ability to store, retrieve, analyze, and compute information. But as the distinction above makes clear, computers aren’t really processing information, they’re processing data. For example, when the first author of this chapter filled out the 2020 census, she wanted to indicate her ethnicity as Danish and Cantonese, as those are the two most meaningful ancestries that shape her ethnic identity. But the census form did not allow for those answers, so she instead had to describe herself as "White" and "Chinese."  This approximation, while imperfect, allows for researchers to use computers to quickly analyze racial and ethnic data about her response and others’, allowing algorithms to count her as a "White" person, as  "Chinese" person, or as a "biracial" person. It also allows people to use computers to create data visualizations about race, for example, plotting the migration of Asian families across the United States over time. But in no way does the computer know or understand her actual racial identity: that information is a rich, personal, evolving story of family, self-perception, and history. The data "White" and "Chinese" only captures a small and likely misleading portion of that story.
 
-|Chapter07_Figure01Reduction.png|A face, reduced into parts, losing a sense of a face.|Data can only approximate information.|Ashley Wang [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter07_Figure01Reduction.png|A face, reduced into parts, losing a sense of a face.|Data can only approximate information.|@ashley|
 
 # Data and Society
 
@@ -41,7 +41,7 @@ At the heart of computer’s use of data are also several privacy issues. The pr
 
 Because computers operate on data at such scale and speed, they amplify the benefits and harms of data, while also being completely dependent on data. Machine learning requires data to be valuable, and yet is strongly affected by biases in data. Data takes immense effort to create, maintain, and manage, and yet an algorithm processes it as abstract ones and zeroes, with no history of what it means, who created it, why, or how its meaning might have changed since it was recorded. Therefore, while computers--and more specifically the people who write the algorithms that they execute--can make astounding use of data to create exciting new experiences, they can also ignore its meaning, history, and potential for harm.
 
-|Chapter07_Figure02Binary.png|A book, glowing green, with binary digits flowing in and out of it, while being held by a hand.|Binary tries to represent everything|Ashley Wang [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter07_Figure02Binary.png|A book, glowing green, with binary digits flowing in and out of it, while being held by a hand.|Binary tries to represent everything|@ashley|
 
 # Encoding Information as Bits
 
@@ -127,7 +127,7 @@ Regardless of how sophisticated an encoding is, all computer encodings eventuall
 
 This fact has important implications: nothing a computer does with data is guaranteed to be accurate, fair, or true. It rests entirely upon the people gathering data and creating software to ensure that the limitations of data are known and accounted for, and that uses of that data in software do not inadvertently create new problems in people’s lives<dignazio20>. For example, returning to the U.S. Census, we can ask: what responsibility do the software engineers, scientists, and marketers who might use code to process U.S. Census data have to understand the limitations of census data? And if they cannot envision fair ways of using that limited data in software, what responsibility do they have to resist creating software that might do harm by amplifying the way that data encodings misrepresent reality? These are questions that are just as central to computer science as are technical questions about how to convert decimal to binary.
 
-|Chapter07_Figure03TeachingData.png|A Black woman at a whiteboard pointing to diagrams, pie charts, and binary digits.|Teaching data and information is about more than structure and manipulation.|Ashley Wang [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter07_Figure03TeachingData.png|A Black woman at a whiteboard pointing to diagrams, pie charts, and binary digits.|Teaching data and information is about more than structure and manipulation.|@ashley|
 
 # Teaching Data Critically
 
@@ -137,7 +137,7 @@ Research on how to teach critical perspectives on data is scant<weiland17>, thou
 
 What we do know is that a key pedagogical decision in talking about data with students is deciding what data to discuss. As we noted above in our discussion of the Census, seemingly mundane topics like counting and classifying the people that live in a country can have surprising and unexpected intersections with issues of safety, privacy, identity, and belonging Culturally sustaining and critical pedagogy might recommend choosing data that is personally meaningful and interesting to all students, and then engaging them in critical examination of its limitations, especially when that data is used in software to automate decisions. One challenge in doing this in the social context of a classroom is how to choose a type of information that is inclusive to all students’ interests and identities, but also not so politically charged that there’s no room for learning about how computers encode information. Identifying these topics requires both student voice, but also some domain knowledge about the data domains students might explore, and what political tensions they might engage.
 
-|Chapter07_Figure05_Lateness.png|A child running away from the view toward a classroom with a clock and tardy slips flying behind them.|Even lateness is algorithmic.|Ashley Wang [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
+|Chapter07_Figure05_Lateness.png|A child running away from the view toward a classroom with a clock and tardy slips flying behind them.|Even lateness is algorithmic.|@ashley|
 
 ## Unit Plan: Encoding Tardiness
 

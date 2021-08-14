@@ -127,7 +127,7 @@ Regardless of how sophisticated an encoding is, all computer encodings eventuall
 
 This fact has important implications: nothing a computer does with data is guaranteed to be accurate, fair, or true. It rests entirely upon the people gathering data and creating software to ensure that the limitations of data are known and accounted for, and that uses of that data in software do not inadvertently create new problems in people’s lives<dignazio20>. For example, returning to the U.S. Census, we can ask: what responsibility do the software engineers, scientists, and marketers who might use code to process U.S. Census data have to understand the limitations of census data? And if they cannot envision fair ways of using that limited data in software, what responsibility do they have to resist creating software that might do harm by amplifying the way that data encodings misrepresent reality? These are questions that are just as central to computer science as are technical questions about how to convert decimal to binary.
 
-|question.jpg|TODO|TODO Something representing teachers talking about data.|TODO|
+|Chapter07_Figure03TeachingData.png|A Black woman at a whiteboard pointing to diagrams, pie charts, and binary digits.|Teaching data and information is about more than structure and manipulation.|Ashley Wang [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|
 
 # Teaching Data Critically
 

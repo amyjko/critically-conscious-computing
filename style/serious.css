@@ -151,15 +151,15 @@ ol li.reference::before {
     padding-left: 0;
 }
 
-.outline-header a {
+a .outline-header, .outline-header a {
     color: rgb(180,180,180);
 }
 
-.outline-header-active a {
+a .outline-header-active {
 	color: black;
 }
 
-.outline-header a:hover, .navigation-footer a:hover {
+a:hover .outline-header , a:hover .navigation-footer {
     text-decoration: underline;
     color: black;
     font-weight: normal;

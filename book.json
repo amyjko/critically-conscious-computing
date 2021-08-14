@@ -163,42 +163,48 @@
 			"title": "CS + Humanities",
 			"authors": ["ko"],
 			"image": null,
-			"section": "Integration"
+			"section": "Integration",
+			"forthcoming": true
 		},
 		{
 			"id": "arts", 
 			"title": "CS + Arts",
 			"authors": ["ko"],
 			"image": null,
-			"section": "Integration"
+			"section": "Integration",
+			"forthcoming": true
 		},
 		{
 			"id": "math", 
 			"title": "CS + Mathematics",
 			"authors": ["ko"],
 			"image": null,
-			"section": "Integration"
+			"section": "Integration",
+			"forthcoming": true
 		},
 		{
 			"id": "science", 
 			"title": "CS + Science",
 			"authors": ["ko"],
 			"image": null,
-			"section": "Integration"
+			"section": "Integration",
+			"forthcoming": true
 		},
 		{
 			"id": "engineering", 
 			"title": "CS + Engineering",
 			"authors": ["ko"],
 			"image": null,
-			"section": "Integration"
+			"section": "Integration",
+			"forthcoming": true
 		},
 		{
 			"id": "conclusion", 
 			"title": "Conclusion",
 			"authors": ["ko"],
 			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
-			"section": "Conclusion"
+			"section": "Conclusion",
+			"forthcoming": true
 		},
 		{
 			"id": "standards", 

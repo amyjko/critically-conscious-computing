@@ -141,11 +141,6 @@ ol li.reference::before {
     margin-bottom: 0.5em;
 }
 
-.outline {
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-}
-
 .outline-header {
     text-indent: 0;
     padding-left: 0;

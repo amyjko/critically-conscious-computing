@@ -3,31 +3,31 @@
 @font-face {
     font-family: "Modum";
     font-display: block;
-    src: url('../fonts/The Northern Block Ltd - Modum.woff2') format("woff2"),
-         url('../fonts/The Northern Block Ltd - Modum.otf') format('opentype');
+    src: url('../fonts/Modum.woff2') format("woff2"),
+         url('../fonts/Modum.otf') format('opentype');
 }
 
 @font-face {
     font-family: "Modum";
     font-display: block;
-    src: url('../fonts/The Northern Block Ltd - Modum Italic.woff2') format('woff2'),
-         url('../fonts/The Northern Block Ltd - Modum Italic.otf') format('opentype'); 
+    src: url('../fonts/Modum Italic.woff2') format('woff2'),
+         url('../fonts/Modum Italic.otf') format('opentype'); 
     font-style: italic;
 }
 
 @font-face {
     font-family: "Modum";
     font-display: block;
-    src: url('../fonts/The Northern Block Ltd - Modum Bold.woff2') format('woff2'),
-         url('../fonts/The Northern Block Ltd - Modum Bold.otf') format('opentype'); 
+    src: url('../fonts/Modum Bold.woff2') format('woff2'),
+         url('../fonts/Modum Bold.otf') format('opentype'); 
     font-weight: bold;
 }
 
 @font-face {
     font-family: "Modum";
     font-display: block;
-    src: url('../fonts/The Northern Block Ltd - Modum Bold Italic.woff2') format('woff2'),
-         url('../fonts/The Northern Block Ltd - Modum Bold Italic.otf') format('opentype'); 
+    src: url('../fonts/Modum Bold Italic.woff2') format('woff2'),
+         url('../fonts/Modum Bold Italic.otf') format('opentype'); 
     font-weight: bold;
     font-style: italic;
 }
@@ -35,8 +35,8 @@
 @font-face {
     font-family: "Modum Extra";
     font-display: block;
-    src: url('../fonts/The Northern Block Ltd - Modum ExtraBold.woff2') format('woff2'),
-         url('../fonts/The Northern Block Ltd - Modum ExtraBold.otf') format('opentype'); 
+    src: url('../fonts/Modum ExtraBold.woff2') format('woff2'),
+         url('../fonts/Modum ExtraBold.otf') format('opentype'); 
     font-weight: bold;
 }
 

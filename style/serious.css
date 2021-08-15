@@ -221,10 +221,19 @@ blockquote .blockquote-caption {
 
 .content-highlight {
     border: none;
-    background-origin: padding-box;
-    background-color: #ffda80;
-    box-shadow: 1px 1px 1px #E0E0E0;
+	animation: pulse 3s 1;
 }
+
+@keyframes pulse {
+	0% { background-color: white; }
+	10% { background-color: #ffda80; }
+	20% { background-color: white; }
+	30% { background-color: #ffda80; }
+	40% { background-color: white; }
+	50% { background-color: #ffda80; }
+	100% { background-color: white; }
+}
+
 
 a {
     color: #1B499C;

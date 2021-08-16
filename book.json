@@ -126,7 +126,7 @@
 		{
 			"id": "ai", 
 			"title": "Artificial Intelligence", 
-			"authors": ["ko", "druga"],
+			"authors": ["ko"],
 			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|",
 			"section": "Code"
 		},

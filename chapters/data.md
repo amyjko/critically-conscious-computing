@@ -15,7 +15,7 @@ What we did not discuss in that earlier chapter, is where and how data is stored
 
 In this chapter, we’ll describe many types of data structures, from the smallest possible units of storage (variables) to the largest and most complex data structures (databases), and then return to each of these data structures’ capacity for injustice. We’ll then end with a discussion of how to teach data structures critically, developing students’ awareness of the power and peril of organizing data for computation.
 
-|question.jpg|TODO|TODO Something that conveys many tiny boxes with labels on them in which only one object can be held, and many single values, like a number or a word, about to enter those differently labeled boxes.|TODO|
+|Chapter12_Figure01_labeledboxes.png|An overhead view of cars, each parking in a numbered parking spot matching their numbers.|There are many metaphors for how variables store data, each with flaws.|@ashley|
 
 # Variables and Data Types
 
@@ -117,7 +117,7 @@ The examples above show two commonly used data types, integers and strings, but 
 
 It’s easy to get caught up in all of these technical details and forget that all variables store data that represent something in the world. For example, while social security numbers are a well defined data type, they are still fraught with problems: not all people who live in America have them; they are sensitive data that can be used to steal identity; they can change if numbers are lost; and they reveal information about people such as where they were born. And other aspects of the first author’s identity that one might try to store in a variable might be even more complex, including age (which depends on time zones), race (which depends on her family’s history of immigration and the historical geographic boundaries around nations). As we discussed in [Encoding Information|information], data is often a reduction of a much messier, and often uncertain and changing reality. Variables are therefore a rigid, reductive data structure tool for storing those imperfect models of a complex world.
 
-|question.jpg|TODO|TODO Something that conveys a long list of many nearly identically shaped things and a another thing with a unique shape that is excluded from the list, as well as some kind of robot machinery that’s processing each item in the list one item at a time.|TODO|
+|Chapter12_Figure02_list.png|A conveyor belt running bottom to top, with robotic arms on each side operating on the objects that pass down the line.|Lists are useful because loops are useful.|@ashley|
 
 # Lists
 As should be clear by now, data structures are not "natural" in any sense. How to store numbers and text in memory, and how to conveniently change and refer to values in memory with variables, were very much inventions, each aimed at solving a particular problem of expression to make the work of a software developer easier. 
@@ -349,7 +349,7 @@ D’Ignazio and Klein, 2020, in their book Data Feminism<dignazio20>, provide a 
 
 Designers of databases and any other kind of data structures, therefore have a responsibility to account for these limitations in their choices, approaching the assumptions they make about data with humility, to avoid reinforcing systems of oppression, or creating new ones. And users of them, including everyone in society that uses data, needs to recognize that computers cannot structure and present reality perfectly, and that it’s imperfections can do great harm.
 
-|question.jpg|TODO|TODO A depiction of students taking about how data is organized and represented|TODO|
+|Chapter12_Figure05_studentsdata.png|A row of students in a circle talking with an abstract diagram of boxes and arrows floating above their heads.|Learning about data structures means learning about organization.|@ashley|
 
 # Teaching Data Structures
 

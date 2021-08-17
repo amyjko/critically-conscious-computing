@@ -25,7 +25,7 @@ When I first came up with the term, no one had heard of it before, at least in o
 
 Just as with Hamilton and the Apollo project, when students engage in CS projects, they are not only engaging in programming computers, they are also engaging in all of the challenges posed by software engineering: what to make, for whom, why, and how. In the rest of this chapter, we will discuss these challenges, connect them to issues of social justice, and then discuss and illustrate teaching methods that can develop students’ critical consciousness of software in the midst of project-based learning.
 
-|question.jpg|placeholder|Something that depicts many phases of work, from conceptual to code, and how the process is much more like a spiral of iteration, refinement, and convergence, than a linear process.|placeholder|<
+|Chapter19_Figure02_Phases.png|An overhead view of a diagram showing product definition, research, analysis, design, and validation, with two hands collaborating to move between different phases.|Projects have phases, but they rarely occur in order.|@ashley|
 
 # Project Phases
 
@@ -157,7 +157,7 @@ Another strategy for mitigating teamwork challenges is ensuring that software en
 
 Of course, none of these strategies address the potential for conflict when engaging issues of justice in a project. Returning to our example of Project Dragonfly, for example, executives at the top and developers at the bottom weren’t just facing communication and management challenges, they had radically different politics and values. The executives were prioritizing profit and winning in the global search engine marketplace; the developers were prioritizing free speech, and to an extent humanitarian values in opposition to the Chinese Communist Party’s long standing commitments to surveillance, silencing, and violence. Some argued that the Dragonfly project was a purely technical and business endeavor, but others saw the project clearly for what it was: a capitalist goal at the expense of U.S. values in the freedom of speech. This conflict between executives and developers ultimately led to Project Dragonfly being canceled in 2018. 
 
-|Chapter19_Figure02_Phases.png|An overhead view of a diagram showing product definition, research, analysis, design, and validation, with two hands collaborating to move between different phases.|Projects have phases, but they rarely occur in order.|@ashley|
+|question.jpg|placeholder|Something that conveys two students working closely together to image and make software, on a whiteboard, on a computer, and in conversation, with the broader context of the world around them, with a teacher in the background facilitating.|@ashley|<
 
 # Project-Based Learning
 

@@ -11,7 +11,7 @@ Computer science, as a discipline, engages many questions about data, informatio
 
 What distinguishes computing from these other disciplines is that it is also concerned with creating intelligence. For instance, one person who imagined this possibility was the son of a banker, Charles Babbage<hyman85>, who first imagined a mechanical machine in 1822 that could automatically calculate mathematical formulas. Later in his life, he met an aristocrat’s teen daughter, Ada Lovelace <essinger14>, who had fallen deeply in love with mathematics, and became enamoured with Babbage’s vision of a machine that could calculate. She extended Babbage’s ideas much further, imagining a more general purpose machine capable of far more than just numerical calculation. She also imagined an idea at the foundation of computer science and how it views intelligence: the algorithm, a series of steps that would operate on abstract symbols. She wrote the first algorithm--to compute a mathematical sum of powers--conceiving of the notion of "loops" in which a machine iterates on a set of data, and "variables" in which to keep track of data. To Lovelace, algorithms were a way of capturing the kind of mathematical intelligence that people have, and encoding it in a repeatable form. These ideas later inspired Alan Turing<copeland04> to generalize the notion of algorithms further, which ultimately led to an even broader community of scholars ultimately creating the field of computer science.
 
-|Chapter06_Figure02_PortraitPortrayals.png|Babbage, Lovelace, and Turing in 19th century photo frames|These three were obsessed with symbolic intelligence, Babbage out of capitalist greed, and Lovelace and Turing out of curiosity.|TODO|
+|Chapter06_Figure02_PortraitPortrayals.png|Babbage, Lovelace, and Turing in 19th century photo frames|These three were obsessed with symbolic intelligence, Babbage out of capitalist greed, and Lovelace and Turing out of curiosity.|@jessie|
 
 # Symbolic Intelligence
 
@@ -113,7 +113,7 @@ Of course, Babbage, Boole, Lovelace, Turing could not have imagined the kinds of
 
 That basic fact has not changed since the dawn of modern computer science.
 
-|Chapter06_Figure03_DataIntelligence.png|A deconstructed chess board, with some pieces on squares and others on pixelated noise|Sometimes intelligence can be extracted from data.|TODO|
+|Chapter06_Figure03_DataIntelligence.png|A deconstructed chess board, with some pieces on squares and others on pixelated noise|Sometimes intelligence can be extracted from data.|@jessie|
 
 # Data-Driven Intelligence
 

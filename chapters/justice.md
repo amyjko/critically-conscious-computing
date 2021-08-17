@@ -30,7 +30,7 @@ A fifth force of computing that produces harm is *abstraction*. This key idea in
 
 None of these mechanisms of harm necessitate that computing is harmful. The TSA body scanners do some good, possibly helping prevent terrorism, streamlining lines, sparing travelers with "normal" bodies from an invasive pat down. Moreover, some TSA agents may be quite biased in other ways (e.g., racially profiling people of color); by empowering the TSA scanners and their algorithms to determine threats, perhaps some forms of bias are avoided. Designing computing to avoid bias is therefore not a simple matter of not using computing at all, but in carefully designing computing with a rich awareness of human diversity, so that people already marginalized by society aren’t further marginalized by these computational forces. And better yet, it might mean designing computing that helps resist and dismantle the systems of oppression already in society. For example, rather than creating more software to police travelers at airports, we might create software that helps address the underlying causes of terrorism at airports, furthering dialog, diplomacy, and mutual understanding of diverse cultures globally.
 
-|Chapter04_Figure03_ChallengingConversation.png|Several hands in a circle surrounding a burst of color in the center|Conversations about diversity, equity, inclusion, and justice require time and reflection.|TODO|
+|Chapter04_Figure03_ChallengingConversation.png|Several hands in a circle surrounding a burst of color in the center|Conversations about diversity, equity, inclusion, and justice require time and reflection.|@jessie|
 
 % TODO This really needs more citations into prior work on teaching CS ethics.
 # Teaching CS Equity and Justice

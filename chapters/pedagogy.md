@@ -34,7 +34,7 @@ Many countries, including Australia, Russia, many EU nations, Japan, and South K
 
 The common thread amongst all of these arguments for CS education is that they view computing _neutrally_: their goal is to educate youth about abstract ideas in CS, and inspire youth to create with those ideas, but rarely question what computing is used for or how it is shaping society. Moreover, these arguments do not question who shaped those ideas, why those ideas were created, and what alternative ideas in CS might exist had different voices participated in shaping them. For example, the CSTA Standards, broadly adopted across the United States, and adapted worldwide, and referred to throughout subsequent chapters of this book, has several standards related to "Impacts of Computing", include learning objectives like, "Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society." Such standards, aside from being framed as an utilitarian optimization problem, never question whether software should be made in the first place, do not disaggregate who benefits and who is harmed, and do not critically engage with human values and their tensions. These critical perspectives on computing are ones that ask, "_What is Facebook doing with our data and why?_", "_Why are the police using racist data on crime to influence where they patrol?_", "_Why are Silicon Valley companies protected from litigation about cyberbullying?_" Critical perspectives accept that CS has great potential and power to shape individual lives, but also question the application of that power, ask who has that power, ponder how that power should be distributed, and insist on the responsibility of those who possess it. CS did not start with this critical stance, and so few CS education reform efforts have held this critical stance either. Throughout this book, we will try to provide the foundations to do so.
 
-|Chapter02_Figure03_Power.png|TODO|How can one be conscious of something so invisible?|@jessie|
+|Chapter02_Figure03_Power.png|An overhead view of a city, its roads, and its stadiums in a square, and roads coming in and out of the square, with birds flying over, and a stadium highlighted yellow.|How can one be conscious of something so invisible?|@jessie|
 
 # Paulo Freire and Critical Consciousness
 
@@ -99,7 +99,7 @@ This raises questions of responsibility: what duty does this 1% of humanity have
 
 The narrative above is something we will elaborate on and deepen in the coming chapters, examining how the ideas in CS connect to the dynamics above. We will then build upon that content knowledge by offering pedagogical content knowledge on how to use dialogic teaching methods to help students develop their own personal counternarratives about computing.
 
-|Chapter02_Figure05_Dialogue.png|TODO|Discourse is at the heart of critical CS consciousness.|@jessie|
+|Chapter02_Figure05_Dialogue.png|An overhead view of several people in a yellow circle in chairs with laptops, with a white squiggles in the middle.|Discourse is at the heart of critical CS consciousness.|@jessie|
 
 # Critical CS Pedagogical Content Knowledge
 
@@ -115,7 +115,7 @@ Similar to Freire, Calabrese Barton and Tan argued for a framework of rightful p
 
 Each of these perspectives link to critical consciousness in different ways, and engage student identity with different goals. What they have in common, however, is their methods, which predominantly engage project-based learning and discussion, both of which give students agency and center their identities and interests. Technical CS content is not the center of these methods, but rather skills and knowledge to be gained as part of projects, or topics of reflection and debate as part of discussions. Throughout the rest of this book, we will provide examples of all of these methods, demonstrating how to link them to both technical and sociotechnical concepts in CS through student identity.
 
-|Chapter02_Figure06_Lesson_Plans.png|TODO|CS curricula tend to portray CS as neutral|@jessie|
+|Chapter02_Figure06_Lesson_Plans.png|A woman facing an extremely large clipboard drawing yellow highlights, with several oversized post it notes with scribbles.|CS curricula tend to portray CS as neutral|@jessie|
 
 # Critical CS Curricula
 

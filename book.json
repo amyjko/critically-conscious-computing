@@ -11,8 +11,8 @@
 	],
 	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
 	"images": {
-		"cover": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|",
-		"unknown": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|"	
+		"cover": "|question.jpg|TODO|Placeholder|@jessie|",
+		"unknown": "|question.jpg|TODO|Placeholder|@jessie|"	
 	},
 	"tags": [ "draft" ],
 	"description": "Computer science (CS) is often taught has a utopian discipline, full of powerful abstractions that can transform lives and society for the better. However, as computing has reshaped every part of society in both highly visible and highly invisible ways, it has become clear that the foundational ideas in CS carry explicit values: ones of automation, replacement, standardization, centralization, and amplification. These values have positioned it as a discipline of power, and due to the ignorance with which it is often applied, one of oppression. In this book, we reconsider the technical and pedagogy foundations of CS and CS education from this lens, and offer new CS teaching methods that are more critically conscious than dominant CS pedagogy, with the hope of fostering a more equitable, culturally sustaining, and just future of computing. \n\nThis book is a living document; [submit|https://github.com/amyjko/critically-conscious-computing] ideas, improvements, and corrections.",
@@ -29,7 +29,7 @@
 			"id": "history",
 			"title": "Critical CS Education History", 
 			"authors": ["ko"],
-			"image": "|Chapter01_Figure01_Cover.png|TODO|People made the ideas and culture of computing.|@jessie|",
+			"image": "|Chapter01_Figure01_Cover.png|Several red outline boxes, some with faces, including Charles Babbage, Alan Turing, Ada Lovelace, Seymour Papert, and many other influential people in CS history.|People made computing.|@jessie|",
 			"section": "Foundations"
 		},
 		{
@@ -202,7 +202,7 @@
 			"id": "conclusion", 
 			"title": "Conclusion",
 			"authors": ["ko"],
-			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"image": "|question.jpg|TODO|Placeholder|@jessie|",
 			"section": "Conclusion",
 			"forthcoming": true
 		},
@@ -210,7 +210,7 @@
 			"id": "standards", 
 			"title": "Standards", 
 			"authors": ["ko"],
-			"image": "|question.jpg|A question mark.|This is a placeholder.|Amy J. Ko [CC0|https://creativecommons.org/publicdomain/zero/1.0/]|",
+			"image": "|question.jpg|TODO|Placeholder.|@jessie|",
 			"numbered": false,
 			"section": "Appendix"
 		}

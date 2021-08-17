@@ -202,7 +202,7 @@ Of course, how sophisticated a program’s decisions are is purely a function of
 
 Is it possible to ever faithfully represent human judgement with control structures? It’s certainly possible to get closer. The IBM project almost certainly had more sophisticated control logic than our examples above, checking many more conditions and having much more complex procedures for when to escalate applications to the caseworkers that remained on staff. Perhaps a robust design workshop with caseworkers would have led to logic that was more aligned with their practices, such as checking for errors and reaching out to applications to help them secure approval. Other more advanced logic might even be used, such as the statistical reasoning used in machine learning, to try to predict which applications might need human review to be successfully approved. But as we shall see in later chapters, even machine learning and other forms of artificial intelligence are limited in their ability to mimic human reasoning, especially reasoning that requires empathy, context, and moral judgement.
 
-|Chapter11_Figure05_Observing.png|A young girl watching a traffic signal change and blink, very very closely, as she looms over traffic.|Watch programs closely; they decide quickly.|TODO|
+|Chapter11_Figure05_Observing.png|A young girl watching a traffic signal change and blink, very very closely, as she looms over traffic.|Watch programs closely; they decide quickly.|@jessie|
 
 # Teaching Control Structures
 
@@ -284,8 +284,6 @@ Of course, tracing a program’s execution can be incredibly boring--and inevita
 9.. Someone was just denied benefits, without considering any of the factors above.
 
 This method of bringing social context can be paired with having students bring in their own personal data as well. For example, rather than just choosing an arbitrary value for `number\_of\_dependents` above, students could determine their own value, and trace the algorithm to see how it would decide their family’s eligibility.
-
-|question.jpg|TODO|TODO An example of someone tracing the program above using the strategy below|TODO|
 
 After modeling tracing, then it’s time to teach students to trace programs independently. The best evidence suggests that tracing not only requires knowledge of syntax and semantics, but also strategies for scaffolding students’ attention to detail by providing them an explicit procedure<xie18>:
 

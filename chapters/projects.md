@@ -157,7 +157,7 @@ Another strategy for mitigating teamwork challenges is ensuring that software en
 
 Of course, none of these strategies address the potential for conflict when engaging issues of justice in a project. Returning to our example of Project Dragonfly, for example, executives at the top and developers at the bottom weren’t just facing communication and management challenges, they had radically different politics and values. The executives were prioritizing profit and winning in the global search engine marketplace; the developers were prioritizing free speech, and to an extent humanitarian values in opposition to the Chinese Communist Party’s long standing commitments to surveillance, silencing, and violence. Some argued that the Dragonfly project was a purely technical and business endeavor, but others saw the project clearly for what it was: a capitalist goal at the expense of U.S. values in the freedom of speech. This conflict between executives and developers ultimately led to Project Dragonfly being canceled in 2018. 
 
-|question.jpg|placeholder|Something that conveys two students working closely together to image and make software, on a whiteboard, on a computer, and in conversation, with the broader context of the world around them, with a teacher in the background facilitating.|@ashley|<
+|Chapter19_Figure04_Software.png|Several groups of students working behind laptops and in front of whiteboards, some being supported by a teacher.|Projects can promote CS learning, but require careful planning and scaffolding to make room to engage equity and justice.|@ashley|<
 
 # Project-Based Learning
 

@@ -26,84 +26,84 @@
 			"id": "introduction", 
 			"title": "Introduction", 
 			"authors": ["ko"],
-			"image": "|Chapter00_Figure01_Introcover.png|The phrase 'Hello World', with a boy on the left speaking through a can to a girl on the right, who is looking away.|Let's talk about computing.|@jessie|",
+			"image": "|Chapter00_Cover_Hello.png|The phrase 'Hello World', with a boy on the left speaking through a can to a girl on the right, who is looking away.|Let's talk about computing.|@jessie|",
 			"numbered": false
 		},
 		{
 			"id": "history",
 			"title": "Critical CS Education History", 
 			"authors": ["ko"],
-			"image": "|Chapter01_Figure01_Cover.png|Several red outline boxes, some with faces, including Charles Babbage, Alan Turing, Ada Lovelace, Seymour Papert, and many other influential people in CS history.|People make computing.|@jessie|",
+			"image": "|Chapter01_Cover_Faces.png|Several red outline boxes, some with faces, including Charles Babbage, Alan Turing, Ada Lovelace, Seymour Papert, and many other influential people in CS history.|People make computing.|@jessie|",
 			"section": "Foundations"
 		},
 		{
 			"id": "pedagogy", 
 			"title": "Critical CS Education Pedagogy", 
 			"authors": ["ko"],
-			"image": "|Chapter02_Figure01_Classroom.png|A teacher is in the middle of the classroom, in dialogue with students who are seated at their desks around her.|Critical CS pedagogy is about dialogue more than development.|@jessie|",
+			"image": "|Chapter02_Cover_Classroom.png|A teacher is in the middle of the classroom, in dialogue with students who are seated at their desks around her.|Critical CS pedagogy is about dialogue more than development.|@jessie|",
 			"section": "Foundations"
 		},
 		{
 			"id": "assessment", 
 			"title": "Critical CS Education Assessment", 
 			"authors": ["davidson", "ko"],
-			"image": "|Chapter03_Figure01_Feedback.png|An overhead shot of hands writing on paper with blue marks annotating a drawing.|Assessment is about more than grades, it's about learning and agency.|@jessie|",
+			"image": "|Chapter03_Cover_Feedback.png|An overhead shot of hands writing on paper with blue marks annotating a drawing.|Assessment is about more than grades, it's about learning and agency.|@jessie|",
 			"section": "Foundations"
 		},
 		{
 			"id": "justice", 
 			"title": "CS, Equity, and Justice", 
 			"authors": ["ko", "beitlers"],
-			"image": "|Chapter04_Figure01_Harm.png|On the left, the form of a face being analyzed by facial recognition, on the bottom, a row of men in prison jump suits against a fence, and above, the Amazon smile logo representing the sun.|Computing is as much about prisons as it is profits.|@jessie|",
+			"image": "|Chapter04_Cover_Harm.png|On the left, the form of a face being analyzed by facial recognition, on the bottom, a row of men in prison jump suits against a fence, and above, the Amazon smile logo representing the sun.|Computing is as much about prisons as it is profits.|@jessie|",
 			"section": "Computing"
 		},
 		{
 			"id": "design", 
 			"title": "CS and Design", 
 			"authors": ["ko", "oleson"],
-			"image": "|Chapter05_Figure01_Tension.png|A girl walking an enlarged rope like a tightrope, with abstract green shapes dancing in the backdrop.|Designing software is like walking a tightrope between technical and social constraints.|@jessie|",
+			"image": "|Chapter05_Cover_Tension.png|A girl walking an enlarged rope like a tightrope, with abstract green shapes dancing in the backdrop.|Designing software is like walking a tightrope between technical and social constraints.|@jessie|",
 			"section": "Computing"
 		},
 		{
 			"id": "intelligence", 
 			"title": "Encoding Intelligence", 
 			"authors": ["ko"],
-			"image": "|Chapter06_Figure01_AIApproximation.png|A faceless human face made of lines and dots with a dress color and tie.|Can machines be smart? How?|@jessie|",
+			"image": "|Chapter06_Cover_AIApproximation.png|A faceless human face made of lines and dots with a dress color and tie.|Can machines be smart? How?|@jessie|",
 			"section": "Computing"
 		},
 		{
 			"id": "information", 
 			"title": "Encoding Information", 
 			"authors": ["ko"],
-			"image": "|Chapter07_Figure00_Cover.png|Earth, in a cracked chalice, whose base is rows of bits.|Bits can model anything, but not without consequences.|@ashley|",
+			"image": "|Chapter07_Cover_Earth.png|Earth, in a cracked chalice, whose base is rows of bits.|Bits can model anything, but not without consequences.|@ashley|",
 			"section": "Computing"
 		},
 		{
 			"id": "computers", 
 			"title": "Computers", 
 			"authors": ["ko"],
-			"image": "|Chapter08_Figure01_Mimic.png|On the left, a child drawing a graph and on the right, an large interconnected network of lines.|Computers were human first.|@jessie|",
+			"image": "|Chapter08_Cover_Mimic.png|On the left, a child drawing a graph and on the right, an large interconnected network of lines.|Computers were human first.|@jessie|",
 			"section": "Computing"
 		},
 		{
 			"id": "operating", 
 			"title": "Operating Systems", 
 			"authors": ["ko", "mara"],
-			"image": "|Chapter09_Figure01_Punch_Cards.png|A line of gray scale people entering punch cards into a machine, with a punchcard in the background.|Operating systems, before they were automated.|@jessie|",
+			"image": "|Chapter09_Cover_PunchCards.png|A line of gray scale people entering punch cards into a machine, with a punchcard in the background.|Operating systems, before they were automated.|@jessie|",
 			"section": "Computing"
 		},
 		{
 			"id": "languages", 
 			"title": "Programming Languages", 
 			"authors": ["ko", "wortzman"],
-			"image": "|Chapter10_Figure01_ProgrammingLanguages.png|Photographs of programming language inventors, each in a blue circle.|Programming languages come from people.|@jessie|",
+			"image": "|Chapter10_Cover_ProgrammingLanguages.png|Photographs of programming language inventors, each in a blue circle.|Programming languages come from people.|@jessie|",
 			"section": "Code"
 		},
 		{
 			"id": "control", 
 			"title": "Control Structures", 
 			"authors": ["ko", "wortzman"],
-			"image": "|Chapter11_Figure01_NoChoice.png|Three boxes connected by lines with small people inside, trying to get out.|When algorithms decide, some people find they have few options.|@jessie|",
+			"image": "|Chapter11_Cover_NoChoice.png|Three boxes connected by lines with small people inside, trying to get out.|When algorithms decide, some people find they have few options.|@jessie|",
 			"section": "Code"
 		},
 		{
@@ -117,49 +117,49 @@
 			"id": "algorithms",
 			"title": "Algorithms",
 			"authors": ["ko"],
-			"image": "|Chapter13_Figure01_Blackbox.png|Several purple cubes of different rotations with people standing on them and in them.|The mysteries of black boxes.|@jessie|",
+			"image": "|Chapter13_Cover_Blackbox.png|Several purple cubes of different rotations with people standing on them and in them.|The mysteries of black boxes.|@jessie|",
 			"section": "Code"
 		},
 		{
 			"id": "abstractions",
 			"title": "Abstractions",
 			"authors": ["ko"],
-			"image": "|Chapter14_Figure01_Abstraction.png|Three faces, left to right: a detailed photo of a White man, an illustrative sketch, and a smiley face.|Removing details from ideas through abstraction can enable expression at the loss of nuance. With computing it is no different.|@jessie|",
+			"image": "|Chapter14_Cover_Abstraction.png|Three faces, left to right: a detailed photo of a White man, an illustrative sketch, and a smiley face.|Removing details from ideas through abstraction can enable expression at the loss of nuance. With computing it is no different.|@jessie|",
 			"section": "Code"
 		},
 		{
 			"id": "ai", 
 			"title": "Artificial Intelligence", 
 			"authors": ["ko"],
-			"image": "|Chapter15_Figure01_SciFi.png|A terminator robot with a line plot running through its chest like lightning, overseeing an infinite row of tiny workers at computers.|Depending on who you are, AI can be magical or horrifying.|@ashley|",
+			"image": "|Chapter15_Cover_SciFi.png|A terminator robot with a line plot running through its chest like lightning, overseeing an infinite row of tiny workers at computers.|Depending on who you are, AI can be magical or horrifying.|@ashley|",
 			"section": "Code"
 		},
 		{
 			"id": "programming",
 			"title": "Programming",
 			"authors": ["ko", "wortzman"],
-			"image": "|Chapter16_Figure01_Furniture.png|An Asian man measuring and cutting wood amidst sketches and assemblies of a wooden chair.|Programming is a craft like any other.|@jessie|",
+			"image": "|Chapter16_Cover_Furniture.png|An Asian man measuring and cutting wood amidst sketches and assemblies of a wooden chair.|Programming is a craft like any other.|@jessie|",
 			"section": "Skills"
 		},
 		{
 			"id": "verification", 
 			"title": "Verification and Debugging", 
 			"authors": ["ko"],
-			"image": "|Chapter17_Figure01_Fixingcar.png|A women fixing a car engine that is steaming pixelated orange, with a gas canister that says DATA nearby.|Everything breaks, including software.|@jessie|",
+			"image": "|Chapter17_Cover_FixingCar.png|A women fixing a car engine that is steaming pixelated orange, with a gas canister that says DATA nearby.|Everything breaks, including software.|@jessie|",
 			"section": "Skills"
 		},
 		{
 			"id": "tools", 
 			"title": "Tools",
 			"authors": ["ko"],
-			"image": "|Chapter18_Figure01_Pencil.png|Depictions of sign language, feather quills, pencils, stone tablets, and other creative tools.|All creativity involves tools of some kind. The tools of code just happen to be complex and ever-changing.|@jessie|",
+			"image": "|Chapter18_Cover_Pencil.png|Depictions of sign language, feather quills, pencils, stone tablets, and other creative tools.|All creativity involves tools of some kind. The tools of code just happen to be complex and ever-changing.|@jessie|",
 			"section": "Skills"
 		},
 		{
 			"id": "projects", 
 			"title": "Projects",
 			"authors": ["ko"],
-			"image": "|Chapter19_Figure01_MargaretHamilton.png|Margaret Hamilton standing atop the moon with printouts of code and illustrations of rockets in the background.|As Margaret Hamilton first observed, all software projects are software engineering projects.|@jessie|",
+			"image": "|Chapter19_Cover_MargaretHamilton.png|Margaret Hamilton standing atop the moon with printouts of code and illustrations of rockets in the background.|As Margaret Hamilton first observed, all software projects are software engineering projects.|@jessie|",
 			"section": "Skills"
 		},
 		{

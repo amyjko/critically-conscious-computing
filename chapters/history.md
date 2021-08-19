@@ -15,7 +15,7 @@ It’s tempting to think of CS as ahistorical: computing is, after all, a discip
 
 Of course, we ignore history at our peril. History is crucial for understanding why and how we teach CS. Not only does history help us understand the ideas in CS education that have been tried in the past, but even more importantly, it helps us understand the forces that shape CS educators’ communities, values, and daily work, including the methods we use, the reform efforts we support, and the rationales that drive what we choose to teach and what we choose to ignore. This book, therefore, will engage CS education history to set this stage, before embarking on a journey through foundational ideas in CS and CS education. And throughout, we will use the history of CS to situate the changes that have occurred throughout the short history of CS, both to help you as an educator understand the ideas in the discipline, but also to help you help students see that CS could have been very different than it is, and still can be.
 
-|Chapter01_Figure02_Abacus.png|Black and red abacus with a red, decorative circle in the bottom left corner of the abacus.|Computing emerged from counting and commerce.|@jessie|
+|Chapter01_Figure01_Abacus.png|Black and red abacus with a red, decorative circle in the bottom left corner of the abacus.|Computing emerged from counting and commerce.|@jessie|
 
 # Early CS Education as Calculation
 
@@ -25,7 +25,7 @@ Embedded in this history of calculation, number systems, and computing, were the
 
 Since the invention of numbers and calculation, teaching arithmetic has long been considered essential to education, including in Ancient Greece, the Roman Empire, ancient Egypt, and the broader classical education in medieval Europe. Thus, when public education emerged in the United States in the 19th century, and industrialization increased demand for basic numeracy skills to participate in trade, democratizing the skills of calculation was a goal<klein03>. Counting, calculation, and arithmetic became critical skills, just as they were thousands of years prior in Asia and the Middle East. To the extent that we view CS as the discipline concerned with how to calculate, and CS education as about teaching people how to calculate, CS education has been part of education across the world for millennia in the form of arithmetic.
 
-|Chapter01_Figure03_ENIAC.png|Two women programming the ENIAC|Computer programming in the 1960's.|@jessie|<
+|Chapter01_Figure02_ENIAC.png|Two women programming the ENIAC|Computer programming in the 1960's.|@jessie|<
 
 # Computers Professionalize and Industrialize CS Education
 
@@ -39,7 +39,7 @@ As higher education created these privileged pathways to CS education, industry 
 
 As academic CS emerged in higher education, meetings amongst CS faculty formalized, and the [Association for Computing Machinery|https://www.acm.org] (ACM) emerged<doyle15>. This professional society sought to organize, support, and advocate for the research and practice of CS internationally. Originally, it was open to all who were interested; in 1966, it adopted grades of membership and membership fees, and constituted rules around the creation of "special interest groups" (SIGs), to organize members into interest areas. As most of the members were faculty at colleges and universities, and digital computers were new, CS education was of central interest to its members. The result was that the very first ACM SIG was the Special Interest Group on Computer Science Education (SIGCSE). It first met in 1968, then formalized its SIG, and has held an annual conference every year since to discuss and share advances in CS education. Of course, since it was founded by faculty in higher education, and ideas from CS were largely absent in primary and secondary education, its dominant focus for many decades was higher education CS. And since the primary contributors were White men engaged in CS research, and who lacked any training in education or education research, most of the contributions to the conference were practical in nature, sharing valuable tips, techniques, tools, and experiences about CS teaching.
 
-|Chapter01_Figure04_Papert.png|Seymour Papert with two children looking at a robotic turtle glowing red.|Seymour Papert wonders how computers might transform education.|@jessie|>
+|Chapter01_Figure03_Papert.png|Seymour Papert with two children looking at a robotic turtle glowing red.|Seymour Papert wonders how computers might transform education.|@jessie|>
 
 # Attention Turns to Primary and Secondary School
 
@@ -51,7 +51,7 @@ As Papert’s ideas were shaping teachers’ efforts, software companies like Ap
 
 The result of these failed education reform efforts throughout the 1980’s and 90’s were that only a select few were encouraged into CS education. Computer and video game companies marketed to White boys<kiesler85>; White boys like Bill Gates<becraft14> and Paul Allen got privileged access to computer labs via their private high schools; and movies like [War Games|https://www.imdb.com/title/tt0086567/] portrayed White boys as isolated nerds who were rewarded for breaking rules. While these Western ideas shaped the youth in North America and Europe who pursued CS education in higher education, the rapid growth in economic opportunity generated interest throughout Asia, creating interest amongst wealthy Indian and Chinese boys who could attend universities in the United States and Europe. These global economic and cultural trends further reinforced the lack of diversity in CS at all levels, creating an almost exclusively higher education system of White and Asian boys.
 
-|Chapter01_Figure05_CSFORALL.png|Five girls of many different races in front of a laptop with the CS for All logo hovering and an American flag hovering behind them.|Education reform in a democracy sometimes needs a simple phrase.|@jessie|
+|Chapter01_Figure04_CSFORALL.png|Five girls of many different races in front of a laptop with the CS for All logo hovering and an American flag hovering behind them.|Education reform in a democracy sometimes needs a simple phrase.|@jessie|
 
 # A Second Attempt at K-12 CS Education Reform
 

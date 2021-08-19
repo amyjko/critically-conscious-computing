@@ -12,7 +12,7 @@ The opposing view is that algorithms and data are inherently not neutral. As num
 
 But in many ways, software is also far more powerful from past information technologies such as television, telephones, books, or paper, making its potential for harm greater. In this chapter, we’ll discuss the powerful forces behind computing that position it for harm, and then discuss one possible method for teaching youth about these forces in ways that center their voices and experiences.
 
-|Chapter04_Figure02_TSA.png|A row of human silhouettes, with normative male- and female-bodied ones on the left and right with check marks above their heads, and a group in the middle with an x including people with non-normative bodies.|Computing has a way of insisting on binaries, erasing diversity.|Jessie Huynh|
+|Chapter04_Figure01_TSA.png|A row of human silhouettes, with normative male- and female-bodied ones on the left and right with check marks above their heads, and a group in the middle with an x including people with non-normative bodies.|Computing has a way of insisting on binaries, erasing diversity.|Jessie Huynh|
 
 # How Computing Does Harm
 
@@ -30,7 +30,7 @@ A fifth force of computing that produces harm is *abstraction*. This key idea in
 
 None of these mechanisms of harm necessitate that computing is harmful. The TSA body scanners do some good, possibly helping prevent terrorism, streamlining lines, sparing travelers with "normal" bodies from an invasive pat down. Moreover, some TSA agents may be quite biased in other ways (e.g., racially profiling people of color); by empowering the TSA scanners and their algorithms to determine threats, perhaps some forms of bias are avoided. Designing computing to avoid bias is therefore not a simple matter of not using computing at all, but in carefully designing computing with a rich awareness of human diversity, so that people already marginalized by society aren’t further marginalized by these computational forces. And better yet, it might mean designing computing that helps resist and dismantle the systems of oppression already in society. For example, rather than creating more software to police travelers at airports, we might create software that helps address the underlying causes of terrorism at airports, furthering dialog, diplomacy, and mutual understanding of diverse cultures globally.
 
-|Chapter04_Figure03_ChallengingConversation.png|Several hands in a circle surrounding a burst of color in the center|Conversations about diversity, equity, inclusion, and justice require time and reflection.|@jessie|
+|Chapter04_Figure02_ChallengingConversation.png|Several hands in a circle surrounding a burst of color in the center|Conversations about diversity, equity, inclusion, and justice require time and reflection.|@jessie|
 
 % TODO This really needs more citations into prior work on teaching CS ethics.
 # Teaching CS Equity and Justice
@@ -41,7 +41,7 @@ First, talking about justice in the context of computing necessarily may require
 
 Another challenge with engaging injustice are the *difficult conversations* that such subjects may provoke. Some students may refuse to accept the existence of injustice, or insist on the objectivity of particular abstractions in the world (e.g., binary notions of gender). Promoting critical consciousness about computing therefore requires preparing students for the possibility of that conflict, having norms for how to handle it, and setting clear expectations that in the short time of a classroom period or even a whole unit, disagreements might not be resolved. That is not to say that teachers should avoid these controversies, but it does suggest that choosing topics carefully can help balance the goal of developing critical consciousness of computing and the risk of destabilizing social classroom conflict.
 
-|Chapter04_Figure04_Rules.png|A student at a desk with their head down and a blurry teacher walking away, with the block letter word "DETENTION" above and a clock that reads 10:10|Schools are a site of algorithmic oppression too.|@jessie|
+|Chapter04_Figure03_Rules.png|A student at a desk with their head down and a blurry teacher walking away, with the block letter word "DETENTION" above and a clock that reads 10:10|Schools are a site of algorithmic oppression too.|@jessie|
 
 ## Unit Plan: Schools as a Site for CS Inequity and Injustice
 

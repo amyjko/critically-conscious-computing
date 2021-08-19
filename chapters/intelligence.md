@@ -11,7 +11,7 @@ Computer science, as a discipline, engages many questions about data, informatio
 
 What distinguishes computing from these other disciplines is that it is also concerned with creating intelligence. For instance, one person who imagined this possibility was the son of a banker, Charles Babbage<hyman85>, who first imagined a mechanical machine in 1822 that could automatically calculate mathematical formulas. Later in his life, he met an aristocrat’s teen daughter, Ada Lovelace <essinger14>, who had fallen deeply in love with mathematics, and became enamoured with Babbage’s vision of a machine that could calculate. She extended Babbage’s ideas much further, imagining a more general purpose machine capable of far more than just numerical calculation. She also imagined an idea at the foundation of computer science and how it views intelligence: the algorithm, a series of steps that would operate on abstract symbols. She wrote the first algorithm--to compute a mathematical sum of powers--conceiving of the notion of "loops" in which a machine iterates on a set of data, and "variables" in which to keep track of data. To Lovelace, algorithms were a way of capturing the kind of mathematical intelligence that people have, and encoding it in a repeatable form. These ideas later inspired Alan Turing<copeland04> to generalize the notion of algorithms further, which ultimately led to an even broader community of scholars ultimately creating the field of computer science.
 
-|Chapter06_Figure02_PortraitPortrayals.png|Babbage, Lovelace, and Turing in 19th century photo frames|These three were obsessed with symbolic intelligence, Babbage out of capitalist greed, and Lovelace and Turing out of curiosity.|@jessie|
+|Chapter06_Figure01_PortraitPortrayals.png|Babbage, Lovelace, and Turing in 19th century photo frames|These three were obsessed with symbolic intelligence, Babbage out of capitalist greed, and Lovelace and Turing out of curiosity.|@jessie|
 
 # Symbolic Intelligence
 
@@ -113,7 +113,7 @@ Of course, Babbage, Boole, Lovelace, Turing could not have imagined the kinds of
 
 That basic fact has not changed since the dawn of modern computer science.
 
-|Chapter06_Figure03_DataIntelligence.png|A deconstructed chess board, with some pieces on squares and others on pixelated noise|Sometimes intelligence can be extracted from data.|@jessie|
+|Chapter06_Figure02_DataIntelligence.png|A deconstructed chess board, with some pieces on squares and others on pixelated noise|Sometimes intelligence can be extracted from data.|@jessie|
 
 # Data-Driven Intelligence
 
@@ -140,7 +140,7 @@ Machine learning algorithms "learns" a decision tree by analyzing the probabilit
 
 Is this intelligent? One way to answer that question is to ask whether this is effective classroom management. It isn’t, particularly; clearly whether to intervene is a much more situated decision, dependent on many more variables than just current and past off task behavior, including who the student is, what the activity is, when in the school year it is, whether the behavior is disruptive to others, whether a teacher perceives a learning opportunity from intervention. Thus, the decision tree is only as "intelligent" as the data it is given, and this data is not very "intelligent." The magic of machine learning methods such as decision trees is therefore still limited to its ability to efficiently and effectively learn from data, and to whatever intelligence is encoded into that data--not in its ability to critically question what the data means or what implications the behavior might have on students. That remains something only people can do.
 
-|Chapter06_Figure04_Debating.png|Two sides, separated by the lady justice statue, with people on the scale on the left weighing down the scales, in front of a backdrop of abstract boxes and schematics, and on the right, with a smaller group lift on another scale, in front of a backdrop of large silhouettes of people.|What kind of intelligence should be digitized?|@jessie|
+|Chapter06_Figure03_Debating.png|Two sides, separated by the lady justice statue, with people on the scale on the left weighing down the scales, in front of a backdrop of abstract boxes and schematics, and on the right, with a smaller group lift on another scale, in front of a backdrop of large silhouettes of people.|What kind of intelligence should be digitized?|@jessie|
 
 # Designing Intelligence
 
@@ -171,7 +171,7 @@ What do we make of the identities of these four intellectual forces who shaped t
 
 Does the potential for harm that may come from encoding intelligence, or the identities of the people who do this encoding, mean that we should stop creating software? Not necessarily. There is certainly work in the world that should be fast, reliable, and safely performed by computers instead of people. If software designers can envision it and engineers can build it, or learn it from data, then perhaps some of these tasks are valuable to automate. But it does mean that we have to much more carefully understand the limitations of software, and think carefully about when to use it, whether we are deciding whether to use a software program, voting democratically on technology policy, or designing software to be used by others.
 
-|Chapter06_Figure06_Library.png|A massive wall of books with stairs leading to them, with bright magenta sections of books highlighted and an ominous Google Search text box hovering in the center behind the walls.|What did we gain by automating the work of librarians? What did we lose?|@jessie|
+|Chapter06_Figure04_Library.png|A massive wall of books with stairs leading to them, with bright magenta sections of books highlighted and an ominous Google Search text box hovering in the center behind the walls.|What did we gain by automating the work of librarians? What did we lose?|@jessie|
 
 # Teaching Intelligence
 Engaging students in the two fundamental questions of what is intelligence? and how do we create it necessarily requires developing students’ critical consciousness with a third question: should we create it? Posing this question first engages students in reasoning about the ethical, moral, social, and economic implications of technology on society, while also necessarily engaging in questions about what kind of intelligence is and is not possible with software, and what kinds of automation are desirable, and for whom.

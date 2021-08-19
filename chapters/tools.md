@@ -14,19 +14,19 @@ Tools in computer science are no different. Consider, for example, one kind of t
 
 To help reduce this complexity, the rest of this chapter discusses various kinds of tools in CS and the skills they require to use, and then frames tools critically, showing how a choice of tool is actually a choice of values, about inclusion, equity, and community. We will then discuss one method for teaching tools that centers these critical views of tools, helping students to see their relationship to tools with more agency.
 
-|Chapter18_Figure02_Tools.png|An overhead x-ray of several carpentry tools, with a large pixelated mouse cursor hovering over the toolbox.|Making computing requires many distinct tools.|@jessie|
+|Chapter18_Figure01_Tools.png|An overhead x-ray of several carpentry tools, with a large pixelated mouse cursor hovering over the toolbox.|Making computing requires many distinct tools.|@jessie|
 
 # Kinds of programming tools
 
 The simplest way to view tools is to just think of them as a monolith, named by the programming language for which they work. When we say [Scratch|http://scratch.mit.edu], for example, we might refer to all of the various features of the Scratch application, including its website, its tools, its community, and the various books and documentation that support it. Or, when we say [Java|https://www.java.com/en/], we might refer to the many different implementations of Java compilers, Java runtimes, Java documentation, and communities of people who support each other in writing Java code. We call each of these broad aggregations of tools and communities *programming systems*<ko04>, in that they combine together many distinct, evolving tools, people, and practices to support the creation of software with a particular language. In some cases, programming systems might appear to be a single application: the [Scratch website|http://scratch.mit.edu], for example, appears to be a fully self-contained system with all of the tools necessary to use it. In contrast, some programming systems are decentralized; there is a [Python website|http://python.org], for example, where Python can be downloaded and its features are documented, but the broader ecosystem of Python tools are scattered across thousands of websites, maintained by thousands of people, with no inherent central organization. However, because not all programming systems are centralized, it can be helpful to distinguish between the different types of tools that exist in programming systems, and how they come to exist. 
 
-|PyCharm.jpg|A screenshot of the PyCharm IDE showing code, a breakpoint, a search dialog, and a call stack.|[PyCharm|https://www.jetbrains.com/pycharm/] is an IDE for writing Python applications, integrating many other tools into one window.|JetBrains ©|<
+|Screenshot-PyCharm.jpg|A screenshot of the PyCharm IDE showing code, a breakpoint, a search dialog, and a call stack.|[PyCharm|https://www.jetbrains.com/pycharm/] is an IDE for writing Python applications, integrating many other tools into one window.|JetBrains ©|<
 
 # Integrated Development Environments 
 
 Let’s first consider *integrated development environments* (or *IDEs*). IDEs aggregate many kinds of tools together in a single place, to make it easier to write programs without having to switch between different tools. Scratch has an IDE, integrating several distinct tools together into a single page: the editor, the output of a Scratch program, tools for customizing the appearances of Scratch characters, as well as access to Scratch documentation. The Scratch IDE was designed explicitly for youth to express their creativity. Similarly, there are IDEs for Python as well: a company named [JetBrains|http://jetbrains.com], based primarily in Russia, creates the [PyCharm IDE|https://www.jetbrains.com/pycharm/], which attempts to make it easy to quickly write code and identify and resolve basic errors. This is an IDE designed for experienced Python programmers. Microsoft, based in Redmond, Washington in the United States, makes an IDE called [Visual Studio Code|https://code.visualstudio.com] (VSCode) which has similar goals, but also supports other programming languages. In contrast, the [trinket.io|https://trinket.io] website is an IDE that allows learners to write and test simple Python programs, making it suitable for classroom contexts, which may not need the complex features of PyCharm or VSCode.
 
-|VSCode.png|A screenshot of Visual Studio Code, showing a source file, an autocomplete window, and a list of files.|[Visual Studio Code|https://code.visualstudio.com] focuses on efficient, customizable code editing|Microsoft ©|>
+|Screenshot-VSCode.png|A screenshot of Visual Studio Code, showing a source file, an autocomplete window, and a list of files.|[Visual Studio Code|https://code.visualstudio.com] focuses on efficient, customizable code editing|Microsoft ©|>
 
 ## Code Editors
 
@@ -50,7 +50,7 @@ Another value of compilers and interpreters is how they help find defects in pro
 
 The kinds of errors that a compiler or interpreter might find depend on the programming language, and so their ability to find errors, and clearly explain them, can vary considerably. Scratch, for example, prevents many errors with its block-based editor, but the language itself is also designed to have a small number of possible errors, so there are very few occasions where the Scratch interpreter will give an error. When it does--for example, if a program tries to create an infinite number of objects, consuming all computer memory--the error messages occur when the program runs. Of course, none of this means that errors are impossible in Scratch; instead, all of the errors that someone might make in a Scratch program are those where the logic of the program is unintended. Python, in contrast, can produce many possible errors when interpreted, and the error messages can be hard to understand unless someone is deeply familiar with the semantics of Python programs. And, of course, the same kinds of logic errors possible in Scratch programs are possible in Python too. Finally, because error messages are written in natural language, but often refer to technical ideas, many can be hard to comprehend, and even misleading, depending on who is reading them and what knowledge they have<becker19>. Error messages are therefore another place in which the values and intended audience of a community behind a programming system become apparent and can exclude.
 
-|Xcode.png|A screenshot of the Xcode IDE showing a running program paused on a line, a call stack, and a lis of variables within the call stack.|The [Xcode IDE|https://developer.apple.com/xcode/] for developing Apple applications, and it's breakpoint debugging view, which allows developers to inspect an executing program's behavior|Apple ©|<
+|Screenshot-Xcode.png|A screenshot of the Xcode IDE showing a running program paused on a line, a call stack, and a lis of variables within the call stack.|The [Xcode IDE|https://developer.apple.com/xcode/] for developing Apple applications, and it's breakpoint debugging view, which allows developers to inspect an executing program's behavior|Apple ©|<
 
 ## Debugging Tools
 
@@ -60,13 +60,13 @@ A more sophisticated tool is a *breakpoint* debugger, which allows one to specif
 
 Much of the lack of support for debugging comes from a longstanding culture in computer science of viewing debugging as a "dark art" that only the "best" programmers can do, while simultaneously viewing errors as something only less experienced programmers make. Perhaps this kind of gatekeeping prevents many from prioritizing strong tool support for finding the causes of mistakes.
 
-|GitHub.png|A screenshot of a GitHub Issues page, showing several issues in a table, each with colorful tags.|GitHub is a site for managing change to code. This page shows its issue tracker, which helps teams keep track of defects, feature ideas, and other future work.|GitHub ©|>
+|Screenshot-GitHub.png|A screenshot of a GitHub Issues page, showing several issues in a table, each with colorful tags.|GitHub is a site for managing change to code. This page shows its issue tracker, which helps teams keep track of defects, feature ideas, and other future work.|GitHub ©|>
 
 ## Evolution Tools
 
 There are of course many other tools that people who write code use. As code changes, they may rely on version control tools to track changes, allowing them to revert to previous versions if there’s a mistake and combine their work with others’ edits. They may use issue trackers to keep track of failures that haven’t been debugged and fixed, or ideas for features they might add. They may use tools for writing and generating documentation about the program they are writing, so that others can more easily learn how to reuse it or change a program. They may use project management tools to keep track of programming tasks, to divide up work and collaborate with other people.
 
-|Chapter18_Figure03_Soup.png|A bowl of green soup with several utensils covering over it, and the spoon about to be selected.|"The right tool for the job" applies in CS too.|@jessie|
+|Chapter18_Figure02_Soup.png|A bowl of green soup with several utensils covering over it, and the spoon about to be selected.|"The right tool for the job" applies in CS too.|@jessie|
 
 # Comparing and Selecting Tools
 
@@ -96,7 +96,7 @@ Examples of different programming systems and their various assumptions.
 
 The table above has many caveats. First, programming systems are always changing, and so the details above may change as well, as communities and their tools evolve. Second, it is very hard to discover the details above, because most communities do not make their assumptions clear to newcomers, and they only become clear as you attempt to learn and use the tools from the community. Third, there is no centralized list of programming systems and their various assumptions and values, and so finding information about communities can be difficult. Perhaps as CS education matures, support for selecting, evaluating, and using various tools for CS education will mature as well.
 
-|Chapter18_Figure04_Writing.png|Several students learning to use a pencil to write, and a teacher helping over the shoulder of one student.|Learning tools is part of learning, like learning pencils is a part of learning writing.|@jessie|
+|Chapter18_Figure03_Writing.png|Several students learning to use a pencil to write, and a teacher helping over the shoulder of one student.|Learning tools is part of learning, like learning pencils is a part of learning writing.|@jessie|
 
 # Teaching Tools
 

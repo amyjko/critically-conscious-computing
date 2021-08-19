@@ -29,7 +29,7 @@ This power, and the narrow set of values around which it was cultivated, have al
 
 In this chapter, we will try to dispel the myth of programming languages as an impenetrable mystery. We’ll do this by showing where they came from, who created them, and why, and then discuss how teachers might help students overcome the same myth. In subsequent chapters, we’ll discuss some of the major features of programming languages and how they are used to construct programs.
 
-|Chapter10_Figure02_PunchcardMissile.png|A punchcard with a parabola and missle behind it.|The first programs computed missle trajectories.|@jessie|
+|Chapter10_Figure01_PunchcardMissile.png|A punchcard with a parabola and missle behind it.|The first programs computed missle trajectories.|@jessie|
 
 # Punch Card Programming Languages
 
@@ -41,7 +41,7 @@ Now, imagine a CPU with 50 kinds of instructions. If `je` is represented by `101
 
 The values behind the invention of punch card programming were relatively straightforward: computers were being used to calculate missile trajectories in war time and to make costly business decisions, and so preventing errors was of the utmost importance. Had computers first been used to procedurally create digital art, or to connect communities, error prevention might have been a lower priority, and we might have instead ended up with languages that were less about calculation, but more about surprise and serendipity.
 
-|Chapter10_Figure03_COBOL.png|Grace Hopper looking down at a document, with COBOL instructions written on paper behind her.|Grace Hopper invented the first high-level programming language.|@jessie|
+|Chapter10_Figure02_COBOL.png|Grace Hopper looking down at a document, with COBOL instructions written on paper behind her.|Grace Hopper invented the first high-level programming language.|@jessie|
 
 # Textual Programming Languages
 
@@ -91,7 +91,7 @@ COBOL, therefore, didn’t use the same mathematical syntax, instead defining a 
 
 Ultimately, all textual programming languages, starting with COBOL, built upon Hopper’s metaphor of programming languages as natural languages{After several years working on COBOL, Hopper was recalled back into the Navy, eventually being promoted to rear admiral, one of the U.S. Navy’s few women to become admiral.}. Of course, programming languages only have superficial similarities to natural languages. Programming languages are unforgiving in syntactic compliance: one can communicate a somewhat ungrammatical sentence in a text message to a person ("LOL, TTYL?"), but still have its meaning be properly inferred, but a program that violates a programming language’s syntax (the COBOL command `DIVIDE SUM 2 AVERAGE` from the example above, but with no `BY` or `GIVING`) can’t be interpreted at all, even though the context might make it clear to a person what is intended. In this sense, compilers are unable to use context in sophisticated ways to interpret meaning. Additionally, programming languages are ultimately about precisely telling a computer what to do, whereas natural languages are rarely about unambiguously communicating step-by-step procedures. So while the metaphor of programming languages as natural languages has lasted, it is not a particularly productive metaphor. Instead, we might think of programming languages as notations that encode mathematics and logic, which happen to resemble natural languages in superficial ways.
 
-|Chapter10_Figure04_Python.png|A black screen with several 1's and 0's making the shape of the Python language logo. A red 0 is in the center.|Python isn't neutral; it has explicit values.|Jessie Huynh|
+|Chapter10_Figure03_Python.png|A black screen with several 1's and 0's making the shape of the Python language logo. A red 0 is in the center.|Python isn't neutral; it has explicit values.|Jessie Huynh|
 
 # Programming Languages Have Values
 
@@ -176,13 +176,13 @@ In this example, the first line says that two floating point numbers are given a
 
 While the history of programming languages has largely been driven by concerns of speed, error-prevention, and mathematical purity, there have been hundreds of programming languages invented to support other kinds of expression. For example, in the late 1990’s, professor [Randy Pausch|https://en.wikipedia.org/wiki/Randy_Pausch] and his team created *[Alice|https://www.alice.org]* (1999)<cooper03>, which sought to simplify the creation of interactive, animated 3D virtual worlds. Most notably, rather than having programmers use a text editor to write programs character by character, it used a graphical user interface that allowed users to drag and drop parts of programs, inspired by novel editors from the 1980’s<teitelbaum81>. This drag and drop interface, now widely known as a block-based editor{Note, however, that this was just a change in editor, not the language. It would have been possible to write Alice programs character by character, had its creators decided to offer such a feature. This confusion persists with new terminology around "block-based languages"; here we prefer the more accurate phrase "block-based editor".} prevents users from making syntax errors, which can be a major barrier to learning a programming language. Here’s an example program that animated a character:
 
-|Alice.jpg|A screenshot of the Alice programming environment showing a code editor with several animation commands.|The Alice programming evironment, which was designed for 3D animation, not math.|Alice.org|
+|Screenshot_Alice.jpg|A screenshot of the Alice programming environment showing a code editor with several animation commands.|The Alice programming evironment, which was designed for 3D animation, not math.|Alice.org|
 
 Rather than focusing on mathematics, Alice included language ideas that enabled animations to concurrently execute. It’s designers valued the expression of stories and emotion.
 
 *Scratch* (2003), led by [Mitch Resnick|https://en.wikipedia.org/wiki/Mitchel_Resnick]<maloney10>, mirrored the goals of Alice and many other creative platforms that had come before it, attempting to offer a language that would allow youth to tell interactive stories on two-dimensional canvases. Scratch used many similar language ideas to C and Java, but like Alice, included a drag and drop editor that eliminates the possibility of syntax errors. Here is an example Scratch program that animates a character:
 
-|Scratch.jpg|A screenshot of a Scratch program showing a cat on a stage and a program that moves 10 steps and waits on repeat then says Let's Dance"|The Scratch programming environment, designed for 2D animation.|Steahpia Hladik|
+|Screenshot-Scratch.jpg|A screenshot of a Scratch program showing a cat on a stage and a program that moves 10 steps and waits on repeat then says Let's Dance"|The Scratch programming environment, designed for 2D animation.|Steahpia Hladik|
 
 % TODO Give a data science example, such as Vega Lite for data visualization
 
@@ -199,7 +199,7 @@ While this abbreviated history reveals that programming language designs ultimat
 
 The communities that support languages have similar exclusionary norms. For example, many programming language designs are evolved through community processes. Python, for example, which is particularly progressive in its inclusion efforts, has a diversity statement and a code of conduct, and a steering council of five members at the time of this writing charged with enforcing them. However, they are all from Western, English-speaking countries, only one identifies as a woman, and none are people of color. Their views shape the evolution of the language and its community, which shape the kinds of software created with Python, which shapes the kinds of experiences that everyone in the world have with software built with Python. For example, up until version 3 of Python, Unicode support was not the default, meaning that most Python programs and communities used text encodings that excluded most of the world’s languages. Python 3, while it now uses Unicode by default, was largely ignored by developers for a decade, because so much of the world’s Python code was already written in Python 2, and it was not compatible. This demonstrates how choices long ago by Python’s designer in 1989--to privilege English--continue to live on today.
 
-|Chapter10_Figure05_StudentLanguage.png|A Black student playing a trumpet, but with code blaring out.|Learning a language is like learning an instrument.|@jessie|
+|Chapter10_Figure04_StudentLanguage.png|A Black student playing a trumpet, but with code blaring out.|Learning a language is like learning an instrument.|@jessie|
 
 # Teaching Programming Languages
 

@@ -17,7 +17,7 @@ While formative assessments that offer feedback and guidance can be powerful too
 
 In the rest of this chapter, we will examine the history and problems above from the perspective of CS, considering different motivations for assessing CS knowledge, the diversity of concepts and skills in CS that we can assess, and ways of assessing CS knowledge. Throughout, we will complicate current assessment practices in CS, identify gaps in what and how we assess in CS, and offer assessment principles to guide critical CS pedagogy
 
-|Chapter03_Figure02_Judging.png|A scantron sheet with a woman in a cap and gown and a blue bar over her eyes, a magnifying glass over her shoulder, and a 3.5 below her chin.|Why do we assess?|@jessie|
+|Chapter03_Figure01_Judging.png|A scantron sheet with a woman in a cap and gown and a blue bar over her eyes, a magnifying glass over her shoulder, and a 3.5 below her chin.|Why do we assess?|@jessie|
 
 # Motivations for Assessing CS Knowledge
 
@@ -29,7 +29,7 @@ As schools industrialized in the 20th century, other motivations crept into lear
 
 Another industrial motivation found its way into organizations outside of school: merit. Colleges and universities began using summative assessments like grades and AP exam scores as indicators of merit and predictions about future success, incorporating them into admissions and hiring decisions. Such motivations are fundamentally about solving a particular problem of resource allocation: who should get access to the limited attention of a university, or access to the limited jobs at a company? Software companies like Google have long used particular GPAs or grades in individual CS courses as a threshold for eligibility to even interview at Google, let alone get a job (not to mention excluding all but a few elite universities from eligibility). These applications of assessment often act as gatekeeping by contributing--frequently inequitable and biased<xie21>--decisions about who is able to pursue additional education, gain employment, or participate in certain communities.
 
-|Chapter03_Figure03_Reflecting.png|A circle with a child peering down inside its contents. Pixelated things and people inside, with code in the background.|There are a lot of different things to know about CS, and no one can know them all.|@jessie|
+|Chapter03_Figure02_Reflecting.png|A circle with a child peering down inside its contents. Pixelated things and people inside, with code in the background.|There are a lot of different things to know about CS, and no one can know them all.|@jessie|
 
 # What is CS Knowledge?
 
@@ -51,7 +51,7 @@ This dynamism in CS content knowledge poses unique challenges for assessing CS k
 
 Of course, CS teachers are free to limit their assessments to the knowledge encoded in standards. After all, that is the purpose of standards: to help teachers focus their teaching and assessments, while ensuring their teaching is grounded in the discipline. Teachers just need to be mindful that standards are only a lagging proxy for an evolving field with competing ideas about what CS is. Teachers will ultimately decide what they help students learn and what they will assess to facilitate that learning.
 
-|Chapter03_Figure04_Measuring.png|Several students at different distances standing straight up on top of transparent rulers at different angles.|Current practices are grounded in notions of measurement.|@jessie|
+|Chapter03_Figure03_Measuring.png|Several students at different distances standing straight up on top of transparent rulers at different angles.|Current practices are grounded in notions of measurement.|@jessie|
 
 # Current CS assessment practices
 
@@ -121,7 +121,7 @@ While automated scoring can save teachers some assessment labor, they have yet t
 
 Of course, all of these limitations of current CS assessment practices are even more greatly limited in their scope: there has been little effort in research or practice to develop equitable practices for assessing much beyond technical skills in programming. Even within the scope of the K-12 CS standards, we do not yet know how to assess students’ conceptual understanding of computer hardware and networks, their creative skills in devising algorithms, their ability to organize more complex computer programs, or their ability to productively collaborate. And there has been effectively no research on how to use assessment to develop students’ moral and ethical reasoning skills to understand the impact of computing on society and individual lives. CS teachers are therefore on the forefront of creatively exploring ways of using assessment to guide learning of the broadening scope of CS knowledge.
 
-|Chapter03_Figure05_CaringFeedback.png|A woman on the right, looking left, holding out her hand, looking into the eyes of a very tiny child sitting cross legged on her hand.|CS assessments should be about care and support, not judgment.|Jessie Huynh|
+|Chapter03_Figure04_CaringFeedback.png|A woman on the right, looking left, holding out her hand, looking into the eyes of a very tiny child sitting cross legged on her hand.|CS assessments should be about care and support, not judgment.|Jessie Huynh|
 
 # Equitable CS Assessment
 

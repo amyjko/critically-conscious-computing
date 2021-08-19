@@ -81,7 +81,7 @@ Because operating system providers determine the rules for which programs can ru
 
 Because operating systems are so central in shaping how we use computers, and yet they have become so privatized and monopolized, operating systems are now gatekeepers, centralizing power, resulting in a single monolithic leverage point for determining policy about what programs and data are allowed on computers. Most operating systems privatize these decisions, shifting them from individual moral judgement or public policy to private decisions by CEOs and boards. And, as we began this chapter discussing, they automate, replacing the facile intelligence of people with algorithms that promise speed. Therefore, far from being a mundane, almost invisible interface between hardware and software, operating systems are a center of power and conflict in an increasingly digital world.
 
-|Chapter09_Figure07_OperatingSystem.png|A slanted view of operating system icons and window tiles, with a woman trapped inside behind a window.|Operating systems, and therefore Microsoft, Google, and Apple, control nearly everything about our digital lives.|@jessie|
+|Chapter09_Figure05_OperatingSystem.png|A slanted view of operating system icons and window tiles, with a woman trapped inside behind a window.|Operating systems, and therefore Microsoft, Google, and Apple, control nearly everything about our digital lives.|@jessie|
 
 # Teaching Operating Systems
 

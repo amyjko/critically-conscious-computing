@@ -145,15 +145,15 @@ ol li.reference::before {
     text-indent: 0;
 }
 
-a .outline-header, .outline-header a {
+.outline-header a {
     color: rgb(180,180,180);
 }
 
-a .outline-header-active {
+.outline-header-active a {
 	color: black;
 }
 
-a:hover .outline-header , a:hover .navigation-footer {
+.outline-header a:hover, a:hover .navigation-footer {
     text-decoration: underline;
     color: black;
     font-weight: normal;

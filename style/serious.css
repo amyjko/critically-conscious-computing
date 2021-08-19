@@ -154,7 +154,6 @@ ol li.reference::before {
 }
 
 .outline-header a:hover, a:hover .navigation-footer {
-    text-decoration: underline;
     color: black;
     font-weight: normal;
 }
@@ -225,12 +224,7 @@ blockquote .blockquote-caption {
 
 @keyframes pulse {
 	0% { background-color: white; }
-	10% { background-color: #ffda80; }
-	20% { background-color: white; }
-	30% { background-color: #ffda80; }
-	40% { background-color: white; }
-	50% { background-color: #ffda80; }
-	100% { background-color: white; }
+	100% { background-color: #ffda80; }
 }
 
 

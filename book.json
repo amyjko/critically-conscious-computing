@@ -15,7 +15,7 @@
 		"references": "|question.jpg|TODO|Placeholder|@ashley|",
 		"glossary": "|question.jpg|TODO|Placeholder|@ashley|",
 		"index": "|question.jpg|TODO|Placeholder|@jessie|",
-		"search": "|question.jpg|TODO|Placeholder|@jessie|",
+		"search": "|Appendix_WebSearch.png|A girl looking through a telescope at the stars, but the stars are nodes and edges.|What are you looking for?|@jessie|",
 		"unknown": "|question.jpg|TODO|Placeholder|@jessie|"
 	},
 	"tags": [ "draft" ],
@@ -166,7 +166,7 @@
 			"id": "humanities", 
 			"title": "CS + Humanities",
 			"authors": ["ko"],
-			"image": null,
+			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
 			"section": "Integration",
 			"forthcoming": true
 		},
@@ -174,7 +174,7 @@
 			"id": "arts", 
 			"title": "CS + Arts",
 			"authors": ["ko"],
-			"image": null,
+			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
 			"section": "Integration",
 			"forthcoming": true
 		},
@@ -182,7 +182,7 @@
 			"id": "math", 
 			"title": "CS + Mathematics",
 			"authors": ["ko"],
-			"image": null,
+			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
 			"section": "Integration",
 			"forthcoming": true
 		},
@@ -190,7 +190,7 @@
 			"id": "science", 
 			"title": "CS + Science",
 			"authors": ["ko"],
-			"image": null,
+			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
 			"section": "Integration",
 			"forthcoming": true
 		},
@@ -198,7 +198,7 @@
 			"id": "engineering", 
 			"title": "CS + Engineering",
 			"authors": ["ko"],
-			"image": null,
+			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
 			"section": "Integration",
 			"forthcoming": true
 		},

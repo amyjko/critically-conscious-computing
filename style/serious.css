@@ -219,12 +219,14 @@ blockquote .blockquote-caption {
 
 .content-highlight {
     border: none;
-	animation: pulse 3s 1;
+	animation: pulse .75s 3;
+	animation-fill-mode: forwards;
 }
 
 @keyframes pulse {
 	0% { background-color: white; }
-	100% { background-color: #ffda80; }
+	50% { background-color: #ffda80; }
+	100% { background-color: white; }
 }
 
 

@@ -149,6 +149,10 @@ a .outline-header {
     color: rgb(180,180,180);
 }
 
+a .outline-header-active {
+	color: black;
+}
+
 code {
     font-family: "DM Mono", monospace;
 }

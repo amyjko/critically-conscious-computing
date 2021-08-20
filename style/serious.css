@@ -149,7 +149,7 @@ a .outline-header {
     color: rgb(180,180,180);
 }
 
-a .outline-header-active {
+a .outline-header-active, a:hover .outline-header {
 	color: black;
 }
 

@@ -78,10 +78,10 @@ Such choices are not only important in general, but explicitly important in comp
 
 This book will contain code. It will look like this:
 
-`python
+`python!
 # This is a simple Python program.
-print "Hi, I print the symbols between these quotes."
-`
+print("Hi, I print the symbols between these quotes.")
+`Press the play button to execute the program.
 
 We'll primarily use [Python|https://www.python.org] in this book. This isn't because Python is necessarily the best programming language, or even a great programming language. Rather:
 

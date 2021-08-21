@@ -422,3 +422,7 @@ hr {
 .hljs-selector-tag {
   color: #E8AF22;
 }
+
+.python .python-output {
+    font-family: "DM Mono", monospace;
+}

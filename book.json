@@ -17,7 +17,7 @@
 		"index": "|question.jpg|TODO|Placeholder|@jessie|",
 		"search": "|Appendix_WebSearch.png|A girl looking through a telescope at the stars, but the stars are nodes and edges.|What are you looking for?|@jessie|",
 		"media": "|Book_Cover.png|Several applications of computing, including VR, news, robotics, information, and automation.|Computing is everywhere, for better and worse.|@jessie|",
-		"unknown": "|question.jpg|TODO|Placeholder|@jessie|"
+		"unknown": "|Appendix_Unknown.png|A question mark with a globe inside and a face melted into its side, a 404 on the left, and a small person looking up to the question mark face.|Something's missing.|@jessie|"
 	},
 	"tags": [ "draft" ],
 	"description": "Computer science (CS) is often taught has a utopian discipline, full of powerful abstractions that can transform lives and society for the better. However, as computing has reshaped every part of society in both highly visible and highly invisible ways, it has become clear that the foundational ideas in CS carry explicit values: ones of automation, replacement, standardization, centralization, and amplification. These values have positioned it as a discipline of power, and due to the ignorance with which it is often applied, one of oppression. In this book, we reconsider the technical and pedagogical foundations of CS and CS education from this lens, and offer teaching methods for secondary education that are more critically conscious than dominant CS pedagogy, with the hope of fostering a more equitable, culturally sustaining, and just future of computing. \n\nThis book is a living document; [submit|https://github.com/amyjko/critically-conscious-computing] ideas, improvements, and corrections.",

@@ -812,6 +812,13 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/_/P6hcDwAAQBAJ?hl=en&gbpv=0"
 		],
+		"francois21": [
+			"Annamarie Francois, Karen Hunter Quarts",
+			2021,
+			"Preparing and Sustaining Social Justice Educators",
+			"Harvard Education Press",
+			"https://www.google.com/books/edition/Preparing_and_Sustaining_Social_Justice/zkNozgEACAAJ?hl=en"
+		],
 		"frankish14": [
 			"Keith Frankish, Milton Keynes, William M. Ramsey",
 			2014,
@@ -1610,6 +1617,13 @@
 			"IEEE/ACM International Conference on Software Engineering (ICSE)",
 			"https://doi.org/10.1109/ICSE.2019.00059"
 		],
+		"moudgalya21": [
+			"Sukanya Kannan Moudgalya, Aman Yadav, Philip Sands, Sara Vogel, Mike Zamansky",
+			2021,
+			"Teacher Views on Computational Thinking as a Pathway to Computer Science",
+			"#iticse",
+			"https://doi.org/10.1145/3430665.3456334"
+		],
 		"mott14": [
 			"Martez E. Mott, Jacob O. Wobbrock",
 			2014,
@@ -1803,7 +1817,7 @@
 			"Leo Porter, Cynthia Bailey Lee, Beth Simon, Quintin Cutts, Daniel Zingaro",
 			2011,
 			"A multi-classroom report on the value of peer instruction",
-			"ACM Innovation and Technology in Computer Science Education (ITiCSE)",
+			"#iticse",
 			"https://doi.org/10.1145/1999747.1999788"
 		],
 		"prather19": [
@@ -2015,6 +2029,13 @@
 			"The cognitive benefits of learning computer programming: A meta-analysis of transfer effects",
 			"Journal of Educational Psychology",
 			"https://psycnet.apa.org/doi/10.1037/edu0000314"
+		],
+		"scott15": [
+			"Kimberly A. Scott, Kimberly M. Sheridan, Kevin Clark",
+			2015,
+			"Culturally responsive computing: A theory revisited",
+			"Learning, Media and Technology",
+			"https://doi.org/10.1080/17439884.2014.924966"
 		],
 		"sheard02": [
 			"Judy Sheard, Martin Dick, Selby Markham, Ian Macdonald, Meaghan Walsh",
@@ -2567,6 +2588,31 @@
 
 	},
 	"glossary": {
+		"software": {
+			"phrase": "software",
+			"definition": "Apps, websites, and other products and services that people use on computers, laptops, tablets, smartphones, and other digital devices that have computers in them.",
+			"synonyms": ["programs", "applications", "apps"]
+		},
+		"computer": {
+			"phrase": "computer",
+			"definition": "Physical hardware that receives input, stores and processes data, and produces output. Examples include consumer devices like desktop computers, tablets, smartphones, but also less obvious devices that embed computers, like cars, kitchen appliances, and smart home devices such as smart speakers.",
+			"synonyms": []
+		},
+		"cs": {
+			"phrase": "computer science",
+			"definition": "The academic discipline and community that studies both human and technical aspects of computer use, computational thinking, programs, programming, software, and software engineering.",
+			"synonyms": ["computing", "CS"]
+		},
+		"computerscientist": {
+			"phrase": "computer scientist",
+			"definition": "Anyone who studied or studies computer science.",
+			"synonyms": []
+		},
+		"criticalcon": {
+			"phrase": "critical consciousness",
+			"definition": "Awareness of the systems, values, norms, and processes that limit and potentially oppress one's life and community.",
+			"synonyms": ["conscientização"]
+		},
 		"lang": {
 			"phrase": "programming language",
 			"definition": "A notational user interface for telling computers what we want them to compute at some later point in the future.",

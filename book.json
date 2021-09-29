@@ -2588,6 +2588,17 @@
 
 	},
 	"glossary": {
+		"algo": {
+			"phrase": "algorithm",
+			"definition": "A precise, unambiguous process for solving a problem, written by people and often performed by a computer.",
+			"synonyms": ["producedure", "process", "recipe"]
+			
+		},
+		"automate": {
+			"phrase": "automate",
+			"definition": "To replace human labor with the labor of human-made tools and machinery, including computers.",
+			"synonyms": []
+		},
 		"software": {
 			"phrase": "software",
 			"definition": "Apps, websites, and other products and services that people use on computers, laptops, tablets, smartphones, and other digital devices that have computers in them.",
@@ -2617,6 +2628,11 @@
 			"phrase": "programming language",
 			"definition": "A notational user interface for telling computers what we want them to compute at some later point in the future.",
 			"synonyms": ["language", "coding language"]
+		},
+		"neolib": {
+			"phrase": "neoliberal",
+			"definition": "A political stance that favors free-market capitalism, deregulation, and small government over collective approaches to social progress.",
+			"synonyms": []
 		}
 	}
 }

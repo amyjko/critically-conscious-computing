@@ -38,7 +38,7 @@ The pedagogical implications of this positions are fairly clear: in contrast to 
 
 Of course, the tension in this reason for teaching CS is that there isn't really a shortage of developers who want to work in the software industry. There are millions of developers globally ready to work but with dated technical skills; and ageism against older developers is common<baltes20>. The result is not only not for profit bootcamps like Ada, but also countless for-profit and corporate training programs offered by Google, Microsoft, Oracle, and IBM, all intended to train people on the specific skills that companies need. Secondary educators, particularly those in public schools, should therefore question whether middle and high school classrooms should be trying to replicate these industry training efforts, and whether they even have the resources and time to do it in a way that students can compete.
 
-## Democratizing computing literacy
+## Democratize computing literacy
 
 Some reform efforts in the U.S., as well as many globally, focused less on economic and diversity arguments, instead arguing for a kind of universal literacy for democratic citizenship. For example, in the UK, the Computing at Schools initiative argued that:
 

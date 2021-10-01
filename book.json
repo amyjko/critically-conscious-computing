@@ -336,6 +336,13 @@
 			"Truman State University Press",
 			"https://www.google.com/books/edition/Pioneer_Programmer/jbMezgEACAAJ?hl=en"
 		],
+		"barton19": [
+			"Angela Calabrese Barton, Edna Tan",
+			2019,
+			"Designing for Rightful Presence in STEM: The Role of Making Present Practices",
+			"Journal of the Learning Sciences",
+			"https://doi.org/10.1080/10508406.2019.1591411"
+		],
 		"barton20": [
 			"Angela Calabrese Barton, Edna Tan",
 			2020,
@@ -377,6 +384,13 @@
 			"Episodes in the Mathematics of Medieval Islam",
 			"Springer",
 			"https://www.google.com/books/edition/Episodes_in_the_Mathematics_of_Medieval/I-jwDQAAQBAJ?hl=en&gbpv=0"
+		],
+		"berman18": [
+			"Doug Bergman",
+			2018,
+			"Computer science K-12: Imagining the possibilities!",
+			"CreateSpace",
+			"https://www.google.com/books/edition/Computer_Science_K_12_Imagining_the_Poss/DehwtgEACAAJ?hl=en"
 		],
 		"benjamin19": [
 			"Ruha Benjamin",
@@ -790,6 +804,13 @@
 			"Automating inequality: How high-tech tools profile, police, and punish the poor",
 			"St. Martin's Press",
 			"https://www.google.com/books/edition/Automating_Inequality/pn4pDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"everson22": [
+			"Jayne Everson, Megumi Kivuva, Amy J. Ko",
+			2022,
+			"“A key to reducing inequities in like, AI, is by reducing inequities everywhere first”: Emerging critical consciousness in a co-constructed secondary CS classroom",
+			"#sigcse",
+			null
 		],
 		"fan20": [
 			"Ka Siu Fan, Shahi Abdul Ghani, Nikolaos Machairas, Lorenzo Lenti, Ka Hay Fan, Daniel Richardson, Aneya Scott, Dimitri Aristotle Raptis",
@@ -1322,6 +1343,13 @@
 			"AccessCSforall: making computer science accessible to K-12 students in the United States",
 			"ACM SIGACCESS Accessibility and Computing",
 			"https://doi.org/10.1145/3124144.3124145"
+		],
+		"ladson95": [
+			"Gloria Ladson-Billings",
+			1995,
+			"Toward a theory of culturally relevant pedagogy",
+			"American Educational Research Journal",
+			"https://doi.org/10.3102%2F00028312032003465"
 		],
 		"latoza20": [
 			"Thomas D. LaToza, Maryam Arab, Dastyni Loksa, and Amy J. Ko",
@@ -1981,6 +2009,13 @@
 			"Pearson",
 			"https://www.google.com/books/edition/Artificial_Intelligence/XS9CjwEACAAJ?hl=en"
 		],
+		"ryoo19": [
+			"Jean Ryoo",
+			2019,
+			"Pedagogy that Supports Computer Science for All",
+			"#toce",
+			"https://doi.org/10.1145/3322210"
+		],
 		"ryoo20": [
 			"Jean J. Ryoo, Tiera Tanksley, Cynthia Estrada, and Jane Margolis",
 			2020,
@@ -2232,6 +2267,13 @@
 			"Robot Rules: Regulating Artificial Intelligence",
 			"Springer",
 			"https://www.google.com/books/edition/Robot_Rules/moB1DwAAQBAJ?hl=en&gbpv=0"
+		],
+		"vakil18": [
+			"Sepehr Vakil",
+			2018,
+			"Ethics, identity, and political vision: Toward a justice-centered approach to equity in computer science education",
+			"Harvard Educational Review",
+			"https://doi.org/10.17763/1943-5045-88.1.26"
 		],
 		"vogel19": [
 			"Sara Vogel, Christopher Hoadley, Laura Ascenzi-Moreno, Kate Menken",

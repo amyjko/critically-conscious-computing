@@ -2633,8 +2633,13 @@
 		"algo": {
 			"phrase": "algorithm",
 			"definition": "A precise, unambiguous process for solving a problem, written by people and often performed by a computer.",
-			"synonyms": ["producedure", "process", "recipe"]
+			"synonyms": ["procedure", "process", "recipe"]
 			
+		},
+		"assessment": {
+			"phrase": "assessment",
+			"definition": "Any method of evaluating, characterizing, measuring, or modeling some aspect of student knowledge, skill, ability, or identity.",
+			"synonyms": ["test", "examination", "grade", "feedback"]
 		},
 		"automate": {
 			"phrase": "automate",
@@ -2645,6 +2650,11 @@
 			"phrase": "software",
 			"definition": "Apps, websites, and other products and services that people use on computers, laptops, tablets, smartphones, and other digital devices that have computers in them.",
 			"synonyms": ["programs", "applications", "apps"]
+		},
+		"conceptinv": {
+			"phrase": "concept inventory",
+			"definition": "A test designed to precisely measure whether a student has accureate knowledge of a specific set of concepts.",
+			"synonyms": []
 		},
 		"computer": {
 			"phrase": "computer",
@@ -2675,6 +2685,11 @@
 			"phrase": "neoliberal",
 			"definition": "A political stance that favors free-market capitalism, deregulation, and small government over collective approaches to social progress.",
 			"synonyms": []
+		},
+		"trace": {
+			"phrase": "trace",
+			"definition": "To mentally simulate the execution of a computer program without a computer, but possibly with other non-computer aids such as paper.",
+			"synonyms": ["execute"]
 		}
 	}
 }

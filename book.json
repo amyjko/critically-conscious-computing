@@ -413,6 +413,13 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/Grace_Hopper_and_the_Invention_of_the_In/dr34DwAAQBAJ?hl=en&gbpv=0"
 		],
+		"bijker12": [
+			" Wiebe E. Bijker, Thomas Parke Hughes, Trevor Pinch",
+			2012,
+			"The Social Construction of Technological Systems: New Directions in the Sociology and History of Technology",
+			"MIT Press",
+			"https://www.google.com/books/edition/The_Social_Construction_of_Technological/nL34DwAAQBAJ?hl=en&gbpv=0"
+		],
 		"birhane21": [
 			"Abeba Birhane, Pratyusha Kalluri, Dallas Card, William Agnew, Ravit Dotan, Michelle Bao",
 			2021,
@@ -511,6 +518,13 @@
 			"Journal of the Learning Sciences",
 			"https://doi.org/10.1080/10508406.2021.1936531"
 		],
+		"brooks99": [
+			"Rodney A. Brooks",
+			1999,
+			"Cambrian Intelligence: The Early History of the New AI",
+			"Bradford Book",
+			"https://www.google.com/books/edition/Cambrian_Intelligence/btvRZ5rj51EC?hl=en&gbpv=0"
+		],
 		"broussard19": [
 			"Meredith Broussard",
 			2019,
@@ -524,6 +538,13 @@
 			"Dark Matters: On the Surveillance of Blackness",
 			"Duke University Press",
 			"https://www.google.com/books/edition/Dark_Matters/snmJCgAAQBAJ?hl=en&gbpv=0"
+		],
+		"bullock21": [
+			"Beleicia B. Bullock, Fernando L. Nascimento, Stacy A. Doore",
+			2021,
+			"Computing Ethics Narratives: Teaching Computing Ethics and the Impact of Predictive Algorithms",
+			"#sigcse",
+			"https://doi.org/10.1145/3408877.3432468"
 		],
 		"burg13": [
 			"Brian Burg, Richard Bailey, Amy J. Ko, Michael D. Ernst",
@@ -770,6 +791,13 @@
 			"Journal of Economic Perspectives",
 			"https://doi.org/https://doi.org/10.1257/089533006776526085"
 		],
+		"eisenstein80": [
+			"Elizabeth L. Eisenstein",
+			1980,
+			"The printing press as an agent of change",
+			"Cambridge University Press",
+			"https://www.google.com/books/edition/The_Printing_Press_as_an_Agent_of_Change/WR1eajpBG9cC?hl=en&gbpv=0"
+		],
 		"ellis07": [
 			"Heidi JC Ellis, Ralph A. Morelli, Trishan R. De Lanerolle, Gregory W. Hislop",
 			2007,
@@ -833,6 +861,27 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/_/P6hcDwAAQBAJ?hl=en&gbpv=0"
 		],
+		"ferreira21": [
+			"Rodrigo Ferreira, Moshe Y. Vardi",
+			2021,
+			"Deep Tech Ethics: An Approach to Teaching Social Justice in Computer Science",
+			"#sigcse",
+			"https://doi.org/10.1145/3408877.3432449"
+		],
+		"fiesler20": [
+			"Casey Fiesler, Natalie Garrett, and Nathan Beard",
+			2020,
+			"What Do We Teach When We Teach Tech Ethics? A Syllabi Analysis",
+			"#sigcse",
+			"https://doi.org/10.1145/3328778.3366825"
+		],
+		"fiesler21": [
+			"Casey Fiesler, Mikhaila Friske, Natalie Garrett, Felix Muzny, Jessie J. Smith, Jason Zietz",
+			2021,
+			"Integrating Ethics into Introductory Programming Classes",
+			"#sigcse",
+			"https://doi.org/10.1145/3408877.3432510"
+		],
 		"francois21": [
 			"Annamarie Francois, Karen Hunter Quarts",
 			2021,
@@ -889,6 +938,13 @@
 			"IEEE Software",
 			"https://doi.org/10.1109/52.776965"
 		],
+		"gleick11": [
+			"James Gleick",
+			2011,
+			"The Information: A History, a Theory, a Flood",
+			"Knopf Doubleday",
+			"https://www.google.com/books/edition/The_Information/617JSFW0D2kC?hl=en&gbpv=0"
+		],
 		"goel92": [
 			"Vinod Goel, Peter Pirolli",
 			1992,
@@ -923,6 +979,13 @@
 			"How Do Students Talk About Intelligence? An Investigation of Motivation, Self-efficacy, and Mindsets in Computer Science",
 			"#icer",
 			"https://doi.org/10.1145/3291279.3339413"	
+		],
+		"grey21": [
+			"Colin M. Gray, Shruthi Sai Chivukula, Kassandra Melkey, Rhea Manocha",
+			2021,
+			"Understanding “Dark” Design Roles in Computing Education",
+			"#icer",
+			"https://doi.org/10.1145/3446871.3469754"
 		],
 		"grier01": [
 			"David Alan Grier",
@@ -1820,6 +1883,13 @@
 			"Cognition and Instruction",
 			"https://doi.org/10.1080/07370008.2016.1210418"
 		],
+		"plato72": [
+			"Plato",
+			1972,
+			"Phaedrus",
+			"Cambridge University Press",
+			"https://www.google.com/books/edition/Plato_Phaedrus/N6HRTHXlrE0C?hl=en&gbpv=0"
+		],
 		"pohl10": [
 			"Klaus Pohl",
 			2010,
@@ -1896,6 +1966,13 @@
 			"Rebecca R. Raines",
 			"U.S. Department of Defense",
 			"https://www.google.com/books/edition/Getting_the_Message_Through_A_Branch_His/KpPfAAAAMAAJ?hl=en&gbpv=0"
+		],
+		"raji21": [
+			"Inioluwa Deborah Raji, Morgan Klaus Scheuerman, Razvan Amironesei",
+			2021,
+			"You Can't Sit With Us: Exclusionary Pedagogy in AI Ethics Education",
+			"ACM Conference on Fairness, Accountability, and Transparency (FAccT)",
+			"https://doi.org/10.1145/3442188.3445914"
 		],
 		"rankin18": [
 			"Joy Lisi Rankin",
@@ -2030,6 +2107,13 @@
 			"Apress",
 			"https://www.google.com/books/edition/Rethinking_Productivity_in_Software_Engi/AIAPvAEACAAJ?hl=en"
 		],
+		"sandel10": [
+			"Michael J. Sandel",
+			2010,
+			"Justice: What's the Right Thing to Do?",
+			"Farrar, Straus, and Giroux",
+			"https://www.google.com/books/edition/_/BrdNDG7TTUEC?hl=en&sa=X&ved=2ahUKEwijra3iorbzAhWJvZ4KHcwoBUEQre8FegQIAxA8"
+		],
 		"sáezlópez16": [
 			"José-Manuel Sáez-López, Marcos Román-González, Esteban Vázquez-Cano",
 			2016,
@@ -2113,6 +2197,13 @@
 			"The Algorithm Design Manual",
 			"Springer",
 			"https://www.google.com/books/edition/The_Algorithm_Design_Manual/S0QBEAAAQBAJ?hl=en&gbpv=0"
+		],
+		"skirpan18": [
+			"Michael Skirpan, Nathan Beard, Srinjita Bhaduri, Casey Fiesler, Tom Yeh",
+			2018,
+			"Ethics Education in Context: A Case Study of Novel Ethics Activities for the CS Classroom",
+			"#sigcse",
+			"https://doi.org/10.1145/3159450.3159573"
 		],
 		"smith13": [
 			"David Eugene Smith, Louis Charles Karpinski",
@@ -2518,7 +2609,7 @@
 
 		"csta3AIC24": ",3A-IC-24| Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.| _Critique how computing amplifies, centralizes, privatizes, and automates social processes in society, impacting individuals, communities, and culture._",
 		"csta3AIC25": ",3A-IC-25| Test and refine computational artifacts to reduce bias and equity deficits.| _Systematically examine software for bias, exclusion, inequity, and injustice, identifying ways to redesign it or deter its use in particular contexts._",
-		"csta3AIC26": ",3A-IC-26| Demonstrate ways a given algorithm applies to problems across disciplines| _Demonstrate ways a given algorithm impacts different groups, communitie, and disciplines in unequal ways._",
+		"csta3AIC26": ",3A-IC-26| Demonstrate ways a given algorithm applies to problems across disciplines| _Demonstrate ways a given algorithm impacts different groups, communities, and disciplines in unequal ways._",
 		"csta3AIC27": ",3A-IC-27| Use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields.| _Use collaboration tools and methods to engage diverse teams in community-based projects._",
 		"csta3AIC28": ",3A-IC-28| Explain the beneficial and harmful effects that intellectual property laws can have on innovation.| _Explain who intellectual property laws protect and who they harm._",
 		"csta3AIC29": ",3A-IC-29| Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.| _Explain how organizations use software to surveil users in order to leverage their activity data for profit and power._",

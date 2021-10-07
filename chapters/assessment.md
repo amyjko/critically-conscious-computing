@@ -213,7 +213,7 @@ Unique to CS is that student products may take on life outside of the classroom.
 
 Products like grades can also have indirect consequences. For example, if students submit a project, and get lots of critical feedback, what should the tone, framing, context, and timing of that feedback be? How will those choices affect how students interpret and act upon the feedback? How will those influence their self-efficacy, interests, and identity?
 
-# Closing: student-centered CS assessments
+# Conclusion: student-centered CS assessments
 
 Clearly, there’s a lot to think about when shaping CS assessments -- so much, in fact, that it would be reasonable to feel a bit lost in how to proceed! The phrase _analysis paralysis_ seems appropriate here, given the numerous considerations that can shape CS assessments. However, we can account for all of history of assessment and grading, all of the various motivations for assessment, and all of the shifting ideas about what CS is, with a few simple CS assessments guidelines, grounded in our three principles:
 

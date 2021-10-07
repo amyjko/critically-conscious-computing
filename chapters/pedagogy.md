@@ -161,7 +161,7 @@ For example, consider some of the popular CS curricula:
 
 Therefore, these and other curricula, while excellent for helping youth develop skills and confidence in coding, do little to engage youth in developing critical consciousness of computing in society. Moreover, they still struggle to reach baseline levels of inclusion, with many leaving little room for student identity, several posing insurmountable accessibility barriers to students with disabilities<ladner17>, and many overlooking bilingual students’ needs for translanguaging support.
 
-# Closing: CS pedagogy for all
+# Conclusion: CS pedagogy for all
 
 While focusing on critical perspectives can reduce the pressure on both teachers and students to achieve technical mastery of coding, center student identity and agency, and position youth to address injustice, it has tradeoffs pedagogically. For example, some students might benefit greatly from developing problem solving skills in CS, building identity and growth mindset where it was lacking. Some students might really want a job that requires marketable skills, and therefore might not resonate with critical perspectives on  And there certainly is a case to make for CS literacy of some kind, including some basic understanding of the construction of software, if not other sociotechnical perspectives on CS. The pedagogical challenge for teachers, then, is how to serve the diversity of needs and dreams that students bring to the classroom. Critical CS pedagogy is arguably the most inclusive way to do this as it prioritizes marginalization, but it may require drawing upon other uncritical CS pedagogies to include everyone. Throughout the rest of this book, we will offer methods that try to balance these pedagogies to ensure inclusion.
 

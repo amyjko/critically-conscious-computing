@@ -574,6 +574,13 @@
 			"Conference on fairness, accountability and transparency",
 			"http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf"
 		],
+		"buxton10": [
+			"Bill Buxton",
+			2010,
+			"Sketching User Experiences: Getting the Design Right and the Right Design",
+			"Elsvier Science",
+			"https://www.google.com/books/edition/Sketching_User_Experiences_Getting_the_D/2vfPxocmLh0C?hl=en&gbpv=0"
+		],
 		"cai19": [
 			"Carrie J. Cai, Philip J. Guo",
 			2019,
@@ -587,6 +594,13 @@
 			"A preliminary analysis on the effects of propensity to trust in distributed software development",
 			"International Conference on Global Software Engineering (ICGSE)",
 			"https://doi.org/10.1109/ICGSE.2017.1"
+		],
+		"carroll03": [
+			"John Carroll",
+			2003,
+			"HCI Models, Theories, and Frameworks: Toward a Multidisciplinary Science",
+			"Elsvier Science",
+			"https://www.google.com/books/edition/HCI_Models_Theories_and_Frameworks/gGyEOjkdpbYC?hl=en&gbpv=0"
 		],
 		"carpenter88": [
 			"Thomas P. Carpenter, Elizabeth Fennema, Penelope L. Peterson, Deborah A. Carey",
@@ -965,6 +979,13 @@
 			"Data Structures and Algorithms in Java",
 			"Wiley",
 			"https://www.google.com/books/edition/Data_Structures_and_Algorithms_in_Java/UqmYAgAAQBAJ?hl=en&gbpv=0"			
+		],
+		"goodwin11": [
+			"Kim Goodwin",
+			2011,
+			"Designing for the Digital Age: How to Create Human-Centered Products and Services",
+			"Wiley",
+			"https://www.google.com/books/edition/Designing_for_the_Digital_Age/yH6Aqr5zKJEC?hl=en&gbpv=0"
 		],
 		"google20": [
 			"Google",
@@ -2211,6 +2232,13 @@
 			"The hindu-arabic numerals",
 			"Courier Corporation",
 			"https://www.google.com/books/edition/The_Hindu_Arabic_Numerals/4SMQAAAAYAAJ?hl=en&gbpv=0"
+		],
+		"salgado15": [
+			"Luciana Salgado, Roberto Pereira, Isabela Gasparini",
+			2015,
+			"Cultural Issues in HCI: Challenges and Opportunities",
+			"International Conference on Human-Computer Interaction",
+			"https://doi.org/10.1007/978-3-319-20901-2_6"
 		],
 		"salomon87": [
 			"Gavriel Salomon, David N. Perkins",

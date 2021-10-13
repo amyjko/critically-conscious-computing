@@ -11,7 +11,7 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta2IC21| [CS and Design|design]\, [CS, Equity, and Justice|justice]
 @csta2IC22| [Projects|projects]
 @csta2IC23| [Encoding Information|information]
-@csta3AIC24| [CS, Equity, and Justice|justice]
+@csta3AIC24| [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]
 @csta3AIC25| [CS, Equity, and Justice|justice]\, [Verification|verification]
 @csta3AIC26| [Algorithms|algorithms]
 @csta3AIC27| [CS, Equity, and Justice|justice]\, [Projects|projects]
@@ -20,7 +20,7 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3AIC30| [Encoding Information|information]\, [Operating Systems|operating]
 @csta3BIC25| [CS, Equity, and Justice|justice]
 @csta3BIC26| [CS, Equity, and Justice|justice]\, [Verification & Debugging|verification]
-@csta3BIC27| [Computers|computers]
+@csta3BIC27| [Encoding Intelligence|intelligence]\, [Computers|computers]
 @csta3BIC28| [CS, Equity, and Justice|justice]
 @cstaAP
 @csta2AP10| [Abstractions|abstractions]\, [Programming|programming]
@@ -44,8 +44,8 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3AAP21| [Verification|verification]
 @csta3AAP22| [Projects|projects]
 @csta3AAP23| [Projects|projects]
-@csta3BAP08| [Artificial Intelligence|ai]
-@csta3BAP09| [Artificial Intelligence|ai]
+@csta3BAP08| [Encoding Intelligence|intelligence]\, [Artificial Intelligence|ai]
+@csta3BAP09| [Encoding Intelligence|intelligence]\, [Artificial Intelligence|ai]
 @csta3BAP10| [Algorithms|algorithms]
 @csta3BAP11| [Algorithms|algorithms]
 @csta3BAP12| [Data Structures|data]
@@ -80,7 +80,7 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3ACS02| [Operating Systems|operating]\, [Programming Languages|languages]
 @csta3ACS03| [Verification & Debugging|verification]
 @csta3BCS01| [Operating Systems|operating]
-@csta3BCS02| [Computers|computers]
+@csta3BCS02| [Encoding Intelligence|intelligence]\, [Computers|computers]
 @cstaNI
 @csta2NI04| [Computers|computers]
 @csta2NI05| [Operating Systems|operating]
@@ -106,9 +106,9 @@ The [CSTA Teacher Standards|https://csteachers.org/page/standards-for-cs-teacher
 @teacher1e| [Encoding Intelligence|intelligence]\, [Control Structures|control]\, [Algorithms|algorithms]\, [Programming|programming]\, [Verification & Debugging|verification]\, [Tools|tools]
 @teacher1f| All chapters
 @teacher2
-@teacher2a| [Critical CS History|history]\, [Critical CS Pedagogy|pedagogy]
-@teacher2b| [Critical CS History|history]\, [Critical CS Pedagogy|pedagogy]
-@teacher2c| [Critical CS History|history]\, [Critical CS Pedagogy|pedagogy]
+@teacher2a| All chapters
+@teacher2b| All chapters
+@teacher2c| All chapters
 @teacher2d| [Critical CS Pedagogy|pedagogy]\, [Critical CS Assessment|assessment]\, [Encoding Information|information]
 @teacher2e| [Critical CS Pedagogy|pedagogy]\, [Programming Languages|languages]\, [Tools|tools]
 @teacher3
@@ -121,18 +121,18 @@ The [CSTA Teacher Standards|https://csteachers.org/page/standards-for-cs-teacher
 @teacher4
 @teacher4a| [Critical CS History|history]\, [Critical CS Pedagogy|pedagogy]
 @teacher4b| [Critical CS Pedagogy|pedagogy]\, [Critical CS Assessment|assessment]
-@teacher4c| [Critical CS Assessment|assessment]
+@teacher4c| All chapters
 @teacher4d| [Critical CS History|history]\, [Critical CS Pedagogy|pedagogy]
-@teacher4e| [Critical CS Pedagogy|pedagogy]
-@teacher4f| [Critical CS Pedagogy|pedagogy]\, [Critical CS Assessment|assessment]
-@teacher4g| [Critical CS Assessment|assessment]
+@teacher4e| All chapters
+@teacher4f| All chapters
+@teacher4g| All chapters
 @teacher5
-@teacher5a| All chapters but [Critical CS History|history]
-@teacher5b| [Critical CS Assessment|assessment]
+@teacher5a| All chapters
+@teacher5b| All chapters
 @teacher5c| All chapters
-@teacher5d| All chapters but [Critical CS History|history]
-@teacher5e| All chapters but [Critical CS History|history]
-@teacher5f| [Critical CS Assessment|assessment]
+@teacher5d| All chapters
+@teacher5e| All chapters
+@teacher5f| All chapters
 
 # Teaching Tolerance Social Justice Standards
 

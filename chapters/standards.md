@@ -3,7 +3,7 @@ This appendix lists relevant learning and teaching standards, some of which dire
 
 # CSTA Learning Standards
 
-The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-standards] cover a broad set of CS concepts and skills. They were originally inspired by the [K-12 CS framweork|http://k12cs.org], which broadly defined CS practices, concepts, and learning progressions for CS. These standards have been adopted widely across the United States as well as many other countries as foundational knowledge for primary and secondary learning. We include the secondary-level standards here below, along with revised versions of each standard to weave critical perspectives into each technical idea or skill.
+The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-standards] cover a broad set of CS concepts and skills. They were originally inspired by the [K-12 CS framework|http://k12cs.org], which broadly defined CS practices, concepts, and learning progressions for CS. These standards have been adopted widely across the United States as well as many other countries as foundational knowledge for primary and secondary learning. We include the secondary-level standards here below, along with revised versions of each standard to weave critical perspectives into each technical idea or skill.
 
 @cstaHeader| Chapters
 @cstaIC
@@ -93,6 +93,37 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3BNI03| [Computers|computers]
 @csta3BNI04| [Operating Systems|operating]
 
+# Teaching Tolerance Social Justice Standards
+
+[Learning for Justice|https://www.learningforjustice.org/about] is an organization focused on racial justice in the Southern United States and beyond. It developed the [Social Justice Standards|https://www.learningforjustice.org/frameworks/social-justice-standards] as a way for all educators to help youth develop literacy about diversity and justice. We include them in this book, but adapt them to focus on the ways that computing and social justice intersect.
+
+@toleranceHeader| Chapters
+@toleranceIdentity
+@tolerance1| All chapters but Foundations
+@tolerance2| [Encoding Information|information]\, [Algorithms|algorithms]
+@tolerance3| [Encoding Information|information]\, [Programming Languages|languages]\, [Artificial Intelligence|ai]
+@tolerance4| [Projects|projects]
+@tolerance5| [Programming Languages|languages]\, [Tools|tools]
+@toleranceDiversity
+@tolerance6| [Encoding Information|information]\, [Artificial Intelligence|ai]
+@tolerance7| [Data Structures|data]
+@tolerance8| [Encoding Information|information]\, [Control Structures|control]
+@tolerance9| [CS, Equity, and Justice|justice]\, [Artificial Intelligence|ai]
+@tolerance10| [CS and Design|design]\, [Encoding Information|information]\, [Programming Languages|languages]\, [Control Structures|control]\, [Tools|tools]
+@toleranceJustice
+@tolerance11| [Encoding Information|information]\, [Artificial Intelligence|ai]\, [Tools|tools]
+@tolerance12| [CS, Equity, and Justice|justice]\, [Computers|computers]\, [Control Structures|control]\, [Abstractions|abstractions]\, [Artificial Intelligence|ai]
+@tolerance13| [Encoding Information|information]\, [CS, Equity, and Justice|justice]\, [Artificial Intelligence|ai]\, [Programming|programming]\, [Verification & Debugging|verification]
+@tolerance14| [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Data Structures|data]\, [Algorithms|algorithms]\, [Artificial Intelligence|ai]\, [Programming|programming]
+@tolerance15| [Operating Systems|operating]
+@toleranceAction
+@tolerance16| [CS and Design|design]\, [Projects|projects]\, [Verification & Debugging|verification]
+@tolerance17| [CS and Design|design]\, [Artificial Intelligence|ai]\, [Tools|tools]\, [Projects|projects]
+@tolerance18| [Tools|tools]
+@tolerance19| [CS and Design|design]\, [Artificial Intelligence|ai]\, [Verification & Debugging|verification]\, [Projects|projects]
+@tolerance20| [Algorithms|algorithms]
+
+
 # CSTA Teacher Standards
 
 The [CSTA Teacher Standards|https://csteachers.org/page/standards-for-cs-teachers] set guidelines for what K-12 CS educators should know to be prepared to teach CS in primary and secondary levels. They draw upon the CSTA Learning Standards, but also address pedagogical and pedagogical content knowledge in CS. We include them in full below, but also include revisions to tie the skills more closely to critical perspectives on computing.
@@ -133,33 +164,3 @@ The [CSTA Teacher Standards|https://csteachers.org/page/standards-for-cs-teacher
 @teacher5d| All chapters
 @teacher5e| All chapters
 @teacher5f| All chapters
-
-# Teaching Tolerance Social Justice Standards
-
-[Learning for Justice|https://www.learningforjustice.org/about] is an organization focused on racial justice in the Southern United States and beyond. It developed the [Social Justice Standards|https://www.learningforjustice.org/frameworks/social-justice-standards] as a way for all educators to help youth develop literacy about diversity and justice. We include them in this book, but adapt them to focus on the ways that computing and social justice intersect.
-
-@toleranceHeader| Chapters
-@toleranceIdentity
-@tolerance1| All chapters but Foundations
-@tolerance2| [Encoding Information|information]\, [Algorithms|algorithms]
-@tolerance3| [Encoding Information|information]\, [Programming Languages|languages]\, [Artificial Intelligence|ai]
-@tolerance4| [Projects|projects]
-@tolerance5| [Programming Languages|languages]\, [Tools|tools]
-@toleranceDiversity
-@tolerance6| [Artificial Intelligence|ai]
-@tolerance7| [Data Structures|data]
-@tolerance8| [Control Structures|control]
-@tolerance9| [CS, Equity, and Justice|justice]\, [Artificial Intelligence|ai]
-@tolerance10| [CS and Design|design]\, [Encoding Information|information]\, [Programming Languages|languages]\, [Control Structures|control]\, [Tools|tools]
-@toleranceJustice
-@tolerance11| [Artificial Intelligence|ai]\, [Tools|tools]
-@tolerance12| [CS, Equity, and Justice|justice]\, [Computers|computers]\, [Control Structures|control]\, [Abstractions|abstractions]\, [Artificial Intelligence|ai]
-@tolerance13| [CS, Equity, and Justice|justice]\, [Artificial Intelligence|ai]\, [Programming|programming]\, [Verification & Debugging|verification]
-@tolerance14| [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Data Structures|data]\, [Algorithms|algorithms]\, [Artificial Intelligence|ai]\, [Programming|programming]
-@tolerance15| [Operating Systems|operating]
-@toleranceAction
-@tolerance16| [CS and Design|design]\, [Projects|projects]\, [Verification & Debugging|verification]
-@tolerance17| [CS and Design|design]\, [Artificial Intelligence|ai]\, [Tools|tools]\, [Projects|projects]
-@tolerance18| [Tools|tools]
-@tolerance19| [CS and Design|design]\, [Artificial Intelligence|ai]\, [Verification & Debugging|verification]\, [Projects|projects]
-@tolerance20| [Algorithms|algorithms]

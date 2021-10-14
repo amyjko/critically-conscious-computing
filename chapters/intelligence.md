@@ -189,7 +189,7 @@ Unfortunately, most research on CS education does not engage this third question
 
 A critically conscious pedagogy for discussing automation would likely go beyond engaging youth in designing and engineering software in multidisciplinary ways. Rather, it would engage youth in making decisions about whether and how to automate, and surface the critical individual, organizational, community, and societal tensions in these automation choices. Blending these pedagogies with culturally sustaining ones, teaching methods might help students position themselves within these automation choices, asking them what world they want, why they want it, and what effect getting it might have on others. Because such teaching methods are under-explored, teachers should expect to experiment, reflect, and deeply engage their students in shaping how to discuss automation and computing.
 
-## Unit Plan: Libraries vs. Search Engines
+## Unit Plan: Libraries vs. search engines
 
 In the spirit of critical and culturally sustaining pedagogy, below we describe an example unit that illustrates one way to engage youth in examining questions of automation. Its approach is to take a computing technology that students can encounter and interact with in everyday life -- web search engines -- and engage students in analyzing and debating the nature and limits of its intelligence and its effects on society. While it focuses on search engines, it could be adapted to any technology that is familiar to students and their teacher. And like all of the unit plans in this book, think of this as a suggestive sketch, one that might inspire more concrete plans, culturally responsive and sustaining to the specific youth in your classroom.
 

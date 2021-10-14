@@ -854,6 +854,13 @@
 			"#sigcse",
 			null
 		],
+		"fausto00": [
+			"Anne Fausto-Sterling",
+			2000,
+			"Sexing the Body: Gender Politics and the Construction of Sexuality",
+			"Basic Books",
+			"https://www.google.com/books/edition/Sexing_the_Body/c3lhYfZzIXkC?hl=en&gbpv=0"
+		],
 		"fan20": [
 			"Ka Siu Fan, Shahi Abdul Ghani, Nikolaos Machairas, Lorenzo Lenti, Ka Hay Fan, Daniel Richardson, Aneya Scott, Dimitri Aristotle Raptis",
 			2020,
@@ -1154,6 +1161,13 @@
 			"Alan Turing: the enigma",
 			"Princeton University Press",
 			"https://www.google.com/books/edition/Alan_Turing_The_Enigma/4muYDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"hoffmann20": [
+			"Anna Lauren Hoffmann",
+			2020,
+			"Terms of inclusion: Data, discourse, violence",
+			"New Media & Society",
+			"https://doi.org/10.1177%2F1461444820958725"
 		],
 		"hollings20": [
 			"Christopher Hollings, Ursula Martin, Adrian Clifford Rice",
@@ -2226,6 +2240,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/3159450.3159573"
 		],
+		"smedley05": [
+			"Audrey Smedley, Brian D. Smedley",
+			2005,
+			"Race as biology is fiction, racism as a social problem is real: Anthropological and historical perspectives on the social construction of race",
+			"American Psychologist",
+			"https://psycnet.apa.org/doi/10.1037/0003-066X.60.1.16"
+		],
 		"smith13": [
 			"David Eugene Smith, Louis Charles Karpinski",
 			2013,
@@ -2688,7 +2709,7 @@
 		"tolerance1": ",1| Students will develop positive social identities based on their membership in multiple groups in society.| _Students will develop positive social identities based on their membership in multiple groups in society and question how those identities are reflected in software and data._",
 		"tolerance2": ",2| Students will develop language and historical and cultural knowledge that affirm and accurately describe their membership in multiple identity groups.| _Students will develop language and historical and cultural knowledge that affirm and accurately describe their membership in multiple identity groups by examining how software exludes._",
 		"tolerance3": ",3| Recognize that people’s multiple identities interact and create unique and complex individuals.| _Recognize how data and algorithms often erase people’s multiple identities._",
-		"tolerance4": ",4| Students will express pride, confidence, and healthy self-esteem without denying the value and dignity of other people.| _Students will express pride, confidence, and healthy self-esteem in what they create with code wihtout denying the value and dignity of other people._",
+		"tolerance4": ",4| Students will express pride, confidence, and healthy self-esteem without denying the value and dignity of other people.| _Students will express pride, confidence, and healthy self-esteem in what they create with code without denying the value and dignity of other people._",
 		"tolerance5": ",5| Students will recognize traits of the dominant culture, their home culture and other cultures and understand how they negotiate their own identity in multiple spaces.| _Students will recognize traits of the dominant culture, their home culture, and other cultures in computing artifacts and understand how they negotiate their own identity in computing spaces._",
 		
 		"toleranceDiversity": ",*Diversity*",
@@ -2802,9 +2823,24 @@
 			"definition": "Awareness of the systems, values, norms, and processes that limit and potentially oppress one's life and community.",
 			"synonyms": ["conscientização"]
 		},
+		"data": {
+			"phrase": "data",
+			"definition": "Records of information for later retrieval and analysis, often structured in a particular notation. For example, a letter grade recorded on a transcript is data.",
+			"synonyms": []
+		},
+		"encoding": {
+			"phrase": "encoding",
+			"definition": "A set of notational rules for how to represent information with sequences of symbols.",
+			"synonyms": []
+		},
 		"expr": {
 			"phrase": "expression",
 			"definition": "A statement in a notation that can be evaluated to a particular value, such as a Boolean expression that evaluates to a truth value or a numerical expression that evaluates to a numerical value.",
+			"synonyms": []
+		},
+		"info": {
+			"phrase": "information",
+			"definition": "Differences in physical states in the world that carry meaning to a recipient. For example, a light being off in a classroom can be information to a student, as it might signal the room is locked and unoccupied.",
 			"synonyms": []
 		},
 		"lang": {

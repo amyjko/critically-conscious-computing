@@ -2780,8 +2780,7 @@
 		"algo": {
 			"phrase": "algorithm",
 			"definition": "A precise, unambiguous process for solving a problem, written by people and often performed by a computer.",
-			"synonyms": ["procedure", "process", "recipe"]
-			
+			"synonyms": ["procedure", "process", "recipe"]			
 		},
 		"assessment": {
 			"phrase": "assessment",
@@ -2790,8 +2789,7 @@
 		},
 		"automate": {
 			"phrase": "automate",
-			"definition": "To replace human labor with the labor of human-made tools and machinery, including computers.",
-			"synonyms": []
+			"definition": "To replace human labor with the labor of human-made tools and machinery, including computers."
 		},
 		"software": {
 			"phrase": "software",
@@ -2800,14 +2798,11 @@
 		},
 		"conceptinv": {
 			"phrase": "concept inventory",
-			"definition": "A test designed to precisely measure whether a student has accureate knowledge of a specific set of concepts.",
-			"synonyms": []
+			"definition": "A test designed to precisely measure whether a student has accureate knowledge of a specific set of concepts."
 		},
 		"computer": {
 			"phrase": "computer",
-			"definition": "Physical hardware that receives input, stores and processes data, and produces output. Examples include consumer devices like desktop computers, tablets, smartphones, but also less obvious devices that embed computers, like cars, kitchen appliances, and smart home devices such as smart speakers.",
-			"synonyms": []
-		},
+			"definition": "Physical hardware that receives input, stores and processes data, and produces output. Examples include consumer devices like desktop computers, tablets, smartphones, but also less obvious devices that embed computers, like cars, kitchen appliances, and smart home devices such as smart speakers."		},
 		"cs": {
 			"phrase": "computer science",
 			"definition": "The academic discipline and community that studies both human and technical aspects of computer use, computational thinking, programs, programming, software, and software engineering.",
@@ -2815,8 +2810,7 @@
 		},
 		"computerscientist": {
 			"phrase": "computer scientist",
-			"definition": "Anyone who studied or studies computer science.",
-			"synonyms": []
+			"definition": "Anyone who studied or studies computer science."
 		},
 		"criticalcon": {
 			"phrase": "critical consciousness",
@@ -2825,23 +2819,19 @@
 		},
 		"data": {
 			"phrase": "data",
-			"definition": "Records of information for later retrieval and analysis, often structured in a particular notation. For example, a letter grade recorded on a transcript is data.",
-			"synonyms": []
+			"definition": "Records of information for later retrieval and analysis, often structured in a particular notation. For example, a letter grade recorded on a transcript is data."
 		},
 		"encoding": {
 			"phrase": "encoding",
-			"definition": "A set of notational rules for how to represent information with sequences of symbols.",
-			"synonyms": []
+			"definition": "A set of notational rules for how to represent information with sequences of symbols."
 		},
 		"expr": {
 			"phrase": "expression",
-			"definition": "A statement in a notation that can be evaluated to a particular value, such as a Boolean expression that evaluates to a truth value or a numerical expression that evaluates to a numerical value.",
-			"synonyms": []
+			"definition": "A statement in a notation that can be evaluated to a particular value, such as a Boolean expression that evaluates to a truth value or a numerical expression that evaluates to a numerical value."
 		},
 		"info": {
 			"phrase": "information",
-			"definition": "Differences in physical states in the world that carry meaning to a recipient. For example, a light being off in a classroom can be information to a student, as it might signal the room is locked and unoccupied.",
-			"synonyms": []
+			"definition": "Differences in physical states in the world that carry meaning to a recipient. For example, a light being off in a classroom can be information to a student, as it might signal the room is locked and unoccupied."
 		},
 		"lang": {
 			"phrase": "programming language",
@@ -2850,8 +2840,7 @@
 		},
 		"neolib": {
 			"phrase": "neoliberal",
-			"definition": "A political stance that favors free-market capitalism, deregulation, and small government over collective approaches to social progress.",
-			"synonyms": []
+			"definition": "A political stance that favors free-market capitalism, deregulation, and small government over collective approaches to social progress."
 		},
 		"op": {
 			"phrase": "operation",

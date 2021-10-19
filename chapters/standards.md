@@ -8,10 +8,10 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @cstaHeader| Chapters
 @cstaIC
 @csta2IC20| [CS and Design|design]\, [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]
-@csta2IC21| [CS and Design|design]\, [CS, Equity, and Justice|justice]
+@csta2IC21| [CS and Design|design]\, [CS, Equity, and Justice|justice]\, [Computers|computers]
 @csta2IC22| [Projects|projects]
 @csta2IC23| [Encoding Information|information]
-@csta3AIC24| [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]
+@csta3AIC24| [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Computers|computers]
 @csta3AIC25| [CS, Equity, and Justice|justice]\, [Verification|verification]
 @csta3AIC26| [Algorithms|algorithms]
 @csta3AIC27| [CS, Equity, and Justice|justice]\, [Projects|projects]
@@ -19,9 +19,9 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3AIC29| [Encoding Information|information]\, [Operating Systems|operating]
 @csta3AIC30| [Encoding Information|information]\, [Operating Systems|operating]
 @csta3BIC25| [CS, Equity, and Justice|justice]
-@csta3BIC26| [CS, Equity, and Justice|justice]\, [Verification & Debugging|verification]
+@csta3BIC26| [CS, Equity, and Justice|justice]\, [Verification & Debugging|verification]\, [Computers|computers]
 @csta3BIC27| [Encoding Intelligence|intelligence]\, [Computers|computers]
-@csta3BIC28| [CS, Equity, and Justice|justice]
+@csta3BIC28| [CS, Equity, and Justice|justice]\, [Computers|computers]
 @cstaAP
 @csta2AP10| [Abstractions|abstractions]\, [Programming|programming]
 @csta2AP11| [Data Structures|data]
@@ -103,7 +103,7 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @tolerance2| [Encoding Information|information]\, [Algorithms|algorithms]
 @tolerance3| [Encoding Information|information]\, [Programming Languages|languages]\, [Artificial Intelligence|ai]
 @tolerance4| [Projects|projects]
-@tolerance5| [Programming Languages|languages]\, [Tools|tools]
+@tolerance5| [Computers|computers]\, [Programming Languages|languages]\, [Tools|tools]
 @toleranceDiversity
 @tolerance6| [Encoding Information|information]\, [Artificial Intelligence|ai]
 @tolerance7| [Data Structures|data]
@@ -114,7 +114,7 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @tolerance11| [Encoding Information|information]\, [Artificial Intelligence|ai]\, [Tools|tools]
 @tolerance12| [CS, Equity, and Justice|justice]\, [Computers|computers]\, [Control Structures|control]\, [Abstractions|abstractions]\, [Artificial Intelligence|ai]
 @tolerance13| [Encoding Information|information]\, [CS, Equity, and Justice|justice]\, [Artificial Intelligence|ai]\, [Programming|programming]\, [Verification & Debugging|verification]
-@tolerance14| [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Data Structures|data]\, [Algorithms|algorithms]\, [Artificial Intelligence|ai]\, [Programming|programming]
+@tolerance14| [Computers|computers]\, [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Data Structures|data]\, [Algorithms|algorithms]\, [Artificial Intelligence|ai]\, [Programming|programming]
 @tolerance15| [Operating Systems|operating]
 @toleranceAction
 @tolerance16| [CS and Design|design]\, [Projects|projects]\, [Verification & Debugging|verification]
@@ -132,7 +132,7 @@ The [CSTA Teacher Standards|https://csteachers.org/page/standards-for-cs-teacher
 @teacher1
 @teacher1a| All chapters
 @teacher1b| [Computers|computers]\, [Operating Systems|operating]
-@teacher1c| [CS and Design|design]\, [Operating Systems|operating]
+@teacher1c| [Computers|computers]\, [CS and Design|design]\, [Operating Systems|operating]
 @teacher1d| [Encoding Information|information]\, [Data Structures|data]\, [Algorithms|algorithms]
 @teacher1e| [Encoding Intelligence|intelligence]\, [Control Structures|control]\, [Algorithms|algorithms]\, [Programming|programming]\, [Verification & Debugging|verification]\, [Tools|tools]
 @teacher1f| All chapters

@@ -1316,6 +1316,13 @@
 			"Computer",
 			"https://doi.org/10.1109/MC.2019.2929723"
 		],
+		"kirdaniryan22": [
+			"Mara Kirdani-Ryan, Amy J. Ko",
+			2022,
+			"The House of Computing: Integrating Counternarratives into Computer Systems Education",
+			"#sigcse",
+			null
+		],
 		"kistermann91": [
 			"F. W. Kistermann",
 			1991,
@@ -2415,6 +2422,13 @@
 			"Harvard Educational Review",
 			"https://doi.org/10.17763/1943-5045-88.1.26"
 		],
+		"vandijk06": [
+			"Jan Van Dijk",
+			2006,
+			"Digital divide research, achievements and shortcomings",
+			"Poetics",
+			"https://doi.org/10.1016/j.poetic.2006.05.004"
+		],
 		"vogel19": [
 			"Sara Vogel, Christopher Hoadley, Laura Ascenzi-Moreno, Kate Menken",
 			2019,
@@ -2609,7 +2623,7 @@
 
 		"cstaHeader": ",[CSTA Learning Standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-standards]| Original Standard| _Critically Conscious Revision_",
 		"csta2CS01": ",2-CS-01| Recommend improvements to the design of computing devices, based on an analysis of how users interact with the devices.| _Observe and analyze how marginalized users interact with computing devices to identify improvements or redesigns necessary for inclusion._",
-		"csta2CS02": ",2-CS-02| Design projects that combine hardware and software components to collect and exchange data.| _Design and critique projects that combine hardware and software to gather, structure, analyzem and store data._",
+		"csta2CS02": ",2-CS-02| Design projects that combine hardware and software components to collect and exchange data.| _Design and critique projects that combine hardware and software to gather, structure, analyze and store data._",
 		"csta2CS03": ",2-CS-03| Systematically identify and fix problems with computing devices and their components.| _Systematically identify and fix sociotechnical problems with computing devices and their components._",
 
 		"csta2NI04": ",2-NI-04| Model the role of protocols in transmitting data across networks and the Internet.| _Explain the role of protocols determining who can receive data across networks and the Internet, and how._",
@@ -2820,6 +2834,11 @@
 		"data": {
 			"phrase": "data",
 			"definition": "Records of information for later retrieval and analysis, often structured in a particular notation. For example, a letter grade recorded on a transcript is data."
+		},
+		"datacenter": {
+			"phrase": "data center",
+			"definition": "A building dedicated to storing a large number of networked computers and data, usually powered by a nearby electricity source.",
+			"synonyms": ["the cloud"]
 		},
 		"encoding": {
 			"phrase": "encoding",

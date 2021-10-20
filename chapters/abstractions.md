@@ -280,7 +280,7 @@ One well established method for teaching function design comes from the book How
 
 Teaching this high level process is a form of scaffolding that can help students structure their problem solving process. Students often struggle to self-regulate during such structured problem solving, often deviating from the sequence, or struggling to independently perform a particular aspect of the process<ko19>. Teachers can play the role of coaching and support during these steps, offering direct instruction to address gaps in prior knowledge, and reinforcing problem solving steps, which can develop their programming self-efficacy and increase their independence<loksa16>. Such facilitation can feel like helping students sculpt a sculpture, one step at a time, converging toward their final vision.
 
-## Unit Plan: Black Box Admissions
+## Unit sketch: Black Box Admissions
 
 Whereas the previous two sections describe methods for developing programming skill using functions, there are many reasons why programming might not be the goal. Students in a social studies class might be studying capitalism, and one might teach them about how functions can be an instrument of profit. Students in a civics class might examine how functions are an instrument of power. Students in a science class might examine how functions are used to analyze data to make scientific judgements. All of these purposes demand a different literacy toward functions, one that examines their role in society, rather than harnessing them as tools for creativity.
 

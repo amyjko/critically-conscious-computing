@@ -72,9 +72,9 @@ Another challenge with engaging injustice are the *difficult conversations* that
 
 |Chapter04_Figure03_Rules.png|A student at a desk with their head down and a blurry teacher walking away, with the block letter word "DETENTION" above and a clock that reads 10:10|Schools are a site of algorithmic oppression too.|@jessie|
 
-## Unit plan: Schools as a site for CS inequity and injustice
+## Unit sketch: Schools as a site for CS inequity and injustice
 
-Here we present one possible unit plan that builds upon these ideas.{We hope that readers will tell us about their experiences trying methods like these, so that we might enhance these sections with concrete examples, experiences, and insights from the classroom.} This unit plan is not complete, perfect, or final, but rather a sketch that might inspire your own instructional designs and unit plans.
+Here we present one possible unit sketch that builds upon these ideas.{We hope that readers will tell us about their experiences trying methods like these, so that we might enhance these sections with concrete examples, experiences, and insights from the classroom.} This sketch is not complete, perfect, or final, but rather a sketch that might inspire your own instructional designs and unit plans.
 
 The essence of this example unit is to engage students in interrogating the algorithms -- or hypothetical algorithms -- in your school and how they might result in disparate outcomes for different students. Rules in schools might include things like use of the bathroom, tardiness, grading systems, or policies for late work. The advantage of classroom and school rules are that they are familiar, and may surface inequities in learning that contribute to broader inequities in society. One possible "disadvantage" -- especially if the rules interrogated are the ones in your own classroom -- is that the unit might result in actual advocacy for change (though any teacher focused on critical consciousness might want to view this as an advantage as well!
 

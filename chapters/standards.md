@@ -7,11 +7,11 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 
 @cstaHeader| Chapters
 @cstaIC
-@csta2IC20| [CS and Design|design]\, [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]
+@csta2IC20| [CS and Design|design]\, [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Operating Systems|operating]
 @csta2IC21| [CS and Design|design]\, [CS, Equity, and Justice|justice]\, [Computers|computers]
 @csta2IC22| [Projects|projects]
-@csta2IC23| [Encoding Information|information]
-@csta3AIC24| [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Computers|computers]
+@csta2IC23| [Encoding Information|information]\, [Operating Systems|operating]
+@csta3AIC24| [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Computers|computers]\, [Operating Systems|operating]
 @csta3AIC25| [CS, Equity, and Justice|justice]\, [Verification|verification]
 @csta3AIC26| [Algorithms|algorithms]
 @csta3AIC27| [CS, Equity, and Justice|justice]\, [Projects|projects]
@@ -20,7 +20,7 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3AIC30| [Encoding Information|information]\, [Operating Systems|operating]
 @csta3BIC25| [CS, Equity, and Justice|justice]
 @csta3BIC26| [CS, Equity, and Justice|justice]\, [Verification & Debugging|verification]\, [Computers|computers]
-@csta3BIC27| [Encoding Intelligence|intelligence]\, [Computers|computers]
+@csta3BIC27| [Encoding Intelligence|intelligence]\, [Computers|computers]\, [Operating Systems|operating]
 @csta3BIC28| [CS, Equity, and Justice|justice]\, [Computers|computers]
 @cstaAP
 @csta2AP10| [Abstractions|abstractions]\, [Programming|programming]
@@ -40,7 +40,7 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3AAP17| [Abstractions|abstractions]\, [Programming|programming]
 @csta3AAP18| [Abstractions|abstractions]
 @csta3AAP19| [CS and Design|design]\, [Verification|verification]
-@csta3AAP20| [Abstractions|abstractions]
+@csta3AAP20| [Abstractions|abstractions]\, [Operating Systems|operating]
 @csta3AAP21| [Verification|verification]
 @csta3AAP22| [Projects|projects]
 @csta3AAP23| [Projects|projects]
@@ -74,7 +74,7 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3BDA07| --
 @cstaCS
 @csta2CS01| [CS and Design|design]\, [Verification & Debugging|verification]
-@csta2CS02| [Computers|computers]
+@csta2CS02| [Computers|computers]\, [Operating Systems|operating]
 @csta2CS03| [Verification & Debugging|verification]
 @csta3ACS01| [Programming Languages|languages]\, [Abstractions|abstractions]
 @csta3ACS02| [Operating Systems|operating]\, [Programming Languages|languages]
@@ -100,10 +100,10 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @toleranceHeader| Chapters
 @toleranceIdentity
 @tolerance1| All chapters but Foundations
-@tolerance2| [Encoding Information|information]\, [Algorithms|algorithms]
+@tolerance2| [Encoding Information|information]\, [Algorithms|algorithms]\, [Operating Systems|operating]
 @tolerance3| [Encoding Information|information]\, [Programming Languages|languages]\, [Artificial Intelligence|ai]
 @tolerance4| [Projects|projects]
-@tolerance5| [Computers|computers]\, [Programming Languages|languages]\, [Tools|tools]
+@tolerance5| [Computers|computers]\, [Operating Systems|operating]\, [Programming Languages|languages]\, [Tools|tools]
 @toleranceDiversity
 @tolerance6| [Encoding Information|information]\, [Artificial Intelligence|ai]
 @tolerance7| [Data Structures|data]
@@ -114,12 +114,12 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @tolerance11| [Encoding Information|information]\, [Artificial Intelligence|ai]\, [Tools|tools]
 @tolerance12| [CS, Equity, and Justice|justice]\, [Computers|computers]\, [Control Structures|control]\, [Abstractions|abstractions]\, [Artificial Intelligence|ai]
 @tolerance13| [Encoding Information|information]\, [CS, Equity, and Justice|justice]\, [Artificial Intelligence|ai]\, [Programming|programming]\, [Verification & Debugging|verification]
-@tolerance14| [Computers|computers]\, [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Data Structures|data]\, [Algorithms|algorithms]\, [Artificial Intelligence|ai]\, [Programming|programming]
+@tolerance14| [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Computers|computers]\, [Operating Systems|operating]\, [Data Structures|data]\, [Algorithms|algorithms]\, [Artificial Intelligence|ai]\, [Programming|programming]
 @tolerance15| [Operating Systems|operating]
 @toleranceAction
 @tolerance16| [CS and Design|design]\, [Projects|projects]\, [Verification & Debugging|verification]
 @tolerance17| [CS and Design|design]\, [Artificial Intelligence|ai]\, [Tools|tools]\, [Projects|projects]
-@tolerance18| [Tools|tools]
+@tolerance18| [Operating Systems|operating]\, [Tools|tools]
 @tolerance19| [CS and Design|design]\, [Artificial Intelligence|ai]\, [Verification & Debugging|verification]\, [Projects|projects]
 @tolerance20| [Algorithms|algorithms]
 

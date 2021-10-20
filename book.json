@@ -2791,6 +2791,11 @@
 
 	},
 	"glossary": {
+		"accessibility": {
+			"phrase": "accessibility",
+			"definition": "The extent to which a computer programs and user interfaces can be used by someone independent of their physical and cognitive abilities. For example, graphical user interfaces that require use of a mouse are not accessible to people with motor impairments that limit their ability perform fine movements of their hands.",
+			"synonyms": ["a11y"]
+		},
 		"algo": {
 			"phrase": "algorithm",
 			"definition": "A precise, unambiguous process for solving a problem, written by people and often performed by a computer.",
@@ -2840,6 +2845,11 @@
 			"definition": "A building dedicated to storing a large number of networked computers and data, usually powered by a nearby electricity source.",
 			"synonyms": ["the cloud"]
 		},
+		"efficiency": {
+			"phrase": "efficiency",
+			"definition": "The time it takes for a computer to calculate something; more efficient computer hardware and operating systems execute more instructions per second. This can also refer to _memory_ efficiency, which is how many bits of memory some computation requires to make its calculations.",
+			"synonyms": ["speed"]
+		},
 		"encoding": {
 			"phrase": "encoding",
 			"definition": "A set of notational rules for how to represent information with sequences of symbols."
@@ -2851,6 +2861,15 @@
 		"info": {
 			"phrase": "information",
 			"definition": "Differences in physical states in the world that carry meaning to a recipient. For example, a light being off in a classroom can be information to a student, as it might signal the room is locked and unoccupied."
+		},
+		"ui": {
+			"phrase": "interface",
+			"definition": "A program and input and output devices that receives input from users and produces output, including command line interfaces, graphical user interfaces, and voice interfaces",
+			"synonyms": ["user interface", "UI"]
+		},
+		"kernel": {
+			"phrase": "kernel",
+			"definition": "The first program that runs when a computer boots, responsible for running all other computer programs, responding to input from users, and producing output."
 		},
 		"lang": {
 			"phrase": "programming language",
@@ -2865,6 +2884,39 @@
 			"phrase": "operation",
 			"definition": "A mathematical function that takes some number of inputs and uses those inputs computes a value; for example, the multiply operation in mathematics takes two numerical values and computes a product.",
 			"synonyms": ["function"]
+		},
+		"os": {
+			"phrase": "operating system",
+			"definition": "A computer program that automatically manages the hardware, netowrk, and energy resources of a computer, maximizing speed and enabling multitasking.",
+			"synonyms": ["OS"]
+		},
+		"privacy": {
+			"phrase": "privacy",
+			"definition": "The ability for individuals to control information about their identity and activity."
+		},
+		"process": {
+			"phrase": "process",
+			"definition": "Data stored by a kernel about a program's current execution state, including which instruction is being executed, what data it is using, who has permission to see it's results."
+		},
+		"program": {
+			"phrase": "program",
+			"definition": "A series of instructions for taking input, computing something, and producing output, including anything from a word processor, a game, or an operating system.",
+			"synonyms": ["app", "application"]
+		},		
+		"ram": {
+			"phrase": "random access memory",
+			"definition": "A temporary place to store data while a computer is running; when the computer is shut off, it is erased.",
+			"synonyms": ["memory", "RAM"]
+		},
+		"security": {
+			"phrase": "security",
+			"definition": "Strategies that computers, operating systems, and programs use to preserve data privacy, such as passwords, biometric authentication, file permissions.",
+			"synonyms": ["information assurance"]
+		},
+		"storage": {
+			"phrase": "secondary storage",
+			"definition": "A semi-permantent place to store data such as files and operating systems; common media include hard drives, solid state drives, flash memory, and disks. When the computer is shut off, the data is not lost.",
+			"synonyms": ["storage"]
 		},
 		"trace": {
 			"phrase": "trace",

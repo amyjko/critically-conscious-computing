@@ -211,11 +211,11 @@ A third way of separating writing, verification, and debugging is to simply expl
 
 Each of these methods of separation might seem like they would take additional time. However, just as with professional software development, rushing to build something without verifying it nearly always leads to longer periods of debugging anyway, so it’s not clear that merging these activities saves students or professionals time. What is clear is that separating them can help students recognize each distinct activity and the skills it requires, practice each of those skills, and learn to conduct each of them with the different mindsets they require.
 
-## Unit Plan: Critically Conscious Verification and Debugging
+## Unit sketch: Critically Conscious Verification and Debugging
 
 While the methods above can be effective at developing students' programming skills in the abstract, they do little to help surface the social, ethical, and moral tensions that arise in verification and debugging. Efforts to discuss these issues outside the context of verification and debugging would only signal that social issues are somehow separate from these activities, which they are not.
 
-To illustrate how one might integrate social, ethical, and moral tensions while teaching verification and debugging, consider the unit plan below. It uses many of the effective methods above, while situating them in a social context that centers students in moral tensions.
+To illustrate how one might integrate social, ethical, and moral tensions while teaching verification and debugging, consider the unit sketch below. It uses many of the effective methods above, while situating them in a social context that centers students in moral tensions.
 
 Its learning objectives are as follows:
 

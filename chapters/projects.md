@@ -181,7 +181,7 @@ While the list above might make it sound like student projects are easier than p
 
 Project-based learning can also be in tension with other learning concerns. For example, engaging youth in creative expression might mean allowing students to explore wide ranging, complex requirements from their imaginations, which will necessarily impose engineering and teamwork complexities. But if students are given requirements to build, the simpler and narrow they are, the less likely they are to be engaging to a diversity of students.
 
-In the rest of this chapter, we discuss strategies for navigating these tensions, and then present an example unit plan that illustrates some of these strategies, while also centering questions of diversity, equity, inclusion, and justice.
+In the rest of this chapter, we discuss strategies for navigating these tensions, and then present an example unit sketch that illustrates some of these strategies, while also centering questions of diversity, equity, inclusion, and justice.
 
 ## Scaffolding Project-Based Learning
 
@@ -223,11 +223,11 @@ Finally, throughout all of these scaffolded activities, there are some classroom
 
 While these norms emerged from secondary classrooms, they are not unlike the types of work cultures necessary for professional projects to thrive<ko17>.
 
-## Unit Plan: Critical Project-Based Learning
+## Unit sketch: Critical Project-Based Learning
 
 While the scaffolding described in the previous section can be key to engaging students in meaningful project-based learning, none of them address the inescapable interweaving of projects with issues of diversity, equity, inclusion, and justice in software. These "neutral" pedagogies can give an impression to students that making software is purely an engineering concern, and not a social one. In fact, such neutral framings in education are likely what has led to a software industry full of engineers who see software projects similarly: as purely technical endeavors, separable and separate from the world.
 
-We end this chapter by examining project-based learning approaches that integrate questions of diversity, equity, inclusion, and justice into project planning. One approach is to focus on project scopes that engage computing as a tool for dismantling systems of oppression; the other is to integrate examinations of diversity, equity, and inclusion into the workflow scaffolding of project work, helping students to see diversity concerns as integral to software engineering. Below we describe an example unit plan that uses both of these approaches.
+We end this chapter by examining project-based learning approaches that integrate questions of diversity, equity, inclusion, and justice into project planning. One approach is to focus on project scopes that engage computing as a tool for dismantling systems of oppression; the other is to integrate examinations of diversity, equity, and inclusion into the workflow scaffolding of project work, helping students to see diversity concerns as integral to software engineering. Below we describe an example unit sketch that uses both of these approaches.
 
 The learning objectives of this unit are:
 
@@ -350,7 +350,7 @@ After a series of implementation sessions, the next session celebrates the stude
 
 While the unit above reflects the general structure of any kind of project-based learning in CS, it centers equity and justice in multiple ways. It situates the project work in a community and social context, giving voice to students’ lived experience. It ties computing solutions to broader efforts to make change. It challenges students to reflect daily on whether the work they are doing to build software will be part of making that change. And it challenges them to reflect broadly when completing their work on the limits of computing. Therefore, the scaffolds embedded throughout do not only structure the technical aspects of the work, but the sociocultural and sociopolitical aspects as well.
 
-While this unit plan portrays an ideal, there are many ways that it might be limited or constrained. If there is limited time, students might feel compelled to rush or disregard the social parts of the project, and focus purely on the technical parts. After all, this is the same pressure that professional software engineers feel, as there is always endless engineering work that can feel necessary for progress, whereas critically examining impact can feel optional. To reinforce the importance of these examinations, teachers have to make the time for students to step away from the engineering role, and explicitly remind students to take different perspectives on their work, as they work.
+While this sketch portrays an ideal, there are many ways that it might be limited or constrained. If there is limited time, students might feel compelled to rush or disregard the social parts of the project, and focus purely on the technical parts. After all, this is the same pressure that professional software engineers feel, as there is always endless engineering work that can feel necessary for progress, whereas critically examining impact can feel optional. To reinforce the importance of these examinations, teachers have to make the time for students to step away from the engineering role, and explicitly remind students to take different perspectives on their work, as they work.
 
 @standardsHeader
 @standardsBlurb

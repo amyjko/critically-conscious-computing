@@ -366,9 +366,9 @@ Understanding all of the ways discussed in the prior section that data, data str
 
 Unfortunately, while there are many existing ways of teaching the above (with perhaps the exception of the last bullet), there is still little research insight into which of these ways are most effective. But there are some exceptions. For example, some studies have examined which types of metaphors for variables are most helpful in learning, finding that the "container" metaphor we used above works well when there is a single value involved, but that it breaks down when there are multiple values<hermans18>. Others have found that students can readily engage in imagining alternative data structure designs to represent information, and can explore their tradeoffs, but often overlook crucial considerations without prompting or scaffolding<gu20>. Some researchers have surfaced the critical difference between teaching students how to implement common data structures and how to use them<lister04>. A great many have explored educational technologies to support data structure learning, especially data structure visualization tools that demonstrate how operations on data structures manipulate their contents<baker99>. However, these approaches, and generally any approach that relies on visual descriptions of data structures, exclude students who are blind<baker19>.
 
-While the above work provides some guidance into teaching data structures as technical ideas, there is even less work teaching data structures as sociotechnical ideas. In the unit plan below, we offer one approach to examining both the social and technical dimensions of data structures.
+While the above work provides some guidance into teaching data structures as technical ideas, there is even less work teaching data structures as sociotechnical ideas. In the unit sketch below, we offer one approach to examining both the social and technical dimensions of data structures.
 
-## Unit Plan: Examining Gendered Advertisements
+## Unit sketch: Examining Gendered Advertisements
 
 This unit explores data structures in the context of personalized advertisements in social media. Its learning objectives are as follows:
 

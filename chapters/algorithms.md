@@ -229,9 +229,9 @@ While teaching the canon of algorithms can be valuable to some students, there a
 
 Teaching people about algorithms, especially as they relate to society, poses different challenges than a purely technical approach. For example, one study that taught several adults from historically marginalized groups in the United States about algorithmic fairness elicited fear of harm, mistrust in companies, and even a sense of existential threat about racial injustice and economic inequality<woodruff18>. Thus, while teaching algorithms as a canon poses comprehension and transfer challenges, teaching algorithms as designed phenomena may raise questions about identity, power, and justice.
 
-## Unit Plan: The YouTube Rabbit Hole
+## Unit sketch: The YouTube Rabbit Hole
 
-In this example unit plan, we attempt to balance the two methods above, alternating between technical and social perspectives on algorithms, and evaluative and creative stances toward algorithms. It does so in the context of recommendation algorithms found in popular social media sites, especially YouTube, as for many youth, YouTube is a central part of their media consumption and social sharing. 
+In this example unit, we attempt to balance the two methods above, alternating between technical and social perspectives on algorithms, and evaluative and creative stances toward algorithms. It does so in the context of recommendation algorithms found in popular social media sites, especially YouTube, as for many youth, YouTube is a central part of their media consumption and social sharing. 
 
 The unit’s learning objectives are as follows:
 

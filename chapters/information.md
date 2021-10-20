@@ -144,7 +144,7 @@ What we do know is that a key pedagogical decision in talking about data with st
 
 |Chapter07_Figure04_Lateness.png|A child running away from the view toward a classroom with a clock and tardy slips flying behind them.|Even lateness is algorithmic.|@ashley|
 
-## Unit plan: Encoding tardiness
+## Unit sketch: Encoding tardiness
 
 Here we offer a sketch of a unit that focuses on data directly related to students’ lives at school: tardiness data. On the surface, this may seem innocuous, but tardiness is a nexus of many inequities in students’ lives, ensuring that students will be able to connect their own experiences to the data that captures some aspect of their experiences. This unit might be tailored to the specific practices around lateness at your school or in your classroom, and could be extended to link to the many computing topics discussed in this book.
 

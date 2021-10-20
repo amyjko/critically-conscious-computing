@@ -347,7 +347,7 @@ What will `y` be after the program ends?
 
 This item, if combined with more complex items that leverage these skills, will allow a teacher to isolate which parts of a programming language’s control structure features a student might be struggling with.
 
-## Unit Plan: Reading Control Structures Critically
+## Unit sketch: Reading Control Structures Critically
 
 While the methods above are enough to help students learn the syntactic and semantic rules of control structures in a language, and can even help connect control structures to issues of social justice, focusing on the abstract rules of a programming language alone may not resonate with students, and offers little insight into the ways that control structures can amplify and reinforce injustice. Here we provide an extension of the methods above that situate the learning more deeply in a social decision, and then connect the automation of those decisions to control structures.
 

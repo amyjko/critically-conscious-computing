@@ -135,11 +135,11 @@ Some of these include authentic elements (such as professional programming langu
 
 Choosing an educational programming system has the opposite tradeoffs to professional ones: they are much less likely to pose unhelpful complexities, they will scaffold hard concepts, and they will often have features explicitly designed for learning environments, including being designed to some degree for equity, including slower computers, mobile devices, and accessibility. But students motivated by career learning may perceive them as inauthentic toys, disengaging some of them from wanting to create. Strategies for overcoming inauthenticity can include creating a sense of authenticity by demonstrating a broader community of use; for example, Scratch achieves some sense of authenticity through it’s community features, where there are countless other youth sharing their creations remixing others’ creations<dasgupta16>.
 
-## Unit Plan: Critically Conscious Tool Learning
+## Unit sketch: Critically Conscious Tool Learning
 
 While both of these approaches have their strengths, neither addresses the core underlying issue with tools: they emerge from particular communities and values, and until those values and the teacher’s rationale for choosing the tool is visible, students will not know how to interpret whatever difficulties they encounter in tool learning. Choosing tools that reflect students’ values, but then also helping students become critically conscious of the tool they are using, who made it, and why, may help them persist in learning a tool, regardless of what tool a teacher has chosen.
 
-To illustrate how this might be done, consider the example unit plan below, which teaches students about the [VS Code IDE|https://code.visualstudio.com], an IDE used by many developers to create web applications and build data science pipelines.
+To illustrate how this might be done, consider the example unit sketch below, which teaches students about the [VS Code IDE|https://code.visualstudio.com], an IDE used by many developers to create web applications and build data science pipelines.
 
 The learning objectives of this unit are:
 

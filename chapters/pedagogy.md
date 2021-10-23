@@ -16,7 +16,7 @@ In this chapter, we examine the various reasons for teaching CS common in second
 
 # Uncritical CS pedagogies
 
-Throughout the history of CS education, there have been many different reasons for teaching CS<guzdial15>. We examined some of these briefly in [Chapter 1|history] from the perspective of competing priorities around CS education reform. Here we examine these reasons pedagogically.
+Throughout the history of CS education, there have been many different reasons for teaching CS<guzdial15>. We examined some of these briefly in @history from the perspective of competing priorities around CS education reform. Here we examine these reasons pedagogically.
 
 ## Improve students' problem solving
 

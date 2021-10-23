@@ -7,25 +7,25 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 
 @cstaHeader| Chapters
 @cstaIC
-@csta2IC20| [CS and Design|design]\, [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Operating Systems|operating]
-@csta2IC21| [CS and Design|design]\, [CS, Equity, and Justice|justice]\, [Computers|computers]
+@csta2IC20| @design\, @justice\, @intelligence\, @operating
+@csta2IC21| @design\, @justice\, @computers
 @csta2IC22| [Projects|projects]
-@csta2IC23| [Encoding Information|information]\, [Operating Systems|operating]
-@csta3AIC24| [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Computers|computers]\, [Operating Systems|operating]
-@csta3AIC25| [CS, Equity, and Justice|justice]\, [Verification|verification]
+@csta2IC23| @information\, @operating
+@csta3AIC24| @justice\, @intelligence\, @computers\, @operating
+@csta3AIC25| @justice\, @languages\, [Verification|verification]
 @csta3AIC26| [Algorithms|algorithms]
-@csta3AIC27| [CS, Equity, and Justice|justice]\, [Projects|projects]
-@csta3AIC28| [CS, Equity, and Justice|justice]
-@csta3AIC29| [Encoding Information|information]\, [Operating Systems|operating]
-@csta3AIC30| [Encoding Information|information]\, [Operating Systems|operating]
-@csta3BIC25| [CS, Equity, and Justice|justice]
-@csta3BIC26| [CS, Equity, and Justice|justice]\, [Verification & Debugging|verification]\, [Computers|computers]
-@csta3BIC27| [Encoding Intelligence|intelligence]\, [Computers|computers]\, [Operating Systems|operating]
-@csta3BIC28| [CS, Equity, and Justice|justice]\, [Computers|computers]
+@csta3AIC27| @justice\, [Projects|projects]
+@csta3AIC28| @justice
+@csta3AIC29| @information\, @operating
+@csta3AIC30| @information\, @operating
+@csta3BIC25| @justice
+@csta3BIC26| @justice\, [Verification & Debugging|verification]\, @computers
+@csta3BIC27| @intelligence\, @computers\, @operating
+@csta3BIC28| @justice\, @computers
 @cstaAP
 @csta2AP10| [Abstractions|abstractions]\, [Programming|programming]
 @csta2AP11| [Data Structures|data]
-@csta2AP12| [Encoding Intelligence|intelligence]\, [Control Structures|control]\, [Programming|programming]
+@csta2AP12| @intelligence\, [Control Structures|control]\, [Programming|programming]
 @csta2AP13| [Abstractions|abstractions]\, [Programming|programming]
 @csta2AP14| [Abstractions|abstractions]\, [Programming|programming]
 @csta2AP15| [Verification & Debugging|verification]
@@ -35,17 +35,17 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta2AP19| [Projects|projects]
 @csta3AAP13| [Projects|projects]
 @csta3AAP14| [Data Structures|data]
-@csta3AAP15| [Encoding Intelligence|intelligence]\, [Control Structures|control]\, [Algorithms|algorithms]
+@csta3AAP15| @intelligence\, [Control Structures|control]\, [Algorithms|algorithms]
 @csta3AAP16| [Projects|projects]
 @csta3AAP17| [Abstractions|abstractions]\, [Programming|programming]
 @csta3AAP18| [Abstractions|abstractions]
-@csta3AAP19| [CS and Design|design]\, [Verification|verification]
-@csta3AAP20| [Abstractions|abstractions]\, [Operating Systems|operating]
+@csta3AAP19| @design\, [Verification|verification]
+@csta3AAP20| [Abstractions|abstractions]\, @operating
 @csta3AAP21| [Verification|verification]
 @csta3AAP22| [Projects|projects]
-@csta3AAP23| [Projects|projects]
-@csta3BAP08| [Encoding Intelligence|intelligence]\, [Artificial Intelligence|ai]
-@csta3BAP09| [Encoding Intelligence|intelligence]\, [Artificial Intelligence|ai]
+@csta3AAP23| @languages\, [Projects|projects]
+@csta3BAP08| @intelligence\, [Artificial Intelligence|ai]
+@csta3BAP09| @intelligence\, [Artificial Intelligence|ai]
 @csta3BAP10| [Algorithms|algorithms]
 @csta3BAP11| [Algorithms|algorithms]
 @csta3BAP12| [Data Structures|data]
@@ -54,18 +54,18 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3BAP15| [Algorithms|algorithms]
 @csta3BAP16| [Abstractions|abstractions]
 @csta3BAP17| [Programming|programming]\, [Projects|projects]
-@csta3BAP18| [Operating Systems|operating]
+@csta3BAP18| @operating
 @csta3BAP19| [Tools|tools]
 @csta3BAP20| [Tools|tools]
 @csta3BAP21| [Verification & Debugging|verification]
 @csta3BAP22| [Projects|projects]
 @csta3BAP23| [Projects|projects]
-@csta3BAP24| [Programming Languages|languages]
+@csta3BAP24| @languages
 @cstaDA
-@csta2DA07| [Encoding Information|information]
-@csta2DA08| [Encoding Information|information]
+@csta2DA07| @information
+@csta2DA08| @information
 @csta2DA09| --
-@csta3ADA09| [Encoding Information|information]
+@csta3ADA09| @information
 @csta3ADA10| [Data Structures|data]
 @csta3ADA11| --
 @csta3ADA12| --
@@ -73,25 +73,25 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3BDA06| --
 @csta3BDA07| --
 @cstaCS
-@csta2CS01| [CS and Design|design]\, [Verification & Debugging|verification]
-@csta2CS02| [Computers|computers]\, [Operating Systems|operating]
+@csta2CS01| @design\, [Verification & Debugging|verification]
+@csta2CS02| @computers\, @operating
 @csta2CS03| [Verification & Debugging|verification]
-@csta3ACS01| [Programming Languages|languages]\, [Abstractions|abstractions]
-@csta3ACS02| [Operating Systems|operating]\, [Programming Languages|languages]
+@csta3ACS01| @languages\, [Abstractions|abstractions]
+@csta3ACS02| @operating\, @languages
 @csta3ACS03| [Verification & Debugging|verification]
-@csta3BCS01| [Operating Systems|operating]
-@csta3BCS02| [Encoding Intelligence|intelligence]\, [Computers|computers]
+@csta3BCS01| @operating
+@csta3BCS02| @intelligence\, @computers
 @cstaNI
-@csta2NI04| [Computers|computers]
-@csta2NI05| [Operating Systems|operating]
-@csta2NI06| [Operating Systems|operating]
-@csta3ANI04| [Computers|computers]
-@csta3ANI05| [Operating Systems|operating]
-@csta3ANI06| [Operating Systems|operating]
-@csta3ANI07| [Operating Systems|operating]
-@csta3ANI08| [Operating Systems|operating]
-@csta3BNI03| [Computers|computers]
-@csta3BNI04| [Operating Systems|operating]
+@csta2NI04| @computers
+@csta2NI05| @operating
+@csta2NI06| @operating
+@csta3ANI04| @computers
+@csta3ANI05| @operating
+@csta3ANI06| @operating
+@csta3ANI07| @operating
+@csta3ANI08| @operating
+@csta3BNI03| @computers
+@csta3BNI04| @operating
 
 # Teaching Tolerance Social Justice Standards
 
@@ -100,27 +100,27 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @toleranceHeader| Chapters
 @toleranceIdentity
 @tolerance1| All chapters but Foundations
-@tolerance2| [Encoding Information|information]\, [Algorithms|algorithms]\, [Operating Systems|operating]
-@tolerance3| [Encoding Information|information]\, [Programming Languages|languages]\, [Artificial Intelligence|ai]
+@tolerance2| @information\, [Algorithms|algorithms]\, @operating
+@tolerance3| @information\, @languages\, [Artificial Intelligence|ai]
 @tolerance4| [Projects|projects]
-@tolerance5| [Computers|computers]\, [Operating Systems|operating]\, [Programming Languages|languages]\, [Tools|tools]
+@tolerance5| @computers\, @operating\, @languages\, [Tools|tools]
 @toleranceDiversity
-@tolerance6| [Encoding Information|information]\, [Artificial Intelligence|ai]
+@tolerance6| @information\, [Artificial Intelligence|ai]
 @tolerance7| [Data Structures|data]
-@tolerance8| [Encoding Information|information]\, [Control Structures|control]
-@tolerance9| [CS, Equity, and Justice|justice]\, [Artificial Intelligence|ai]
-@tolerance10| [CS and Design|design]\, [Encoding Information|information]\, [Programming Languages|languages]\, [Control Structures|control]\, [Tools|tools]
+@tolerance8| @information\, @languages\, [Control Structures|control]
+@tolerance9| @justice\, [Artificial Intelligence|ai]
+@tolerance10| @design\, @information\, @languages\, [Control Structures|control]\, [Tools|tools]
 @toleranceJustice
-@tolerance11| [Encoding Information|information]\, [Artificial Intelligence|ai]\, [Tools|tools]
-@tolerance12| [CS, Equity, and Justice|justice]\, [Computers|computers]\, [Control Structures|control]\, [Abstractions|abstractions]\, [Artificial Intelligence|ai]
-@tolerance13| [Encoding Information|information]\, [CS, Equity, and Justice|justice]\, [Artificial Intelligence|ai]\, [Programming|programming]\, [Verification & Debugging|verification]
-@tolerance14| [CS, Equity, and Justice|justice]\, [Encoding Intelligence|intelligence]\, [Computers|computers]\, [Operating Systems|operating]\, [Data Structures|data]\, [Algorithms|algorithms]\, [Artificial Intelligence|ai]\, [Programming|programming]
-@tolerance15| [Operating Systems|operating]
+@tolerance11| @information\, [Artificial Intelligence|ai]\, [Tools|tools]
+@tolerance12| @justice\, @computers\, [Control Structures|control]\, [Abstractions|abstractions]\, [Artificial Intelligence|ai]
+@tolerance13| @information\, @justice\, [Artificial Intelligence|ai]\, [Programming|programming]\, [Verification & Debugging|verification]
+@tolerance14| @justice\, @intelligence\, @computers\, @operating\, [Data Structures|data]\, [Algorithms|algorithms]\, [Artificial Intelligence|ai]\, [Programming|programming]
+@tolerance15| @operating
 @toleranceAction
-@tolerance16| [CS and Design|design]\, [Projects|projects]\, [Verification & Debugging|verification]
-@tolerance17| [CS and Design|design]\, [Artificial Intelligence|ai]\, [Tools|tools]\, [Projects|projects]
-@tolerance18| [Operating Systems|operating]\, [Tools|tools]
-@tolerance19| [CS and Design|design]\, [Artificial Intelligence|ai]\, [Verification & Debugging|verification]\, [Projects|projects]
+@tolerance16| @design\, [Projects|projects]\, [Verification & Debugging|verification]
+@tolerance17| @design\, [Artificial Intelligence|ai]\, [Tools|tools]\, [Projects|projects]
+@tolerance18| @operating\, [Tools|tools]
+@tolerance19| @design\, [Artificial Intelligence|ai]\, [Verification & Debugging|verification]\, [Projects|projects]
 @tolerance20| [Algorithms|algorithms]
 
 
@@ -131,29 +131,29 @@ The [CSTA Teacher Standards|https://csteachers.org/page/standards-for-cs-teacher
 @teacherHeader| Chapters
 @teacher1
 @teacher1a| All chapters
-@teacher1b| [Computers|computers]\, [Operating Systems|operating]
-@teacher1c| [Computers|computers]\, [CS and Design|design]\, [Operating Systems|operating]
-@teacher1d| [Encoding Information|information]\, [Data Structures|data]\, [Algorithms|algorithms]
-@teacher1e| [Encoding Intelligence|intelligence]\, [Control Structures|control]\, [Algorithms|algorithms]\, [Programming|programming]\, [Verification & Debugging|verification]\, [Tools|tools]
+@teacher1b| @computers\, @operating
+@teacher1c| @computers\, @design\, @operating
+@teacher1d| @information\, [Data Structures|data]\, [Algorithms|algorithms]
+@teacher1e| @intelligence\, [Control Structures|control]\, [Algorithms|algorithms]\, [Programming|programming]\, [Verification & Debugging|verification]\, [Tools|tools]
 @teacher1f| All chapters
 @teacher2
 @teacher2a| All chapters
 @teacher2b| All chapters
 @teacher2c| All chapters
-@teacher2d| [Critical CS Pedagogy|pedagogy]\, [Critical CS Assessment|assessment]\, [Encoding Information|information]
-@teacher2e| [Critical CS Pedagogy|pedagogy]\, [Programming Languages|languages]\, [Tools|tools]
+@teacher2d| @pedagogy\, @assessment\, @information
+@teacher2e| @pedagogy\, @languages\, [Tools|tools]
 @teacher3
-@teacher3a| [Critical CS Pedagogy|pedagogy]
+@teacher3a| @pedagogy
 @teacher3b| All chapters
-@teacher3c| [Critical CS Pedagogy|pedagogy]\, [Critical CS Assessment|assessment]
-@teacher3d| [Critical CS History|history]\, [Critical CS Pedagogy|pedagogy]
-@teacher3e| [Programming Languages|languages]\, [Abstractions|abstractions]\, [Tools|tools]\, [Projects|projects]
-@teacher3f| [Critical CS History|history]
+@teacher3c| @pedagogy\, @assessment
+@teacher3d| @history\, @pedagogy
+@teacher3e| @languages\, [Abstractions|abstractions]\, [Tools|tools]\, [Projects|projects]
+@teacher3f| @history
 @teacher4
-@teacher4a| [Critical CS History|history]\, [Critical CS Pedagogy|pedagogy]
-@teacher4b| [Critical CS Pedagogy|pedagogy]\, [Critical CS Assessment|assessment]
+@teacher4a| @history\, @pedagogy
+@teacher4b| @pedagogy, @assessment
 @teacher4c| All chapters
-@teacher4d| [Critical CS History|history]\, [Critical CS Pedagogy|pedagogy]
+@teacher4d| @history\, @pedagogy
 @teacher4e| All chapters
 @teacher4f| All chapters
 @teacher4g| All chapters

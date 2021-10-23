@@ -742,6 +742,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/1953163.1953249"
 		],
+		"dickson20": [
+			"Paul E. Dickson, Neil C. C. Brown, Brett A. Becker",
+			2020,
+			"Engage Against the Machine: Rise of the Notional Machines as Effective Pedagogical Devices",
+			"#iticse",
+			"https://doi.org/10.1145/3341525.3387404"
+		],
 		"dignazio20": [
 			"Catherine D'Ignazio, Lauren F. Klein",
 			2020,
@@ -2058,6 +2065,13 @@
 			"Taylor & Francis",
 			"https://www.google.com/books/edition/Constructionism_in_Practice/qToFlGC_2NQC?hl=en&gbpv=0"
 		],
+		"reynolds08": [
+			"John C. Reynolds",
+			2008,
+			"Some thoughts on teaching programming and programming languages",
+			"SIGPLAN Notices", 
+			"https://doi.org/10.1145/1480828.1480852"
+		],
 		"ritchie93": [
 			"Dennis M. Ritchie",
 			1993,
@@ -2787,7 +2801,18 @@
 		"teacher5c": ",5c| Promote student self-efficacy.| _Center student agency, assets, values, and culture._",
 		"teacher5d": ",5d| Support student collaboration.| _Center student collaboration and discourse to foster critical consciousness._",
 		"teacher5e": ",5e| Encourage student communication.| _Encourage student communication, reflection, writing, and speaking about CS equity and justice._",
-		"teacher5f": ",5f| Guide students’ use of feedback.| _Guide students to both seek and learn from feedback, as well provide it to those with power._"
+		"teacher5f": ",5f| Guide students’ use of feedback.| _Guide students to both seek and learn from feedback, as well provide it to those with power._",
+
+		"history": "[Critical CS History|history]",
+		"pedagogy": "[Critical CS Pedagogy|pedagogy]",
+		"assessment": "[Critical CS Assessment|assessment]",
+		"justice": "[CS, Equity, and Justice|justice]",
+		"design": "[CS and Design|design]",
+		"intelligence": "[Encoding Intelligence|intelligence]",
+		"information": "[Encoding Information|information]",
+		"computers": "[Computers|computers]",
+		"operating": "[Operating Systems|operating]",
+		"languages": "[Programming Languages|languages]"
 
 	},
 	"glossary": {
@@ -2806,14 +2831,14 @@
 			"definition": "Any method of evaluating, characterizing, measuring, or modeling some aspect of student knowledge, skill, ability, or identity.",
 			"synonyms": ["test", "examination", "grade", "feedback"]
 		},
+		"blockeditor": {
+			"phrase": "block-based editor",
+			"definition": "An editor for textual programming languages that use a drag and drop interface for constructing programs in syntactic units rather than a text editor for constructing programs character by character.",
+			"synonyms": ["block-based language", "drag and drop code editor", "syntax-directed editor", "structure editor"]
+		},
 		"automate": {
 			"phrase": "automate",
 			"definition": "To replace human labor with the labor of human-made tools and machinery, including computers."
-		},
-		"software": {
-			"phrase": "software",
-			"definition": "Apps, websites, and other products and services that people use on computers, laptops, tablets, smartphones, and other digital devices that have computers in them.",
-			"synonyms": ["programs", "applications", "apps"]
 		},
 		"conceptinv": {
 			"phrase": "concept inventory",
@@ -2826,6 +2851,11 @@
 			"phrase": "computer science",
 			"definition": "The academic discipline and community that studies both human and technical aspects of computer use, computational thinking, programs, programming, software, and software engineering.",
 			"synonyms": ["computing", "CS"]
+		},
+		"compiler": {
+			"phrase": "compiler",
+			"definition": "A computer program that reads a program written in a particular programming language and translates it into machine code that a computer can execute.",
+			"synonyms": ["translator", "interpreter"]
 		},
 		"computerscientist": {
 			"phrase": "computer scientist",
@@ -2913,10 +2943,23 @@
 			"definition": "Strategies that computers, operating systems, and programs use to preserve data privacy, such as passwords, biometric authentication, file permissions.",
 			"synonyms": ["information assurance"]
 		},
+		"semantics": {
+			"phrase": "semantics",
+			"definition": "Rules that define how code written in a programing language will be interpreted by a computer. Some rules can be checked before a program executes, preventing errors; other rules can only be checked while a program executes, and may result a program reporting an error."
+		},
+		"software": {
+			"phrase": "software",
+			"definition": "Apps, websites, and other products and services that people use on computers, laptops, tablets, smartphones, and other digital devices that have computers in them.",
+			"synonyms": ["programs", "applications", "apps"]
+		},
 		"storage": {
 			"phrase": "secondary storage",
 			"definition": "A semi-permantent place to store data such as files and operating systems; common media include hard drives, solid state drives, flash memory, and disks. When the computer is shut off, the data is not lost.",
 			"synonyms": ["storage"]
+		},
+		"syntax": {
+			"phrase": "syntax",
+			"definition": "Rules that define what constitutes valid program formatting, free of ambuigities. When programs violate these rules, programming langauges report syntax errors, which indicate which rule was violated, so that the programmer can remove the ambiguity." 
 		},
 		"trace": {
 			"phrase": "trace",

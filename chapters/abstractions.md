@@ -126,7 +126,7 @@ In this example, the power of encapsulation through functions is that the develo
 
 While functions are the most ubiquitous form of abstraction in programming, as the software we built in society became more complex, their power to encapsulate functionality was just not large enough to deal with the sheer scale of some programs. Consider Google Search, for example; it is likely built from hundreds of thousands of functions, written by thousands of different people, each responsible for ensuring that the functions they wrote are working correctly and interoperating with other functions correctly. Imagine a computer program, stored in a single document, with hundreds of thousands of functions, and how much of a disorganized mess that could become: how would a new employee learn how Google Search is built, other than by just reading all of the functions?
 
-This problem led to the invention of *object orientation*. As we discussed in the [Programming Languages|languages] chapter, this was the idea that code and data might be encapsulated into something called an object<holmevik94>, which is nothing more than a container for storing related code and data to keep it organized. For example, continuing our voting example above, imagine we made an object that represent a voter:
+This problem led to the invention of *object orientation*. As we discussed in the @languages chapter, this was the idea that code and data might be encapsulated into something called an object<holmevik94>, which is nothing more than a container for storing related code and data to keep it organized. For example, continuing our voting example above, imagine we made an object that represent a voter:
 
 `python
 class Voter:

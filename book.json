@@ -539,6 +539,13 @@
 			"Duke University Press",
 			"https://www.google.com/books/edition/Dark_Matters/snmJCgAAQBAJ?hl=en&gbpv=0"
 		],
+		"bryant01": [
+			"Randal E. Bryant, David R. O'Hallaron",
+			2001,
+			"Introducing computer systems from a programmer's perspective",
+			"#sigcse",
+			"https://doi.org/10.1145/364447.364549"
+		],
 		"bullock21": [
 			"Beleicia B. Bullock, Fernando L. Nascimento, Stacy A. Doore",
 			2021,
@@ -615,6 +622,13 @@
 			"Challenging stereotypes and changing attitudes: the effect of a brief programming encounter on adults' attitudes toward programming",
 			"#sigcse",
 			"https://doi.org/10.1145/2538862.2538938"
+		],
+		"cassel02": [
+			"Lillian (Boots) Cassel, Deepak Kumar",
+			2002,
+			"A state of the course report: computer organization & architecture",
+			"SIGCSE Bulletn",
+			"https://doi.org/10.1145/637610.544466"
 		],
 		"chen15": [
 			"Xiang 'Anthony' Chen, Stelian Coros, Jennifer Mankoff, and Scott E. Hudson",
@@ -2582,6 +2596,13 @@
 			"Mindsets That Promote Resilience: When Students Believe That Personal Characteristics Can Be Developed",
 			"Educational Psychologist",
 			"https://doi.org/10.1080/00461520.2012.722805"
+		],
+		"yehezkel07": [
+			"Cecile Yehezkel, Mordechai Ben-Ari, Tommy Dreyfus",
+			2007,
+			"The contribution of visualization to learning computer architecture",
+			"Computer Science Education",
+			"https://doi.org/10.1080/08993400601165545"
 		],
 		"yukselturk16": [
 			"Erman Yukselturk, Serhat Altiok",

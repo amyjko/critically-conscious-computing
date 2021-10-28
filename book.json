@@ -700,6 +700,13 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/Design_Justice/h4LPDwAAQBAJ?hl=en&gbpv=0"
 		],
+		"cunningham19": [
+			"Kathryn Cunningham, Shannon Ke, Mark Guzdial, Barbara Ericson",
+			2019,
+			"Novice Rationales for Sketching and Tracing, and How They Try to Avoid It",
+			"#iticse",
+			"https://doi.org/10.1145/3304221.3319788"
+		],
 		"danielsiek12": [
 			"Holger Danielsiek, Wolfgang Paul, Jan Vahrenhold",
 			2012,
@@ -2778,7 +2785,7 @@
 		"toleranceAction": ",*Action*",
 		"tolerance16": ",16| Express empathy when people are excluded or mistreated because of their identities and concern when they themselves experience bias.| _Express empathy when software excludes or harms people because of their identities and concern when they themselves are excluded or harmed by software._",
 		"tolerance17": ",17| Recognize their own responsibility to stand up to exclusion, prejudice, and injustice.| _Recognize their own responsibility to stand up to exclusion, prejudice, and injustice when designing, engineering, and selecting software._",
-		"tolerance18": ",18| Plan and carry out collective action against bias and injustice in the world and will evaluate what strategies are most effective.| _Plan and carry out collective action against algorithmic bias and injustice in the world of computing and evaluate what strategies are most effective._",
+		"tolerance18": ",18| Students will speak up with courage and respect when they or someone else has been hurt or wronged by bias.| _Students will speak up with courage and respect when they or someone else has been hurt or wronged by algorithmic or data bias._",
 		"tolerance19": ",19| Make principled decisions about when and how to take a stand against bias and injustice in their everyday lives and will do so despite negative peer or group pressure.| _Make principled decisions about when and how to take a stand against algorithmic bias and injustice in their everyday lives and will do so despite negative peer or group pressure._",
 		"tolerance20": ",20| Plan and carry out collective action against bias and injustice in the world and will evaluate what strategies are most effective.| _Plan and carry out collective action against data and algorithmic bias and injustice in the world and will evaluate what strategies are most effective._",
 
@@ -2833,7 +2840,9 @@
 		"information": "[Encoding Information|information]",
 		"computers": "[Computers|computers]",
 		"operating": "[Operating Systems|operating]",
-		"languages": "[Programming Languages|languages]"
+		"languages": "[Programming Languages|languages]",
+		"control": "[Control Structures|control]",
+		"abstractions": "[Abstractions|abstractions]"
 
 	},
 	"glossary": {
@@ -2882,6 +2891,11 @@
 			"phrase": "computer scientist",
 			"definition": "Anyone who studied or studies computer science."
 		},
+		"controlstructure": {
+			"phrase": "control structure",
+			"definition": "A programming language feature for expressing decisions, often using Boolean logic to select between two or more possible next steps in a program.",
+			"synonyms": ["conditionals"]
+		},
 		"criticalcon": {
 			"phrase": "critical consciousness",
 			"definition": "Awareness of the systems, values, norms, and processes that limit and potentially oppress one's life and community.",
@@ -2896,6 +2910,11 @@
 			"definition": "A building dedicated to storing a large number of networked computers and data, usually powered by a nearby electricity source.",
 			"synonyms": ["the cloud"]
 		},
+		"definiteloop": {
+			"phrase": "definite loop",
+			"definition": "A loop written in a computer program that will execute a finite number of times, often based on some fixed number, or the number of items in a list.",
+			"synonyms": ["finite loop"]
+		},
 		"efficiency": {
 			"phrase": "efficiency",
 			"definition": "The time it takes for a computer to calculate something; more efficient computer hardware and operating systems execute more instructions per second. This can also refer to _memory_ efficiency, which is how many bits of memory some computation requires to make its calculations.",
@@ -2905,9 +2924,18 @@
 			"phrase": "encoding",
 			"definition": "A set of notational rules for how to represent information with sequences of symbols."
 		},
+		"event": {
+			"phrase": "event handler",
+			"definition": "A programming language control structure that specifies an event condition and some action to take when that condition is met."
+		},
 		"expr": {
 			"phrase": "expression",
 			"definition": "A statement in a notation that can be evaluated to a particular value, such as a Boolean expression that evaluates to a truth value or a numerical expression that evaluates to a numerical value."
+		},
+		"indefiniteloop": {
+			"phrase": "indefinite loop",
+			"definition": "A loop written in a computer program that will execute until some condition is true, and potentially forever if that condition is always true.",
+			"synonyms": ["infinite loop"]
 		},
 		"info": {
 			"phrase": "information",

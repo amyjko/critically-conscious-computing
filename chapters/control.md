@@ -1,5 +1,3 @@
-% TODO We didn't cover for loops or nested loops.
-
 =
 @keyIdeas
 * The foundation of a computer’s ability to make decisions are control structures.

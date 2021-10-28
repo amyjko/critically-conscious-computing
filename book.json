@@ -2842,6 +2842,7 @@
 		"operating": "[Operating Systems|operating]",
 		"languages": "[Programming Languages|languages]",
 		"control": "[Control Structures|control]",
+		"data": "[Data Structures|data]",
 		"abstractions": "[Abstractions|abstractions]"
 
 	},
@@ -2860,6 +2861,10 @@
 			"phrase": "assessment",
 			"definition": "Any method of evaluating, characterizing, measuring, or modeling some aspect of student knowledge, skill, ability, or identity.",
 			"synonyms": ["test", "examination", "grade", "feedback"]
+		},
+		"assignment": {
+			"phrase": "assignment",
+			"definition": "An instruction in a computer program that changes the value stored in a variable."
 		},
 		"blockeditor": {
 			"phrase": "block-based editor",
@@ -2903,12 +2908,25 @@
 		},
 		"data": {
 			"phrase": "data",
-			"definition": "Records of information for later retrieval and analysis, often structured in a particular notation. For example, a letter grade recorded on a transcript is data."
+			"definition": "Information that has been encoded for later retrieval and analysis, often structured in a particular notation or format. For example, a letter grade recorded on a transcript is data."
+		},
+		"db": {
+			"phrase": "database",
+			"definition": "A program that stores a structured collection of data for later retrieval."
 		},
 		"datacenter": {
 			"phrase": "data center",
 			"definition": "A building dedicated to storing a large number of networked computers and data, usually powered by a nearby electricity source.",
 			"synonyms": ["the cloud"]
+		},
+		"datastructure": {
+			"phrase": "data structure",
+			"definition": "An scheme for organizing data in computer memory to faciliate and streamline computation."
+		},
+		"datatype": {
+			"phrase": "data type",
+			"definition": "An encoding format for representing a particular type of information.",
+			"synonyms": ["type"]
 		},
 		"definiteloop": {
 			"phrase": "definite loop",
@@ -2955,6 +2973,11 @@
 			"definition": "A notational user interface for telling computers what we want them to compute at some later point in the future.",
 			"synonyms": ["language", "coding language"]
 		},
+		"list": {
+			"phrase": "list",
+			"definition": "A data structure that stores an ordered sequence of data values",
+			"synonyms": ["array"]
+		},
 		"neolib": {
 			"phrase": "neoliberal",
 			"definition": "A political stance that favors free-market capitalism, deregulation, and small government over collective approaches to social progress."
@@ -2982,10 +3005,23 @@
 			"definition": "A series of instructions for taking input, computing something, and producing output, including anything from a word processor, a game, or an operating system.",
 			"synonyms": ["app", "application"]
 		},		
+		"query": {
+			"phrase": "query",
+			"definition": "A program that specifies a request for data from a database; when executed, the result is data."
+		},
 		"ram": {
 			"phrase": "random access memory",
 			"definition": "A temporary place to store data while a computer is running; when the computer is shut off, it is erased.",
 			"synonyms": ["memory", "RAM"]
+		},
+		"record": {
+			"phrase": "named record",
+			"definition": "A data structure that maps a set of names onto values, like a collection of variables with a related purpose.",
+			"synonyms": ["dictionary"]
+		},
+		"relationaldb": {
+			"phrase": "relational database",
+			"definition": "A database that organizes data as a collection of tables, each table with rows representing data record, and each column representing some aspect of each data record."
 		},
 		"security": {
 			"phrase": "security",
@@ -3014,6 +3050,14 @@
 			"phrase": "trace",
 			"definition": "To mentally simulate the execution of a computer program without a computer, but possibly with other non-computer aids such as paper.",
 			"synonyms": ["execute"]
+		},
+		"typeerror": {
+			"phrase": "type error",
+			"definition": "Code that attempts to perform an operation on variable's data value that is not defined for that variable's type."
+		},
+		"variable": {
+			"phrase": "variable",
+			"definition": "In a computer program, a name that refers to a particular location in computer memory, and often a particular data type that indicates what kind of data is stored at that location."
 		}
 	}
 }

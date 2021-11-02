@@ -861,6 +861,13 @@
 			"ACM Koli Calling International Conference on Computing Education Research",
 			"https://doi.org/10.1145/3141880.3141895"
 		],
+		"erwig17": [
+			"Martin Erwig",
+			2017,
+			"Once Upon an Algorithm: How Stories Explain Computing",
+			"MIT Press",
+			"https://www.google.com/books/edition/Once_Upon_an_Algorithm/TAQxDwAAQBAJ?hl=en&gbpv=0"
+		],
 		"essinger14": [
 			"James Essinger",
 			2014,
@@ -2843,6 +2850,7 @@
 		"languages": "[Programming Languages|languages]",
 		"control": "[Control Structures|control]",
 		"data": "[Data Structures|data]",
+		"algorithms": "[Algorithms|algorithms]",
 		"abstractions": "[Abstractions|abstractions]"
 
 	},
@@ -2933,6 +2941,10 @@
 			"definition": "A loop written in a computer program that will execute a finite number of times, often based on some fixed number, or the number of items in a list.",
 			"synonyms": ["finite loop"]
 		},
+		"edge": {
+			"phrase": "edge case",
+			"definition": "Any consideration an algorithm needs to make that is not part of the common case, such as unexpected inputs, rare scenarios, or contexts that violate it's assumptions about the world."
+		},
 		"efficiency": {
 			"phrase": "efficiency",
 			"definition": "The time it takes for a computer to calculate something; more efficient computer hardware and operating systems execute more instructions per second. This can also refer to _memory_ efficiency, which is how many bits of memory some computation requires to make its calculations.",
@@ -2949,6 +2961,14 @@
 		"expr": {
 			"phrase": "expression",
 			"definition": "A statement in a notation that can be evaluated to a particular value, such as a Boolean expression that evaluates to a truth value or a numerical expression that evaluates to a numerical value."
+		},
+		"fn": {
+			"phrase": "false negative",
+			"definition": "When a computer classifies something as _not_ belonging to a certain category, but it actually does belong to that category."
+		},
+		"fp": {
+			"phrase": "false positive",
+			"definition": "When a computer classifies something as belonging to a certain category, but it is does not actually belong to that category."
 		},
 		"indefiniteloop": {
 			"phrase": "indefinite loop",
@@ -3005,6 +3025,10 @@
 			"definition": "A series of instructions for taking input, computing something, and producing output, including anything from a word processor, a game, or an operating system.",
 			"synonyms": ["app", "application"]
 		},		
+		"pseudocode": {
+			"phrase": "pseudocode",
+			"definition": "An algorithm written in relatively structured and precise natural language instead of a programming language. Using natural langauge allows for more readable algorithms, at the expense of precision and executability."
+		},
 		"query": {
 			"phrase": "query",
 			"definition": "A program that specifies a request for data from a database; when executed, the result is data."

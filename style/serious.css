@@ -366,8 +366,9 @@ hr {
     background: linear-gradient(to right, #1B499C 0px, #1B499C 3px, transparent 3px) no-repeat right;
 }
 
-.definition em {
+.definition .definition-synonyms {
 	color: grey;
+    font-style: italic;
 }
 
 .tag {

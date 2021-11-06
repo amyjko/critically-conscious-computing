@@ -7,52 +7,52 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 
 @cstaHeader| Chapters
 @cstaIC
-@csta2IC20| @design, @justice, @intelligence, @operating, @control, @data, @algorithms
+@csta2IC20| @design, @justice, @intelligence, @operating, @control, @data, @algorithms, @abstractions
 @csta2IC21| @design, @justice, @computers, @data, @algorithms
 @csta2IC22| @data, [Projects|projects]
 @csta2IC23| @information\, @operating
-@csta3AIC24| @justice, @intelligence, @computers, @operating, @control, @data, @algorithms
+@csta3AIC24| @justice, @intelligence, @computers, @operating, @control, @data, @algorithms, @abstractions
 @csta3AIC25| @justice, @languages, @data, [Verification|verification]
-@csta3AIC26| @control, @algorithms
+@csta3AIC26| @control, @algorithms, @abstractions
 @csta3AIC27| @justice, [Projects|projects]
 @csta3AIC28| @justice
 @csta3AIC29| @information, @operating, @data
 @csta3AIC30| @information, @operating
 @csta3BIC25| @justice, @control, @data, @algorithms
 @csta3BIC26| @justice, [Verification & Debugging|verification], @computers
-@csta3BIC27| @intelligence, @computers, @operating, @control
-@csta3BIC28| @justice, @computers
+@csta3BIC27| @intelligence, @computers, @operating, @control, @abstractions
+@csta3BIC28| @justice, @computers, @abstractions
 @cstaAP
-@csta2AP10| @algorithms, [Abstractions|abstractions], [Programming|programming]
-@csta2AP11| [Data Structures|data]
+@csta2AP10| @algorithms, @abstractions, [Programming|programming]
+@csta2AP11| @data
 @csta2AP12| @intelligence, @control, @data, @algorithms, [Programming|programming]
-@csta2AP13| [Abstractions|abstractions], [Programming|programming]
-@csta2AP14| [Abstractions|abstractions], [Programming|programming]
+@csta2AP13| @abstractions, [Programming|programming]
+@csta2AP14| @abstractions, [Programming|programming]
 @csta2AP15| [Verification & Debugging|verification]
-@csta2AP16| [Abstractions|abstractions]
-@csta2AP17| [Verification & Debugging|verification]
+@csta2AP16| @abstractions
+@csta2AP17| @abstractions, [Verification & Debugging|verification]
 @csta2AP18| [Projects|projects]
 @csta2AP19| [Projects|projects]
 @csta3AAP13| @algorithms, [Projects|projects]
 @csta3AAP14| @data, @algorithms
-@csta3AAP15| @intelligence, @control, [Algorithms|algorithms]
+@csta3AAP15| @intelligence, @control, @algorithms
 @csta3AAP16| [Projects|projects]
-@csta3AAP17| [Abstractions|abstractions], [Programming|programming]
-@csta3AAP18| [Abstractions|abstractions]
+@csta3AAP17| @abstractions, [Programming|programming]
+@csta3AAP18| @abstractions
 @csta3AAP19| @design, [Verification|verification]
-@csta3AAP20| @operating, [Abstractions|abstractions]
+@csta3AAP20| @operating, @abstractions
 @csta3AAP21| @data, @algorithms, [Verification|verification]
 @csta3AAP22| [Projects|projects]
-@csta3AAP23| @languages, [Projects|projects]
+@csta3AAP23| @languages, @abstractions, [Projects|projects]
 @csta3BAP08| @intelligence, [Artificial Intelligence|ai]
 @csta3BAP09| @intelligence, [Artificial Intelligence|ai]
-@csta3BAP10| [Algorithms|algorithms]
-@csta3BAP11| @control, [Algorithms|algorithms]
-@csta3BAP12| [Data Structures|data]
-@csta3BAP13| --
-@csta3BAP14| [Abstractions|abstractions], [Projects|projects]
-@csta3BAP15| [Algorithms|algorithms]
-@csta3BAP16| [Abstractions|abstractions]
+@csta3BAP10| @algorithms
+@csta3BAP11| @control, @algorithms, @abstractions
+@csta3BAP12| @data
+@csta3BAP13| @abstractions
+@csta3BAP14| @abstractions, [Projects|projects]
+@csta3BAP15| @algorithms
+@csta3BAP16| @abstractions
 @csta3BAP17| [Programming|programming], [Projects|projects]
 @csta3BAP18| @operating
 @csta3BAP19| [Tools|tools]
@@ -66,7 +66,7 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta2DA08| @information, @data
 @csta2DA09| --
 @csta3ADA09| @information, @data
-@csta3ADA10| [Data Structures|data]
+@csta3ADA10| @data
 @csta3ADA11| --
 @csta3ADA12| --
 @csta3BDA05| --
@@ -76,7 +76,7 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta2CS01| @design\, [Verification & Debugging|verification]
 @csta2CS02| @computers, @operating
 @csta2CS03| [Verification & Debugging|verification]
-@csta3ACS01| @languages, [Abstractions|abstractions]
+@csta3ACS01| @languages, @abstractions
 @csta3ACS02| @operating, @languages
 @csta3ACS03| [Verification & Debugging|verification]
 @csta3BCS01| @operating
@@ -100,25 +100,25 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @toleranceHeader| Chapters
 @toleranceIdentity
 @tolerance1| All chapters but Foundations
-@tolerance2| @information, [Algorithms|algorithms], @operating
+@tolerance2| @information, @algorithms, @operating
 @tolerance3| @information, @languages, @data, @algorithms, [Artificial Intelligence|ai]
 @tolerance4| [Projects|projects]
 @tolerance5| @computers, @operating, @languages, @control, @data, [Tools|tools]
 @toleranceDiversity
 @tolerance6| @information, @data, @algorithms, [Artificial Intelligence|ai]
-@tolerance7| [Data Structures|data]
+@tolerance7| @data
 @tolerance8| @information, @languages, @control
 @tolerance9| @justice, @data, [Artificial Intelligence|ai]
 @tolerance10| @design, @information, @languages, @control, [Tools|tools]
 @toleranceJustice
-@tolerance11| @information, @data, @algorithms, [Artificial Intelligence|ai], [Tools|tools]
-@tolerance12| @justice, @computers, @control, @data, [Abstractions|abstractions], [Artificial Intelligence|ai]
-@tolerance13| @information, @justice, @data, @algorithms, [Artificial Intelligence|ai], [Programming|programming], [Verification & Debugging|verification]
-@tolerance14| @justice, @intelligence, @computers, @operating, @control, [Data Structures|data], [Algorithms|algorithms], [Artificial Intelligence|ai], [Programming|programming]
+@tolerance11| @information, @data, @algorithms, @abstractions, [Artificial Intelligence|ai], [Tools|tools]
+@tolerance12| @justice, @computers, @control, @data, @abstractions, [Artificial Intelligence|ai]
+@tolerance13| @information, @justice, @data, @algorithms, @abstractions, [Artificial Intelligence|ai], [Programming|programming], [Verification & Debugging|verification]
+@tolerance14| @justice, @intelligence, @computers, @operating, @control, @data, @algorithms, @abstractions, [Artificial Intelligence|ai], [Programming|programming]
 @tolerance15| @operating
 @toleranceAction
 @tolerance16| @design, @control, @data, [Projects|projects], [Verification & Debugging|verification]
-@tolerance17| @design, @algorithms, [Artificial Intelligence|ai], [Tools|tools], [Projects|projects]
+@tolerance17| @design, @algorithms, @abstractions, [Artificial Intelligence|ai], [Tools|tools], [Projects|projects]
 @tolerance18| @operating, [Tools|tools]
 @tolerance19| @design, @control, @data, [Artificial Intelligence|ai], [Verification & Debugging|verification], [Projects|projects]
 @tolerance20| --
@@ -133,8 +133,8 @@ The [CSTA Teacher Standards|https://csteachers.org/page/standards-for-cs-teacher
 @teacher1a| All chapters
 @teacher1b| @computers, @operating
 @teacher1c| @computers, @design, @operating
-@teacher1d| @information, @control, [Data Structures|data], [Algorithms|algorithms]
-@teacher1e| @intelligence, @control, [Algorithms|algorithms], [Programming|programming], [Verification & Debugging|verification], [Tools|tools]
+@teacher1d| @information, @control, @data, @algorithms
+@teacher1e| @intelligence, @control, @algorithms, @abstractions, [Programming|programming], [Verification & Debugging|verification], [Tools|tools]
 @teacher1f| All chapters
 @teacher2
 @teacher2a| All chapters
@@ -147,7 +147,7 @@ The [CSTA Teacher Standards|https://csteachers.org/page/standards-for-cs-teacher
 @teacher3b| All chapters
 @teacher3c| @pedagogy\, @assessment
 @teacher3d| @history\, @pedagogy
-@teacher3e| @languages\, [Abstractions|abstractions]\, [Tools|tools]\, [Projects|projects]
+@teacher3e| @languages\, @abstractions\, [Tools|tools]\, [Projects|projects]
 @teacher3f| @history
 @teacher4
 @teacher4a| @history\, @pedagogy

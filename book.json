@@ -378,6 +378,13 @@
 			"Mining Software Repositories",
 			"https://doi.org/10.1145/2597073.2597082"
 		],
+		"bello13": [
+			"Anthony Lo Bello",
+			2013,
+			"Origins of Mathematical Words: A Comprehensive Dictionary of Latin, Greek, and Arabic Roots",
+			"JHU Press",
+			"https://books.google.com/books?id=LfEEAQAAQBAJ"
+		],
 		"berggren86": [
 			"J.L. Berggren",
 			1986,
@@ -1645,6 +1652,13 @@
 			"#icer",
 			"https://doi.org/10.1145/2960310.2960334"
 		],
+		"maalej14": [
+			"Walid Maalej, Rebecca Tiarks, Tobias Roehm, Rainer Koschke",
+			2014,
+			"On the Comprehension of Program Comprehension",
+			"ACM Transactions on Software Engineering and Methodology",
+			"https://doi.org/10.1145/2622669"
+		],
 		"machale14": [
 			"Desmond MacHale",
 			2014,
@@ -1659,12 +1673,12 @@
 			"Leonardo Music Journal",
 			"https://doi.org/10.1162/LMJ_a_00056"
 		],
-		"maalej14": [
-			"Walid Maalej, Rebecca Tiarks, Tobias Roehm, Rainer Koschke",
-			2014,
-			"On the Comprehension of Program Comprehension",
-			"ACM Transactions on Software Engineering and Methodology",
-			"https://doi.org/10.1145/2622669"
+		"malazita19": [
+			"James W. Malazita, Korryn Resetar",
+			2019,
+			"Infrastructures of abstraction: how computer science education produces anti-political subjects",
+			"Digital Creativity",
+			"https://doi.org/10.1080/14626268.2019.1682616"
 		],
 		"malmi19": [
 			"Lauri Malmi, Ian Utting, Amy J. Ko",
@@ -2855,6 +2869,10 @@
 
 	},
 	"glossary": {
+		"abstraction": {
+			"phrase": "abstraction",
+			"definition": "Any mechanism that hides the details of something behind a simpler representation."
+		},
 		"accessibility": {
 			"phrase": "accessibility",
 			"definition": "The extent to which a computer programs and user interfaces can be used by someone independent of their physical and cognitive abilities. For example, graphical user interfaces that require use of a mouse are not accessible to people with motor impairments that limit their ability perform fine movements of their hands.",
@@ -2864,6 +2882,11 @@
 			"phrase": "algorithm",
 			"definition": "A precise, unambiguous process for solving a problem, written by people and often performed by a computer.",
 			"synonyms": ["procedure", "process", "recipe"]			
+		},
+		"api": {
+			"phrase": "application programming interface",
+			"definition": "A collection of functions and data structures written for the explicit purpose of reuse by others.",
+			"synonyms": ["API", "framework", "library", "package"]
 		},
 		"assessment": {
 			"phrase": "assessment",
@@ -2882,6 +2905,15 @@
 		"automate": {
 			"phrase": "automate",
 			"definition": "To replace human labor with the labor of human-made tools and machinery, including computers."
+		},
+		"call": {
+			"phrase": "call",
+			"definition": "An instruction in a computer program that passes inputs to a function, waits for the function to finish executing, and then receives the output of the function for further computation.",
+			"synonyms": ["", "invoke"]
+		},
+		"class": {
+			"phrase": "class",
+			"definition": "In an object-oriented programming language, a structure that contains both functions and data with a common purpose."
 		},
 		"conceptinv": {
 			"phrase": "concept inventory",
@@ -2950,6 +2982,10 @@
 			"definition": "The time it takes for a computer to calculate something; more efficient computer hardware and operating systems execute more instructions per second. This can also refer to _memory_ efficiency, which is how many bits of memory some computation requires to make its calculations.",
 			"synonyms": ["speed"]
 		},
+		"encapsulation": {
+			"phrase": "encapsulation",
+			"definition": "An approach to organizing code by creating structures, such as classes or modules, that organize related functionality."
+		},
 		"encoding": {
 			"phrase": "encoding",
 			"definition": "A set of notational rules for how to represent information with sequences of symbols."
@@ -2962,6 +2998,10 @@
 			"phrase": "expression",
 			"definition": "A statement in a notation that can be evaluated to a particular value, such as a Boolean expression that evaluates to a truth value or a numerical expression that evaluates to a numerical value."
 		},
+		"field": {
+			"phrase": "field",
+			"definition": "A variable declared inside of a class that can only be accessed via an object that is an instance of its class."
+		},
 		"fn": {
 			"phrase": "false negative",
 			"definition": "When a computer classifies something as _not_ belonging to a certain category, but it actually does belong to that category."
@@ -2969,6 +3009,10 @@
 		"fp": {
 			"phrase": "false positive",
 			"definition": "When a computer classifies something as belonging to a certain category, but it is does not actually belong to that category."
+		},
+		"function": {
+			"phrase": "function",
+			"definition": "A computer program that, given some input, computes an output based on that input."
 		},
 		"indefiniteloop": {
 			"phrase": "indefinite loop",
@@ -2978,6 +3022,18 @@
 		"info": {
 			"phrase": "information",
 			"definition": "Differences in physical states in the world that carry meaning to a recipient. For example, a light being off in a classroom can be information to a student, as it might signal the room is locked and unoccupied."
+		},
+		"inheritance": {
+			"phrase": "inheritance",
+			"definition": "A method of defining an object-oriented class based on some other class definition, adding to it new methods and fields."
+		},
+		"infohiding": {
+			"phrase": "information hiding",
+			"definition": "A strategy for hiding the complexity of some computing technology behind an interface that defines particular inputs and outputs."
+		},
+		"instance": {
+			"phrase": "instance",
+			"definition": "In object-oriented programming, a data structure that contains fields and methods that correspond to a class definition."
 		},
 		"ui": {
 			"phrase": "interface",
@@ -2998,9 +3054,23 @@
 			"definition": "A data structure that stores an ordered sequence of data values",
 			"synonyms": ["array"]
 		},
+		"method": {
+			"phrase": "method",
+			"definition": "A function declared inside of a class that can only be called on instances of that class."
+		},
+		"namespace": {
+			"phrase": "namespace",
+			"definition": "In computer programs, a particular program context in which named abstractions such as variables and functions are defined, and outside of which they are not.",
+			"synonyms": ["scope"]
+		},
 		"neolib": {
 			"phrase": "neoliberal",
 			"definition": "A political stance that favors free-market capitalism, deregulation, and small government over collective approaches to social progress."
+		},
+		"oo": {
+			"phrase": "object orientation",
+			"definition": "An approach to abstraction that involves organizing functions and data structures with a common purpose into named abstractions, often called classes.",
+			"synonyms": ["object-oriented", "OO", "OOP"]
 		},
 		"op": {
 			"phrase": "operation",
@@ -3042,6 +3112,10 @@
 			"phrase": "named record",
 			"definition": "A data structure that maps a set of names onto values, like a collection of variables with a related purpose.",
 			"synonyms": ["dictionary"]
+		},
+		"recursion": {
+			"phrase": "recursion",
+			"definition": "When a function calls itself in order to compute something."
 		},
 		"relationaldb": {
 			"phrase": "relational database",

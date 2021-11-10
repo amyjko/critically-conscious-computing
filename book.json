@@ -329,6 +329,13 @@
 			"Proceedings of the ACM Human-Computer Interaction",
 			"https://doi.org/10.1145/3449148"
 		],
+		"barretto21": [
+			"Daphne Barretto, Julienne LaChance, Emanuelle Burton, Soohyun Nam Liao",
+			2021,
+			"Exploring Why Underrepresented Students Are Less Likely to Study Machine Learning and Artificial Intelligence",
+			"#iticse",
+			"https://doi.org/10.1145/3430665.3456332"
+		],
 		"bartik13": [
 			"Jean Jennings Bartik, Jean Bartik, Jon T. Rickman, Kim D. Todd",
 			2013,
@@ -1288,6 +1295,13 @@
 			"Journal of Workplace Learning",
 			"https://doi.org/10.1108/13665621011028620"
 		],
+		"johnsongros08": [
+			"Kristin N. Johnson-Gros, Elizabeth A. Lyons, Jennifer R. Griffin",
+			2008,
+			"Active supervision: An intervention to reduce high school tardiness",
+			"Education and Treatment of Children",
+			"https://www.jstor.org/stable/42899962"
+		],
 		"kafai14": [
 			"Yasmin B. Kafai, Eunkyoung Lee, Kristin Searle, Deborah Fields, Eliot Kaplan, Debora Lui",
 			2014,
@@ -1462,6 +1476,13 @@
 			"Frame-Based Editing: Easing the Transition from Blocks to Text-Based Programming",
 			"ACM Workshop in Primary and Secondary Computing Education (WiPSCE)",
 			"https://doi.org/10.1145/2818314.2818331"
+		],
+		"kwet20": [
+			"Michael Kwet, Paul Prinsloo",
+			2020,
+			"The ‘smart’classroom: a new frontier in the age of the smart university",
+			"Teaching in Higher Education",
+			"https://doi.org/10.1080/13562517.2020.1734922"
 		],
 		"laadan11": [
 			"Oren Laadan, Jason Nieh, Nicolas Viennot",
@@ -1651,6 +1672,13 @@
 			"The Role of Self-Regulation in Programming Problem Solving Process and Success",
 			"#icer",
 			"https://doi.org/10.1145/2960310.2960334"
+		],
+		"loukides18": [
+			"Mike Loukides, Hilary Mason, DJ Patil",
+			2018,
+			"Ethics and Data Science",
+			"O'Reilly Media",
+			"https://www.google.com/books/edition/Ethics_and_Data_Science/UXHKDwAAQBAJ?hl=en&gbpv=0"
 		],
 		"maalej14": [
 			"Walid Maalej, Rebecca Tiarks, Tobias Roehm, Rainer Koschke",
@@ -2072,6 +2100,13 @@
 			"A People's History of Computing Education in the United States",
 			"https://doi.org/10.4159/9780674988538-003"
 		],
+		"reeves96": [
+			"Byron Reeves, Clifford Nass",
+			1996,
+			"The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places",
+			"Cambridge University Press",
+			"https://www.google.com/books/edition/The_Media_Equation/S-iatQEACAAJ?hl=en"
+		],
 		"register20": [
 			"Yim Register, Amy J. Ko",
 			2020,
@@ -2134,6 +2169,13 @@
 			"Margaret and the Moon: How Margaret Hamilton Saved the First Lunar Landing",
 			"Alfred A. Knopf",
 			"https://www.google.com/books/edition/Margaret_and_the_Moon/7WK0DgAAQBAJ?hl=en&gbpv=0"
+		],
+		"roberts14": [
+			"Sarah Roberts",
+			2014,
+			"Behind the Screen: the Hidden Digital Labor of Commercial Content Moderation",
+			"University of Illinois at Urbana Champaign",
+			"https://www.google.com/books/edition/Behind_the_Screen_the_Hidden_Digital_Lab/V_YkjwEACAAJ?hl=en"
 		],
 		"roberts82": [
 			"Teresa L. Roberts, Thomas P. Moran",
@@ -2865,8 +2907,8 @@
 		"control": "[Control Structures|control]",
 		"data": "[Data Structures|data]",
 		"algorithms": "[Algorithms|algorithms]",
-		"abstractions": "[Abstractions|abstractions]"
-
+		"abstractions": "[Abstractions|abstractions]",
+		"ai": "[Artificial Intelligence|ai]"
 	},
 	"glossary": {
 		"abstraction": {
@@ -2877,6 +2919,11 @@
 			"phrase": "accessibility",
 			"definition": "The extent to which a computer programs and user interfaces can be used by someone independent of their physical and cognitive abilities. For example, graphical user interfaces that require use of a mouse are not accessible to people with motor impairments that limit their ability perform fine movements of their hands.",
 			"synonyms": ["a11y"]
+		},
+		"ai": {
+			"phrase": "artificial intelligence",
+			"definition": "Computer programs that attempt to mimic or surpass human ability, either for the purpose of replacing humans or enhancing their abilities.",
+			"synonyms": ["ai", "machine intelligence"]
 		},
 		"algo": {
 			"phrase": "algorithm",
@@ -2914,6 +2961,10 @@
 		"class": {
 			"phrase": "class",
 			"definition": "In an object-oriented programming language, a structure that contains both functions and data with a common purpose."
+		},
+		"classifier": {
+			"phrase": "classifier",
+			"definition": "A computer program generated from data and machine learning algorithms that, given some observation, produces a label categorizing that observation."
 		},
 		"conceptinv": {
 			"phrase": "concept inventory",
@@ -3058,6 +3109,10 @@
 			"phrase": "method",
 			"definition": "A function declared inside of a class that can only be called on instances of that class."
 		},
+		"ml": {
+			"phrase": "machine learning",
+			"definition": "Using data sets of observations from the world, often labeled with categories, to infer statistical patterns that help automatically classify or categorize new observations."
+		},
 		"namespace": {
 			"phrase": "namespace",
 			"definition": "In computer programs, a particular program context in which named abstractions such as variables and functions are defined, and outside of which they are not.",
@@ -3094,6 +3149,11 @@
 			"phrase": "program",
 			"definition": "A series of instructions for taking input, computing something, and producing output, including anything from a word processor, a game, or an operating system.",
 			"synonyms": ["app", "application"]
+		},		
+		"programming": {
+			"phrase": "programming",
+			"definition": "The process of conceiving of a desired computer behavior and finding ways of teaching that behavior to a computer by writing computer programs that produce that behavior.",
+			"synonyms": ["coding"]
 		},		
 		"pseudocode": {
 			"phrase": "pseudocode",

@@ -131,7 +131,7 @@
 		{
 			"id": "ai", 
 			"title": "Artificial Intelligence", 
-			"authors": ["ko"],
+			"authors": ["ko", "druga"],
 			"image": "|Chapter15_Cover_SciFi.png|A terminator robot with a line plot running through its chest like lightning, overseeing an infinite row of tiny workers at computers.|Depending on who you are, AI can be magical or horrifying.|@ashley|",
 			"section": "Code"
 		},

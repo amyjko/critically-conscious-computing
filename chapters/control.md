@@ -263,7 +263,7 @@ Is it possible to ever faithfully represent human judgement with control structu
 
 As we discussed [earlier|languages:header-6], reading programs is a different skill than writing them. <nelson17,xie19>. Teaching control structures is therefore partly about helping youth understand precisely how control structures are executed by a computer, and partly about helping them decide how to use control structures to implement algorithms. *Reading* skills are the ability to accurately and reliably simulate the execution of a program in one’s head or on paper, accurately "tracing" how each part of a program executes, the order in which it executes, and how each part of a program uses or modifies data stored in memory. Once a student can reliably read programs written in a particular programming language, they are then well-prepared to learn *writing* skills for programs using control structures. Writing skills are distinct in that they require more than just understanding how programs execute, but also translating some desired behavior for a program into the syntax of the programming language. 
 
-In this section, we'll focus on these reading skills, and save our discussion for writing for the [Programming|programming] chapter that comes later.
+In this section, we'll focus on these reading skills, and save our discussion for writing for the @programming chapter that comes later.
 
 
 ## Teaching reading

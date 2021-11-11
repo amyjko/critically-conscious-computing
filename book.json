@@ -357,6 +357,13 @@
 			"Educational Researcher",
 			"https://doi.org/10.3102%2F0013189X20927363"
 		],
+		"bass03": [
+			"Len Bass, Paul Clements, Rick Kazman",
+			2003,
+			"Software architecture in practice",
+			"Addison-Wesley Professional",
+			"https://www.google.com/books/edition/Software_Architecture_in_Practice/-II73rBDXCYC?hl=en&gbpv=0"
+		],
 		"becker19": [
 			"Brett A. Becker, Paul Denny, Raymond Pettit, Durell Bouchard, Dennis J. Bouvier, Brian Harrington, Amir Kamil, Amey Karkare, Chris McDonald, Peter-Michael Osera, Janice L. Pearce, James Prather",
 			2019,
@@ -1120,6 +1127,13 @@
 			"Communications of the ACM",
 			"https://doi.org/10.1145/2898963"
 		],
+		"hadjerrouit98": [
+			"Said Hadjerrouit",
+			1998,
+			"Java as first programming language: a critical evaluation",
+			"#sigcse",
+			"https://doi.org/10.1145/292422.292440"
+		],
 		"haigh16": [
 			"Thomas Haigh, Peter Mark Priestley, Mark Priestley, Crispin Rope",
 			2016,
@@ -1470,6 +1484,13 @@
 			"Communications of the ACM",
 			"https://doi.org/10.1145/3424000"
 		],
+		"ko21": [
+			"Amy J. Ko",
+			2021,
+			"Cooperative Software Development",
+			"Self-published",
+			"https://faculty.washington.edu/ajko/books/cooperative-software-development/"
+		],
 		"kölling15": [
 			"Michael Kölling, Neil C. C. Brown, Amjad Altadmri",
 			2015,
@@ -1673,6 +1694,13 @@
 			"#icer",
 			"https://doi.org/10.1145/2960310.2960334"
 		],
+		"lopes10": [
+			"Rui Lopes, Daniel Gomes, Luís Carriço",
+			2010,
+			"Web not for all: a large scale study of web accessibility",
+			"International Cross Disciplinary Conference on Web Accessibility (W4A)",
+			"https://doi.org/10.1145/1805986.1806001"
+		],
 		"loukides18": [
 			"Mike Loukides, Hilary Mason, DJ Patil",
 			2018,
@@ -1749,6 +1777,13 @@
 			"Stuck in the Shallow End: Education, Race, and Computing",
 			"MIT Press",
 			"https://www.google.com/books/edition/Stuck_in_the_Shallow_End/WOI9rGJSFCcC?hl=en&gbpv=0"
+		],
+		"margulieux16": [
+			"Lauren E. Margulieux, Richard Catrambone, Mark Guzdial",
+			2016,
+			"Employing subgoals in computer programming education",
+			"#cse",
+			"https://doi.org/10.1080/08993408.2016.1144429"
 		],
 		"markus01": [
 			"Lynne M. Markus",
@@ -1973,6 +2008,13 @@
 			"Mindstorms: Children, computers, and powerful ideas",
 			"Basic books",
 			"https://www.google.com/books/edition/Mindstorms/nDjRDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"pears07": [
+			"Arnold Pears, Stephen Seidman, Lauri Malmi, Linda Mannila, Elizabeth Adams, Jens Bennedsen, Marie Devlin, James Paterson",
+			2007,
+			"A survey of literature on the teaching of introductory programming",
+			"#iticse",
+			"https://doi.org/10.1145/1345443.1345441"			
 		],
 		"pearson11": [
 			"Matt Pearson",
@@ -2380,6 +2422,13 @@
 			"The Bell System Technical Journal",
 			"https://doi.org/10.1002/j.1538-7305.1948.tb01338.x"
 		],
+		"shay04": [
+			"Shay David",
+			2004,
+			"Opening the sources of accountability",
+			"First Monday",
+			"https://ssrn.com/abstract=858084"
+		],
 		"shulman87": [
 			"Lee Shulman",
 			1987,
@@ -2393,6 +2442,27 @@
 			"Sciences of the Artificial",
 			"The MIT Press",
 			"https://www.google.com/books/edition/The_Sciences_of_the_Artificial/yYSkDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"speed99": [
+			"John R. Speed",
+			1999,
+			"What do you mean I can't call myself a software engineer?",
+			"IEEE Software",
+			"https://doi.org/10.1109/52.805472"
+		],
+		"standish84": [
+			"Thomas A. Standish",
+			1984,
+			"An essay on software reuse",
+			"IEEE Transactions on Software Engineering",
+			"https://doi.org/10.1109/TSE.1984.5010272"
+		],
+		"stefik14": [
+			"Andreas Stefik, Stefan Hanenberg",
+			2014,
+			"The Programming Language Wars: Questions and Responsibilities for the Programming Language Community",
+			"ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming & Software (Onward!)",
+			"https://doi.org/10.1145/2661136.2661156"
 		],
 		"stevens18": [
 			"Jeffrey R. Stevens, Juan F. Duque",
@@ -2908,7 +2978,10 @@
 		"data": "[Data Structures|data]",
 		"algorithms": "[Algorithms|algorithms]",
 		"abstractions": "[Abstractions|abstractions]",
-		"ai": "[Artificial Intelligence|ai]"
+		"ai": "[Artificial Intelligence|ai]",
+		"programming": "[Programming|programming]",
+		"verification": "[Verification|verification]",
+		"tools": "[Tools|tools]"
 	},
 	"glossary": {
 		"abstraction": {
@@ -3019,10 +3092,20 @@
 			"definition": "An encoding format for representing a particular type of information.",
 			"synonyms": ["type"]
 		},
+		"debug": {
+			"phrase": "debugging",
+			"definition": "Identifying the causes of a program failure and changing the program to prevent them.",
+			"synonyms": ["troubleshooting", "fixing"]
+		},
 		"definiteloop": {
 			"phrase": "definite loop",
 			"definition": "A loop written in a computer program that will execute a finite number of times, often based on some fixed number, or the number of items in a list.",
 			"synonyms": ["finite loop"]
+		},
+		"dev": {
+			"phrase": "developer",
+			"definition": "Someone who is paid, or volunteers their time, to write software for others to use.",
+			"synonyms": ["software developer", "software engineer", "professional developer"] 
 		},
 		"edge": {
 			"phrase": "edge case",
@@ -3137,6 +3220,11 @@
 			"definition": "A computer program that automatically manages the hardware, netowrk, and energy resources of a computer, maximizing speed and enabling multitasking.",
 			"synonyms": ["OS"]
 		},
+		"oss": {
+			"phrase": "open source software",
+			"definition": "Software projects for which the source code is freely available to read, and there are ways to participate and contribute, often without having a formal paid role in the project.",
+			"synonyms": ["OSS", "FLOSS", "open source"]
+		},
 		"privacy": {
 			"phrase": "privacy",
 			"definition": "The ability for individuals to control information about their identity and activity."
@@ -3181,6 +3269,10 @@
 			"phrase": "relational database",
 			"definition": "A database that organizes data as a collection of tables, each table with rows representing data record, and each column representing some aspect of each data record."
 		},
+		"reuse": {
+			"phrase": "reuse",
+			"definition": "Researching, evaluating, selecting, learning, and using existing code to create a computer program."
+		},
 		"security": {
 			"phrase": "security",
 			"definition": "Strategies that computers, operating systems, and programs use to preserve data privacy, such as passwords, biometric authentication, file permissions.",
@@ -3189,6 +3281,10 @@
 		"semantics": {
 			"phrase": "semantics",
 			"definition": "Rules that define how code written in a programing language will be interpreted by a computer. Some rules can be checked before a program executes, preventing errors; other rules can only be checked while a program executes, and may result a program reporting an error."
+		},
+		"softarch": {
+			"phrase": "software architecture",
+			"definition": "A high level description of how data, algorithms, and functionality will be organized in a program, offering a blueprint for those implementing or changing it."
 		},
 		"software": {
 			"phrase": "software",
@@ -3213,9 +3309,24 @@
 			"phrase": "type error",
 			"definition": "Code that attempts to perform an operation on variable's data value that is not defined for that variable's type."
 		},
+		"uxdesigner": {
+			"phrase": "user experience researcher",
+			"definition": "Someone who envisions concrete designs for how a computer might support people's lives at work, at home, or at play, creating and evaluating prototypes that might be later engineered.",
+			"synonyms": ["UX designer"]
+		},
+		"uxresearcher": {
+			"phrase": "user experience researcher",
+			"definition": "Someone who professionally investigates how people are using computers at work, at home, or at play, to inform future product design opportunities.",
+			"synonyms": ["UX researcher"]
+		},
 		"variable": {
 			"phrase": "variable",
 			"definition": "In a computer program, a name that refers to a particular location in computer memory, and often a particular data type that indicates what kind of data is stored at that location."
+		},
+		"verification": {
+			"phrase": "verification",
+			"definition": "Checking to ensure that the program behaves as intended for all possible inputs it might receive",
+			"synonyms": ["testing"]
 		}
 	}
 }

@@ -8,12 +8,12 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @cstaHeader| Chapters
 @cstaIC
 @csta2IC20| @design, @justice, @intelligence, @operating, @control, @data, @algorithms, @abstractions, @ai
-@csta2IC21| @design, @justice, @computers, @data, @algorithms, @ai
+@csta2IC21| @design, @justice, @computers, @data, @algorithms, @ai, @programming
 @csta2IC22| @data, [Projects|projects]
 @csta2IC23| @information, @operating, @ai
 @csta3AIC24| @justice, @intelligence, @computers, @operating, @control, @data, @algorithms, @abstractions
-@csta3AIC25| @justice, @languages, @data, @ai, [Verification|verification]
-@csta3AIC26| @control, @algorithms, @abstractions, @ai
+@csta3AIC25| @justice, @languages, @data, @ai, @programming, [Verification|verification]
+@csta3AIC26| @control, @algorithms, @abstractions, @ai, @programming
 @csta3AIC27| @justice, [Projects|projects]
 @csta3AIC28| @justice
 @csta3AIC29| @information, @operating, @data, @ai
@@ -23,13 +23,13 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3BIC27| @intelligence, @computers, @operating, @control, @abstractions
 @csta3BIC28| @justice, @computers, @abstractions, @ai
 @cstaAP
-@csta2AP10| @algorithms, @abstractions, [Programming|programming]
+@csta2AP10| @algorithms, @abstractions, @programming
 @csta2AP11| @data
-@csta2AP12| @intelligence, @control, @data, @algorithms, [Programming|programming]
-@csta2AP13| @abstractions, [Programming|programming]
-@csta2AP14| @abstractions, [Programming|programming]
+@csta2AP12| @intelligence, @control, @data, @algorithms, @programming
+@csta2AP13| @abstractions, @programming
+@csta2AP14| @abstractions, @programming
 @csta2AP15| [Verification & Debugging|verification]
-@csta2AP16| @abstractions
+@csta2AP16| @abstractions, @programming
 @csta2AP17| @abstractions, [Verification & Debugging|verification]
 @csta2AP18| [Projects|projects]
 @csta2AP19| [Projects|projects]
@@ -37,8 +37,8 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3AAP14| @data, @algorithms
 @csta3AAP15| @intelligence, @control, @algorithms
 @csta3AAP16| [Projects|projects]
-@csta3AAP17| @abstractions, [Programming|programming]
-@csta3AAP18| @abstractions
+@csta3AAP17| @abstractions, @programming
+@csta3AAP18| @abstractions, @programming
 @csta3AAP19| @design, [Verification|verification]
 @csta3AAP20| @operating, @abstractions
 @csta3AAP21| @data, @algorithms, [Verification|verification]
@@ -52,8 +52,8 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3BAP13| @abstractions
 @csta3BAP14| @abstractions, [Projects|projects]
 @csta3BAP15| @algorithms
-@csta3BAP16| @abstractions
-@csta3BAP17| [Programming|programming], [Projects|projects]
+@csta3BAP16| @abstractions, @programming
+@csta3BAP17| @programming, [Projects|projects]
 @csta3BAP18| @operating
 @csta3BAP19| [Tools|tools]
 @csta3BAP20| [Tools|tools]
@@ -73,7 +73,7 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @csta3BDA06| @ai
 @csta3BDA07| --
 @cstaCS
-@csta2CS01| @design\, [Verification & Debugging|verification]
+@csta2CS01| @design, [Verification & Debugging|verification]
 @csta2CS02| @computers, @operating
 @csta2CS03| [Verification & Debugging|verification]
 @csta3ACS01| @languages, @abstractions
@@ -101,20 +101,20 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @toleranceIdentity
 @tolerance1| All chapters but Foundations
 @tolerance2| @information, @algorithms, @operating
-@tolerance3| @information, @languages, @data, @algorithms, @ai
-@tolerance4| [Projects|projects]
+@tolerance3| @information, @languages, @data, @algorithms, @ai, @programming
+@tolerance4| @programming, [Projects|projects]
 @tolerance5| @computers, @operating, @languages, @control, @data, [Tools|tools]
 @toleranceDiversity
-@tolerance6| @information, @data, @algorithms, @ai
+@tolerance6| @information, @data, @algorithms, @ai, @programming
 @tolerance7| @data
 @tolerance8| @information, @languages, @control
 @tolerance9| @justice, @data, @ai
 @tolerance10| @design, @information, @languages, @control, [Tools|tools]
 @toleranceJustice
 @tolerance11| @information, @data, @algorithms, @abstractions, @ai, [Tools|tools]
-@tolerance12| @justice, @computers, @control, @data, @abstractions, @ai
-@tolerance13| @information, @justice, @data, @algorithms, @abstractions, @ai, [Programming|programming], [Verification & Debugging|verification]
-@tolerance14| @justice, @intelligence, @computers, @operating, @control, @data, @algorithms, @abstractions, @ai, [Programming|programming]
+@tolerance12| @justice, @computers, @control, @data, @abstractions, @ai, @programming
+@tolerance13| @information, @justice, @data, @algorithms, @abstractions, @ai, @programming, [Verification & Debugging|verification]
+@tolerance14| @justice, @intelligence, @computers, @operating, @control, @data, @algorithms, @abstractions, @ai, @programming
 @tolerance15| @operating
 @toleranceAction
 @tolerance16| @design, @control, @data, [Projects|projects], [Verification & Debugging|verification]
@@ -122,7 +122,6 @@ The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-
 @tolerance18| @operating, [Tools|tools]
 @tolerance19| @design, @control, @data, @ai, [Verification & Debugging|verification], [Projects|projects]
 @tolerance20| --
-
 
 # CSTA Teacher Standards
 
@@ -134,26 +133,26 @@ The [CSTA Teacher Standards|https://csteachers.org/page/standards-for-cs-teacher
 @teacher1b| @computers, @operating
 @teacher1c| @computers, @design, @operating
 @teacher1d| @information, @control, @data, @algorithms
-@teacher1e| @intelligence, @control, @algorithms, @abstractions, [Programming|programming], [Verification & Debugging|verification], [Tools|tools]
+@teacher1e| @intelligence, @control, @algorithms, @abstractions, @programming, [Verification & Debugging|verification], [Tools|tools]
 @teacher1f| All chapters
 @teacher2
 @teacher2a| All chapters
 @teacher2b| All chapters
 @teacher2c| All chapters
-@teacher2d| @pedagogy\, @assessment\, @information
-@teacher2e| @pedagogy\, @languages\, [Tools|tools]
+@teacher2d| @pedagogy, @assessment, @information
+@teacher2e| @pedagogy, @languages, [Tools|tools]
 @teacher3
 @teacher3a| @pedagogy
 @teacher3b| All chapters
-@teacher3c| @pedagogy\, @assessment
-@teacher3d| @history\, @pedagogy
-@teacher3e| @languages\, @abstractions\, [Tools|tools]\, [Projects|projects]
+@teacher3c| @pedagogy, @assessment
+@teacher3d| @history, @pedagogy
+@teacher3e| @languages, @abstractions, [Tools|tools], [Projects|projects]
 @teacher3f| @history
 @teacher4
-@teacher4a| @history\, @pedagogy
+@teacher4a| @history, @pedagogy
 @teacher4b| @pedagogy, @assessment
 @teacher4c| All chapters
-@teacher4d| @history\, @pedagogy
+@teacher4d| @history, @pedagogy
 @teacher4e| All chapters
 @teacher4f| All chapters
 @teacher4g| All chapters

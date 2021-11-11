@@ -185,7 +185,7 @@ Researchers have been studying student difficulties with verification and debugg
 
 * Requirements are often vague. If students do not know what they are trying to create, or they are struggling with ambiguities in what a teacher has asked them to create, students will be uncertain whether they are building the right thing and whether it’s behaving as intended<prather19>. When students are in charge of defining requirements for their programs, this may lead them to change requirements as they encounter debugging difficulties, just to avoid the hard task of finding defects.
 
-* [Programming|programming], as we have discussed, is intrinsically hard; even experienced developers introduce defects. This is a normal part of software development, and yet students often wrongly believe that defects are a direct reflection of their innate ability to code.
+* @programming, as we have discussed, is intrinsically hard; even experienced developers introduce defects. This is a normal part of software development, and yet students often wrongly believe that defects are a direct reflection of their innate ability to code.
 
 * Verification and debugging, as we have discussed in this chapter, are intrinsically hard. They require cautious, systematic, and comprehensive inspections and logical reasoning. As with designing and implementing programs, even experienced developers struggle immensely with these tasks.
 

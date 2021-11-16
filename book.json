@@ -959,6 +959,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/3408877.3432510"
 		],
+		"ford16": [
+			"Denae Ford, Justin Smith, Philip J. Guo, Chris Parnin",
+			2016,
+			"Paradise unplugged: identifying barriers for female participation on stack overflow",
+			"ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE)",
+			"https://doi.org/10.1145/2950290.2950331"
+		],
 		"francois21": [
 			"Annamarie Francois, Karen Hunter Quarts",
 			2021,
@@ -1448,6 +1455,13 @@
 			"A Framework and Methodology for Studying the Causes of Software Errors in Programming Systems",
 			"Journal of Visual Languages and Computing",
 			"http://dx.doi.org/10.1016/j.jvlc.2004.08.003"
+		],
+		"ko09": [
+			"Amy J. Ko, Brad A. Myers",
+			2009,
+			"Finding Causes of Program Output with the Java Whyline",
+			"#chi",
+			"https://doi.org/10.1145/1518701.1518942"
 		],
 		"ko11": [
 			"Amy J. Ko, Yann Riche",
@@ -2779,6 +2793,13 @@
 			"Cambridge University Press",
 			"https://www.google.com/books/edition/The_Criminal_Recidivism_Process/41WBi_sAP9EC?hl=en&gbpv=0"
 		],
+		"zeller01": [
+			"Andreas Zeller",
+			2001,
+			"Automated debugging: Are we close?",
+			"IEEE Computer",
+			"https://doi.org/10.1109/2.963440"
+		],
 		"zeller09": [
 			"Andreas Zeller",
 			2009,
@@ -3043,6 +3064,10 @@
 			"definition": "An editor for textual programming languages that use a drag and drop interface for constructing programs in syntactic units rather than a text editor for constructing programs character by character.",
 			"synonyms": ["block-based language", "drag and drop code editor", "syntax-directed editor", "structure editor"]
 		},
+		"breakpoint": {
+			"phrase": "breakpoint debugger",
+			"definition": "A debugger that allows a user to select a line of code on which to pause the program for inspection and run it line by line, making visible the value of variables, the functions that were called prior."
+		},
 		"automate": {
 			"phrase": "automate",
 			"definition": "To replace human labor with the labor of human-made tools and machinery, including computers."
@@ -3118,6 +3143,10 @@
 			"definition": "Identifying the causes of a program failure and changing the program to prevent them.",
 			"synonyms": ["troubleshooting", "fixing"]
 		},
+		"debugger": {
+			"phrase": "debugger",
+			"definition": "A tool that allows one to inspect the execution of a program, gathering information to help identify potential causes of failures."
+		},
 		"defect": {
 			"phrase": "defect",
 			"definition": "A part of a program that can cause output that violates a requirement.",
@@ -3136,6 +3165,10 @@
 		"edge": {
 			"phrase": "edge case",
 			"definition": "Any consideration an algorithm needs to make that is not part of the common case, such as unexpected inputs, rare scenarios, or contexts that violate it's assumptions about the world."
+		},
+		"editor": {
+			"phrase": "code editor",
+			"definition": "An application that supports reading, writing, and navigating code, in any form: text, draggable blocks, visual diagrams, and other notations."
 		},
 		"efficiency": {
 			"phrase": "efficiency",
@@ -3177,6 +3210,11 @@
 		"function": {
 			"phrase": "function",
 			"definition": "A computer program that, given some input, computes an output based on that input."
+		},
+		"ide": {
+			"phrase": "integrated development environment",
+			"definition": "A program that centralize many tools together into a single applicaiton to make the reading, writing, and verification of programs more productive.",
+			"synonyms": ["IDE"]
 		},
 		"indefiniteloop": {
 			"phrase": "indefinite loop",
@@ -3272,7 +3310,12 @@
 			"phrase": "programming",
 			"definition": "The process of conceiving of a desired computer behavior and finding ways of teaching that behavior to a computer by writing computer programs that produce that behavior.",
 			"synonyms": ["coding"]
-		},		
+		},
+		"progsys": {
+			"phrase": "programming system",
+			"definition": "A collection of tools such as compilers, interpreters, editors, debuggers, and documentation that enable people to create programs using a particular programming language.",
+			"synonyms": ["language stack"]
+		},
 		"pseudocode": {
 			"phrase": "pseudocode",
 			"definition": "An algorithm written in relatively structured and precise natural language instead of a programming language. Using natural langauge allows for more readable algorithms, at the expense of precision and executability."
@@ -3342,6 +3385,10 @@
 			"phrase": "syntax",
 			"definition": "Rules that define what constitutes valid program formatting, free of ambuigities. When programs violate these rules, programming langauges report syntax errors, which indicate which rule was violated, so that the programmer can remove the ambiguity." 
 		},
+		"texteditor": {
+			"phrase": "text editor",
+			"definition": "An application that supports viewing and editing of a sequence of characters presented as a vertical list of rows of characters, using a caret to specify where to insert and delete text, as well as select, copy, and paste text."
+		},
 		"trace": {
 			"phrase": "trace",
 			"definition": "To mentally simulate the execution of a computer program without a computer, but possibly with other non-computer aids such as paper.",
@@ -3369,6 +3416,11 @@
 			"phrase": "verification",
 			"definition": "Checking to ensure that the program behaves as intended for all possible inputs it might receive",
 			"synonyms": ["testing"]
+		},
+		"versioncontrol": {
+			"phrase": "version control",
+			"definition": "A tool that allows one to track revisions to code, and merge edits from different people.",
+			"synonyms": ["revision control", "source control", "source code management"]
 		}
 	}
 }

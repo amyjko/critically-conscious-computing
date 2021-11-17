@@ -11,11 +11,11 @@ Throughout this book, we have discussed foundations of CS that span data, algori
 
 What’s missing from our narrative thus far is the bridge between programming and the software that gets used in the world: ~software engineering~softengr<sadowski19,winters20>. This phrase was first coined by programmer [Margaret Hamilton|https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)]<robbins17> when she worked on the [Apollo flight automation|https://en.wikipedia.org/wiki/Apollo_program] software that helped humanity reach the moon. At the time, programming wasn’t really taken seriously by anyone: it was women’s work, and because of the pervasive sexism of the 1960’s in the United States, it was not considered a serious discipline, unlike other established engineering disciplines. Hamilton, deeply immersed in the complexities of not only creating software that would help automate the flight path of the Apollo’s trajectory toward the moon, and provide critical information to astronauts about in-flight problems, kept encountering problems that were not strictly technical in nature, but sociotechnical: 
 
-* How could her team come to agreement on what they were making? 
-* How could they coordinate with the other engineering disciplines at NASA? 
-* How could they ensure that the software worked in tandem with the many hardware components of the Apollo? 
-* How could they ensure there were no critical defects? 
-* How could the team ship on time? 
+* How could her team come to agreement on what they were making?
+* How could they coordinate with the other engineering disciplines at NASA?
+* How could they ensure that the software worked in tandem with the many hardware components of the Apollo?
+* How could they ensure there were no critical defects?
+* How could the team ship on time?
 
 Computers and programming languages, while they were a powerful medium for flight automation, offered no solutions to these questions, hence the phrase software engineering. Hamilton, recounting the origin of the term:
 
@@ -41,10 +41,10 @@ Once programming has a purpose, there are several distinct phases of software en
 
 First and foremost is the challenge of software ~design~design<petre16>: deciding what the software should do, for whom, and why. We discussed design in @design, but it’s worth mentioning here in the context of projects, because design is so often overlooked as a critical consideration. Students and professional software engineers alike have a tendency to immediately think about code when starting a software engineering project, without first thoughtfully and critically examining what software should do. Consider, for example, in 2018, when Google announced [Project Dragonfly|https://en.wikipedia.org/wiki/Dragonfly_(search_engine)], an effort to build a search engine that complied with China’s strict censorship laws. It was conceived primarily as an engineering project, adapting Google’s existing search technology to be compliant with China’s laws. But as soon as Google announced it, a letter signed by 1,400 Google employees soon emerged, demanding that Google reconsider its plans. Their core concerns were design concerns: 
 
-* Should Google support China’s censorship and surveillance practices? 
-* Is profit more important than resisting the human rights abuses that emerge from China’ authoritarian surveillance? 
-* What do the Chinese citizens want? 
-* What are the international implications of supporting China’s policies on democracy, free speech, and other values? 
+* Should Google support China’s censorship and surveillance practices?
+* Is profit more important than resisting the human rights abuses that emerge from China’ authoritarian surveillance?
+* What do the Chinese citizens want?
+* What are the international implications of supporting China’s policies on democracy, free speech, and other values?
 
 These are questions of not only _how_ Google might design a search engine for China, but also whether it should at all, and what sociopolitical implications it would have{(Google eventually canceled the project after significant backlash from its employees and the public.}. Software engineering projects are therefore inherently design projects first and foremost, and too often, the word "engineering" erases the critical examination of design goals.
 
@@ -169,7 +169,7 @@ In practice, however, all of the same issues in professional projects occur in c
 
 * Student projects still involve design decisions. They may just be freed from having to consider the consequences of their design, or be put in a position of designing for themselves instead of others.
 
-* Student projects still involve requirements. They may just define requirements implicitly, and deal with the implementation, verification, and release challenges that arise in being unclear about requirements
+* Student projects still involve requirements. They may just define requirements implicitly, and deal with the implementation, verification, and release challenges that arise in being unclear about requirements.
 
 * Student projects still face tensions between implementation constraints and design. They may just be free to change their requirements to conform to implementation constraints.
 
@@ -261,16 +261,16 @@ This first session opens a broad conversation about the kinds of oppression in s
 
 * After groups have generated ideas, have them report their idea in a shared space, allowing everyone to see them.
 
-* Examine each idea and engage the class in a critical discussion of each major idea, asking questions such as: 
+* Examine each idea and engage the class in a critical discussion of each major idea, asking questions such as:
   
-** Would the software actually help? 
-** Who would it help? 
-** Might it cause harm? 
-** Who would it harm? 
-** Do they have the skills to build the idea yet? 
-** Could they learn them? 
-** Is the idea too complex to build in the time remaining? 
-** Could it be simplified? 
+** Would the software actually help?
+** Who would it help?
+** Might it cause harm?
+** Who would it harm?
+** Do they have the skills to build the idea yet?
+** Could they learn them?
+** Is the idea too complex to build in the time remaining?
+** Could it be simplified?
 
 * As each idea is evaluated, annotate which ones might hold promise to actually impact the problem identified by the goal.
 

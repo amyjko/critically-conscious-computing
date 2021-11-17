@@ -48,7 +48,7 @@ While the book was written with pre-service teacher candidates in mind, and is d
 
 * Experienced secondary humanities and social studies teachers might read the @history chapter, and the content sections of each methods chapter, and Part III of the book, learning CS and its ideas in ways that might connect to existing topics.
 
-* Higher education CS faculty might read Part I foundations and select chapters that connect with their areas of instruction, identifying ways to integrate critical CS pedagogy into their teaching. 
+* Higher education CS faculty might read Part I foundations and select chapters that connect with their areas of instruction, identifying ways to integrate critical CS pedagogy into their teaching.
 
 * School leaders might read the [CS Education History|history] chapter and Part III integrations chapters, to learn how secondary CS educators might integrate CS into other subject areas.
 

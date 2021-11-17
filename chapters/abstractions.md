@@ -26,7 +26,7 @@ Just as natural language uses abstraction through words to make communication mo
 
 * Computer engineers, who create computer components like CPUs, control boards, memory, and other hardware, do not have to understand the low-level physics of electricity or even a transistor, because those details have been hidden. Instead, they can just think of transistors as abstract binary switches that can be turned on and off. The _transistor_ abstraction hides the nuance of electricity and physics.
 
-* Operating system developers, who creating programs that reliably execute the programs that a user wants to be run, do not have to understand the details of how computer hardware uses transistors, because those details have been abstracted away into ideas such as CPUs, memory, and storage, as we detailed in @operating. These computer architecture abstractions hide the nuance of the physicality of computer hardware. 
+* Operating system developers, who creating programs that reliably execute the programs that a user wants to be run, do not have to understand the details of how computer hardware uses transistors, because those details have been abstracted away into ideas such as CPUs, memory, and storage, as we detailed in @operating. These computer architecture abstractions hide the nuance of the physicality of computer hardware.
 
 * Software developers who write applications do not have to understand how an operating system works, because its details have been abstracted away behind concepts like programming languages, data structures, and algorithms. These programming abstractions hide the nuances of operating systems, computer hardware, and physics.
 
@@ -131,7 +131,7 @@ buildOutreachList(amy, outreachList, [])
 
 This function does three things:
 
-* The first is the most important in a recursive function: it checks to see if the given `person`python has already been checked, using a list of people that keeps track of who is already been checked; if the person has already been checked, then it returns, stopping this particular execution of the function, and if they have not, then the person is added to the `checked`python list so that future calls remember that they have been checked. In recursion, this is what is called a *base case*: the condition in which a function should _not_ call itself. This check prevents the function from calling itself over and over without ever stopping. 
+* The first is the most important in a recursive function: it checks to see if the given `person`python has already been checked, using a list of people that keeps track of who is already been checked; if the person has already been checked, then it returns, stopping this particular execution of the function, and if they have not, then the person is added to the `checked`python list so that future calls remember that they have been checked. In recursion, this is what is called a *base case*: the condition in which a function should _not_ call itself. This check prevents the function from calling itself over and over without ever stopping.
 
 * The second step is the same as before, just checking to see if the person is eligible, and if so, adding them to a list of people selected for outreach.
 

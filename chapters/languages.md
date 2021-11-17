@@ -371,7 +371,7 @@ while True:
 
 * Connect the different opinions about Python’s intelligence to the notion of semantics, explaining that the only intelligence that Python has is the ability to follow certain rules. Step through each line of the program and explain the semantic rules that govern it, storing values, repeating the while loop block, and printing the values stored in the variables.
 
-* Discuss the alternative semantics that Python could have had, suggesting that there is nothing right or wrong about them, they are just choices that van Rossum made. Conclude from the discussion that Python programs are only as smart as we make them, and how they are made is often no
+* Discuss the alternative semantics that Python could have had, suggesting that there is nothing right or wrong about them, they are just choices that van Rossum made. Conclude from the discussion that Python programs are only as smart as we make them, and how they are made is often no.
 =
 
 This session builds upon the syntax session, helping students see that both syntactic and semantic rules govern Python’s ability to follow instructions, that these rules are the essence of its intelligence, and that all of the other intelligence in programs is given by the person writing the program. It also connects the rules to their creator, the programming language designer, reinforcing that the rules are not unchangeable, authoritative law, but choices that the designer made that could have been made differently.

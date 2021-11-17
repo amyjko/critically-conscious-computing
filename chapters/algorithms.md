@@ -4,7 +4,7 @@
 * Algorithms can be executed by people, or they can be encoded in programming languages to be executed on a computer.
 * Because algorithms model the world, and do so imperfectly, they can reinforce, perpetuate, and amplify unjust phenomena in the world.
 * Algorithm design and implementation is an iterative process that requires both prototyping and evaluation.
-* Methods for teaching algorithms have long focused on teaching foundational algorithms, but teaching algorithms critically requires examining how algorithms are applied in the world. 
+* Methods for teaching algorithms have long focused on teaching foundational algorithms, but teaching algorithms critically requires examining how algorithms are applied in the world.
 =
 
 Throughout this book, we’ve discussed numerous aspects of computing: the difference between design and engineering, the nature of intelligence and information, the history of computers and operating systems, and the major elements of programming languages, including their notations, their decision making features, and their ways of representing information as data. 
@@ -109,9 +109,9 @@ until not swapped
 
 Don't worry if you can't figure out what the pseudocode above does -- no code's meaning is immediately apparent without some careful analysis of it's behavior. Let's execute it using an example list and see what it does; each line below will represent one pass of the `until` loop above:
 
-* `[Smith, Jackson, Lee]` Start of 1st pass; two swaps, so `swapped` is true
-* `[Jackson, Lee, Smith]` Start of 2nd pass; no swaps, so `swapped` is false
-* `[Jackson, Lee, Smith]` Start of 3rd pass; `swapped` is false, so done
+* `[Smith, Jackson, Lee]` Start of 1st pass; two swaps, so `swapped` is true.
+* `[Jackson, Lee, Smith]` Start of 2nd pass; no swaps, so `swapped` is false.
+* `[Jackson, Lee, Smith]` Start of 3rd pass; `swapped` is false, so done.
 
 As we can see with the example execution above, this algorithm, uses a fairly simple approach: it scans the list of students, swapping any adjacent students that are out of order based on their family names, and if it does any swaps, then it scans the list again until it finishes a scan with no swaps. It uses the `swapped` variable to remember if any students in the list were `swapped` on a given pass. In this way, out of order students move left and right to their correct positions in the sorted list, one swap at a time. This is what gives the algorithm it's name, *bubble sort*, for the way that out of order elements slowly "bubble up" to their correctly ordered position. 
 
@@ -121,8 +121,8 @@ But what if there were 100,000 names? For example, some school districts have hu
 
 While ~efficiency~efficiency is a classic consideration of algorithms in CS, it is not the only important consideration. Let’s analyze it from a different perspective: *inclusion*. Consider, for example, the family name, otherwise called a "last name" or "surname". What counts as one? For people with a European or Western heritage, this might be straightforward, as most people in Western countries have a single family name spelled with letters from the Roman alphabet<hey06>. But exceptions are not hard to identify. For example:
 
-* What if another student in our example above has a hyphenated name, such as "Jackson-Bowles". In this case, what comes first, "Jackson-Bowles'' or "Jackson"? 
-* What if a student has an umlaut, such as "Jöhanson"? Is the "o" treated the same as an "ö" or differently, and if so, how should they be ordered? 
+* What if another student in our example above has a hyphenated name, such as "Jackson-Bowles". In this case, what comes first, "Jackson-Bowles'' or "Jackson"?
+* What if a student has an umlaut, such as "Jöhanson"? Is the "o" treated the same as an "ö" or differently, and if so, how should they be ordered?
 * What if a student has a Spanish compound name, such as "Sonsoles Espinosa Díaz de Rodríguez"? Which of those names is the surname -- all of them or just one of them, or perhaps just the shortest valid version, "Sonsoles de Rodríguez"?
 * What if a student has an Eastern surnames, such as 高, which is the Chinese character for "tall", and the first author’s surname, rendered in Chinese? When the first author’s grandfather emigrated to the United States via Los Angeles, he spoke this name in his Cantonese dialect and the border official heard "Ko". Today, however, the official Mandarin transliteration to Roman characters is "Gao". So should 高 be treated as a "g" surname or a "k" surname? Or perhaps the sorting order should sort Eastern characters differently, translating European names into Chinese, Korean, or Vietnamese, or just placing Western names at the end of the list?
 

@@ -73,7 +73,7 @@ As the these CS for All efforts grow, the underlying motivation for CS education
 
 * Some viewed teaching CS as a way to increase the number of competent software developers for industry. This is an inherently ~neoliberal~neolib view, positioning the purpose of education as serving industry.
 
-* Some viewed teaching CS as a way of developing the computing literacy necessary for engaged citizenship in an increasingly digital world. These motivations stem from a view that making informed choices about technology policy (e.g., what responsibilities software companies have, what digital privacy rights should individuals have) requires understanding CS. 
+* Some viewed teaching CS as a way of developing the computing literacy necessary for engaged citizenship in an increasingly digital world. These motivations stem from a view that making informed choices about technology policy (e.g., what responsibilities software companies have, what digital privacy rights should individuals have) requires understanding CS.
 
 * Some viewed teaching CS as a way to counter the ways in which computing is used to encode and amplify bias, harm, oppression, and injustice. This motivation frames CS education as a political social justice effort.
 

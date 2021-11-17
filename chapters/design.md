@@ -24,11 +24,11 @@ In this design work, Licklider was driven not by questions of _how_ to realize s
 
 However, because Licklider was one of the directors of the Department of Defense’s offices, he also had the power and resources to investigate _how_ to make this design a reality. He funded research projects across the world, leading to the founding of the first academic Computer Science departments, and numerous private labs. The researchers in these departments, in partnership with the government, began an immense period of investigation to answer many "how" questions that Licklider’s visions raised:
 
-* How would the computers be physically connected? 
-* How would information be encoded? 
-* How would information be secured? 
-* How would information be transmitted quickly? 
-* How would information be stored, searched, and retrieved? 
+* How would the computers be physically connected?
+* How would information be encoded?
+* How would information be secured?
+* How would information be transmitted quickly?
+* How would information be stored, searched, and retrieved?
 
 Thousands of researchers, and eventually millions of engineers invented answers to these questions over decades, eventually resulting in foundational computer networking ideas like packet switching, transmission control protocol, internet protocol, HTTP, the worldwide web, and browsers. These are the ideas that now power the modern Internet, implementing the design that Licklider had envisioned.
 
@@ -66,9 +66,11 @@ Engineering _methods_ are ones that involve invention, specification, formalizat
 
 In popular culture, CS is often seen as having elements of both design and engineering. A software developer might be equally interested in envisioning futures as they might be in implementing that future. And we see blending in the archetype of the technical entrepreneur/CEO: people imagine that Mark Zuckerberg both imagined and created Facebook, that Elon Musk both imagined and engineered Tesla cars, that Steve Jobs both imagined and created the iPhone. But what is lost in these myths is the historical reality that entrepreneurs are often actually doing _neither_ design or engineering. 
 
-* Zuckerberg, for example, did not invent social media: he was merely mimicking designs that had existed long before his particular vision for it. He also didn’t build Facebook himself, he simply prototyped an early version of it; he hired tens of thousands of engineers to build Facebook we use today. Thus, his contribution involved little engineering and little design; most of his contribution was entrepreneurial, seeing an opportunity and harnessing it by gathering capital, organizing teams, and setting business vision. 
+* Zuckerberg, for example, did not invent social media: he was merely mimicking designs that had existed long before his particular vision for it. He also didn’t build Facebook himself, he simply prototyped an early version of it; he hired tens of thousands of engineers to build Facebook we use today. Thus, his contribution involved little engineering and little design; most of his contribution was entrepreneurial, seeing an opportunity and harnessing it by gathering capital, organizing teams, and setting business vision.
+
 * Elon Musk did not invent or engineer the electric car{Electric motors and cars were invented far earlier, in [the 1820’s|https://www.energy.gov/articles/history-electric-car].}. Like Zuckerburg, Musk’s contributions were more entrepreneurial, seeing an opportunity to translate more than 200 years of research, design, and engineering effort into a profitable manufacturing business.
-* Jobs did not invent or engineer the iPhone. Multitouch displays were invented in academic research labs in the 1970's, and the iPhone in particular was the evolution of product designer [Tony Fadell|https://en.wikipedia.org/wiki/Tony_Fadell], who envisioned the iPod and iTunes store. And neither Jobs or Fadell engineered these visions; that was the work of the many hundreds and thousands of hardware and software engineers who realized the particular design of the iPhone. 
+
+* Jobs did not invent or engineer the iPhone. Multitouch displays were invented in academic research labs in the 1970's, and the iPhone in particular was the evolution of product designer [Tony Fadell|https://en.wikipedia.org/wiki/Tony_Fadell], who envisioned the iPod and iTunes store. And neither Jobs or Fadell engineered these visions; that was the work of the many hundreds and thousands of hardware and software engineers who realized the particular design of the iPhone.
 
 All of these CEOs have exercised great control over the design of their products, and in that sense they were engaged in design, but they were not engaged in engineering, and most of their contributions were entrepreneurial.
 

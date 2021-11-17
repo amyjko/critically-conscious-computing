@@ -4,7 +4,7 @@
 * Variables are the simplest unit of organization, storing a single data value associated with a name.
 * Lists help organize a sequence of data values.
 * Dictionaries index data values by a unique key associated with each value.
-* Databases are the most general purpose data structure, allowing arbitrarily large collections of data structures to stored and retrieved. 
+* Databases are the most general purpose data structure, allowing arbitrarily large collections of data structures to stored and retrieved.
 * Just as data can be reductive in its representation of the world, data structures can impose unrealistic order on exceptional, ambiguous, or shifting information in the world, reinforcing or creating systems of oppression.
 * Teaching data structures is still more art than science; framing data structures as marginalizing models of social phenomena may help link data structures to students' lived experiences with the matrix of oppression.
 =
@@ -253,10 +253,10 @@ Does the data structure above fully represent the first author’s identity? Of 
 
 * Can the name change?
 * Can the social security number change?
-* Can the gender change? 
-* Can the birthdate be corrected if false? 
-* Can the record be deleted and by whom? 
-* Who has access to the data? 
+* Can the gender change?
+* Can the birthdate be corrected if false?
+* Can the record be deleted and by whom?
+* Who has access to the data?
 * What happens if the United States changes how social security numbers are formatted?
 
 Python certainly doesn’t help with any of these questions; it is up to software designers and developers to make decisions about data structures and the programs that manipulate them to avoid reinforcing or creating systems of oppression that prevent people's identities from being faithfully represented by data.
@@ -351,7 +351,7 @@ D’Ignazio and Klein, 2020, in their book Data Feminism<dignazio20>, provide a 
 
 * Challenge the unequal power structures that data structures reinforce (e.g., questioning the representation of identity in Facebook’s database tables).
 
-* Connect data structures to the embodied forms of information that they represent (e.g. recognizing that Facebook database profile table columns are not us, though they do represent us, imperfectly and problematically)
+* Connect data structures to the embodied forms of information that they represent (e.g. recognizing that Facebook database profile table columns are not us, though they do represent us, imperfectly and problematically).
 
 * Question the categories and hierarchies inherent to foundational data structures in CS (e.g., acknowledging that friendship is not a binary, even though Facebook’s database models it as one).
 
@@ -375,7 +375,7 @@ There are many things to know about data structures and many skills for using th
 * What properties each data structure and its operations have (e.g., speed and memory usage).
 * How to select an appropriate data structure for a given programming problem.
 * How to design new data structures to solve problems that existing data structure designs do not solve.
-* Understanding all of the ways discussed in the prior section that data, data structures, and data operations can inadvertently erase diversity, and reinforce or even create systems of oppression
+* Understanding all of the ways discussed in the prior section that data, data structures, and data operations can inadvertently erase diversity, and reinforce or even create systems of oppression.
 
 Unfortunately, while there are many existing ways of teaching the above (with perhaps the exception of the last bullet), there is still little research insight into which of these ways are most effective. But there are some exceptions. For example, some studies have examined which types of metaphors for variables are most helpful in learning, finding that the "container" metaphor we used above works well when there is a single value involved, but that it breaks down when there are multiple values<hermans18>. Others have found that students can readily engage in imagining alternative data structure designs to represent information, and can explore their tradeoffs, but often overlook crucial considerations without prompting or scaffolding<gu20>. Some researchers have surfaced the critical difference between teaching students how to implement common data structures and how to use them<lister04>. A great many have explored educational technologies to support data structure learning, especially data structure visualization tools that demonstrate how operations on data structures manipulate their contents<baker99>. However, these approaches, and generally any approach that relies on visual descriptions of data structures, exclude students who are blind<baker19>.
 

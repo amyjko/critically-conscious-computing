@@ -218,7 +218,7 @@ To achieve these learning objectives, this unit contains a sequence of five sess
 
 * After a period of brainstorming, have the notetaker report to the class some of the most intelligent things they have seen a search engine do. Write some of these down in a shared space, accessible to the class.
 
-* After groups share, go through each example, and interrogate the origins of the intelligence. For example, if a group mentions the way that Google returns Wikipedia articles when they search for topics, explain that the search engine doesn’t write Wikipedia, people do; it just matches words to Wikipedia articles that communities of people have written. 
+* After groups share, go through each example, and interrogate the origins of the intelligence. For example, if a group mentions the way that Google returns Wikipedia articles when they search for topics, explain that the search engine doesn’t write Wikipedia, people do; it just matches words to Wikipedia articles that communities of people have written.
 
 * Have students reflect after the session on whether they believe a web search engine is intelligent.
 =

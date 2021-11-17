@@ -12,11 +12,11 @@ One way to view the history of computing is as sustained effort to teach compute
 
 Other computer scientists dream smaller, envisioning what many call *weak AI*, imagining a world in which we create intelligence for specific tasks, such as:
 
-* Speech recognition and production for particular natural languages;
-* Grasping and locomotion by robots to automate warehouses and assembly;
-* Problem solving in specific games like chess or go;
-* Vision, such as detecting and tracking objects in driverless cars;
-* Dialog, to facilitate human-AI conversations in customer service;
+* Speech recognition and production for particular natural languages.
+* Grasping and locomotion by robots to automate warehouses and assembly.
+* Problem solving in specific games like chess or go.
+* Vision, such as detecting and tracking objects in driverless cars.
+* Dialog, to facilitate human-AI conversations in customer service.
 * Even programming itself, automatically generating programs to meet requirements rather than having people program them.
 
 Others still think of AI not through the lens of "strength", but rather *augmentation*, seeing it as a way of enhancing human abilities rather than mimicking them<englebart62>. For example, rather than viewing smart speakers in our homes as replacing human assistants, we can view them enhancing our natural human abilities with computational ones. Or, rather than thinking of robot as replacements for factory workers, we might invent robotic exoskeletons that make factory workers stronger, safer, and more productive. In an augmentation view, it does not matter how "strong" AI is, but rather, how well it amplifies people's ability to pursue their needs and desires.
@@ -97,8 +97,8 @@ The job of an unsupervised algorithm is to take the data above and generate opti
 
 For example, consider another problematic application of machine learning to tardiness that tries to categorize students into different patterns of tardiness. A hierarchical clustering algorithm might produce three clusters: 
 
-* Those who are late with an excuse (3 of 8 observations), 
-* Those who are late without an excuse (1 of 8 observations), and 
+* Those who are late with an excuse (3 of 8 observations),
+* Those who are late without an excuse (1 of 8 observations), and
 * Those who are not late (4 of 8).
 
 This minimizes the differences between observations in each cluster (all in cluster 1 are identical, there’s only 1 in cluster 2, and only one of the 4 not late observations is different from the others). It also maximizes the difference between the three groups. Hierarchical clustering _automatically_ finds these optimal clusters that maximize difference. It doesn’t give the clusters names -- a person still has to do that -- but it does automate the grouping. And it doesn’t promise that the groups are grounded in any real aspect of the world -- that’s for a person to judge -- it simply finds patterns in the data and one possible grouping to discriminate between groups. Of course, just as with supervised learning, this algorithm’s output is as biased as the data it uses: if the data on lateness is wrong or racially biased, the clusters it produces will be racially biased. And the very idea of grouping students based on their behavior stems from potentially oppressive visions of classroom management.
@@ -169,11 +169,11 @@ Because AI, and computing in general, has such great potential for harm, there a
 
 While educators have been teaching AI learning in post-secondary education settings for decades, efforts in primary and secondary, and research on AI & machine learning pedagogy have only just begun. For example, the [AI4K12|https://ai4k12.org] initiative, a joint effort to produce learning guidelines by [CSTA|http://csteachers.org] and [AAAI|https://www.aaai.org] (the AI professional society), only began in 2020. Such guidelines center on several of the big ideas above, including:
 
-* AI perception using sensors to gather data about the world
-* AI representation and reasoning using data structures and algorithms
-* AI learning using logic and statistics
-* AI’s interaction with people, which must account for the complexity and diversity of human cognition, behavior, and ability
-* AI’s impact on society, which includes both its positive and negative impacts
+* AI perception using sensors to gather data about the world.
+* AI representation and reasoning using data structures and algorithms.
+* AI learning using logic and statistics.
+* AI’s interaction with people, which must account for the complexity and diversity of human cognition, behavior, and ability.
+* AI’s impact on society, which includes both its positive and negative impacts.
 
 However, within these big ideas, there are several distinct teaching methods and focal areas that have emerged, each with tradeoffs.
 
@@ -235,7 +235,7 @@ This first session sets the stage for machine learning, demonstrating that it is
 
 * Explain that even if it shouldn’t be built, decisions about building machine learning classifiers are often not made by the stakeholders who are affected, and so the class will build it anyway, both to learn the skills, but also to understand the consequences.
 
-* Provide an overview of the pipeline they’ll be constructing, envisioning an gathering and labeling data, building a classifier, evaluating, 
+* Provide an overview of the pipeline they’ll be constructing, envisioning an approach to gathering and labeling data, building a classifier, and evaluating it.
 =
 
 This second session pivots students from the position of users of machine learning to critics of machine learning, situating them in the decision about how to apply machine learning to the social contexts in their lives, and also whether to apply it. This gives a critical framing for the work to come, encouraging students to approach the work with a critical lens throughout the process.
@@ -306,7 +306,7 @@ This fourth session makes visible the process of classifier construction and eva
 ** _Have we tested for fairness with respect to different user groups?_
 ** _Have we tested for disparate error rates among different user groups?_
 
-* Begin another philosophical chairs prompt. Each individual student should write their own positions to help them choose a side. After they’ve chosen, divide the class into those who support using the classifier in the application, and those who do not. 
+* Begin another philosophical chairs prompt. Each individual student should write their own positions to help them choose a side. After they’ve chosen, divide the class into those who support using the classifier in the application, and those who do not.
 
 * Prompt each side to develop their best arguments for why the classifier should or should not be used. Have each side work collaboratively to develop arguments.
 Have each side present their arguments.

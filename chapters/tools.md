@@ -155,7 +155,7 @@ To achieve these learning objectives, the unit’s approach is to focus on tool 
 =
 ### Session 1: Why does VS Code exist?
 
-* Tell the origin story of [Visual Studio Code|https://code.visualstudio.com], starting with the very beginning of early digital computers: 
+* Tell the origin story of [Visual Studio Code|https://code.visualstudio.com], starting with the very beginning of early digital computers:
 
 `
 Long ago in the 1950’s, computers filled rooms. To program them, one had to take a rectangular piece of cardboard, printed with instructions on rows and columns, and punch holes in the instructions one wanted. The machine would read them, follow the instructions based on the holes, and then print out an answer. In the 1980’s, this changed: instead of punching holes, computers had displays and special apps called Integrated Development Environments (IDEs) that allowed people to write programs. Instead of having to physically insert the instructions into the computer, a person would just write their program in the IDEs, tell the IDE to run the program, and then the IDE would show the output on the display. Many people and companies created many versions of these apps, but none more than Microsoft. For many years, they worked on a product called Visual Studio, which millions of software developers have used to create software. Recently, they tried to create a simpler IDE, one that was less complex, and allowed for extensions that other people in the world would write, adding functionality like spell checking, or support for new programming languages. That IDE is called VS Code (VS being short for Visual Studio). This is now used by millions of developers in the world, and is one of the most beloved editors, because it is fast, flexible, and customizable.
@@ -222,7 +222,7 @@ The third session repeats this one more time, but for [Git|https://git-scm.com]:
 
 * Note that if it were an app or website, this saving might happen automatically, or there might be a save button. And while there is a save button for each file, those changes are saved on the computer they are using, and they may not be using the same computer.
 
-* Explain that programmers in the 1980’s had the same problem: 
+* Explain that programmers in the 1980’s had the same problem:
 
 `
 If they wanted to save their work, and share it especially, they needed a way to combine their edits with other people’s. They also needed a way to revert changes that accidentally broke the program. And so they invented something called version control, which tracks changes to a file, stores them in a centralized place, and merges changes with other people. Many early version control systems stored all of the files in a central database, but some developers in the 1990’s found that this prohibited experimentation locally, so they created a different kind of version control called Git. Git leaves copies of everything on every computer, and merges them together in some central place. The key idea is of a repository, which stores files and changes to them, and that these changes can be "pushed" to and "pulled" from a centralized place. Changes to the local repository are called "commits", which come with messages about what was changed.

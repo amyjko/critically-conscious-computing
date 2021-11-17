@@ -57,7 +57,7 @@ That’s easier to read than the machine instructions above, but it requires kno
 * Python uses two consecutive equal signs (`==`) to indicate comparison and a single equals to indicate saving a value in a variable.
 * Python uses _infix_ notation as in common mathematics notation, meaning that things like comparisons have a left side (`number_of_dependents`) and a right side (`0`), with an operator in the middle.
 * Python also uses indentation to indicate different decision outcomes: everything indented below the `if`python is executed if the comparison is `true`python, and everything indented below the `else`python is executed if the condition is `false`python.
-* `return` is a special word that takes a value calculated after the word and sends it back to whatever part of the program made the request. 
+* `return` is a special word that takes a value calculated after the word and sends it back to whatever part of the program made the request.
 
 Despite all of these syntactic differences from the machine code example earlier, it encodes the same logic: the Python interpreter essentially translates the above syntax into the instructions above, reading the `number_of_dependents` value, comparing it to `0`, and executing one of the return statements. So Python is just a different notation for encoding the same conditional logic that replaced the case worker.
 
@@ -246,10 +246,10 @@ These examples reveal how control structures like machine code jump instructions
 
 However, as we have seen, control structures, and the Boolean logic they use, can also be perilous:
 
-* _What if the data the algorithm processes from an application is wrong?_ The algorithm will make the wrong choice, and may do nothing to try to detect errors, and alert caseworkers to the problem. 
-* _What if an exceptional case arises that isn’t encoded into law or the algorithm?_ There is no one to notice it, and make a different choice. 
-* _What if an applicant wants to understand why they were denied?_ The only person capable of fully explaining the algorithm’s decision are the software developers who wrote the algorithm -- and as any software developer can tell you, understanding the logic of a program is rarely as straightforward as the algorithm above, even when they wrote it themselves. 
-* _What if the decision made is unethical?_ The algorithms above, supported by conditional Boolean logic, are incapable of reconsidering its choices: they won’t pause to consider the injustice of the choice, they won’t question the morality of the law, they won’t look for ways of helping the applicant outside their logic, they won’t write the applicant for more information, and they certainly won’t rewrite their own code as it learns more about the world. 
+* _What if the data the algorithm processes from an application is wrong?_ The algorithm will make the wrong choice, and may do nothing to try to detect errors, and alert caseworkers to the problem.
+* _What if an exceptional case arises that isn’t encoded into law or the algorithm?_ There is no one to notice it, and make a different choice.
+* _What if an applicant wants to understand why they were denied?_ The only person capable of fully explaining the algorithm’s decision are the software developers who wrote the algorithm -- and as any software developer can tell you, understanding the logic of a program is rarely as straightforward as the algorithm above, even when they wrote it themselves.
+* _What if the decision made is unethical?_ The algorithms above, supported by conditional Boolean logic, are incapable of reconsidering its choices: they won’t pause to consider the injustice of the choice, they won’t question the morality of the law, they won’t look for ways of helping the applicant outside their logic, they won’t write the applicant for more information, and they certainly won’t rewrite their own code as it learns more about the world.
 
 The downsides of using control structures to mimic human reasoning in particular contexts are therefore profound, to the point where the most moral and ethical choice may be to not use them at all for some decisions.
 

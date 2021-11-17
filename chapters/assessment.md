@@ -169,11 +169,11 @@ Consider what places your assessment activities inhabit, with particular attenti
 
 In an assessment ecology, the parts are the individual pieces that make up the whole assessment. For example, in a CS programming assignment, a prompt, a rubric, or an example program would all be parts, along with any feedback you provide to students. To ensure that assessments are responsive, participatory, and educative, consider the following:
 
-* What parts make up the ecology? 
+* What parts make up the ecology?
 * What parts of the ecology are exchanged?
-* Which parts are manipulated? 
-* Who is involved in exchanging and manipulating the parts? 
-* Who creates which parts? 
+* Which parts are manipulated?
+* Who is involved in exchanging and manipulating the parts?
+* Who creates which parts?
 * Do students and teachers agree on parts?
 
 For example, one part of a CS assessment might be a rubric. Will you create the rubric alone, or will students participate? How much agency will students have in shaping the rubric? How will you explain the rubric to convey what you find valuable, and how those values are related to other parts of the assignment? For example, does the rubric prioritize the correctness of the program, how it is composed, the process by which it was produced, or perhaps how the program addresses or contributes to oppression? Rubric discussions are a good time to discuss students' expectations and to invite collaboration with students about whether discourse around feedback and assessment is relevant to their learning. But they are also a time to connect rubrics to all of the other parts, whether they are learning materials, classroom or school policies, or future summative assessments.
@@ -184,8 +184,8 @@ Classrooms are laden with power. They derive institutional power from schools’
 
 To ensure an assessment accounts for power by being responsive, participatory, and educative, think about what power relations are produced:
 
-* Are power relations aligned with your goals for the course? 
-* Are they aligned with how the students in your class learn best? 
+* Are power relations aligned with your goals for the course?
+* Are they aligned with how the students in your class learn best?
 * Do they account for imbalances in power in students' families and communities?
 
 In CS assignments involving programming, power often arises when helping students debug their programs. What kinds of help from you or other students are allowed? Who sets that policy? If you exercise your power to fix students' code for them, will students miss an opportunity to develop self-efficacy? If, on the other hand, students are left to fend for themselves, will they have the support they need to learn? Assessment ecologies shape the answers to these questions, largely through power.
@@ -204,9 +204,9 @@ Considering individuals in CS assessments can also mean considering positionalit
 
 Products can include the work products of students (e.g. programs, reflections, or essays they have written), as well as the products of the assessment ecology (e.g. grades, feedback, evaluations). Designing responsive, participatory, and educative assessments means consider:
 
-* What products are created by the different people in the ecology? 
-* How could these change in response to local diversity or student interest? 
-* What kind of discussion is there around feedback? 
+* What products are created by the different people in the ecology?
+* How could these change in response to local diversity or student interest?
+* What kind of discussion is there around feedback?
 * Is feedback an end product of the ecology, or one step towards student learning?
 
 Unique to CS is that student products may take on life outside of the classroom. For example, if students create projects on a public platform like Scratch, they may share their work with friends, family, and even the entire internet, creating evolving meaning for themselves, their families, and their communities. Assessments should anticipate these potential cascading impacts that come long after their role in classroom learning.

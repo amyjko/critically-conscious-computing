@@ -66,7 +66,7 @@ This description of a program might seem innocuous. But if it’s considered fro
 
 * _Who will use this and why?_ When would someone need a calculator to get a precise age? For example, cashiers and bartenders probably wouldn’t need it, as they only need to do some rough mental arithmetic to verify that someone is over 21. Perhaps the user is a child and has not yet learned arithmetic, but if so, do they know how to enter dates? Whoever it is, each group has their own motivations, goals, and constraints that should shape how and whether the program functions.
 
-* _What abilities do the users have?_ If someone is sighted, can perform fine motor skills, is literate, and knows how to operate a keyboard, entering a date into a prompt will likely not be a problem. But what if one of those abilities is missing? Designing for diverse abilities can require substantially reconsidering the inputs and outputs to a program. 
+* _What abilities do the users have?_ If someone is sighted, can perform fine motor skills, is literate, and knows how to operate a keyboard, entering a date into a prompt will likely not be a problem. But what if one of those abilities is missing? Designing for diverse abilities can require substantially reconsidering the inputs and outputs to a program.
 
 * _What cultural knowledge does the program assume?_ For example, is the birthdate on the [Gregorian|https://en.wikipedia.org/wiki/Gregorian_calendar] calendar, or can it also be in one of the many other calendaring systems used throughout the world, such as the [Chinese Minguo|https://en.wikipedia.org/wiki/Republic_of_China_calendar] calendar?
 
@@ -242,7 +242,7 @@ After this session, student pairs will have a sense of design as distinct from o
 
 * Explain that planning is a critical part of programming and may involve thinking about algorithms and code reuse before ever writing a program.
 
-* *Formative assessment*. Prompt teams to write pseudocode for their design, detailing the algorithm that will be used to do their computation. As part of this, students should write "subgoal" labels<margulieux16>, explaining how each part of their pseudocode helps accomplish the larger design goal. Students should also research code that might be reused to help implement the algorithm. After writing pseudocode, teams should be prompted to reflect on who would be excluded or oppressed because of the algorithm's assumptions. Discuss how they will present their work in later discussion, negotiating the final form of their pseudocode. After reflection, engage the class in a discussion of those assumptions, and how the students’ algorithms might be revised to avoid those problems. 
+* *Formative assessment*. Prompt teams to write pseudocode for their design, detailing the algorithm that will be used to do their computation. As part of this, students should write "subgoal" labels<margulieux16>, explaining how each part of their pseudocode helps accomplish the larger design goal. Students should also research code that might be reused to help implement the algorithm. After writing pseudocode, teams should be prompted to reflect on who would be excluded or oppressed because of the algorithm's assumptions. Discuss how they will present their work in later discussion, negotiating the final form of their pseudocode. After reflection, engage the class in a discussion of those assumptions, and how the students’ algorithms might be revised to avoid those problems.
     ** This is _responsive_ because it centers students’ own designs and cultural competencies.
     ** This is _participatory_ because it enables students to decide what media they want to work in to produce their pseudocode mockup.
     ** This is _educative_ because it both surfaces ambiguities in plans, but also makes visible a diversity of potential biases surfaced by other students.
@@ -281,7 +281,7 @@ After this session, students will have the results of a systematic test, and see
 
 * Have students reconnect with their partners and find the problems they identified in the previous session.
 
-* Provide students with an explicit debugging strategy that prompts them, for each problem, to follow the same programming activities in the unit: 
+* Provide students with an explicit debugging strategy that prompts them, for each problem, to follow the same programming activities in the unit:
     ** Identify the cause of the problem by analyzing how the program executes, but without modifying the program, identifying if redesign is necessary, 
     ** Write pseudocode plan for a fix, 
     ** Implement the pseudocode fix, 

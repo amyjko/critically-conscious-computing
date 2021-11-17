@@ -1,11 +1,11 @@
 =
 @keyIdeas
 * All programming requires verification and debugging; making and correcting mistakes is an inescapable part of writing code.
-* Requirements are what people have agreed a program should do; failures are deviations from requirements; defects are the parts of a program that caused a failure. 
+* Requirements are what people have agreed a program should do; failures are deviations from requirements; defects are the parts of a program that caused a failure.
 * Verifications skills include analyzing a program for defects, or running a program on various inputs to observe failures.
 * Debugging skills include systematic strategies for identifying defects from failures.
 * Verification and debugging engage key sociopolitical questions about who has the power to decide what makes software behavior "correct".
-* Students struggle with verification and debugging partly because they are inherently difficult, partly because they often have brittle knowledge of programming languages, and partly because 
+* Students struggle with verification and debugging partly because they are inherently difficult, partly because they often have brittle knowledge of programming languages.
 * Methods for teaching verification and debugging center on preventing errors, reducing cognitive load by separating skills, and by teaching systematic strategies; situating these in social contexts can surface their sociopolitical importance.
 =
 
@@ -264,11 +264,11 @@ print(speedingFine(12, 40))
 
 * Explain a scenario in which the system has been deployed as is. 
 
-* The developers’ job is to verify that it's behaving as intended by analyzing and testing the program. Half of the developers will analyze the program by reading it collaboratively for defects. The other half will test the program, checking for failures. When they find problems, they should not fix them, but rather document them, creating a list for debugging. 
+* The developers’ job is to verify that it's behaving as intended by analyzing and testing the program. Half of the developers will analyze the program by reading it collaboratively for defects. The other half will test the program, checking for failures. When they find problems, they should not fix them, but rather document them, creating a list for debugging.
 
-* The users should also test the system based on its requirements, collaborating to think of inputs that they have not tried, and sending complaints to the developers whenever they think they unjustly received an automated speeding ticket. 
+* The users should also test the system based on its requirements, collaborating to think of inputs that they have not tried, and sending complaints to the developers whenever they think they unjustly received an automated speeding ticket.
 
-* The teacher can provide the outputs of the program, one test at a time, ensuring that the students do not see its code. Whenever the students find a problem, they should report it to the developers, who are responsible for documenting the problem. 
+* The teacher can provide the outputs of the program, one test at a time, ensuring that the students do not see its code. Whenever the students find a problem, they should report it to the developers, who are responsible for documenting the problem.
 
 * The mayor should answer any of the developers questions about the specifications and listen to any complaints from the users.
 
@@ -282,7 +282,7 @@ The second session focuses students’ attention on opposition: developers with 
 
 * Gather students back into the two groups of developers and users. Developers should use the list of defects and failures they found and begin making repairs. When they believe their algorithm is fully repaired, they should announce it to the mayor, who announces it to the class. Meanwhile, the users should continue testing the system, sending complaints. They should also be encouraged to organize public complaints to the mayor.
 
-* Once repairs are released, users should continue testing the system and decide whether they believe it is fair. They are free to imagine driving scenarios that might not be accounted for by the algorithm. 
+* Once repairs are released, users should continue testing the system and decide whether they believe it is fair. They are free to imagine driving scenarios that might not be accounted for by the algorithm.
 
 * After users' new complaints are delivered, pause the game and have each group discuss the difficulties it faced. What was hard? What was unfair? Each group should develop a consensus demand to the major about what to do about the system.
 

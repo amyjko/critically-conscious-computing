@@ -2899,7 +2899,7 @@
 		"csta3AAP13": ",3A-AP-13| Create prototypes that use algorithms to solve computational problems by leveraging prior student knowledge and personal interests.| _Create prototypes that use algorithms to help dismantle systems of oppression._",
 		"csta3AAP14": ",3A-AP-14| Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables.| _Decide whether and how to use lists to generalize computation without erasing and exceptional cases that arise from diversity._",
 		"csta3AAP15": ",3A-AP-15| Justify the selection of specific control structures when tradeoffs involve implementation, readability, and program performance, and explain the benefits and drawbacks of choices made.| _Examine the technical, social, and political consequences of different control structures._",
-		"csta3AAP16": ",3A-AP-16| Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions.| _Create event-based, personally meaningful, software that demonstrates critical consciousnes._",
+		"csta3AAP16": ",3A-AP-16| Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions.| _Create personally meaningful software that demonstrates critical consciousness._",
 		"csta3AAP17": ",3A-AP-17| Decompose problems into smaller components through systematic analysis, using constructs such as procedures, modules, and/or objects.| _Systematically decompose problems into procedures, modules, and/or objects, while accounting for the implications of decomposition on diversity, equity, and inclusion._",
 		"csta3AAP18": ",3A-AP-18| Create artifacts by using procedures within a program, combinations of data and procedures, or independent but interrelated programs.| _Use functions to process data while while making embedded biases in functions explicit and transparent._",
 		"csta3AAP19": ",3A-AP-19| Systematically design and develop programs for broad audiences by incorporating feedback from users.| _Design and engineer software using design methods that center marginalized and oppressed groups’ voices and needs._",
@@ -3037,7 +3037,8 @@
 		"ai": "[Artificial Intelligence|ai]",
 		"programming": "[Programming|programming]",
 		"verification": "[Verification|verification]",
-		"tools": "[Tools|tools]"
+		"tools": "[Tools|tools]",
+		"projects": "[Projects|projects]"
 	},
 	"glossary": {
 		"abstraction": {
@@ -3170,6 +3171,10 @@
 			"phrase": "definite loop",
 			"definition": "A loop written in a computer program that will execute a finite number of times, often based on some fixed number, or the number of items in a list.",
 			"synonyms": ["finite loop"]
+		},
+		"design": {
+			"phrase": "design",
+			"definition": "Envisioning a preferred future; in the context of CS, envisioning what software should exist and why."
 		},
 		"dev": {
 			"phrase": "developer",
@@ -3376,6 +3381,10 @@
 		"softarch": {
 			"phrase": "software architecture",
 			"definition": "A high level description of how data, algorithms, and functionality will be organized in a program, offering a blueprint for those implementing or changing it."
+		},
+		"softengr": {
+			"phrase": "software engineering",
+			"definition": "Building software for a particular purpose, usually for use by other people and usually in teams."
 		},
 		"software": {
 			"phrase": "software",

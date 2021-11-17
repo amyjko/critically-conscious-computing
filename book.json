@@ -665,6 +665,13 @@
 			"#chi",
 			"https://doi.org/10.1145/1240624.1240714"
 		],
+		"chiodini21": [
+			"Luca Chiodini, Matthias Hauswirth",
+			2021,
+			"Wrong Answers for Wrong Reasons: The Risks of Ad Hoc Instruments",
+			"ACM Koli Calling International Conference on Computing Education Research",
+			"https://doi.org/10.1145/3488042.3488045"			
+		],
 		"chipman20": [
 			"Hannah E. Chipman, Marnie Hill, Tiffany Barnes",
 			2020,
@@ -1812,6 +1819,13 @@
 			"Toward a theory of knowledge reuse: Types of knowledge reuse situations and factors in reuse success",
 			"Journal of Management Information Systems",
 			"https://doi.org/10.1080/07421222.2001.11045671"
+		],
+		"marwan21": [
+			"Samiha Marwan, Preya Shabrina, Alex Milliken, Ian Menezes, Veronica Catete, Thomas W. Price, Tiffany Barnes",
+			2021,
+			"Promoting Students’ Progress-Monitoring Behavior during Block-Based Programming",
+			"ACM Koli Calling International Conference on Computing Education Research",
+			"https://doi.org/10.1145/3488042.3488064"
 		],
 		"mccartney99": [
 			"Scott McCartney",

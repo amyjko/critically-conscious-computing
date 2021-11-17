@@ -3,7 +3,7 @@
 * The intellectual founders of computer science imagined computers as machines that would mimic human intelligence.
 * The first type of mimicry they imagined was symbolic intelligence, which uses computer memory, arithmetic, lists of instructions, and Boolean logic to process data and make decisions.
 * A second and more recent type of mimicry is data-driven intelligence, which uses large datasets of past human behavior to extract patterns that computers use to classify information and decide which actions to take.
-* These two types of mimicry only capture a small fraction of the many types of human intelligence, and most notably overlook ethical, moral, and social judgement.
+* These two types of mimicry only capture a small fraction of the many types of human intelligence, and most notably overlook ethical, moral, and social judgment.
 * Teachers should help students compare and contrast human and computer intelligence, critically analyzing their strengths, weaknesses, and differences, and what the consequences of those differences are in their lives and the world.
 =
 
@@ -109,7 +109,7 @@ Later, Turing wrote on thought:
 The original question, 'Can machines think?' I believe to be too meaningless to deserve discussion.
 " Alan Turing<turing09>
 
-Thus, these three intellectual founders of computing, while fascinated with ways of creating machines that could mimic human intelligence, there had no pretense about the power of computers: they believed that computer programs are only as smart as their creators can make them and they did not see how abstract logical or symbolic reasoning could replicate human morality or judgement. They viewed their creations and ideas as beautiful, but limited in their ability to demonstrate intelligence.
+Thus, these three intellectual founders of computing, while fascinated with ways of creating machines that could mimic human intelligence, there had no pretense about the power of computers: they believed that computer programs are only as smart as their creators can make them and they did not see how abstract logical or symbolic reasoning could replicate human morality or judgment. They viewed their creations and ideas as beautiful, but limited in their ability to demonstrate intelligence.
 
 Of course, Babbage, Lovelace, Turing, and Boole could not have imagined the kinds of intelligent behavior that programmers have since created. Computers can parse natural language, produce speech, predict our desires, recognize objects in images, drive cars, fly airplanes, diagnose cancer, organize our photo collections, detect fraud, find our bus, and route us home. Aren’t these displays of intelligence something more than the intelligence that Lovelace and Turing imagined? Lovelace and Turing would likely argue no. All of that intelligence reduces to the same basic set of mathematical, Boolean, and logical operations, loading a number, performing some arithmetic, checking a number’s value to decide whether to go to this step or that using truth values, ANDs, ORs, and NOTs. What enables these kinds of intelligence are millions of instructions in computer programs, each carefully written by millions of people since the 1960's, and assembled together to achieve ever more complex behaviors. And so while computers seem to be ever more capable, it is only because of the ongoing labor of software developers carefully write the instructions that shape algorithms, and to gather and label data used to drive computer behavior. As Lovelace said:
 

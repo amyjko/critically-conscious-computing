@@ -372,7 +372,7 @@ def admit(stateResident, GPA, GPAPercentile, SAT, essayScore)
 
 * Ask the students to provide example values for you to try. Ensure the examples cover a range of possible inputs.
 
-* Pose the question: is it fair? What would they want to know to make that judgement? Capture the questions they have about the function in a shared space.
+* Pose the question: is it fair? What would they want to know to make that judgment? Capture the questions they have about the function in a shared space.
 
 * Organize students into small groups. Task them with tinkering with the function, trying different inputs and observing the resulting outputs, and trying to build a model of how they think it works.
 

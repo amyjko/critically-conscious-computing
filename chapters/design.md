@@ -160,7 +160,7 @@ After this first session, students should have a sense of the possibilities of t
 
 * Explain that ideation involves quantity over quality, generating possibilities for what stories they might tell, without worrying about whether they are good enough, or the best choice.
 
-* Ask students to pair up and ideate, creatively generating as many possibilities that they can think of for stories they might tell, while withholding judgement on whether the idea is good or bad. Each time they think of an idea, they should write it down in shorthand, so they can remember. Encourage students to focus on generating many possibilities, not on choosing one yet.
+* Ask students to pair up and ideate, creatively generating as many possibilities that they can think of for stories they might tell, while withholding judgment on whether the idea is good or bad. Each time they think of an idea, they should write it down in shorthand, so they can remember. Encourage students to focus on generating many possibilities, not on choosing one yet.
 
 * Encourage students to reflect after class on which design decision stories they are most excited about telling.
 =

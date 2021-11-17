@@ -1,7 +1,7 @@
 =
 @keyIdeas
 * Many people program, not just professional software developers.
-* Programming consists of many distinct activities--design, planning, reuse, implementation, verification, debugging--each with their own challenges.
+* Programming consists of many distinct activities -- design, planning, reuse, implementation, verification, debugging -- each with their own challenges.
 * Orchestrating these activities requires self-regulated problem skills that many programmers lack.
 * The many challenges encountered in programming often leaves little room for critical reflection on the role of code in injustice; slowing down can make room.
 * Teaching programming as a skill requires several challenging decisions; teaching it as a means to critical consciousness can relax these constraints.

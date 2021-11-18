@@ -12,7 +12,7 @@
 	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
 	"images": {
 		"cover": "|Book_Cover.png|Several applications of computing, including VR, news, robotics, information, and automation.|Computing is everywhere, for better and worse.|@jessie|",
-		"references": "|question.jpg|TODO|Placeholder|@ashley|",
+		"references": "|Appendix_References.png|A magenta silhouette of a person walking down an aisle of library stacks, each glowing with binary digits.|Looking for something to read?|@ashley|",
 		"glossary": "|question.jpg|TODO|Placeholder|@ashley|",
 		"index": "|Appendix_Index.png|A series of labeled file folders, with a miniature boy sitting a top the M's.|So many words, so little time.|@jessie|",
 		"search": "|Appendix_WebSearch.png|A girl looking through a telescope at the stars, but the stars are nodes and edges.|What are you looking for?|@jessie|",

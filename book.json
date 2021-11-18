@@ -209,7 +209,7 @@
 			"authors": ["ko"],
 			"image": "|Book_Conclusion.png|A Black man and a woman staring at a tablet while colored streams of technical and sociotechnical ideas flow in and out of the device.|More just computing education is ours to imagine.|@ashley|",
 			"section": "Conclusion",
-			"forthcoming": true
+			"forthcoming": false
 		},
 		{
 			"id": "standards", 

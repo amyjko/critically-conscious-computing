@@ -381,7 +381,7 @@ This session builds upon the syntax session, helping students see that both synt
 
 * Bring up the program from the previous sessions again, reminding students that what makes a programming language are the syntactic and semantic rules, and that the rules are shaped by programming language designers.
 
-* Show the same program, but in a diversity of other programming languages, such as _Java_, _JavaScript_, _C_, _Racket_, _Scratch_, _Swift Playgrounds_. Prompt the students, "What appears similar and different?" Write down the observations in a list.
+* Show the same program, but in a variety of other programming languages, such as _Java_, _JavaScript_, _C_, _Racket_, _Scratch_, _Swift Playgrounds_. Prompt the students, "What appears similar and different?" Write down the observations in a list.
 
 * Go through each observation and generalize them, identifying the contrasting features of the language, including similar and different keywords, different use of punctuation, different spacing, but also similar ideas, like named variables, text strings, and loops.
 

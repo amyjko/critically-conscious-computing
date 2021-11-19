@@ -3043,7 +3043,7 @@
 	"glossary": {
 		"abstraction": {
 			"phrase": "abstraction",
-			"definition": "Any mechanism that hides the details of something behind a simpler representation."
+			"definition": "Any mechanism that hides the details of something behind a simpler representation. For example, words are abstractions of the things they represent and functions in computer programs are abstractions of what they compute."
 		},
 		"accessibility": {
 			"phrase": "accessibility",
@@ -3072,7 +3072,7 @@
 		},
 		"assignment": {
 			"phrase": "assignment",
-			"definition": "An instruction in a computer program that changes the value stored in a variable."
+			"definition": "An instruction in a computer program that changes the contents of memory."
 		},
 		"blockeditor": {
 			"phrase": "block-based editor",
@@ -3090,7 +3090,7 @@
 		"call": {
 			"phrase": "call",
 			"definition": "An instruction in a computer program that passes inputs to a function, waits for the function to finish executing, and then receives the output of the function for further computation.",
-			"synonyms": ["", "invoke"]
+			"synonyms": ["invoke"]
 		},
 		"class": {
 			"phrase": "class",
@@ -3102,19 +3102,19 @@
 		},
 		"conceptinv": {
 			"phrase": "concept inventory",
-			"definition": "A test designed to precisely measure whether a student has accureate knowledge of a specific set of concepts."
+			"definition": "A test designed to precisely measure whether a student has accurate knowledge of a specific set of concepts."
 		},
 		"computer": {
 			"phrase": "computer",
 			"definition": "Physical hardware that receives input, stores and processes data, and produces output. Examples include consumer devices like desktop computers, tablets, smartphones, but also less obvious devices that embed computers, like cars, kitchen appliances, and smart home devices such as smart speakers."		},
 		"cs": {
 			"phrase": "computer science",
-			"definition": "The academic discipline and community that studies both human and technical aspects of computer use, computational thinking, programs, programming, software, and software engineering.",
+			"definition": "The academic discipline and community that studies the technical, human, and social aspects of computers, computer use, software, programming, software, and software engineering.",
 			"synonyms": ["computing", "CS"]
 		},
 		"compiler": {
 			"phrase": "compiler",
-			"definition": "A computer program that reads a program written in a particular programming language and translates it into machine code that a computer can execute.",
+			"definition": "An application that reads a program written in a particular programming language and translates it into machine code that a computer can execute.",
 			"synonyms": ["translator", "interpreter"]
 		},
 		"computerscientist": {
@@ -3125,6 +3125,10 @@
 			"phrase": "control structure",
 			"definition": "A programming language feature for expressing decisions, often using Boolean logic to select between two or more possible next steps in a program.",
 			"synonyms": ["conditionals"]
+		},
+		"critical": {
+			"phrase": "critical",
+			"definition": "A stance on a topic that questions, critiques, evaluates, or judges. In teaching, critical pedagogy refers to any teaching that engages students these activities."
 		},
 		"criticalcon": {
 			"phrase": "critical consciousness",
@@ -3160,7 +3164,7 @@
 		},
 		"debugger": {
 			"phrase": "debugger",
-			"definition": "A tool that allows one to inspect the execution of a program, gathering information to help identify potential causes of failures."
+			"definition": "An application that allows one to inspect the execution of a program, gathering information to help identify potential causes of failures."
 		},
 		"defect": {
 			"phrase": "defect",
@@ -3181,6 +3185,10 @@
 			"definition": "Someone who is paid, or volunteers their time, to write software for others to use.",
 			"synonyms": ["software developer", "software engineer", "professional developer"] 
 		},
+		"diversity": {
+			"phrase": "diversity",
+			"definition": "The inescapable fact that people vary in their race, ethnicity, gender, ability, culture, values, norms, beliefs, faith, needs, and more."
+		},
 		"edge": {
 			"phrase": "edge case",
 			"definition": "Any consideration an algorithm needs to make that is not part of the common case, such as unexpected inputs, rare scenarios, or contexts that violate it's assumptions about the world."
@@ -3191,7 +3199,7 @@
 		},
 		"efficiency": {
 			"phrase": "efficiency",
-			"definition": "The time it takes for a computer to calculate something; more efficient computer hardware and operating systems execute more instructions per second. This can also refer to _memory_ efficiency, which is how many bits of memory some computation requires to make its calculations.",
+			"definition": "The time it takes for a computer to compute something; more efficient computer hardware and operating systems execute more instructions per second. This can also refer to _memory_ efficiency, which is how many bits of memory some computation requires to make its calculations.",
 			"synonyms": ["speed"]
 		},
 		"encapsulation": {
@@ -3201,6 +3209,14 @@
 		"encoding": {
 			"phrase": "encoding",
 			"definition": "A set of notational rules for how to represent information with sequences of symbols."
+		},
+		"equality": {
+			"phrase": "equality",
+			"definition": "A social state in which everyone is treated equally (in terms of resources, laws, rights, policies, opportunities, and other social processes.)"
+		},
+		"equity": {
+			"phrase": "equity",
+			"definition": "A social state in which everyone is given the resources and support they need to thrive at equal levels, implying that some people may get more to address disparities."
 		},
 		"event": {
 			"phrase": "event handler",
@@ -3232,13 +3248,17 @@
 		},
 		"ide": {
 			"phrase": "integrated development environment",
-			"definition": "A program that centralize many tools together into a single applicaiton to make the reading, writing, and verification of programs more productive.",
+			"definition": "An application that centralizes many tools together into a single applicaiton to make the reading, writing, and verification of programs more productive.",
 			"synonyms": ["IDE"]
 		},
 		"indefiniteloop": {
 			"phrase": "indefinite loop",
 			"definition": "A loop written in a computer program that will execute until some condition is true, and potentially forever if that condition is always true.",
 			"synonyms": ["infinite loop"]
+		},
+		"inclusion": {
+			"phrase": "inclusion",
+			"definition": "Any activity that recognizes diversity, and attempts to achieve equality or equity to accomodate it."
 		},
 		"info": {
 			"phrase": "information",
@@ -3258,8 +3278,12 @@
 		},
 		"ui": {
 			"phrase": "interface",
-			"definition": "A program and input and output devices that receives input from users and produces output, including command line interfaces, graphical user interfaces, and voice interfaces",
+			"definition": "A program and input and output devices that receives input from users and produces output, including command line interfaces, graphical user interfaces, and voice interfaces.",
 			"synonyms": ["user interface", "UI"]
+		},
+		"justice": {
+			"phrase": "justice",
+			"definition": "Any notion of fairness, such as equity, impartiality, equal basic rights, equal liberties, reparations for past harms, among others."
 		},
 		"kernel": {
 			"phrase": "kernel",
@@ -3272,7 +3296,7 @@
 		},
 		"list": {
 			"phrase": "list",
-			"definition": "A data structure that stores an ordered sequence of data values",
+			"definition": "A data structure that stores an ordered sequence of data values.",
 			"synonyms": ["array"]
 		},
 		"method": {
@@ -3301,6 +3325,10 @@
 			"phrase": "operation",
 			"definition": "A mathematical function that takes some number of inputs and uses those inputs computes a value; for example, the multiply operation in mathematics takes two numerical values and computes a product.",
 			"synonyms": ["function"]
+		},
+		"oppression": {
+			"phrase": "oppression",
+			"definition": "Prolonged and sustained unjust treatment by those with more power over those with less power."
 		},
 		"os": {
 			"phrase": "operating system",
@@ -3391,6 +3419,10 @@
 			"definition": "Apps, websites, and other products and services that people use on computers, laptops, tablets, smartphones, and other digital devices that have computers in them.",
 			"synonyms": ["programs", "applications", "apps"]
 		},
+		"power": {
+			"phrase": "power",
+			"definition": "The ability or capacity to influence the behavior of others."
+		},
 		"programanalysis": {
 			"phrase": "program analysis",
 			"definition": "Reading a program to compare it's behavior to requirements to search for defects."
@@ -3422,7 +3454,7 @@
 			"definition": "Code that attempts to perform an operation on variable's data value that is not defined for that variable's type."
 		},
 		"uxdesigner": {
-			"phrase": "user experience researcher",
+			"phrase": "user experience designer",
 			"definition": "Someone who envisions concrete designs for how a computer might support people's lives at work, at home, or at play, creating and evaluating prototypes that might be later engineered.",
 			"synonyms": ["UX designer"]
 		},
@@ -3437,7 +3469,7 @@
 		},
 		"verification": {
 			"phrase": "verification",
-			"definition": "Checking to ensure that the program behaves as intended for all possible inputs it might receive",
+			"definition": "Checking to ensure that a program behaves as intended for all possible inputs it might receive.",
 			"synonyms": ["testing"]
 		},
 		"versioncontrol": {

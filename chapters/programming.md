@@ -240,7 +240,7 @@ After this session, student pairs will have a sense of design as distinct from o
 
 * Have students reconnect with their partners and restate the design they settled on in the previous session.
 
-* Explain that planning is a critical part of programming and may involve thinking about algorithms and code reuse before ever writing a program.
+* Explain that planning is an essential part of programming and may involve thinking about algorithms and code reuse before ever writing a program.
 
 * *Formative assessment*. Prompt teams to write pseudocode for their design, detailing the algorithm that will be used to do their computation. As part of this, students should write "subgoal" labels<margulieux16>, explaining how each part of their pseudocode helps accomplish the larger design goal. Students should also research code that might be reused to help implement the algorithm. After writing pseudocode, teams should be prompted to reflect on who would be excluded or oppressed because of the algorithm's assumptions. Discuss how they will present their work in later discussion, negotiating the final form of their pseudocode. After reflection, engage the class in a discussion of those assumptions, and how the students’ algorithms might be revised to avoid those problems.
     ** This is _responsive_ because it centers students’ own designs and cultural competencies.

@@ -198,7 +198,7 @@ Designing responsive, participatory, and educative assessment ecologies requires
 
 When considering all the individuals involved, also consider their roles. For example, does the teacher always provide feedback to students? Is the teacher the one who sets all of the assessment tasks? Are some of the assessments designed by other people in other organizations? Are other students sources of feedback? These considerations all interact with who has power over assessment and their impacts.
 
-Considering individuals in CS assessments can also mean considering positionality in relation to computing. For example, you may choose what students make as part of an assessment. Does that choice of what students make take into account who your students are, what they know, what they value? Does it ask them to engage with a system that they feel harmed by, or left out of? Opening discussions about the judgments made within the assessment ecology can help call attention to the ways that rubrics or other evaluative tools are shaped by structural forces outside of the classroom.
+Considering individuals in CS assessments can also mean considering ~positionality~positionality in relation to computing. For example, you may choose what students make as part of an assessment. Does that choice of what students make take into account who your students are, what they know, what they value? Does it ask them to engage with a system that they feel harmed by, or left out of? Opening discussions about the judgments made within the assessment ecology can help call attention to the ways that rubrics or other evaluative tools are shaped by structural forces outside of the classroom.
 
 ## Products: what will assessments produce?
 

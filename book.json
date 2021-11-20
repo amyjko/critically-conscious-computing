@@ -3419,6 +3419,10 @@
 			"definition": "Apps, websites, and other products and services that people use on computers, laptops, tablets, smartphones, and other digital devices that have computers in them.",
 			"synonyms": ["programs", "applications", "apps"]
 		},
+		"positionality": {
+			"phrase": "positionality",
+			"definition": "How one's differences in social position and power shape their identity and access to resources and opportunities in society."
+		},
 		"power": {
 			"phrase": "power",
 			"definition": "The ability or capacity to influence the behavior of others."

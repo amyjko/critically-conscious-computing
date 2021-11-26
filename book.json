@@ -1672,6 +1672,13 @@
 			"ARPA",
 			"https://www.kurzweilai.net/memorandum-for-members-and-affiliates-of-the-intergalactic-computer-network"
 		],
+		"licklider68": [
+			"Joseph CR Licklider, Robert W. Taylor",
+			1968,
+			"The computer as a communication device",
+			"Science and Technology",
+			"https://www.pc-freak.net/files/Computer_as_A_Communication_Device-Robert-Taylor.pdf"
+		],
 		"liebowitz19": [
 			"Jay Liebowitz",
 			2019,
@@ -2693,6 +2700,13 @@
 			"Comparing Block-Based and Text-Based Programming in High School Computer Science Classrooms",
 			"#toce",
 			"https://doi.org/10.1145/3089799"
+		],
+		"weiser91": [
+			"Mark Weiser",
+			1991,
+			"The Computer for the 21 st Century",
+			"Scientific American",
+			"https://www.jstor.org/stable/24938718"
 		],
 		"werner12": [
 			"Linda Werner, Jill Denner, Shannon Campe, Damon Chizuru Kawamoto",

@@ -149,7 +149,7 @@ The most popular software, [COMPAS|https://en.wikipedia.org/wiki/COMPAS_(softwar
 
 The developers of COMPAS did not evaluate these outcomes before they built it; their priority was selling software to courthouses, and cities’ priorities were reducing perceptions of bias (instead of actual bias, or more importantly, the larger systemic bias in policing, prisons, and poverty). No one actually investigated this bias until the public started demanding audits of these algorithms and researchers conducted these audits, which revealed their ineffectiveness and bias. This application of weak AI, therefore, prioritized certain people’s concerns (judges, politicians, and the White majorities that elected them) at the expense of others (Black men).
 
-|Chapter15_Figure03_Resist.png|A large crowd of small people gathered in protest of a very large humanoid robot, backset by stock tickers.|AI has bias, but it's not always clear what to do about it.|@ashley|<
+|Chapter15_Figure03_Resist.png|A terminator robot with a line plot running through its chest like lightning, overseeing an infinite row of tiny workers at computers.|AI has bias, but it's not always clear what to do about it.|@ashley|<
 
 # Managing and Regulating AI
 

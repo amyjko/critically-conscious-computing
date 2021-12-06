@@ -208,7 +208,7 @@ while has_another_application:
     else:
         status = "Deny"
     # Add code to write the status somewhere
-` A python `while`python loop, which loops indefinitely until it's condition is false.
+` A python `while`python loop, which loops indefinitely until its condition is false.
 
 The new control structure in the code above is the `while`python statement at the top. This syntax tells the Python program to continue executing everything indented below it for as long as the variable `has_another_application`python is true. In this case, we are assuming this variable is somehow set to `True`python or `False`python depending on whether or not another application exists. Once that value becomes `False`python, the loop will stop, and not restart until someone (or some other part of the program) starts it again.
 

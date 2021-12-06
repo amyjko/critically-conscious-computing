@@ -166,7 +166,7 @@ These choices valued speed, backwards compatibility with C, but also coherent or
 print((1 + 3) / 2)
 `A Python program for computing an average.
 
-This syntax looked different from C in many ways, stripping away delimiters and data type declarations, but it's semantics were often similar.
+This syntax looked different from C in many ways, stripping away delimiters and data type declarations, but its semantics were often similar.
 
 Around the same time, *Java* (1991) was designed by [James Gosling|https://en.wikipedia.org/wiki/James_Gosling], a Canadian computer scientist, who was trying to design a programming language for creating software for interactive televisions in the 1990’s while working at Sun Microsystems, a company that created operating systems and computers. He needed something that could be written once, but executed on a variety of television hardware platforms. Java looks a lot like C and C++ because Gosling and his employer wanted many people to use it, and they believed mirroring the syntax of C/C++ would reduce learning barriers (which mostly was not true). A program for computing an average in Java might look something like:
 
@@ -201,7 +201,7 @@ While the history of programming languages has largely been driven by values of 
 
 Rather than focusing on mathematics, Alice included language ideas that enabled animations to concurrently execute. It’s designers valued the expression of character-driven storytelling in virtual worlds.
 
-*Scratch* (2003), led by [Mitch Resnick|https://en.wikipedia.org/wiki/Mitchel_Resnick]<maloney10>, mirrored the goals of Alice and many other creative platforms that had come before it, attempting to offer a language that would allow youth to tell interactive stories on two-dimensional canvases. Scratch used many similar language ideas to C and Java, but like Alice, included a block-based editor eliminated the possibility of syntax errors. Like Alice, it also avoided many of the misleading terminology of popular languages from industry, in an attempt to make it more learnable and it's program's more comprehensible. Here is an example Scratch program that animates a character:
+*Scratch* (2003), led by [Mitch Resnick|https://en.wikipedia.org/wiki/Mitchel_Resnick]<maloney10>, mirrored the goals of Alice and many other creative platforms that had come before it, attempting to offer a language that would allow youth to tell interactive stories on two-dimensional canvases. Scratch used many similar language ideas to C and Java, but like Alice, included a block-based editor eliminated the possibility of syntax errors. Like Alice, it also avoided many of the misleading terminology of popular languages from industry, in an attempt to make it more learnable and its program's more comprehensible. Here is an example Scratch program that animates a character:
 
 |Screenshot-Scratch.jpg|A screenshot of a Scratch program showing a cat on a stage and a program that moves 10 steps and waits on repeat then says Let's Dance"|The Scratch programming environment, designed for 2D animation.|Steahpia Hladik|
 

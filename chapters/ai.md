@@ -23,7 +23,7 @@ Others still think of AI not through the lens of "strength", but rather *augment
 
 In this chapter, we discuss how AI works, and the many powers and perils of creating it that emerge from these three approaches to AI. We then discuss several methods for teaching AI to youth to balance the amazing creative potential of AI with its many problematic effects. Throughout, we consider applications of AI that some might see as great feats of human innovation, and that others might see as fraught with ethical concerns.
 
-|Chapter15_Figure02_Complexity.png|A humanoid robot face with an orange-tinted magnifying glass over it's left eye, revealing internal complexity.|AI isn't magic, but it's behavior is often unexplainable, even to its creators.|@ashley|>
+|Chapter15_Figure02_Complexity.png|A humanoid robot face with an orange-tinted magnifying glass over its left eye, revealing internal complexity.|AI isn't magic, but its behavior is often unexplainable, even to its creators.|@ashley|>
 
 # How AI works
 

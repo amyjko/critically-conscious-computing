@@ -188,7 +188,7 @@ print(ssn["group"])
 print(ssn["serial"])
 if (ssn["area"] >= 545 and ssn["area"] <= 573):
     print("Born in California")
-`Using a dictionary to represent a social security number makes printing it harder, but checking it's values easier.
+`Using a dictionary to represent a social security number makes printing it harder, but checking its values easier.
 
 This example is different from the list example in several ways. It gives an explicit name to each part of the social security number, which can be accessed using a similar syntax as a list, but using a name instead of a list index. Each named part of a record is much like a variable, in that it has a name, and refers to a specific value. This notation makes it easier to read the conditional that checks the social security number’s area. But because it’s not a list, it’s once again harder to print the whole social security number, because we cannot use a loop to step through each part. In fact, the dictionary data structure has no inherent order: it’s up to the developer to remember that the desired order is `area`python, `group`python, then `serial`python. That leaves room for mistakes when trying to convert it back to an integer for other reasons.
 
@@ -483,7 +483,7 @@ While this unit might provide a rich understanding of data in society, it does s
 
 # Conclusion: structure is power
 
-In popular discourse about computing, algorithms often get the headlines. For example, the 2021 Facebook whistle-blower [Frances Haugen|https://en.wikipedia.org/wiki/Frances_Haugen] testified to congress primarily about how Facebook's news feed amplified political division, she talked about the algorithm and it's behavior, not about the data moving through the algorithm. But more often than not, it's the data, and not the algorithm, that is at the center of computing controversies. After all, if people weren't writing divisive Facebook posts to share and amplify, the news feed algorithm wouldn't be able to do any harm. The algorithm's role was to spread that divisive content far and wide.
+In popular discourse about computing, algorithms often get the headlines. For example, the 2021 Facebook whistle-blower [Frances Haugen|https://en.wikipedia.org/wiki/Frances_Haugen] testified to congress primarily about how Facebook's news feed amplified political division, she talked about the algorithm and its behavior, not about the data moving through the algorithm. But more often than not, it's the data, and not the algorithm, that is at the center of computing controversies. After all, if people weren't writing divisive Facebook posts to share and amplify, the news feed algorithm wouldn't be able to do any harm. The algorithm's role was to spread that divisive content far and wide.
 
 Data structures, then, sit at the center of critical questions about computing, and critical CS pedagogy. What data we gather, how we encode it, what data types we force data to conform to, and how we model complex social information as compound data structures -- all of these decisions determine who software helps and who it harms. The goal of critically conscious data structure education should be to empower to students to see these as precisely that: _decisions_ that stem from particular worldviews and values, and decisions that can change to create a more just and equitable computational world.
 

@@ -107,13 +107,13 @@ until not swapped
       swapped = true
 `The bubble sort algorithm, applied to a list of student family names.
 
-Don't worry if you can't figure out what the pseudocode above does -- no code's meaning is immediately apparent without some careful analysis of it's behavior. Let's execute it using an example list and see what it does; each line below will represent one pass of the `until` loop above:
+Don't worry if you can't figure out what the pseudocode above does -- no code's meaning is immediately apparent without some careful analysis of its behavior. Let's execute it using an example list and see what it does; each line below will represent one pass of the `until` loop above:
 
 * `[Smith, Jackson, Lee]` Start of 1st pass; two swaps, so `swapped` is true.
 * `[Jackson, Lee, Smith]` Start of 2nd pass; no swaps, so `swapped` is false.
 * `[Jackson, Lee, Smith]` Start of 3rd pass; `swapped` is false, so done.
 
-As we can see with the example execution above, this algorithm, uses a fairly simple approach: it scans the list of students, swapping any adjacent students that are out of order based on their family names, and if it does any swaps, then it scans the list again until it finishes a scan with no swaps. It uses the `swapped` variable to remember if any students in the list were `swapped` on a given pass. In this way, out of order students move left and right to their correct positions in the sorted list, one swap at a time. This is what gives the algorithm it's name, *bubble sort*, for the way that out of order elements slowly "bubble up" to their correctly ordered position. 
+As we can see with the example execution above, this algorithm, uses a fairly simple approach: it scans the list of students, swapping any adjacent students that are out of order based on their family names, and if it does any swaps, then it scans the list again until it finishes a scan with no swaps. It uses the `swapped` variable to remember if any students in the list were `swapped` on a given pass. In this way, out of order students move left and right to their correct positions in the sorted list, one swap at a time. This is what gives the algorithm its name, *bubble sort*, for the way that out of order elements slowly "bubble up" to their correctly ordered position.
 
 Bubble sort is is something that any person could follow mechanically, much like they follow arithmetic steps for addition (e.g., summing digits, carrying numbers, moving from right to left). Sorting a list of names using these steps might take a person a few minutes. The key insight in CS is that by being precise about these steps, as the pseudocode algorithm above does, we can have a computer execute the steps much more quickly and without ever making a mistake. In fact, on a modern computer, the sorting algorithm above could sort a list of 30 student names in less than 10 milliseconds, _tens of thousands_ of times faster than a person.
 

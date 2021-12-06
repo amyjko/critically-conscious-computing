@@ -3204,7 +3204,7 @@
 		},
 		"edge": {
 			"phrase": "edge case",
-			"definition": "Any consideration an algorithm needs to make that is not part of the common case, such as unexpected inputs, rare scenarios, or contexts that violate it's assumptions about the world."
+			"definition": "Any consideration an algorithm needs to make that is not part of the common case, such as unexpected inputs, rare scenarios, or contexts that violate its assumptions about the world."
 		},
 		"editor": {
 			"phrase": "code editor",
@@ -3359,7 +3359,7 @@
 		},
 		"process": {
 			"phrase": "process",
-			"definition": "Data stored by a kernel about a program's current execution state, including which instruction is being executed, what data it is using, who has permission to see it's results."
+			"definition": "Data stored by a kernel about a program's current execution state, including which instruction is being executed, what data it is using, who has permission to see its results."
 		},
 		"program": {
 			"phrase": "program",
@@ -3442,7 +3442,7 @@
 		},
 		"programanalysis": {
 			"phrase": "program analysis",
-			"definition": "Reading a program to compare it's behavior to requirements to search for defects."
+			"definition": "Reading a program to compare its behavior to requirements to search for defects."
 		},
 		"softwaretesting": {
 			"phrase": "software testing",

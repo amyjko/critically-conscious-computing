@@ -9,7 +9,7 @@
 		{ "id": "mara", "name": "Mara Kirdani-Ryan", "url": "https://marakr.com" },
 		{ "id": "druga", "name": "Stefania Druga", "url": "https://stefania11.github.io" }
 	],
-	"license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
+	"license": "[Creative Commons Attribution-NoDerivatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
 	"images": {
 		"cover": "|Book_Cover.png|Several applications of computing, including VR, news, robotics, information, and automation.|Computing is everywhere, for better and worse.|@jessie|",
 		"references": "|Appendix_References.png|A magenta silhouette of a person walking down an aisle of library stacks, each glowing with binary digits.|Looking for something to read?|@ashley|",

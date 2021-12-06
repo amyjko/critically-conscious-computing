@@ -2914,7 +2914,7 @@
 		"csta3AAP15": ",3A-AP-15| Justify the selection of specific control structures when tradeoffs involve implementation, readability, and program performance, and explain the benefits and drawbacks of choices made.| _Examine the technical, social, and political consequences of different control structures._",
 		"csta3AAP16": ",3A-AP-16| Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions.| _Create personally meaningful software that demonstrates critical consciousness._",
 		"csta3AAP17": ",3A-AP-17| Decompose problems into smaller components through systematic analysis, using constructs such as procedures, modules, and/or objects.| _Systematically decompose problems into procedures, modules, and/or objects, while accounting for the implications of decomposition on diversity, equity, and inclusion._",
-		"csta3AAP18": ",3A-AP-18| Create artifacts by using procedures within a program, combinations of data and procedures, or independent but interrelated programs.| _Use functions to process data while while making embedded biases in functions explicit and transparent._",
+		"csta3AAP18": ",3A-AP-18| Create artifacts by using procedures within a program, combinations of data and procedures, or independent but interrelated programs.| _Use functions to process data while making embedded biases in functions explicit and transparent._",
 		"csta3AAP19": ",3A-AP-19| Systematically design and develop programs for broad audiences by incorporating feedback from users.| _Design and engineer software using design methods that center marginalized and oppressed groups’ voices and needs._",
 		"csta3AAP20": ",3A-AP-20| Evaluate licenses that limit or restrict use of computational artifacts when using resources such as libraries.| _Understand software licenses as a site of power, responsibility, and accountability._",
 		"csta3AAP21": ",3A-AP-21| Evaluate and refine computational artifacts to make them more usable and accessible.| _Identify and fix design flaws in computational artifacts that exclude people because of their identities, ethnicities, and/or abilities._",
@@ -3204,7 +3204,7 @@
 		},
 		"edge": {
 			"phrase": "edge case",
-			"definition": "Any consideration an algorithm needs to make that is not part of the common case, such as unexpected inputs, rare scenarios, or contexts that violate it's assumptions about the world."
+			"definition": "Any consideration an algorithm needs to make that is not part of the common case, such as unexpected inputs, rare scenarios, or contexts that violate its assumptions about the world."
 		},
 		"editor": {
 			"phrase": "code editor",
@@ -3359,7 +3359,7 @@
 		},
 		"process": {
 			"phrase": "process",
-			"definition": "Data stored by a kernel about a program's current execution state, including which instruction is being executed, what data it is using, who has permission to see it's results."
+			"definition": "Data stored by a kernel about a program's current execution state, including which instruction is being executed, what data it is using, who has permission to see its results."
 		},
 		"program": {
 			"phrase": "program",
@@ -3442,7 +3442,7 @@
 		},
 		"programanalysis": {
 			"phrase": "program analysis",
-			"definition": "Reading a program to compare it's behavior to requirements to search for defects."
+			"definition": "Reading a program to compare its behavior to requirements to search for defects."
 		},
 		"softwaretesting": {
 			"phrase": "software testing",

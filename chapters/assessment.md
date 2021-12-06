@@ -33,7 +33,7 @@ Another industrial concept found its way into organizations outside of school: *
 
 # What is CS knowledge?
 
-Separate from the concern of _why_ to access is _what_ to assess. As with any subject, there is a lot to know about CS. For example, the [K-12 CS Standards|http://k12cs.org] and [CSTA Standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-standards], widely adopted across the United States and world as a collection of concepts and skills that students might learn about CS, covers many things:
+Separate from the concern of _why_ to assess is _what_ to assess. As with any subject, there is a lot to know about CS. For example, the [K-12 CS Standards|http://k12cs.org] and [CSTA Standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-standards], widely adopted across the United States and world as a collection of concepts and skills that students might learn about CS, covers many things:
 
 * Understanding the hardware that makes computers work.
 * Understanding the networks that connect computers and people.

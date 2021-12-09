@@ -8,7 +8,7 @@
 
 * More recent CS education reform efforts focus on broadening participation, examining and removing structural barriers to CS learning such as resources, policy, and opportunity that have been shaped by this history.
 
-* CS educators key change agents in imagining more diverse, equitable, and inclusive visions of CS education that were often overlooked in history by the White, non-disabled men that shaped it.
+* CS educators are key change agents in imagining more diverse, equitable, and inclusive visions of CS education.
 =
 
 It’s tempting to think of CS as ahistorical: computing is, after all, a discipline focused on inventing the future. We are used to new technologies becoming rapidly outdated, discarding floppy disks for USB keys, USB keys for cloud storage, and cloud storage for whatever comes next. It is a discipline that often discards and forgets the past in favor of the next new thing. This culture of future-focused thinking can be enticing to apply to CS education as well, viewing teaching as needing to "keep up" with the latest innovations in technology and CS education pedagogy, abandoning what came before.

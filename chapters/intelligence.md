@@ -230,7 +230,7 @@ This session engages the first learning objective directly, probing into what in
 
 * Remind students of the evidence of intelligence they brainstormed in the previous session.
 
-* Invite a librarian to explain the history of web search as an effort in the 1990's to displace librarians as a central resource for resolving questions about topics. Librarians’ jobs overlap with the web search engine: 1) finding resources, 2) assessing the credibility, accuracy, and value of a resource, 3) organizing indices of resources, 4) archiving resources so that future generations can access them, 5) helping people answer questions with resources, 6) helping people refine their questions, 7) developing information literacy skills with information technologies.
+* If you are not a librarian yourself, invite one to explain the history of web search as an effort in the 1990's to displace librarians as a central resource for resolving questions about topics. Librarians’ jobs overlap with the web search engine: 1) finding resources, 2) assessing the credibility, accuracy, and value of a resource, 3) organizing indices of resources, 4) archiving resources so that future generations can access them, 5) helping people answer questions with resources, 6) helping people refine their questions, 7) developing information literacy skills with information technologies.
 
 * Explain that in today’s session, students will once again form groups, but this time instead of brainstorming, they will analyze which of the 7 tasks above a search engine does, and how it differs from how a librarian does it.
 

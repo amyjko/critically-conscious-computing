@@ -195,7 +195,7 @@ Of course, even if a programmer does consult with designers, and designers do co
 
 Would a programmer imagine this edge case? Would a designer? Would a teacher, when consulted about the hypothetical impacts of this algorithm? And is this scenario better than a world in which there was no algorithm helping the algorithm monitor students’ submissions? Ultimately, all algorithms, even simple ones like the above, when implemented on a computer, are a way of delegating tasks to a computer. In every case, we should imaginatively and inclusively consider the implications of delegating that work to something with so little intelligence and context. Edge cases, therefore, are not merely a technical term for some exceptions for algorithms to consider, but rather the inevitable fact of diversity: people on the margins, if not designed explicitly into an algorithm's core behavior, will be ignored, and likely underserved or even oppressed by its actions.
 
-|Chapter13_Figure03_Algorithms.png|Fourth, all engaged in different activities, one sorting, one analyzing text, one scanning a map, one querying data.|Common problems and common solutions (with unintended consequences).|@jessie|<
+|Chapter13_Figure03_Algorithms.png|Four youth, all engaged in different activities, one sorting, one analyzing text, one scanning a map, one querying data.|Common problems and common solutions (with unintended consequences).|@jessie|<
 
 # Canonical algorithms
 

@@ -1,7 +1,7 @@
 =
 @keyIdeas
 * Assessments, especially formative ones that help guide future learning, are a necessary part of feedback and learning in CS.
-* Grades, and other summative assessments, are not, though most education systems in the world have given them great power to certify, judge merit, and determine who gets resources.
+* Although most education systems use grades and other summative assessments to certify, judge merit, and determine who gets resources, they are not an essential part of feedback and learning in CS.
 * Because the scope and foundations of CS are evolving, and learning standards are a lagging reflection of CS foundations, selecting assessment goals can be daunting.
 * Current CS assessment practices tend not to be formative, and tend to focus only on programming skills, and thus offer little guidance to shaping more broadly-scoped justice-centered assessments.
 * Equitable assessments in CS should be responsive to student identities and needs, participatory in their design, and educative in their outcomes. Considering the purposes, processes, places, parts, power, people, and products of assessments can help achieve these principles.

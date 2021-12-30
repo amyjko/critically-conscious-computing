@@ -12,13 +12,138 @@
 		<meta name="twitter:image:alt" content="On the left, the form of a face being analyzed by facial recognition, on the bottom, a row of men in prison jump suits against a fence, and above, the Amazon smile logo representing the sun.">
 		<meta name="twitter:card" content="summary_large_image">
 
-		<!-- Bootstrap CSS -->
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+		<script src="https://faculty.washington.edu/ajko/bookish/bookish.js"></script>
+		<link rel="stylesheet" href="https://faculty.washington.edu/ajko/bookish/bookish.css">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://faculty.washington.edu/ajko/peruse/ios-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://faculty.washington.edu/ajko/peruse/favicon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://faculty.washington.edu/ajko/peruse/favicon.png">
 
-		<!-- Peruse -->
-		<script src="peruse.js"></script>
-		<link rel="stylesheet" type="text/css" href="https://faculty.washington.edu/ajko/peruse/peruse.css">
-		<link rel="stylesheet" type="text/css" href="style/serious.css">
+		<style>
+
+			@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=block');
+			@import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=block');
+			@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500&display=block');
+
+			@font-face {
+				font-family: "Modum";
+				font-display: block;
+				src: url('fonts/Modum.woff2') format("woff2"),
+					url('fonts/Modum.otf') format('opentype');
+			}
+
+			@font-face {
+				font-family: "Modum";
+				font-display: block;
+				src: url('fonts/Modum Italic.woff2') format('woff2'),
+					url('fonts/Modum Italic.otf') format('opentype'); 
+				font-style: italic;
+			}
+
+			@font-face {
+				font-family: "Modum";
+				font-display: block;
+				src: url('fonts/Modum Bold.woff2') format('woff2'),
+					url('fonts/Modum Bold.otf') format('opentype'); 
+				font-weight: bold;
+			}
+
+			@font-face {
+				font-family: "Modum";
+				font-display: block;
+				src: url('fonts/Modum Bold Italic.woff2') format('woff2'),
+					url('fonts/Modum Bold Italic.otf') format('opentype'); 
+				font-weight: bold;
+				font-style: italic;
+			}
+
+			@font-face {
+				font-family: "Modum Extra";
+				font-display: block;
+				src: url('fonts/Modum ExtraBold.woff2') format('woff2'),
+					url('fonts/Modum ExtraBold.otf') format('opentype'); 
+				font-weight: bold;
+			}
+
+			@font-face {
+				font-family: "Epilogue";
+				font-display: block;
+				src: url('fonts/Epilogue-Light.woff2') format('woff2');
+				font-weight: 300;
+			}
+
+			:root {
+				/* Background colors */
+				--bookish-background-color: #FFFFFF;
+				--bookish-block-background-color: #FCFAFA;
+				--bookish-error-background-color: #F8D7DA;
+
+				/* Border colors */
+				--bookish-border-color-light: #E0E0E0;
+				--bookish-border-color-bold: #000000;
+
+				/* Foreground colors */
+				--bookish-paragraph-color: #000000;
+				--bookish-muted-color: #9AA1A7;
+				--bookish-highlight-color: #E8AF22;
+				--bookish-comment-color: #257F31;
+				--bookish-error-color: #721C24;
+				--bookish-link-color: #1B499C;
+				--bookish-bullet-color: #EB2C27;
+
+				/* Fonts */
+				--bookish-paragraph-font-family: "Modum", serif;
+				--bookish-header-font-family: "Arvo", serif;
+				--bookish-code-font-family: "DM Mono", monospace;
+				--bookish-bullet-font-family: "M Plus Rounded 1c";
+
+				/* Font sizes */
+				--bookish-paragraph-font-size: 14pt;
+				--bookish-block-font-size: 11pt;
+				--bookish-small-font-size: 9pt;
+				--bookish-title-font-size: 2.4rem;
+				--bookish-header-1-font-size: 2rem;
+				--bookish-header-2-font-size: 1.5rem;
+				--bookish-header-3-font-size: 1rem;
+				--bookish-code-font-size: 11pt;
+
+				/* Font weights */
+				--bookish-paragraph-font-weight: 400;
+				--bookish-bold-font-weight: 700;
+				--bookish-link-font-weight: 400;
+				--bookish-header-font-weight: 700;
+				--bookish-code-font-weight: 400;
+				--bookish-bullet-font-weight: 500;
+
+				/* Line heights */
+				--bookish-paragraph-line-height: 2.2rem;
+				--bookish-paragraph-line-height-tight: 1.7rem;
+				--bookish-header-line-height: 1.4em;
+
+				/* Spacing */
+				--bookish-paragraph-spacing: 1.8em;
+				--bookish-header-spacing: 2rem;
+				--bookish-roundedness: 5px;
+				--bookish-indent: 10%;
+				--bookish-inline-padding: 0.25rem;
+				--bookish-block-padding: 0.75em;
+			}
+
+			.bookish-dark {
+				--bookish-background-color: #1C1C1C;
+				--bookish-block-background-color: #333333;
+				--bookish-error-background-color: #721C24;
+				--bookish-border-color-light: #444444;
+				--bookish-border-color-bold: #DADADA;
+				--bookish-paragraph-color: #DADADA;
+				--bookish-muted-color: #CCCCCC;
+				--bookish-highlight-color: #5c4d28;
+				--bookish-comment-color: #1c4722;
+				--bookish-error-color: #F8D7DA;
+				--bookish-link-color: #73a3fa;
+				--bookish-bullet-color: #721C24;
+			}
+
+		</style>
 
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-9W8S26N2J0"></script>
@@ -31,6 +156,6 @@
 		</script>
 
     </head>
-	<body onload="peruse('book.json')">
+	<body onload="bookish()">
 	<body>
 </html>

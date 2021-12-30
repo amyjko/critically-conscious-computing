@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "predeploy": "rm -r public/*; cp index.html public/; cp peruse.js public/; cp book.json public/; cp -R chapters public/; cp -R images public/; cp -R fonts public/; cp -R style public/",
+    "predeploy": "rm -r public/*; cp index.html public/; cp book.json public/; cp -R chapters public/; cp -R images public/; cp -R fonts public/",
     "public": "public",
     "ignore": [
       "firebase.json",

@@ -5,3 +5,4 @@ images/.DS_Store
 public/
 *.log
 .firebase/
+node_modules

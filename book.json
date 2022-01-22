@@ -1,13 +1,13 @@
 {
 	"title": "Critically Conscious Computing: Methods for Secondary Education",
 	"authors": [
-		{ "id": "ko", "name": "Amy J. Ko", "url": "https://faculty.washington.edu/ajko/" },
-		{ "id": "beitlers", "name": "Anne Beitlers", "url": "https://education.uw.edu/people/annes" },
-		{ "id": "wortzman", "name": "Brett Wortzman", "url": "https://homes.cs.washington.edu/~brettwo/" },
-		{ "id": "davidson", "name": "Matt Davidson", "url": "http://mattjohndavidson.github.io/" },
-		{ "id": "oleson", "name": "Alannah Oleson", "url": "http://alannaholeson.com" },
-		{ "id": "mara", "name": "Mara Kirdani-Ryan", "url": "https://marakr.com" },
-		{ "id": "druga", "name": "Stefania Druga", "url": "https://stefania11.github.io" }
+		"[Amy J. Ko|https://amyjko.com]",
+		"[Anne Beitlers|https://education.uw.edu/people/annes]",
+		"[Brett Wortzman|https://homes.cs.washington.edu/~brettwo]",
+		"[Matt Davidson|http://mattjohndavidson.github.io]",
+		"[Alannah Oleson|http://alannaholeson.com]",
+		"[Mara Kirdani-Ryan|https://marakr.com]",
+		"[Stefania Druga|https://stefania11.github.io]"
 	],
 	"license": "[Creative Commons Attribution-NoDerivatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
 	"images": {
@@ -25,147 +25,147 @@
 		{
 			"id": "introduction", 
 			"title": "Introduction", 
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Chapter00_Cover_Hello.png|The phrase 'Hello World', with a boy on the left speaking through a can to a girl on the right, who is looking away.|Let's talk about computing.|@jessie|",
 			"numbered": false
 		},
 		{
 			"id": "history",
 			"title": "Critical CS Education History", 
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Chapter01_Cover_Faces.png|Several red outline boxes, some with faces, including Charles Babbage, Alan Turing, Ada Lovelace, Seymour Papert, and many other influential people in CS history.|People make computing.|@jessie|",
 			"section": "Foundations"
 		},
 		{
 			"id": "pedagogy", 
 			"title": "Critical CS Education Pedagogy", 
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Chapter02_Cover_Classroom.png|A teacher is in the middle of the classroom, in dialogue with students who are seated at their desks around her.|Critical CS pedagogy is about dialogue more than development.|@jessie|",
 			"section": "Foundations"
 		},
 		{
 			"id": "assessment", 
 			"title": "Critical CS Education Assessment", 
-			"authors": ["davidson", "ko"],
+			"authors": ["[Matt Davidson|http://mattjohndavidson.github.io]", "[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Chapter03_Cover_Feedback.png|An overhead shot of hands writing on paper with blue marks annotating a drawing.|Assessment is about more than grades, it's about learning and agency.|@jessie|",
 			"section": "Foundations"
 		},
 		{
 			"id": "justice", 
 			"title": "CS, Equity, and Justice", 
-			"authors": ["ko", "beitlers"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]", "[Anne Beitlers|https://education.uw.edu/people/annes]"],
 			"image": "|Chapter04_Cover_Harm.png|On the left, the form of a face being analyzed by facial recognition, on the bottom, a row of men in prison jump suits against a fence, and above, the Amazon smile logo representing the sun.|Computing is as much about prisons as it is profits.|@jessie|",
 			"section": "Computing"
 		},
 		{
 			"id": "design", 
 			"title": "CS and Design", 
-			"authors": ["ko", "oleson"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]", "[Alannah Oleson|http://alannaholeson.com]"],
 			"image": "|Chapter05_Cover_Tension.png|A girl walking an enlarged rope like a tightrope, with abstract green shapes dancing in the backdrop.|Designing software is like walking a tightrope between technical and social constraints.|@jessie|",
 			"section": "Computing"
 		},
 		{
 			"id": "intelligence", 
 			"title": "Encoding Intelligence", 
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Chapter06_Cover_AIApproximation.png|A faceless human face made of lines and dots with a dress color and tie.|Can machines be smart? How?|@jessie|",
 			"section": "Computing"
 		},
 		{
 			"id": "information", 
 			"title": "Encoding Information", 
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Chapter07_Cover_Earth.png|Earth, in a cracked chalice, whose base is rows of bits.|Bits can model anything, but not without consequences.|@ashley|",
 			"section": "Computing"
 		},
 		{
 			"id": "computers", 
 			"title": "Computers", 
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Chapter08_Cover_Mimic.png|On the left, a child drawing a graph and on the right, an large interconnected network of lines.|Computers were human first.|@jessie|",
 			"section": "Computing"
 		},
 		{
 			"id": "operating", 
 			"title": "Operating Systems", 
-			"authors": ["ko", "mara"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]", "[Mara Kirdani-Ryan|https://marakr.com]"],
 			"image": "|Chapter09_Cover_PunchCards.png|A line of gray scale people entering punch cards into a machine, with a punchcard in the background.|Operating systems, before they were automated.|@jessie|",
 			"section": "Computing"
 		},
 		{
 			"id": "languages", 
 			"title": "Programming Languages", 
-			"authors": ["ko", "wortzman"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]", "[Brett Wortzman|https://homes.cs.washington.edu/~brettwo]"],
 			"image": "|Chapter10_Cover_ProgrammingLanguages.png|Photographs of programming language inventors, each in a blue circle.|Programming languages come from people.|@jessie|",
 			"section": "Code"
 		},
 		{
 			"id": "control", 
 			"title": "Control Structures", 
-			"authors": ["ko", "wortzman"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]", "[Brett Wortzman|https://homes.cs.washington.edu/~brettwo]"],
 			"image": "|Chapter11_Cover_NoChoice.png|Three boxes connected by lines with small people inside, trying to get out.|When algorithms decide, some people find they have few options.|@jessie|",
 			"section": "Code"
 		},
 		{
 			"id": "data", 
 			"title": "Data Structures", 
-			"authors": ["ko", "wortzman"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]", "[Brett Wortzman|https://homes.cs.washington.edu/~brettwo]"],
 			"image": "|Chapter12_Cover_Structure.png|A Black person looks left, viewing a black cube, with a more detailed cube below, out of view.|Data is an alternate reality.|@jessie|",
 			"section": "Code"
 		},
 		{
 			"id": "algorithms",
 			"title": "Algorithms",
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Chapter13_Cover_Blackbox.png|Several purple cubes of different rotations with people standing on them and in them.|The mysteries of black boxes.|@jessie|",
 			"section": "Code"
 		},
 		{
 			"id": "abstractions",
 			"title": "Abstractions",
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Chapter14_Cover_Abstraction.png|Three faces, left to right: a detailed photo of a White man, an illustrative sketch, and a smiley face.|Removing details from ideas through abstraction can enable expression at the loss of nuance. With computing it is no different.|@jessie|",
 			"section": "Code"
 		},
 		{
 			"id": "ai", 
 			"title": "Artificial Intelligence", 
-			"authors": ["ko", "druga"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]", "[Stefania Druga|https://stefania11.github.io]"],
 			"image": "|Chapter15_Cover_SciFi.png|A large crowd of small people gathered in protest of a very large humanoid robot, backset by stock tickers.|Depending on who you are, AI can be magical or horrifying.|@ashley|@ashley|",
 			"section": "Code"
 		},
 		{
 			"id": "programming",
 			"title": "Programming",
-			"authors": ["ko", "wortzman"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]", "[Brett Wortzman|https://homes.cs.washington.edu/~brettwo]"],
 			"image": "|Chapter16_Cover_Furniture.png|An Asian man measuring and cutting wood amidst sketches and assemblies of a wooden chair.|Programming is a craft like any other.|@jessie|",
 			"section": "Skills"
 		},
 		{
 			"id": "verification", 
 			"title": "Verification and Debugging", 
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Chapter17_Cover_FixingCar.png|A women fixing a car engine that is steaming pixelated orange, with a gas canister that says DATA nearby.|Everything breaks, including software.|@jessie|",
 			"section": "Skills"
 		},
 		{
 			"id": "tools", 
 			"title": "Tools",
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Chapter18_Cover_Pencil.png|Depictions of sign language, feather quills, pencils, stone tablets, and other creative tools.|All creativity involves tools of some kind. The tools of code just happen to be complex and ever-changing.|@jessie|",
 			"section": "Skills"
 		},
 		{
 			"id": "projects", 
 			"title": "Projects",
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Chapter19_Cover_MargaretHamilton.png|Margaret Hamilton standing atop the moon with printouts of code and illustrations of rockets in the background.|As Margaret Hamilton first observed, all software projects are software engineering projects.|@jessie|",
 			"section": "Skills"
 		},
 		{
 			"id": "humanities", 
 			"title": "CS + Humanities",
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
 			"section": "Integration",
 			"forthcoming": true
@@ -173,7 +173,7 @@
 		{
 			"id": "arts", 
 			"title": "CS + Arts",
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
 			"section": "Integration",
 			"forthcoming": true
@@ -181,7 +181,7 @@
 		{
 			"id": "math", 
 			"title": "CS + Mathematics",
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
 			"section": "Integration",
 			"forthcoming": true
@@ -189,7 +189,7 @@
 		{
 			"id": "science", 
 			"title": "CS + Science",
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
 			"section": "Integration",
 			"forthcoming": true
@@ -197,7 +197,7 @@
 		{
 			"id": "engineering", 
 			"title": "CS + Engineering",
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
 			"section": "Integration",
 			"forthcoming": true
@@ -205,7 +205,7 @@
 		{
 			"id": "conclusion", 
 			"title": "Conclusion",
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Book_Conclusion.png|A Black man and a woman staring at a tablet while colored streams of technical and sociotechnical ideas flow in and out of the device.|More just computing education is ours to imagine.|@ashley|",
 			"section": "Conclusion",
 			"forthcoming": false
@@ -213,7 +213,7 @@
 		{
 			"id": "standards", 
 			"title": "Standards", 
-			"authors": ["ko"],
+			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|Appendix_Standards.png|A laptop showing code, surrounded by a ring of bits, circuits, and other related stem concepts.|There's so much to know about CS!|@ashley|",
 			"numbered": false,
 			"section": "Appendix"
@@ -1516,7 +1516,7 @@
 			2021,
 			"Cooperative Software Development",
 			"Self-published",
-			"https://faculty.washington.edu/ajko/books/cooperative-software-development/"
+			"https://amyjko.combooks/cooperative-software-development/"
 		],
 		"kölling15": [
 			"Michael Kölling, Neil C. C. Brown, Amjad Altadmri",

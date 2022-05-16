@@ -164,11 +164,10 @@
 		},
 		{
 			"id": "humanities", 
-			"title": "CS + Humanities",
+			"title": "CS + Humanities + Social Sciences",
 			"authors": ["[Amy J. Ko|https://amyjko.com]"],
-			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
-			"section": "Integration",
-			"forthcoming": true
+			"image": "|Chapter20_Cover_Gardening.png|A community gardening, singing songs of binary.|The humanities and social sciences are about people first; computing is only part of the story.|@ashley|",
+			"section": "Integration"
 		},
 		{
 			"id": "arts", 
@@ -227,7 +226,9 @@
 		"toce": "ACM Transactions on Computing Education (TOCE)",
 		"icer": "ACM Conference on International Computing Education Research (ICER)",
 		"cse": "Computer Science Education (CSE)",
-		"iticse": "ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)"
+		"icls": "International Conference of the Learning Sciences (ICLS)",
+		"iticse": "ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)",
+		"respect": "IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)"
 	},
 	"references": {
 		"ahadi13": [
@@ -292,6 +293,20 @@
 			"To Write Code: The Cultural Fabrication of Programming Notation and Practice",
 			"ACM Conference on Human Factors in Computing Systems",
 			"https://doi.org/10.1145/3313831.3376731"
+		],
+		"asimov42": [
+			"Isaac Asimov",
+			1942,
+			"Foundation",
+			"HarperCollins",
+			"https://www.google.com/books/edition/Foundation/PKV6swEACAAJ?hl=en"
+		],
+		"asimov50": [
+			"Isaac Asimov",
+			1950,
+			"I, Robot",
+			"Bantam Books",
+			"https://www.google.com/books/edition/I_Robot/QEhWPgAACAAJ?hl=en"
 		],
 		"backus78": [
 			"John Backus",
@@ -538,6 +553,13 @@
 			"Journal of the Learning Sciences",
 			"https://doi.org/10.1080/10508406.2021.1936531"
 		],
+		"brey09": [
+			"Philip Brey, Johnny Hartz Søraker",
+			2009,
+			"Philosophy of computing and information technology",
+			"Philosophy of technology and engineering sciences",
+			"https://doi.org/10.1016/B978-0-444-51667-1.50051-3"
+		],
 		"brooks99": [
 			"Rodney A. Brooks",
 			1999,
@@ -565,6 +587,13 @@
 			"Introducing computer systems from a programmer's perspective",
 			"#sigcse",
 			"https://doi.org/10.1145/364447.364549"
+		],
+		"bukhari12": [
+			"Syed Saqib Bukhari, Thomas M. Breuel, Abedelkadir Asi, Jihad El-Sana",
+			2012,
+			"Layout analysis for arabic historical document images using machine learning",
+			"International Conference on Frontiers in Handwriting Recognition",
+			"https://doi.org/10.1109/ICFHR.2012.227"
 		],
 		"bullock21": [
 			"Beleicia B. Bullock, Fernando L. Nascimento, Stacy A. Doore",
@@ -647,7 +676,7 @@
 			"Lillian (Boots) Cassel, Deepak Kumar",
 			2002,
 			"A state of the course report: computer organization & architecture",
-			"SIGCSE Bulletn",
+			"#sigcse",
 			"https://doi.org/10.1145/637610.544466"
 		],
 		"chen15": [
@@ -656,6 +685,13 @@
 			"Encore: 3D printed augmentation of everyday objects with printed-over, affixed and interlocked attachments",
 			"ACM Symposium on User Interface Software & Technology",
 			"https://doi.org/10.1145/2807442.2807498"
+		],
+		"chen19": [
+			"Yesheng Chen, Zhen Chen, Shyamala Gumidyala, Annabella Koures, Seoyeon Lee, James Msekela, Halle Remash, Nolan Schoenle, Sarah Dahlby Albright, Samuel A. Rebelsky",
+			2019,
+			"A middle-school code camp emphasizing digital humanities",
+			"#sigcse",
+			"https://doi.org/10.1145/3287324.3287509"
 		],
 		"cherubini07": [
 			"Mauro Cherubini, Gina Venolia, Rob DeLine, Amy J. Ko",
@@ -790,6 +826,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/1953163.1953249"
 		],
+		"dick77": [
+			"Philip K. Dick",
+			1977,
+			"A Scanner Darkly",
+			"Vintage Books",
+			"https://www.google.com/books/edition/A_Scanner_Darkly/4w2xAAAAIAAJ?hl=en&gbpv=0&bsq=a%20scanner%20darkly"
+		],
 		"dickson20": [
 			"Paul E. Dickson, Neil C. C. Brown, Brett A. Becker",
 			2020,
@@ -832,6 +875,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/1047344.1047355"
 		],
+		"dong19": [
+			"Yihuan Dong, Veronica Catete, Robin Jocius, Nicholas Lytle, Tiffany Barnes, Jennifer Albert, Deepti Joshi, Richard Robinson, Ashley Andrews",
+			2019,
+			"PRADA: A Practical Model for Integrating Computational Thinking in K-12 Education",
+			"#sigcse",
+			"https://doi.org/10.1145/3287324.3287431"
+		],
 		"doyle15": [
 			"Maureen Doyle",
 			2015,
@@ -852,6 +902,20 @@
 			"The Elusive Antitrust Standard on Bundling in Europe and in the United States in the Aftermath of the Microsoft Cases",
 			"Antitrust Law Journal",
 			"https://heinonline.org/HOL/LandingPage?handle=hein.journals/antil76&div=25&id=&page="
+		],
+		"eglash20a": [
+			"Ron Eglash, Audrey Bennett, William Babbitt, Michael Lachney, Martin Reinhardt, Deborah Hammond-Sowah",
+			 2020,
+			 "Decolonizing posthumanism: Indigenous material agency in generative STEM",
+			 "British Journal of Educational Technology",
+			 "https://par.nsf.gov/servlets/purl/10182384"
+		],
+		"eglash20b": [
+			"Ron Eglash, Michael Lachney, William Babbitt, Audrey Bennett, Martin Reinhardt, James Davis",
+			2020,
+			"Decolonizing education with Anishinaabe arcs: generative STEM as a path to indigenous futurity",
+			"Education Technology Research and Development",
+			"https://doi.org/10.1007/s11423-019-09728-6"
 		],
 		"einav06": [
 			"Liran Einav, Leeat Yariv",
@@ -965,12 +1029,26 @@
 			"#sigcse",
 			"https://doi.org/10.1145/3408877.3432510"
 		],
+		"floridi02": [
+			"Luciano Floridi",
+			2002,
+			"Philosophy and computing: An introduction",
+			"Routledge",
+			"https://www.google.com/books/edition/Philosophy_and_Computing/eiSEAgAAQBAJ?hl=en&gbpv=0"
+		],
 		"ford16": [
 			"Denae Ford, Justin Smith, Philip J. Guo, Chris Parnin",
 			2016,
 			"Paradise unplugged: identifying barriers for female participation on stack overflow",
 			"ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE)",
 			"https://doi.org/10.1145/2950290.2950331"
+		],
+		"forsyth21": [
+			"Forsyth, S. and Walsh, B. and Dalton, B. and Haberl, E. and Smilack, J and Yeh, T.",
+			2021,
+			"Imagine a more ethical AI: Using stories to develop teens' awareness and understanding of artificial intelligence and its societal impacts",
+			"#respect",
+			"https://par.nsf.gov/servlets/purl/10292023"
 		],
 		"francois21": [
 			"Annamarie Francois, Karen Hunter Quarts",
@@ -1021,6 +1099,13 @@
 			"Teachers College Press",
 			"https://www.google.com/books/edition/Culturally_Responsive_Teaching/rYspC7C-zowC?hl=en&gbpv=0"
 		],
+		"gibson84": [
+			"William Gibson",
+			1984,
+			"Neuromancer",
+			"Ace Books",
+			"https://www.google.com/books/edition/Neuromancer/IDFfMPW32hQC?hl=en&gbpv=0"
+		],
 		"glass99": [
 			"Robert L. Glass",
 			1999,
@@ -1048,6 +1133,20 @@
 			"Exploring Computer Science: A Case Study of School Reform",
 			"ACM Transactions on Computing Education",
 			"https://doi.org/10.1145/1993069.1993076"
+		],
+		"goode18": [
+			"Joanna Goode, Stephany Runninghawk Johnson, Krystal Sundstrom",
+			2018,
+			"Disrupting colorblind teacher education in computer science",
+			"Professional Development in Education",
+			"https://doi.org/10.1080/19415257.2018.1550102"
+		],
+		"goode20": [
+			"Joanna Goode, Allison Ivey, Stephany Runninghawk Johnson, Jean J. Ryoo, Christine Ong",
+			2020,
+			"Rac(e)ing to computer science for all: how teachers talk and learn about equity in professional development",
+			"#cse",
+			"https://doi.org/10.1080/08993408.2020.1804772"
 		],
 		"goodrich14": [
 			"Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser",
@@ -1139,6 +1238,13 @@
 			"Bringing computer science to U.S. schools, state by state",
 			"Communications of the ACM",
 			"https://doi.org/10.1145/2898963"
+		],
+		"guzdial22": [
+			"Mark Guzdial",
+			2022,
+			"Teaspoon Languages for Integrating Programming into Social Studies, Language Arts, and Mathematics Secondary Courses",
+			"#sigcse",
+			"https://doi.org/10.1145/3478432.3499240"
 		],
 		"hadjerrouit98": [
 			"Said Hadjerrouit",
@@ -1308,6 +1414,20 @@
 			"Parlor Press",
 			"https://www.google.com/books/edition/Antiracist_Writing_Assessment_Ecologies/m6sWEAAAQBAJ?hl=en&gbpv=0"
 		],
+		"irgens20": [
+			"Golnaz Arastoopour Irgens, Knight Simon, Alyssa Wise, Thomas Philip, Maria C. Olivares, Sarah Van Wart, Sepehr Vakil, J. Marshall, Tapan S. Parikh, M. L. Lopez, M. Wilkerson-Jerde, Kris D. Gutiérrez, Shiyan Jiang, J. Khan.",
+			2020,
+			"Data literacies and social justice: Exploring critical data literacies through sociocultural perspectives",
+			"#icls",
+			"https://idealab.sites.clemson.edu/papers/dataliteraciesandsocialjustice.pdf"
+		],
+		"ivey21": [
+			"Allison Ivey, Stephany RunningHawk Johnson, Max Skorodinsky, Jimmy Snyder, Joanna Goode",
+			 2021,
+			 "Abolitionist Computer Science Teaching: Moving from Access to Justice",
+			 "#respect",
+			 "https://doi.org/10.1109/RESPECT51740.2021.9620652"
+		],
 		"janzen06": [
 			"David S. Janzen, Hossein Saiedian",
 			2006,
@@ -1413,6 +1533,13 @@
 			"#sigcse",
 			null
 		],
+		"kirschenbaum2016": [
+			"Matthew G. Kirschenbaum",
+			2016,
+			"What is digital humanities and what's it doing in English departments?",
+			"Defining Digital Humanities",
+			"https://doi.org/10.5749/minnesota/9780816677948.001.0001"
+		],
 		"kistermann91": [
 			"F. W. Kistermann",
 			1991,
@@ -1447,6 +1574,13 @@
 			"Is abstraction the key to computing?",
 			"Communications of the ACM",
 			"https://doi.org/10.1145/1232743.1232745"
+		],
+		"kraut98": [
+			"Robert Kraut, Michael Patterson, Vicki Lundmark, Sara Kiesler, Tridas Mukophadhyay, William Scherlis",
+			1998,
+			"Internet paradox: A social technology that reduces social involvement and psychological well-being?",
+			"American Psychologist",
+			"https://doi.org/10.1037//0003-066x.53.9.1017"
 		],
 		"ko04": [
 			"Amy J. Ko, Brad A. Myers, Htet Htet Aung",
@@ -1538,6 +1672,27 @@
 			"Structured Linux kernel projects for teaching operating systems concepts",
 			"#sigcse",
 			"https://doi.org/10.1145/1953163.1953250"	
+		],
+		"lachney17a": [
+			"Michael Lachney",
+			2017,
+			"Computational communities: African-American cultural capital in computer science education",
+			"#cse",
+			"https://doi.org/10.1080/08993408.2018.1429062"
+		],
+		"lachney17b": [
+			"Michael Lachney",
+			2017,
+			"Culturally responsive computing as brokerage: toward asset building with education-based social movements",
+			"Learning, Media and Technology",
+			"https://doi.org/10.1080/17439884.2016.1211679"
+		],
+		"lachney19": [
+			"Michael Lachney, William Babbitt, Audrey Bennett, Ron Eglash",
+			2019,
+			"Generative computing: African-American cosmetology as a link between computing education and community wealth",
+			"Interactive Learning Environments",
+			"https://doi.org/10.1080/10494820.2019.1636087"
 		],
 		"lachney21": [
 			"Michael Lachney, Audrey G. Bennett, Ron Eglash, Aman Yadav, and Sukanya Moudgalya",
@@ -1749,6 +1904,13 @@
 			"ACM Transactions on Software Engineering and Methodology",
 			"https://doi.org/10.1145/2622669"
 		],
+		"maaten07": [
+			"L. van der Maaten, Paul Boon, Guus Lange, Hans Paijmans, Eric Postma",
+			2007,
+			"Computer vision and machine learning for archaeology",
+			"Archaeolingua",
+			"https://ub01.uni-tuebingen.de/xmlui/bitstream/handle/10900/61550/CD49_Maaten_et_al_CAA2006.pdf?sequence=2&isAllowed=y"
+		],
 		"machale14": [
 			"Desmond MacHale",
 			2014,
@@ -1889,6 +2051,13 @@
 			"Springer",
 			"https://www.google.com/books/edition/Logic_Based_Artificial_Intelligence/QJPTBwAAQBAJ?hl=en&gbpv=0"
 		],
+		"moore08": [
+			"Adam D. Moore",
+			2008,
+			"Defining privacy",
+			"Journal of Social Philosophy",
+			"https://ssrn.com/abstract=1980849"
+		],
 		"murphy08": [
 			"Laurie Murphy, Lynda Thomas",
 			2008,
@@ -2001,12 +2170,26 @@
 			"Crown",
 			"https://www.google.com/books/edition/Weapons_of_Math_Destruction/NgEwCwAAQBAJ?hl=en&gbpv=0"
 		],
+		"paré19": [
+			"Dylan Paré, Pratim Sengupta, Scout Windsor, John Craig, Matthew Thompson",
+			2019,
+			"Queering Virtual Reality",
+			"Critical, Transdisciplinary and Embodied Approaches in STEM Education",
+			"https://doi.org/10.1007/978-3-030-29489-2_17"
+		],
 		"paris12": [
 			"Django Paris",
 			2012,
 			"Culturally sustaining pedagogy: A needed change in stance, terminology, and practice",
 			"Educational Researcher",
 			"https://doi.org/10.3102%2F0013189X12441244"
+		],
+		"park20": [
+			"Chanjun Park, Chanhee Lee, Yeongwook Yang, Heuiseok Lim",
+			2020,
+			"Ancient korean neural machine translation",
+			"IEEE Access",
+			"https://doi.org/10.1109/ACCESS.2020.3004879"
 		],
 		"parker16": [
 			"Miranda C. Parker, Mark Guzdial, Shelly Engleman",
@@ -2393,6 +2576,13 @@
 			"#iticse",
 			"https://doi.org/10.1145/544414.544468"
 		],
+		"shelley18": [
+			"Mary Shelley",
+			1818,
+			"Frankenstein",
+			"CreateSpace",
+			"https://www.google.com/books/edition/Frankenstein/8oQHMQAACAAJ?hl=en"
+		],
 		"shetterly16": [
 			"Margot Lee Shetterly",
 			2016,
@@ -2512,6 +2702,13 @@
 			"ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming & Software (Onward!)",
 			"https://doi.org/10.1145/2661136.2661156"
 		],
+		"stephenson92": [
+			"Neal Stephenson",
+			1992,
+			"Snow Crash",
+			"Random House",
+			"https://www.google.com/books/edition/Snow_Crash/RMd3GpIFxcUC?hl=en&gbpv=0"
+		],
 		"stevens18": [
 			"Jeffrey R. Stevens, Juan F. Duque",
 			2018,
@@ -2623,6 +2820,13 @@
 			"Epistemological Pluralism: Styles and Voices within the Computer Culture",
 			"Signs",
 			"https://doi.org/10.1086/494648"
+		],
+		"turkle11": [
+			"Sherry Turkle",
+			2011,
+			"Alone Together: Why We Expect more from Technology and Less from Each Other",
+			"Basic Books",
+			"https://www.google.com/books/edition/Alone_Together/AjFXDgAAQBAJ?hl=en&gbpv=0"
 		],
 		"turner18": [
 			"Jacob Turner",
@@ -3197,6 +3401,14 @@
 			"phrase": "developer",
 			"definition": "Someone who is paid, or volunteers their time, to write software for others to use.",
 			"synonyms": ["software developer", "software engineer", "professional developer"] 
+		},
+		"digitalhumanities": {
+			"phrase": "digital humanities",
+			"definition": "Glossary: the use of computing to analyze and reason about history, literature, and culture."
+		},
+		"digitaldivide": {
+			"phrase": "digital divide",
+			"definition": "Glossary: the structural forces that lead to disparities in access to computers and the internet, and the many effects of this disparate access on health, wellbeing, opportunity, class, and more."
 		},
 		"diversity": {
 			"phrase": "diversity",

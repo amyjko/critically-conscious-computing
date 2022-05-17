@@ -189,8 +189,7 @@
 			"title": "CS + Science",
 			"authors": ["[Amy J. Ko|https://amyjko.com]"],
 			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
-			"section": "Integration",
-			"forthcoming": true
+			"section": "Integration"
 		},
 		{
 			"id": "engineering", 
@@ -408,6 +407,34 @@
 			"Educational Researcher",
 			"https://doi.org/10.3102%2F0013189X20927363"
 		],
+		"basu19": [
+			"Basu, D., Panorkou, N.",
+			2019,
+			"Integrating Covariational Reasoning and Technology into the Teaching and Learning of the Greenhouse Effect",
+			"Journal of Mathematics Education",
+			"https://par.nsf.gov/servlets/purl/10182057"
+		],
+		"basu19b": [
+			"Debasmita Basu, Nicole Panorkou, Michelle Zhu",
+			2019,
+			"Examining the Social Aspect of Climate Change through Mathematics",
+			"IEEE Integrated STEM Education Conference (ISEC)",
+			"https://doi.org/10.1109/ISECon.2019.8882109"
+		],
+		"basu20": [
+			"Debasmita Basu, Nicole Panorkou, Michelle Zhu, Pankaj Lal, Bharath K. Samanthula",
+			2020,
+			"Exploring the Mathematics of Gravity",
+			"Mathematics Teacher: Learning and Teaching PK-12",
+			"https://doi.org10.5951/MTLT.2019.0130"
+		],
+		"basu20b": [
+			"D. Basu, N. Panorkou",
+			2020,
+			"Utilizing mathematics to examine sea level rise as an environmental and a social issue",
+			"Proceedings of the 42nd Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education",
+			"https://par.nsf.gov/servlets/purl/10272335"
+		],
 		"bass03": [
 			"Len Bass, Paul Clements, Rick Kazman",
 			2003,
@@ -492,6 +519,13 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/Grace_Hopper_and_the_Invention_of_the_In/dr34DwAAQBAJ?hl=en&gbpv=0"
 		],
+		"biddy20": [
+			"Q. Biddy, A. Gendreau Chakarov, J. Jacobs, M. Recker, T. Sumner, W. Penuel",
+			2020,
+			"Integrating computational thinking into middle school science through co-designed storylines",
+			"Association for Science Teacher Education",
+			"https://par.nsf.gov/biblio/10291732"
+		],
 		"bijker12": [
 			" Wiebe E. Bijker, Thomas Parke Hughes, Trevor Pinch",
 			2012,
@@ -505,6 +539,34 @@
 			"The Values Encoded in Machine Learning Research",
 			"arXiv",
 			"https://arxiv.org/abs/2106.15590"
+		],
+		"birney19": [
+			"Lauren Birney, John Cronin",
+			2019,
+			"Environmental habitat restoration and inquiry-based learning with New York City public schools—an urban model in STEM education",
+			"Journal of Environmental Studies and Sciences",
+			"https://doi.org/10.1007/s13412-018-0530-5"
+		],
+		"birney19b": [
+			"Lauren B. Birney, Joyce Kong, Brian R. Evans, Samantha, Ceritelli, Macey Danker",
+			2019,
+			"Experiential and Real-World Learning for Teachers in the Billion Oyster Project and Curriculum and Community Enterprise (BOP-CCERS) for the Restoration of New York Harbor with New York City Public Schools Program",
+			"Journal of Curriculum and Teaching",
+			"https://doi.org/10.5430/jct.v8n4p30"
+		],
+		"birney19c": [
+			"Lauren Birney, Denise McNamara",
+			2019,
+			"The Curriculum and Community Enterprise for Restoration Science S.T.E.M. + C Professional Learning Model: Expansion and Enhancement",
+			"Journal of Curriculum and Teaching",
+			"https://doi.org/10.5430/jct.v8n3p122"
+		],
+		"birney21": [
+			"Lauren Birney, Denise M. McNamara",
+			2021, 
+			"Green Job Opportunities Through the Curriculum and Community Enterprise for Restoration Science in New York City",
+			"Journal of Education and Development",
+			"https://doi.org/10.20849/jed.v5i2.920"
 		],
 		"bjarnadóttir14": [
 			"Kristín Bjarnadóttir",
@@ -716,6 +778,13 @@
 			"International Conference on Global Software Engineering (ICGSE)",
 			"https://doi.org/10.1109/ICGSE.2017.1"
 		],
+		"caplan21": [
+			"Caplan, B., B. Covitt, G. Love, A.R. Berkowitz, K.L. Gunckel, C. McMlure, and J.C. Moore",
+			2021,
+			"Using computational thinking and modeling to build watershed literacy",
+			"Connected Science Learning",
+			"https://par.nsf.gov/biblio/10251531"
+		],
 		"carroll03": [
 			"John Carroll",
 			2003,
@@ -736,6 +805,13 @@
 			"(Designing for) learning computational STEM and arts integration in culturally sustaining learning ecologies",
 			"Information and Learning Sciences",
 			"https://doi.org/10.1108/ILS-01-2020-0018"
+		],
+		"chang20": [
+			"Chang, C.J., Liu, C.C., Wen, C.T., Tseng, L.W., Chang, H.Y., Chang, M.H., Chiang, S.H.F., Hwang, F.K. and Yang, C.W.",
+			2020,
+			"The impact of light-weight inquiry with computer simulations on science learning in classrooms",
+			"Computers & Education",
+			"https://doi.org/10.1016/j.compedu.2019.103770"
 		],
 		"charters14": [
 			"Polina Charters, Michael J. Lee, Amy J. Ko, Dastyni Loksa",
@@ -835,6 +911,13 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/Introduction_To_Algorithms/NLngYyWFl_YC?hl=en&gbpv=0"	
 		],
+		"corum19": [
+			"Corum, K and Garofalo, J.",
+			2019,
+			"Engaging Preservice Secondary Mathematics Teachers in Authentic Mathematical Modeling: Deriving Ampere?s Law",
+			"Mathematics Teacher Educator",
+			"https://dx.doi.org/10.5951/mathteaceduc.8.1.0076"
+		],
 		"costanzachock20": [
 			"Sasha Costanza-Chock",
 			2020,
@@ -842,12 +925,26 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/Design_Justice/h4LPDwAAQBAJ?hl=en&gbpv=0"
 		],
+		"covitt20": [
+			"Covitt, B. A., Berkowitz, A., Boone, R., Cooper-Wagoner, J., Gunckel, K. L., Jahnke, M., & Moore, J.",
+			2020,
+			"Developing and validating a learning progression for computational thinking",
+			"Earth and Environmental Systems Sciences",
+			"http://ibis-live1.nrel.colostate.edu/CompHydro/public/Publications/Covitt_et_al_NARST2020.pdf"
+		],
 		"cunningham19": [
 			"Kathryn Cunningham, Shannon Ke, Mark Guzdial, Barbara Ericson",
 			2019,
 			"Novice Rationales for Sketching and Tracing, and How They Try to Avoid It",
 			"#iticse",
 			"https://doi.org/10.1145/3304221.3319788"
+		],
+		"damelin17": [
+			"Damelin, D., Krajcik, J., McIntyre, C., and Bielik, T.",
+			2017,
+			"Students making system models: An accessible approach",
+			"Science Scope",
+			"https://concord.org/sites/default/files/pdf/science-scope-01-2017.pdf"
 		],
 		"danielsiek12": [
 			"Holger Danielsiek, Wolfgang Paul, Jan Vahrenhold",
@@ -926,6 +1023,13 @@
 			"MIT Press",
 			"https://www.google.com/books/edition/Data_Feminism/x5nSDwAAQBAJ?hl=en&gbpv=0"
 		],
+		"disessa86": [
+			"A diSessa and H. Abelson",
+			1986,
+			"Boxer: a reconstructible computational medium",
+			"Communications of the ACM",
+			"https://doi.org/10.1145/6592.6595"
+		],
 		"dressel18": [
 			"Julia Dressel, Hany Farid",
 			2018,
@@ -995,6 +1099,13 @@
 			"Decolonizing education with Anishinaabe arcs: generative STEM as a path to indigenous futurity",
 			"Education Technology Research and Development",
 			"https://doi.org/10.1007/s11423-019-09728-6"
+		],
+		"eidin20": [
+			"Eidin, E. and Bielik, T. and Touitou, I. and Bowers, J. and McIntyre, C. and Damelin, D.",
+			2020,
+			"Characterizing Advantages and Challenges for Students Engaging in Computational Thinking and Systems Thinking Through Model Construction",
+			"#icls",
+			"https://repository.isls.org/bitstream/1/6460/1/183-190.pdf"
 		],
 		"einav06": [
 			"Liran Einav, Leeat Yariv",
@@ -1094,6 +1205,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/3408877.3432449"
 		],
+		"fick20": [
+			"Sarah J. Fick, Anne M. McAlister, Jennifer L. Chiu, Kevin W. McElhaney",
+			2020,
+			"Using Students' Conceptual Models to Represent Understanding of Crosscutting Concepts in an NGSS-Aligned Curriculum Unit About Urban Water Runoff",
+			"Journal of Science Education and Technology",
+			"https://doi.org/10.1007/s10956-021-09911-6"
+		],
 		"fiesler20": [
 			"Casey Fiesler, Natalie Garrett, and Nathan Beard",
 			2020,
@@ -1107,6 +1225,13 @@
 			"Integrating Ethics into Introductory Programming Classes",
 			"#sigcse",
 			"https://doi.org/10.1145/3408877.3432510"
+		],
+		"finch21": [
+			"Lila Finch, Celeste Moreno, R. Benjamin Shapiro",
+			2021,
+			"Luminous science: Teachers designing for and developing transdisciplinary thinking and learning",
+			"Cognition and Instruction",
+			"https://doi.org/10.1080/07370008.2021.1945064"
 		],
 		"floridi02": [
 			"Luciano Floridi",
@@ -1163,6 +1288,13 @@
 			"Scratch Encore: The Design and Pilot of a Culturally-Relevant Intermediate Scratch Curriculum",
 			"#sigcse",
 			"https://doi.org/10.1145/3328778.3366912"
+		],
+		"freidenfelds20": [
+			"Freidenfelds, N.A., Cisneros, L.M., Rodriguez, L., Park, B-Y., Campbell, T., Arnold, C., Chadwick, C., Dickson, D., Moss, D., Volin, J.C., & Willig, M.R.",
+			2020,
+			"Investigating human impacts on local water resources & exploring solutions",
+			"The American Biology Teacher" ,
+			"https://doi.org/10.1525/abt.2020.82.9.619"
 		],
 		"freire68": [
 			"Paulo Freire",
@@ -1290,6 +1422,13 @@
 			"Endeavour",
 			"https://doi.org/10.1016/S0160-9327(00)01338-7"
 		],
+		"grooms21": [
+			"Jonathon Grooms, Kevin Fleming, Alan R. Berkowitz, Bess Caplan",
+			2021,
+			"Exploring Modeling as a Context to Support Content Integration for Chemistry and Earth Science",
+			"Journal of Chemical Education",
+			"https://doi.org/10.1021/acs.jchemed.1c00319"
+		],
 		"grover13": [
 			"Shuchi Grover, Roy Pea",
 			2013,
@@ -1317,6 +1456,20 @@
 			"Using Design Alternatives to Learn About Data Organizations",
 			"#icer",
 			"https://doi.org/10.1145/3372782.3406267"
+		],
+		"gunckel20": [
+			"Gunckel, K.L., Moreno, D., Covitt, B.A., Caplan, B., Love, G., Cooper-Wagoner, J., Moore, J.C., & Berkowitz, A.",
+			2020,
+			"Intertwining Three Dimensions: Levels of Performance for Computational Thinking While Using Models of Hydrologic Systems",
+			"Annual Meeting of NARST",
+			"http://ibis.colostate.edu/CompHydro/public/Publications/Gunckel_et_al_NARST2020.pdf"
+		],
+		"gunkel20b": [
+			"Gunckel, K.L., Love, G., Moreno, D., Cooper-Wagoner, B., Covitt, B.A.",
+			2020,
+			"Unplugged to Plugged-In: Teaching Computational Thinking Using Models of Groundwater Contamination",
+			"The Science Teacher",
+			"https://www.nsta.org/science-teacher/science-teacher-januaryfebruary-2022/unplugged-plugged"
 		],
 		"guzdial03": [
 			"Mark Guzdial",
@@ -1507,6 +1660,13 @@
 			"Cambridge University Press",
 			"https://www.google.com/books/edition/Human_Intelligence/DwO4TtKAiCoC?hl=en&gbpv=0"
 		],
+		"hutchins21": [
+			"Hutchins, N.M. and Basu, S. and McElhaney, K. and Chiu, J. and Fick, S. and Zhang, N. and Biswas, G.",
+			2021,
+			"Coherence across conceptual and computational representations of students' scientific models",
+			"#icls",
+			"https://repository.isls.org/bitstream/1/7485/1/330-337.pdf"
+		],
 		"hyman85": [
 			"Anthony Hyman",
 			1985,
@@ -1527,6 +1687,13 @@
 			"Critical data studies: An introduction",
 			"Big Data & Society",
 			"https://doi.org/10.1177%2F2053951716674238"
+		],
+		"inkinen20": [
+			"Inkinen, J., Klager, C., Juuti, K., Schneider, B., Salmela-Aro, K., Krajcik, J. & Lavonen, J.",
+			2020,
+			"High school students' situational engagement associated with perceived scientific practices in designed science learning situations",
+			"Science Education",
+			"https://doi.org/10.1002/sce.21570"
 		],
 		"inozemtseva14": [
 			"Laura Inozemtseva, Reid Holmes",
@@ -1838,9 +2005,16 @@
 		"lachney21b": [
 			"Michael Lachney, Aman Yadav, Matt Drazin, Madison C. Allen, William Babbitt",
 			2021,
-			"Culturally Responsive Debugging: a Method to Support Cultural Experts’ Early Engagement with Code",
+			"Culturally Responsive Debugging: a Method to Support Cultural Experts' Early Engagement with Code",
 			"TechTrends",
 			"https://doi.org/10.1007/s11528-021-00618-4"
+		],
+		"lachney21c": [
+			"Lachney, Michael and Eglash, Ron and Bennett, Audrey and Babbitt, William and Foy, Lakisha and Drazin, Matt and Rich, Kathryn M.",
+			2021,
+			"pH empowered: community participation in culturally responsive computing education",
+			"Learning, Media and Technology",
+			"https://doi.org/10.1080/17439884.2021.1891421"
 		],
 		"ladner17": [
 			"Richard Ladner, Andreas Stefik",
@@ -1855,6 +2029,13 @@
 			"Toward a theory of culturally relevant pedagogy",
 			"American Educational Research Journal",
 			"https://doi.org/10.3102%2F00028312032003465"
+		],
+		"lanouette20": [
+			"Lanouette, K. and Rivero, E. and Barton, J. and Bulalacao, N. and Lopez, M. L. and Cortes, K. and Roberto, C. and Gutiérrez, K. and Wilkerson, M. H. and Lee, H. and Stokes, D. and Finzer, W. and Erickson, T. and Petrosino, T. and Haldar, L.",
+			2020,
+			"Writing data stories: Reauthoring scientific data through syncretic computational investigations in middle school science",
+			"#icls",
+			"https://par.nsf.gov/servlets/purl/10209455"
 		],
 		"latoza20": [
 			"Thomas D. LaToza, Maryam Arab, Dastyni Loksa, and Amy J. Ko",
@@ -1897,6 +2078,13 @@
 			"Comparing the Effectiveness of Online Learning Approaches on CS1 Learning Outcomes",
 			"#icer",
 			"https://doi.org/10.1145/2787622.2787709"
+		],
+		"lee21": [
+			"Victor R. Lee, Michelle Hoda Wilkerson,, Kathryn Lanouette",
+			2021,
+			"A Call for a Humanistic Stance Toward K-12 Data Science Education",
+			"Educational Researcher",
+			"https://doi.org/10.3102/0013189X211048810"
 		],
 		"leiner09": [
 			"Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, and Stephen Wolff",
@@ -2206,6 +2394,13 @@
 			"Journal of Social Philosophy",
 			"https://ssrn.com/abstract=1980849"
 		],
+		"mott19": [
+			"Mott, Bradford W. and Taylor, Robert G. and Lee, Seung Y. and Rowe, Jonathan P. and Saleh, Asmalina and Glazewski, Krista D. and Hmelo-Silver, Cindy E. and Lester, James C.",
+			2019,
+			"Designing and Developing Interactive Narratives for Collaborative Problem-Based Learning",
+			"International Conference on Interactive Digital Storytelling",
+			"https://doi.org/10.1007/978-3-030-33894-7_10"
+		],
 		"murphy08": [
 			"Laurie Murphy, Lynda Thomas",
 			2008,
@@ -2318,6 +2513,13 @@
 			"Crown",
 			"https://www.google.com/books/edition/Weapons_of_Math_Destruction/NgEwCwAAQBAJ?hl=en&gbpv=0"
 		],
+		"panorkou20": [
+			"Panorkou, N. and Germia, E.",
+			2020,
+			"Examining Students' Quantitative Reasoning in a Virtual Ecosystem Simulation of the Water Cycle",
+			"#icls",
+			"https://repository.isls.org/bitstream/1/6840/1/959-966.pdf"
+		],
 		"paré19": [
 			"Dylan Paré, Pratim Sengupta, Scout Windsor, John Craig, Matthew Thompson",
 			2019,
@@ -2409,6 +2611,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/1269900.1268790"
 		],
+		"petersburton20": [
+			"Peters-Burton, E. E. and Rich, P. and Cleary, T. and Burton, S. and Kitsantas, A. and Egan, G. and Ellsworth, J.",
+			2020,
+			"Using computational thinking for data practices in high school science",
+			"The Science Teacher",
+			"https://par.nsf.gov/servlets/purl/10171527"
+		],
 		"petre16": [
 			"Marian Petre, André van der Hoek",
 			2016,
@@ -2499,6 +2708,20 @@
 			"Explanations as Mechanisms for Supporting Algorithmic Transparency",
 			"#chi",
 			"https://doi.org/10.1145/3173574.3173677"
+		],
+		"radke20": [
+			"Radke, Sarah C. and Vogel, Sara and Hoadley, Christopher and Ma, Jasmine Y.",
+			2020,
+			"Representing Percents and Personas: Designing Syncretic Curricula for Modeling and Statistical Reasoning",
+			"#icls",
+			"https://academicworks.cuny.edu/gc_pubs/654/"
+		],
+		"rafalski19": [
+			"Timothy Rafalski, P. Merlin Uesbeck, Cristina Panks-Meloney, Patrick Daleiden, William Allee, Amelia Mcnamara, and Andreas Stefik",
+			2019,
+			"A Randomized Controlled Trial on the Wild Wild West of Scientific Computing with Student Learners",
+			"#icer",
+			"https://doi.org/10.1145/3291279.3339421"
 		],
 		"raines96": [
 			"Getting the Message Through: A Branch History of the U.S. Army Signal Corps",
@@ -2724,6 +2947,13 @@
 			"#sigcse",
 			"https://doi.org/10.1145/3159450.3159471"
 		],
+		"schanzer22": [
+			"Emmanuel Schanzer, Nancy Pfenning, Flannery Denny, Sam Dooman, Joe Gibbs Politz, Benjamin S. Lerner, Kathi Fisler, Shriram Krishnamurthi",
+			2020,
+			"Integrated Data Science for Secondary Schools: Design and Assessment of a Curriculum",
+			"#sigcse",
+			"https://doi.org/10.1145/3478431.3499311"
+		],
 		"scherer19": [
 			"Ronny Scherer, Fazilat Siddiq, Bárbara Sánchez Viveros",
 			2019,
@@ -2758,6 +2988,13 @@
 			"Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
 			"HarperCollins",
 			"https://www.google.com/books/edition/Hidden_Figures/tkRHjgEACAAJ?hl=en"
+		],
+		"sherin06": [
+			"Sherin, Bruce, Andrea A. diSessa, David Hammer",
+			2006,
+			"Dynaturtle revisited: Learning physics through collaborative design of a computer model",
+			"Interactive Learning Environments",
+			"https://doi.org/10.1080/1049482930030201"
 		],
 		"schinske17": [
 			"Jeffrey Schinske, Kimberly Tanner",
@@ -3094,6 +3331,48 @@
 			"Global perspectives on e-waste",
 			"Environmental Impact Assessment Review",
 			"https://doi.org/10.1016/j.eiar.2005.04.001"
+		],
+		"wiese21": [
+			"Eliane S. Wiese and Marcia C. Linn",
+			2021,
+			"“It Must Include Rules”: Middle School Students' Computational Thinking with Computer Models in Science",
+			"ACM Transactions Computer-Human Interaction",
+			"https://doi.org/10.1145/3415582"
+		],
+		"wilkersonjerde15": [			
+			"Wilkerson-Jerde, M. H., Gravel, B. E., & Macrander, C. A.",
+			2015,
+			"Exploring shifts in middle school learners' modeling activity while generating drawings, animations, and simulations of molecular diffusion",
+			"Journal of Science Education and Technology",
+			"https://doi.org/10.1007/s10956-014-9497-5"
+		],
+		"wilkerson16": [
+			"Wilkerson, M. H., Andrews, C.*, Shaban, Y.*, Laina, V.*, & Gravel, B. E.",
+			2016,
+			"What's the technology for? Teacher attention and pedagogical goals in a modeling-focused professional development workshop",
+			"Journal of Science Teacher Education",
+			"https://doi.org/10.1007/s10972-016-9453-8"
+		],
+		"wilkerson18": [
+			"Wilkerson, M. H. & Laina, V.",
+			2018,
+			"Middle school students' reasoning about data and context through storytelling with repurposed local data",
+			"ZDM Mathematics Education",
+			"https://doi.org/10.1007/s11858-018-0974-9"
+		],
+		"wilkerson20": [
+			"Wilkerson, M. H. & Gravel, B. E.",
+			2020,
+			"Storytelling as a support for collaborative constructionist activity",
+			"Designing Constructionist Futures: The Art, Theory, and Practice of Learning Designs",
+			"https://www.ocf.berkeley.edu/~mwilkers/wp-content/uploads/2021/06/2020Cons_WilkGrav_PP.pdf"
+		],
+		"wilkerson21": [
+			"Wilkerson, M. H., Lanouette, K.*, & Shareff, R. L.",
+			2021,
+			"Exploring variability during data preparation: A way to connect data, chance, and context when working with complex public datasets",
+			"Mathematical Thinking and Learning",
+			"https://doi.org/10.1080/10986065.2021.1922838"
 		],
 		"williams03": [
 			"Laurie Williams, Robert R. Kessler",
@@ -3473,10 +3752,18 @@
 			"phrase": "automate",
 			"definition": "To replace human labor with the labor of human-made tools and machinery, including computers."
 		},
+		"bioinformatics": {
+			"phrase": "bioinformatics",
+			"definition": "Using data and algorithms to analyze biological data such as DNA, RNA, and protein structures."
+		},
 		"call": {
 			"phrase": "call",
 			"definition": "An instruction in a computer program that passes inputs to a function, waits for the function to finish executing, and then receives the output of the function for further computation.",
 			"synonyms": ["invoke"]
+		},
+		"citizenscience": {
+			"phrase": "citizen science",
+			"definition": "Scientific activities in which untrained scientists contribute to larger scientific endeavors."
 		},
 		"class": {
 			"phrase": "class",
@@ -3533,6 +3820,10 @@
 			"phrase": "data center",
 			"definition": "A building dedicated to storing a large number of networked computers and data, usually powered by a nearby electricity source.",
 			"synonyms": ["the cloud"]
+		},
+		"datascience": {
+			"phrase": "data science",
+			"definition": "Using data and code to answer questions."
 		},
 		"datastructure": {
 			"phrase": "data structure",

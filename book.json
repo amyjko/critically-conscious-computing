@@ -173,9 +173,8 @@
 			"id": "arts", 
 			"title": "CS + Arts",
 			"authors": ["[Amy J. Ko|https://amyjko.com]"],
-			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
-			"section": "Integration",
-			"forthcoming": true
+			"image": "|Chapter21_Cover_Arts.png|Musical notation, dancers, writers, cameras, and more, amidst binary digits.|Art has long been part of computing.|@ashley|",
+			"section": "Integration"
 		},
 		{
 			"id": "math", 
@@ -228,7 +227,10 @@
 		"cse": "Computer Science Education (CSE)",
 		"icls": "International Conference of the Learning Sciences (ICLS)",
 		"iticse": "ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)",
-		"respect": "IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)"
+		"respect": "IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)",
+		"aera": "American Educational Research Association Annual Meeting (AERA)",
+		"idc": "ACM Interaction Design and Children Conference (IDC)",
+		"cscw": "ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW)"
 	},
 	"references": {
 		"ahadi13": [
@@ -244,6 +246,20 @@
 			"An analysis of patterns of debugging among novice computer science students",
 			"#iticse",
 			"https://doi.org/10.1145/1067445.1067472"
+		],
+		"alegre20": [
+			"Fernando Alegre, John Underwoood, Juana Moreno, Mario Alegre",
+			2020,
+			"Introduction to Computational Thinking: A New High School Curriculum using CodeWorld",
+			"#sigcse",	
+			"https://doi.org/10.1145/3328778.3366960"
+		],
+		"alkatheeb21": [
+			"B. Alkatheeb, D. Codding, D., L. Pollock, L.",
+			2021,
+			"From professional development to pedagogy: An examination of computer science teachers' culturally responsive instructional practices",
+			"#aera",
+			"https://www.learntechlib.org/primary/p/219931/"
 		],
 		"ambler02": [
 			"Scott Ambler",
@@ -287,12 +303,26 @@
 			"Government Information Quarterly",
 			"https://doi.org/10.1016/j.giq.2015.07.003"
 		],
+		"arroyo21": [
+			"I. Arroyo",
+			2021,
+			"Augmenting Embodied Mathematics Classrooms with Mobile Tutors",
+			"#aera",
+			"https://par.nsf.gov/biblio/10222715"
+		],
 		"arwajo20": [
 			"Ian Arawjo",
 			2020,
 			"To Write Code: The Cultural Fabrication of Programming Notation and Practice",
 			"ACM Conference on Human Factors in Computing Systems",
 			"https://doi.org/10.1145/3313831.3376731"
+		],
+		"ascenzimoreno20": [
+			"Laura Ascenzi-Moreno, Ashley Güílamo, Sara E. Vogel",
+			2020,
+			"Integrating Coding and Language Arts: A View into Sixth Graders' Multimodal and Multilingual Learning",
+			"Voices from the middle",
+			"https://library.ncte.org/journals/VM/issues/v27-4/30705"
 		],
 		"asimov42": [
 			"Isaac Asimov",
@@ -342,6 +372,13 @@
 			"Problematic Machine Behavior: A Systematic Literature Review of Algorithm Audits",
 			"Proceedings of the ACM Human-Computer Interaction",
 			"https://doi.org/10.1145/3449148"
+		],
+		"banerjee16": [
+			"Rahul Banerjee, Jason Yip, Kung Jin Lee, Zoran Popović",
+			2016,
+			"Empowering Children To Rapidly Author Games and Animations Without Writing Code",
+			"#idc",
+			"https://doi.org/10.1145/2930674.2930688"
 		],
 		"barretto21": [
 			"Daphne Barretto, Julienne LaChance, Emanuelle Burton, Soohyun Nam Liao",
@@ -419,6 +456,13 @@
 			"Episodes in the Mathematics of Medieval Islam",
 			"Springer",
 			"https://www.google.com/books/edition/Episodes_in_the_Mathematics_of_Medieval/I-jwDQAAQBAJ?hl=en&gbpv=0"
+		],
+		"bergner20": [
+			"Yoav Bergner, Deborah Damast Allegra Romita, Anne Marie Smock",
+			2020,
+			"Movement Computing Education for Middle Grades",
+			"Proceedings of the 7th International Conference on Movement and Computing",
+			"https://doi.org/10.1145/3401956.3404238"
 		],
 		"berman18": [
 			"Doug Bergman",
@@ -539,6 +583,13 @@
 			"A Decade in Internet Time: Symposium on the Dynamics of the Internet and Society",
 			"http://dx.doi.org/10.2139/ssrn.1926431"
 		],
+		"brady21": [
+			"Corey Brady",
+			2021,
+			"Patches as an expressive medium for exploratory multi-agent modelling",
+			"British Journal of Educational Technology",
+			"https://doi.org/10.1111/bjet.13087"
+		],
 		"braga16": [
 			"Adriana Braga, Robert K. Logan",
 			2016,
@@ -595,6 +646,13 @@
 			"International Conference on Frontiers in Handwriting Recognition",
 			"https://doi.org/10.1109/ICFHR.2012.227"
 		],
+		"bull20": [
+			"G. Bull",
+			2020,
+			"Integrating language arts and computational thinking",
+			"Contemporary issues in technology and teacher education",
+			"https://citejournal.org/volume-20/issue-3-20/seminal-articles/integrating-language-arts-and-computational-thinking-a-reflection-on-the-importance-of-gossip/"
+		],
 		"bullock21": [
 			"Beleicia B. Bullock, Fernando L. Nascimento, Stacy A. Doore",
 			2021,
@@ -608,6 +666,13 @@
 			"Interactive record/replay for web application debugging",
 			"ACM Symposium on User Interface Software and Technology (UIST)",
 			"http://doi.org/10.1145/2501988.2502050"
+		],
+		"burke12": [
+			"Quinn Burke, Yasmin B. Kafai",
+			2012,
+			"The writers' workshop for youth programmers: digital storytelling with scratch in middle school classrooms",
+			"#sigcse",
+			"https://doi.org/10.1145/2157136.2157264"
 		],
 		"burks89": [
 			"Alice R. Burks, Arthur Walter Burks",
@@ -664,6 +729,13 @@
 			"Teachers' pedagogical content knowledge of students' problem solving in elementary arithmetic",
 			"Journal for research in mathematics education",
 			"https://doi.org/10.5951/jresematheduc.19.5.0385"	
+		],
+		"champion20": [
+			"Dionne N. Champion, Eli Tucker-Raymond, Amon Millner, Brian Gravel, Christopher G. Wright, Rasheda Likely, Ayana Allen-Handy, Tikyna M. Dandridge",
+			2020,
+			"(Designing for) learning computational STEM and arts integration in culturally sustaining learning ecologies",
+			"Information and Learning Sciences",
+			"https://doi.org/10.1108/ILS-01-2020-0018"
 		],
 		"charters14": [
 			"Polina Charters, Michael J. Lee, Amy J. Ko, Dastyni Loksa",
@@ -727,6 +799,13 @@
 			"Building equitable computing classrooms through culturally responsive professional development",
 			"Society for Information Technology & Teacher Education International Conference",
 			"https://www.learntechlib.org/primary/p/215769/"
+		],
+		"coenraad21": [
+			"Merijke Coenraad, Jen Palmer, David Weintrop, Donna Eatinger, Zachary Crenshaw, Hoang Pham, and Diana Franklin",
+			2021,
+			"The Effects of Providing Starter Projects in Open-Ended Scratch Activities",
+			"#sigcse",
+			"https://doi.org/10.1145/3408877.3432390"
 		],
 		"cohen14": [
 			"Elizabeth G. Cohen, Rachel A. Lotan",
@@ -1064,6 +1143,27 @@
 			"Cambridge University Press",
 			"https://doi.org/10.1017/CBO9781139046855"
 		],
+		"franklin20a": [
+			"Diana Franklin, Merijke Coenraad, Jennifer Palmer, Donna Eatinger, Anna Zipp, Marco Anaya, Max White, Hoang Pham, Ozan Gökdemir, David Weintrop",
+			2020,
+			"An Analysis of Use-Modify-Create Pedagogical Approach's Success in Balancing Structure and Student Agency",
+			"#icer",
+			"https://doi.org/10.1145/3372782.3406256"
+		],
+		"franklin20b": [
+			"Diana Franklin, Jean Salac, Zachary Crenshaw, Saranya Turimella, Zipporah Klain, Marco Anaya, Cathy Thomas",
+			2020,
+			"Exploring Student Behavior Using the TIPP&SEE Learning Strategy",
+			"#icer",
+			"https://doi.org/10.1145/3372782.3406257"
+		],
+		"franklin20c": [
+			"Diana Franklin, David Weintrop, Jennifer Palmer, Merijke Coenraad, Melissa Cobian, Kristan Beck, Andrew Rasmussen, Sue Krause, Max White, Marco Anaya, and Zachary Crenshaw",
+			2020,
+			"Scratch Encore: The Design and Pilot of a Culturally-Relevant Intermediate Scratch Curriculum",
+			"#sigcse",
+			"https://doi.org/10.1145/3328778.3366912"
+		],
 		"freire68": [
 			"Paulo Freire",
 			1968,
@@ -1218,6 +1318,13 @@
 			"#icer",
 			"https://doi.org/10.1145/3372782.3406267"
 		],
+		"guzdial03": [
+			"Mark Guzdial",
+			2003,
+			"A media computation course for non-majors",
+			"#iticse",
+			"https://doi.org/10.1145/961511.961542"
+		],
 		"guzdial06": [
 			"Mark Guzdial, Allison Elliott Tew",
 			2006,
@@ -1330,6 +1437,13 @@
 			"Bloomsbury",
 			"https://www.google.com/books/edition/Family_Names_and_Family_History/d5i6BwAAQBAJ?hl=en&gbpv=0"
 		],
+		"hill13": [
+			"Benjamin Mako Hill, Andrés Monroy-Hernández",
+			2013,
+			"The cost of collaboration for code and art: evidence from a remixing community",
+			"#cscw",
+			"https://doi.org/10.1145/2441776.2441893"
+		],
 		"hiltzik09": [
 			"Michael A. Hiltzik",
 			2009,
@@ -1364,6 +1478,20 @@
 			"Compiling SIMULA: a historical study of technological genesis",
 			"IEEE Annals of the History of Computing",
 			"https://doi.org/10.1109/85.329756"
+		],
+		"houchins21": [
+			"Jennifer Houchins, Kimkinyona Cully, Danielle Cadieux Boulden, Kevin Oliver, Andy Smith, James Minogue, Bradford Mott, Rasha Elsayed, Aleata Hubbard Cheuoua, Cathy Ringstaff",
+			2021,
+			"Teacher Perspectives on a Narrative-Centered Learning Environment to Promote Computationally-Rich Science Learning through Digital Storytelling",
+			"Proceedings of Society for Information Technology & Teacher Education International Conference",
+			"https://www.learntechlib.org/p/219110/"
+		],
+		"horn20": [
+			"Michael Horn, Amartya Banerjee, Melanie West, Nichole Pinkard, Amy Pratt, Jason Freeman, Brian Magerko, Tom McKlin",
+			2020,
+			"TunePad: Engaging Learners at the Intersection of Music and Code",
+			"International Society of the Learning Sciences (ISLS)",
+			"https://doi.org/10.22318/icls2020.1237"
 		],
 		"hunt99": [
 			"Andrew Hunt, David Thomas",
@@ -1427,6 +1555,12 @@
 			 "Abolitionist Computer Science Teaching: Moving from Access to Justice",
 			 "#respect",
 			 "https://doi.org/10.1109/RESPECT51740.2021.9620652"
+		],
+		"jacob22": [
+			"Sharin Rawhiya Jacob, Miranda C. Parker, Mark Warschauer",
+			2022,
+			"Integration of Computational Thinking Into English Language Arts",
+			"https://www.acm.org/binaries/content/assets/education/ct_prek-5_web.pdf#page=65"
 		],
 		"janzen06": [
 			"David S. Janzen, Hossein Saiedian",
@@ -2030,6 +2164,13 @@
 			"#iticse",
 			"https://doi.org/10.1145/572133.572137"
 		],
+		"mcklin21": [
+			"Tom McKlin, Lauren McCall, Taneisha Lee, Brian Magerko, Michael Horn, Jason Freeman",
+			2021,
+			"Leveraging Prior Computing and Music Experience for Situational Interest Formation",
+			"#sigcse",
+			"https://doi.org/10.1145/3408877.3432431"
+		],
 		"melsión21": [
 			"Gaspar Isaac Melsión, Ilaria Torre, Eva Vidal, Iolanda Leite",
 			2021,
@@ -2043,6 +2184,13 @@
 			"Number words and number symbols: A cultural history of numbers",
 			"Courier Corporation",
 			"https://www.google.com/books/edition/Number_Words_and_Number_Symbols/RXbCAgAAQBAJ?hl=en&gbpv=0"
+		],
+		"milliken21": [
+			"Alexandra Milliken, Wengran Wang, Veronica Cateté, Sarah Martin, Neeloy Gomes, Yihuan Dong, Rachel Harred, Amy Isvik, Tiffany Barnes, Thomas Price, Chris Martens",
+			2021,
+			"PlanIT! A New Integrated Tool to Help Novices Design for Open-ended Projects",
+			"#sigcse",
+			"https://doi.org/10.1145/3408877.3432552"
 		],
 		"minker12": [
 			"Jack Minker",
@@ -2233,6 +2381,13 @@
 			"Basic books",
 			"https://www.google.com/books/edition/Mindstorms/nDjRDwAAQBAJ?hl=en&gbpv=0"
 		],
+		"payne21": [
+			"William Christopher Payne, Yoav Bergner, Mary Etta West, Carlie Charp, R. Benjamin Shapiro, Danielle Albers Szafir, Edd V. Taylor, Kayla DesPortes",
+			2021,
+			"danceON: Culturally Responsive Creative Computing",
+			"#chi",
+			"https://doi.org/10.1145/3411764.3445149"
+		],
 		"pears07": [
 			"Arnold Pears, Stephen Seidman, Lauri Malmi, Linda Mannila, Elizabeth Adams, Jens Bennedsen, Marie Devlin, James Paterson",
 			2007,
@@ -2408,6 +2563,13 @@
 			"Computer Science Education",
 			"https://doi.org/10.1076/csed.13.3.191.14945"
 		],
+		"resnick09": [
+			"Mitchel Resnick, John Maloney, Andrés Monroy-Hernández, Natalie Rusk, Evelyn Eastmond, Karen Brennan, Amon Millner, E. Rosenbaum, J. Silver, B. Silverman, Y. Kafai.",
+			2009,
+			"Scratch: programming for all",
+			"Communications of the ACM",
+			"http://doi.acm.org/10.1145/1592761.1592779"
+		],
 		"resnick12": [
 			"Mitch Resnick, Yasmin B. Kafai",
 			2012,
@@ -2554,6 +2716,13 @@
 			"Estimating the numbers of end users and end user programmers",
 			"IEEE Symposium on Visual Languages and Human-Centric Computing",
 			"https://doi.org/10.1109/VLHCC.2005.34"
+		],
+		"schanzer18": [
+			"Emmanuel Schanzer, Shriram Krishnamurthi, Kathi Fisler",
+			2018,
+			"Creativity, Customization, and Ownership: Game Design in Bootstrap: Algebra",
+			"#sigcse",
+			"https://doi.org/10.1145/3159450.3159471"
 		],
 		"scherer19": [
 			"Ronny Scherer, Fazilat Siddiq, Bárbara Sánchez Viveros",

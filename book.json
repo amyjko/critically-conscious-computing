@@ -179,25 +179,23 @@
 		{
 			"id": "math", 
 			"title": "CS + Mathematics",
-			"authors": ["[Amy J. Ko|https://amyjko.com]"],
-			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
-			"section": "Integration",
-			"forthcoming": true
+			"authors": ["[Amy J. Ko|https://amyjko.com]", "[Jayne Everson|http://jayneeverson.com]"],
+			"image": "|Chapter22_Cover.png|A desktop computer and transparent hands with mathematical symbols on the screen and emerging from the computer and display|Computers are arithmetic machines|@ashley|",
+			"section": "Integration"
 		},
 		{
 			"id": "science", 
 			"title": "CS + Science",
 			"authors": ["[Amy J. Ko|https://amyjko.com]"],
-			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
+			"image": "|Chapter23_Cover.png|Three women scientists in lab coats working with instruments amidst a sea of binary digits|Modern science is increasingly computational.|@ashley|",
 			"section": "Integration"
 		},
 		{
-			"id": "engineering", 
+			"id": "engineering",
 			"title": "CS + Engineering",
-			"authors": ["[Amy J. Ko|https://amyjko.com]"],
-			"image": "|question.jpg|TODO|Placeholder|Amy J. Ko|",
-			"section": "Integration",
-			"forthcoming": true
+			"authors": ["[Amy J. Ko|https://amyjko.com]", "[Jayne Everson|http://jayneeverson.com]"],
+			"image": "|question.jpg|TODO|TODO|@ashley|",
+			"section": "Integration"
 		},
 		{
 			"id": "conclusion", 
@@ -337,6 +335,13 @@
 			"Bantam Books",
 			"https://www.google.com/books/edition/I_Robot/QEhWPgAACAAJ?hl=en"
 		],
+		"babbit21": [
+			"William Babbitt, Michael Lachney",
+			2021,
+			"Two Concepts of Enoughness As Organizing Design Principles For Generative STEM Education and Culturally Situated Design Tools",
+			"New Design Ideas",
+			"http://jomardpublishing.com/UploadFiles/Files/journals/NDI/V5N1/Babbitt_Lachney.pdf"
+		],
 		"backus78": [
 			"John Backus",
 			1978,
@@ -357,6 +362,13 @@
 			"Testers and visualizers for teaching data structures",
 			"#sigcse",
 			"https://doi.org/10.1145/384266.299779"			
+		],
+		"balch08": [
+			"Balch, Tucker, Jay Summet, Doug Blank, Deepak Kumar, Mark Guzdial, Keith O'hara, Daniel Walker, Monica Sweat, Gaurav Gupta, Stewart Tansley, Jared Jackson, Mansi Gupta, Marwa Nur Muhammad, Shikha Prashad, Natasha Eilbert, Ashley Gavin",
+			2008,
+			"Designing personal robots for education: Hardware, software, and curriculum",
+			"IEEE Pervasive Computing",
+			"https://doi.org/10.1109/MPRV.2008.29"
 		],
 		"baltes20": [
 			"Sebastian Baltes, George Park, and Alexander Serebrenik",
@@ -434,6 +446,13 @@
 			"Utilizing mathematics to examine sea level rise as an environmental and a social issue",
 			"Proceedings of the 42nd Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education",
 			"https://par.nsf.gov/servlets/purl/10272335"
+		],
+		"basu20c": [
+			"Satabdi Basu, Betsy Disalvo, Daisy Rutstein, Yuning Xu, Jeremy Roschelle, Nathan Holbert",
+			2020,
+			"The Role of Evidence Centered Design and Participatory Design in a Playful Assessment for Computational Thinking About Data",
+			"#sigcse",
+			"https://doi.org/10.1145/3328778.3366881"
 		],
 		"bass03": [
 			"Len Bass, Paul Clements, Rick Kazman",
@@ -799,6 +818,34 @@
 			"Journal for research in mathematics education",
 			"https://doi.org/10.5951/jresematheduc.19.5.0385"	
 		],
+		"cassel02": [
+			"Lillian (Boots) Cassel, Deepak Kumar",
+			2002,
+			"A state of the course report: computer organization & architecture",
+			"#sigcse",
+			"https://doi.org/10.1145/637610.544466"
+		],
+		"chakarov19": [
+			"Gendreau Chakarov, Alexandra and Recker, Mimi and Jacobs, Jennifer and Van Horne, Katie and Sumner, Tamara",
+			2019,
+			"Designing a Middle School Science Curriculum that Integrates Computational Thinking and Sensor Technology",
+			"#sigcse",
+			"https://doi.org/10.1145/3287324.3287476"
+		],
+		"chakarov20": [
+			"Gendreau Chakarov, Alexandra and Biddy, Quentin and Jacobs, Jennifer and Recker, Mimi and Sumner, Tamara",
+			2020,
+			"Opening the Black Box: Investigating Student Understanding of Data Displays Using Programmable Sensor Technology",
+			"#icer",
+			"https://doi.org/10.1145/3372782.3406268"
+		],
+		"chakarov21": [
+			"Gendreau Chakarov, A. and Bush, J. and Biddy, Q. and Jacobs, J. and Hennessy Elliott, C. and Sumner, T.",
+			2021,
+			"Challenges and Unexpected Affordances of Physical Computing Going Remote",
+			"Interaction Design and Children",
+			"https://doi.org/10.1145/3459990.3460711"
+		],
 		"champion20": [
 			"Dionne N. Champion, Eli Tucker-Raymond, Amon Millner, Brian Gravel, Christopher G. Wright, Rasheda Likely, Ayana Allen-Handy, Tikyna M. Dandridge",
 			2020,
@@ -819,13 +866,6 @@
 			"Challenging stereotypes and changing attitudes: the effect of a brief programming encounter on adults' attitudes toward programming",
 			"#sigcse",
 			"https://doi.org/10.1145/2538862.2538938"
-		],
-		"cassel02": [
-			"Lillian (Boots) Cassel, Deepak Kumar",
-			2002,
-			"A state of the course report: computer organization & architecture",
-			"#sigcse",
-			"https://doi.org/10.1145/637610.544466"
 		],
 		"chen15": [
 			"Xiang 'Anthony' Chen, Stelian Coros, Jennifer Mankoff, and Scott E. Hudson",
@@ -868,6 +908,13 @@
 			"The building blocks of coding: A comparison of early childhood coding toys",
 			"Information and Learning Sciences",
 			"https://doi.org/10.1108/ILS-06-2019-0059"
+		],
+		"clarke21": [
+			"Clarke-Midura, Jody and Kozlowski, Joseph S. and Shumway, Jessica F. and Lee, Victor R.",
+			2021,
+			"How young children engage in and shift between reference frames when playing with coding toys",
+			"International Journal of Child-Computer Interaction",
+			"https://doi.org/10.1016/j.ijcci.2021.100250"
 		],
 		"codding20": [
 			"Diane Codding, Bataul Alkhateeb, Chrystalla Mouza, Lori Pollock",
@@ -1016,12 +1063,26 @@
 			"#iticse",
 			"https://doi.org/10.1145/3341525.3387404"
 		],
+		"deitrick15": [
+			"Elise Deitrick, R. Benjamin Shapiro, Matthew P. Ahrens, Rebecca Fiebrink, Paul D. Lehrman, and Saad Farooq",
+			2015,
+			"Using Distributed Cognition Theory to Analyze Collaborative Computer Science Learning",
+			"#icer",
+			"https://doi.org/10.1145/2787622.2787715"
+		],
 		"dignazio20": [
 			"Catherine D'Ignazio, Lauren F. Klein",
 			2020,
 			"Data Feminism",
 			"MIT Press",
 			"https://www.google.com/books/edition/Data_Feminism/x5nSDwAAQBAJ?hl=en&gbpv=0"
+		],
+		"dimiceli10": [
+			"Dimiceli, V.E., Lang, A.S. and Locke, L.",
+			2010,
+			"Teaching calculus with Wolfram | alpha",
+			"International Journal of Mathematical Education in Science and Technology",
+			"https://doi.org/10.1080/0020739X.2010.493241"
 		],
 		"disessa86": [
 			"A diSessa and H. Abelson",
@@ -1057,6 +1118,13 @@
 			"The year in review: changes and lessons learned in the design and implementation of the AP CS exam in Java",
 			"#sigcse",
 			"https://doi.org/10.1145/1047344.1047355"
+		],
+		"doerr00": [
+			"Helen M. Doerr, Roxana Zangor",
+			2000,
+			"Creating meaning for and with the graphing calculator",
+			"Educational Studies in Mathematics",
+			"https://doi.org/10.1023/A:1003905929557"
 		],
 		"dong19": [
 			"Yihuan Dong, Veronica Catete, Robin Jocius, Nicholas Lytle, Tiffany Barnes, Jennifer Albert, Deepti Joshi, Richard Robinson, Ashley Andrews",
@@ -1170,6 +1238,13 @@
 			"#sigcse",
 			null
 		],
+		"fagin02": [
+			"Fagin, Barry S., and Laurence Merkle",
+			2002,
+			"Quantitative analysis of the effects of robots on introductory Computer Science education",
+			"Journal on Educational Resources in Computing (JERIC)",
+			"https://doi.org/10.1145/949257.949259"
+		],
 		"fausto00": [
 			"Anne Fausto-Sterling",
 			2000,
@@ -1212,6 +1287,13 @@
 			"Journal of Science Education and Technology",
 			"https://doi.org/10.1007/s10956-021-09911-6"
 		],
+		"fields17": [
+			"Fields, D. A.",
+			2017,
+			"Teaching practices for making e-textiles in high school computing classrooms",
+			"Conference on Creativity and Fabrication in Education",
+			"https://doi.org/10.1145/3141798.3141804"
+		],
 		"fiesler20": [
 			"Casey Fiesler, Natalie Garrett, and Nathan Beard",
 			2020,
@@ -1253,6 +1335,13 @@
 			"Imagine a more ethical AI: Using stories to develop teens' awareness and understanding of artificial intelligence and its societal impacts",
 			"#respect",
 			"https://par.nsf.gov/servlets/purl/10292023"
+		],
+		"foutz19": [
+			"Foutz, T.",
+			2019,
+			"Collective argumentation: Integration of coding into mathematics and science learning",
+			"ASEE Annual Conference Exposition Proceedings",
+			"https://par.nsf.gov/servlets/purl/10163885"
 		],
 		"francois21": [
 			"Annamarie Francois, Karen Hunter Quarts",
@@ -1331,6 +1420,20 @@
 			"Teachers College Press",
 			"https://www.google.com/books/edition/Culturally_Responsive_Teaching/rYspC7C-zowC?hl=en&gbpv=0"
 		],
+		"germia20a": [
+			"Germia, E. and Panorkou, N.",
+			2020,
+			"Exploring angles in a programming environment",
+			"Proceedings of the International Conference to Review Research in Science, Technology and Mathematics Education",
+			"https://par.nsf.gov/servlets/purl/10182058"
+		],
+		"germia20b": [
+			"Erell Germia, Nicole Panorkou",
+			2020,
+			"Using Scratch Programming to Explore Coordinates",
+			"Mathematics Teacher: Learning and Teaching PK-12",
+			"https://doi.org/10.5951/MTLT.2018.0032"
+		],
 		"gibson84": [
 			"William Gibson",
 			1984,
@@ -1358,6 +1461,13 @@
 			"The structure of design problem spaces",
 			"Cognitive Science",
 			"https://doi.org/10.1016/0364-0213(92)90038-V"
+		],
+		"goldenberg18": [
+			"E. Paul Goldenberg",
+			2018,
+			"Teaching children to be problem posers and puzzle-creators in mathematics",
+			"Proceedings of Constructionism",
+			"https://par.nsf.gov/servlets/purl/10100815"
 		],
 		"goode11": [
 			"Joanna Goode, Jane Margolis",
@@ -2142,6 +2252,13 @@
 			"IEEE/ACM International Conference on Software Engineering",
 			"http://dx.doi.org/10.1109/ICSE.2015.335"
 		],
+		"liang16": [
+			"Senfeng Liang",
+			2016,
+			"Teaching the Concept of Limit by Using Conceptual Conflict Strategy and Desmos Graphing Calculator",
+			"International Journal of Research in Education and Science",
+			"https://files.eric.ed.gov/fulltext/EJ1105103.pdf"
+		],
 		"licklider63": [
 			"J. C. R. Licklider",
 			1963,
@@ -2470,6 +2587,13 @@
 			"Towards validity for a formative assessment for language-specific program tracing skills",
 			"ACM Koli Calling International Conference on Computing Education Research",
 			"https://doi.org/10.1145/3364510.3364525"
+		],
+		"nersesian20": [
+			"Eric Nersesian, Margarita Vinnikov, Adam Spryszynski, Jessica Ross-Nersesian, Michael J. Lee",
+			2020,
+			"Middle School Students Learn Binary Counting Using Virtual Reality",
+			"Integrated STEM Education Conference",
+			"https://doi.org/10.1109/ISEC49744.2020.9397810"
 		],
 		"nishida09": [
 			"Tomohiro Nishida, Susumu Kanemune, Yukio Idosaka, Mitaro Namiki, Tim Bell, Yasushi Kuno",
@@ -2807,6 +2931,13 @@
 			"SIGPLAN Notices", 
 			"https://doi.org/10.1145/1480828.1480852"
 		],
+		"rich19": [
+			"Rich, K. M. and Yadav, A. and Zhu, M.",
+			2019,
+			"Abstraction in students' mathematics strategies: Productive starting points for introducing CT concepts",
+			"The Journal of Computers in Mathematics and Science Teaching",
+			"https://par.nsf.gov/servlets/purl/10183081"
+		],
 		"ritchie93": [
 			"Dennis M. Ritchie",
 			1993,
@@ -2940,12 +3071,26 @@
 			"IEEE Symposium on Visual Languages and Human-Centric Computing",
 			"https://doi.org/10.1109/VLHCC.2005.34"
 		],
+		"schanzer15": [
+			"Emmanuel Schanzer, Kathi Fisler, Shriram Krishnamurthi, and Matthias Felleisen",
+			2015,
+			"Transferring Skills at Solving Word Problems from Computing to Algebra Through Bootstrap",
+			"#sigcse",
+			"https://doi.org/10.1145/2676723.2677238"
+		],
 		"schanzer18": [
 			"Emmanuel Schanzer, Shriram Krishnamurthi, Kathi Fisler",
 			2018,
 			"Creativity, Customization, and Ownership: Game Design in Bootstrap: Algebra",
 			"#sigcse",
 			"https://doi.org/10.1145/3159450.3159471"
+		],
+		"schanzer18b": [
+			"Emmanuel Schanzer, Kathi Fisler, and Shriram Krishnamurthi",
+			2018,
+			"Assessing Bootstrap: Algebra Students on Scaffolded and Unscaffolded Word Problems",
+			"#sigcse",
+			"https://doi.org/10.1145/3159450.3159498"
 		],
 		"schanzer22": [
 			"Emmanuel Schanzer, Nancy Pfenning, Flannery Denny, Sam Dooman, Joe Gibbs Politz, Benjamin S. Lerner, Kathi Fisler, Shriram Krishnamurthi",
@@ -3416,6 +3561,13 @@
 			"#chi",
 			"https://doi.org/10.1145/3173574.3174230"
 		],
+		"wright13": [
+			"Wright, G., Rich, P. & Lee, R.",
+			2013, 
+			"The Influence of Teaching Programming on Learning Mathematics",
+			"Information Technology & Teacher Education International Conference",
+			"https://www.learntechlib.org/primary/p/48851/"
+		],
 		"xie18": [
 			"Benjamin Xie, Greg Nelson, Amy J. Ko",
 			2018,
@@ -3823,7 +3975,7 @@
 		},
 		"datascience": {
 			"phrase": "data science",
-			"definition": "Using data and code to answer questions."
+			"definition": "The use of data structures, algorithms, statistics, and data visualization to answering questions with data."
 		},
 		"datastructure": {
 			"phrase": "data structure",
@@ -3833,6 +3985,10 @@
 			"phrase": "data type",
 			"definition": "An encoding format for representing a particular type of information.",
 			"synonyms": ["type"]
+		},
+		"datavis": {
+			"phrase": "data visualization",
+			"definition": "The mapping of data and relationships onto visual notations."
 		},
 		"debug": {
 			"phrase": "debugging",
@@ -4115,6 +4271,10 @@
 		"programanalysis": {
 			"phrase": "program analysis",
 			"definition": "Reading a program to compare its behavior to requirements to search for defects."
+		},
+		"simulation": {
+			"phrase": "simulation",
+			"definition": "Using data and algorithms to model natural phenomena and make predictions about it's behavior in different scenarios."
 		},
 		"softwaretesting": {
 			"phrase": "software testing",

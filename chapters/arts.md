@@ -56,7 +56,7 @@ This early history of digital music has transformed into industry standards arou
 
 The use of code to produce music has led to live coding, and even more extreme applications of algorithms for musical performance. In this practice, computer programs are the instrument, in a delicate dance between musician and algorithmic delegation, allowing for a fascinating interplay between a musician’s preparation and in-situ decisions about the music the algorithm is producing. Live coding platforms like [Sonic Pi|https://sonic-pi.net] have enabled a new generation of musicians to explore the possibilities of essentially collaborating with algorithmic intelligence to produce new emergent forms of music, sound, and soundscape, resurfacing and celebrating the improvisation at the heart of Black American Jazz in the early 20th century.
 
-## Film and Animation
+## Film and animation
 
 While film involves both the visual arts and music, it also involves something else that neither has to engage deeply: motion. Motion is in some ways a third invisible dimension for movies and television, exploited to shape how we see and experience the visual and auditory sensations of stories. Slow paced motion can create reflection and impatience; fast paced motion can create energy and anxiety; sharp cuts can be destabilizing; long takes can create vulnerability. All of these artistic dimensions of time were originally made possible by the film, lens, and chemical technologies that made motion pictures possible in the late 19th century.
 
@@ -68,7 +68,7 @@ Perhaps the most immediate example of this is in digital video editing. What beg
 
 Film and animation have also been transformed by computer graphics. What began as an academic discipline of trying to capture the visual fidelity of the world with pixels has transformed into the backbone of movie and television production. Some films use it to do simple editing (e.g., removing an accidental boom mic from a scene), others to incorporate digital characters into live action (e.g., any monster in Lord of the Rings), and others to create entirely digital worlds (e.g., every Pixar movie). These innovations are fundamentally driven by a constant innovation in algorithms for producing the illusion of water, hair, nature, people, and more. And in some cases, computer graphics are combined with acting through techniques such as motion capture, which build three-dimensional models of actor’s faces and bodies and then texture them with computer graphics to enable people to play everything from robots (e.g., Alan Tudyk in I, Robot) in to towering gorillas (e.g., Andy Serkis in _King Kong_).
 
-## Video Games
+## Video games
 
 Perhaps the greatest example of the intersection of art and computing is video games. This medium, famously [rejected as art|https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art] by the late movie critic Roger Ebert, combines visual arts, sound design, music, motion, and algorithms to create interactive digital experiences that weave varying degrees of skill and story. What makes video games unique and perhaps so universal (at least in generations that grew up with a mature video game industry), is that they so heavily involve the player in producing the experience of the art. To an extent, all art involves the viewer: a painting means nothing without someone to see and interpret it; a song means nothing without someone to listen to it; and cinema needs an audience. But the “viewer” in video games are far from passive: without active participation in the art, and even sustained practice and engagement, players will not experience most of what game artists and designers have created. In this sense, video games demand an investment from players to be appreciated in ways that other media have only passively required.
 
@@ -96,11 +96,11 @@ And yet still, the greatest impacts that computing has had on writing itself has
 
 |Chapter21_Image_Banksy.jpg|A telephone booth with several spray painted men listening in on the conversation with surveillance equipment.|A classic Banksy piece critiquing UK surveillance culture.|Banksy|
 
-## Art, Criticism, and Computing
+## Art, criticism, and computing
 
 While technology has always been central to progress in art, art has also been central to critiquing technology. Whereas those in the humanities and social sciences use writing, analysis, and data to examine the effects of technology, art often uses expression, and technology itself, to emotionally engage us in questioning technology. Artists like [Banksy|https://en.wikipedia.org/wiki/Banksy], for example, use street graffiti to visually examine surveillance and information addition; immersive art like [Meow Wolf|https://meowwolf.com] harnesses technology not to dazzle, but to juxtapose it against physicality, viscerally asking what precisely technology offers that physicality doesn’t. Some musicians like [Kraftwerk|https://kraftwerk.com] in the 1980’s began to explore what it meant for computers to love each other, and [Grimes|https://en.wikipedia.org/wiki/Grimes] sings about radical visions of communist, AI-driven anarchy. Other musicians play the role of social critics, like [St. Vincent|https://en.wikipedia.org/wiki/St._Vincent_(musician)] sings of surveillance capitalism in Digital Witness, “I want all of your mind, Give me all of it.” As art engages computing, both as a medium and a subject, it therefore continues a long tradition of questioning the status quo and imagining other ways of being.
 
-# Teaching Art through Computing
+# Teaching art through computing
 
 Much like art itself, research on teaching art with computing has been expansive. Researchers have explored curricula that engages students in creating static and interactive 2D visual illustrations with code<alegre20>, in manipulating images and sound<guzdial03,brady21>, in making 2D<resnick09> and 3D animations with code<cooper03>, in generating music with code<horn20,champion20>, in planning cooking with code<alkatheeb21>, in telling multilingual, social stories<ascenzimoreno20,jacob22,bull20>, in developing characters in narratives, <burke12,houchins21>, in choreography <bergner20,payne21> — and of course, in creating video games, as an artistic medium born of computing, including classic genres of 2D games <kelleher05,banerjee16> as well as embodied games with wearables<arroyo21>. This diversity of media in art and computing education reflects the broader diversity of art and computing in general.
 
@@ -112,7 +112,7 @@ With all of these opportunities, the platforms that enable computational art are
 
 And finally, as nearly all integrations of art and computing education are project based, this integration requires careful attention to project-based learning. Researchers have found that open-ended art projects especially need scaffolding and feedback feedback<alegre20>, but that there are subtleties to the types of scaffolding that help. For example, starter projects can help with “cold starts,” but can narrow student creativity and do not necessarily benefit learning<coenraad21>. Collaboration can help accelerate student progress, but may lead to artistic conflict and less engagement with computational concepts as pairs and groups squabble over media choices<hill13>. But scaffolding problem solving, such as planning and debugging programs, can actually help creativity in open-ended projects by supporting challenging self-regulated learning work that distracts from expression<franklin20a,franklin20b,milliken21>. Some research has even found that extreme limits on starter projects -- for example, in the case of providing a nearly finished interactive game with only a small number of flexible parameters -- can still offer significant opportunities for self-expression <schanzer18>. These findings suggest that artistic freedom, at least when engaging computational media, might actually detract from expression, and that structure and constraints might enable it.
 
-## Unit Sketch: Critiquing Computation through Computation
+## Unit sketch: Critiquing computation through computation
 
 The many research projects above have broadly explored teaching methods for integrating art and computing, generally finding that students deeply want to express themselves, and that computational media are as good as any for enabling expression. But while many of the platforms explored are provocative, there are few that are strongly supported enough to be viable for classroom use, and even fewer curriculum and a robust community of teachers.  Platforms mentioned above, such as [Scratch|http://scratch.mit.edu], [p5js|https://editor.p5js.org], and [Sonic Pi|https://sonic-pi.net] are some of the most robust and well supported media that are also designed for learning.{This list is always changing as new platforms emerge and support grows and shrinks. This poses a challenge for teachers, as the long term sustainability of any computational medium is always in question.} (The most robust digital art platforms are generally maintained by for-profit companies and designed for professionals).
 
@@ -135,7 +135,7 @@ After this unit, students will be able to...
 This session strives to frame tinkering with a creative platform in multiple ways: as something to be learned, as something to be critiqued, but also something to play with. By the end of the session, students should have several opinions about what they like and don’t like about the platform, helping catalyze the next session.
 
 =
-### Session 2: Artistic Critique
+### Session 2: Artistic critique
 * Remind students of the previous group discussion about the limits of Scratch. 
 * *Formative assessment*. Prompt them to form small groups of 2-3 and develop a critique they want to make of Scratch, but using Scratch and storytelling to make that critique. Encourage them to first focus on their story: who are the characters, what is the conflict with Scratch, and what is the resolution? How will the conflict be resolved? How will the characters be represented? How will Scratch be represented? Encourage them to write a script for their story that they can test with other groups.
 ** This is _responsive_ because it centers students’ own authentic experiences learning Scratch as a medium.
@@ -147,7 +147,7 @@ This session strives to frame tinkering with a creative platform in multiple way
 This session builds on the critiques of the first to help students develop a perspective they want to share about Scratch, through Scratch, while scaffolding storytelling and helping them think through the writing, visuals, and possibly sounds that will be part of telling the story. It also provides them practice with critique, helping give and receive feedback on story elements.
 
 =
-### Session 3-5: Artistic Collaboration
+### Session 3-5: Artistic collaboration
 
 * Charge students with deciding roles: who will refine writing, who will work on images, who will work on animation? Students can take on multiple roles; all should be encouraged to collaborate on coding, as it is likely the least familiar part of story construction.
 * Oversee studio time in which students work on their projects, seek support from peers and the teacher, and plan, implement, and debug implementation of their story in Scratch.
@@ -169,7 +169,7 @@ This unit primarily grounds itself in authentic art practices of tinkering, maki
 
 Of course, because of the brevity of the unit, it can only go so deeply into computing. It would not, for example, have opportunities to go into depth on ideas in programming, algorithms, or data structures. In fact, many of the stories that students might choose to tell might involve limited forms of computation, only exposing them to a narrow set of computational ideals. In an arts education context, this might be appropriate, as it centers expression over CS content knowledge; but if the unit is situated in a CS context, it might give too much weight to artistic practices. All that said, with enough time, students might engage both art and computing in depth, as extended practice with a medium inevitably would lead students to encounter deeper CS ideas.
 
-# Conclusion: digital expression
+# Conclusion: Digital expression
 
 Whereas there are many ways to examine the human condition without considering computation, it is increasingly difficult to imagine art without computing. So much of modern visual arts, music, and storytelling is now intimately dependent on computing, it might be inauthentic to ignore it. In fact, it might even be culturally destructive, as much of the art that youth encounter and make is so fundamentally enabled by computing and is often about computing. This is of course in tension with commitments to more pre-modern classical forms of artistic expression, but even that tension is a reasonable subject of artistic expression. What is art, if not conflict?
 

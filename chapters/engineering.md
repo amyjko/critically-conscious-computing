@@ -26,13 +26,13 @@ Of course, as we’ve noted throughout this book, computing is far from natural.
 
 Consider, for example, limb loss. There is nothing inherently wrong with being born out of an arm, or losing an arm to injury. However, if someone would like a functional arm, can bioengineering create one? For centuries, the best engineers could offer was solid prosthetics, which at a minimum offered the aesthetics of an arm, without any functionality. Some basic mechanical advances allowed people to perform basic and limited grasping maneuvers by using shoulder muscles. But advances in the combination of new sensors, robotics, and software to power all of them, have enabled prosthetic limbs that approach the full functionality of a natural forearm and hand, increasing users autonomy and quality of life. In some cases, computing-powered robotic arms even exceed the capabilities of natural limbs, allowing users to charge devices on their arms, connect them to the internet for notifications, and a range of yet unimagined possibilities of augmentation.
 
-|Chapter24_Image_Vaccine.jpg|A health care provider with blue gloves extracting a COVID-19 vaccine into a syringe|mRNA vaccines are both a product of medical research, but also computing and the internet.||Associated Press|>
+|Chapter24_Image_Vaccine.jpg|A health care provider with blue gloves extracting a COVID-19 vaccine into a syringe|mRNA vaccines are both a product of medical research, but also computing and the internet.|Associated Press|>
 
 Computing and bioengineering also play an increasing role in transforming medicine and healthcare. For example, within days of the discovery of COVID-19 by Chinese scientists, they  had used computing-powered genome sequencers to digitally read the virus’s DNA, they had used the internet to share and the DNA with scientists globally, and thousands of scientists began to write computer programs to analyze the DNA to model the virus’s protein structure and begin identifying ways to potentially manufacture a vaccine. In just a few weeks, these computing-enabled analyses and models allowed scientists and bioengineers to propose several vaccine candidates and work with pharmaceutical engineers to devise rapid manufacturing, quality control, and distribution processes, all powered by computing, ultimately producing some of the fastest vaccines ever manufactured in human history, and some of the most effective. At the heart of this record time was the precision, speed, and modeling capabilities of computing, using data structures and algorithms to process, analyze, and verify digital representations of DNA and RNA.
 
 Bioengineering is also broadly concerned with how to use life as a medium for solving human problems. One of the most pressing is identifying more sustainable sources of energy to power human civilization. For example, a growing community of bioengineers are exploring how to create new synthetic organisms designed to generate high quality biofuels as alternatives to oil. One approach is to create DNA for new species of microalgae that are specifically designed to generate biofuel from photosynthesis. These advances, like those for vaccines, rely on computing to digitize, analyze, and edit DNA through a computational tool called [CRISPR|https://en.wikipedia.org/wiki/CRISPR], to model and simulate potential cellular structures and their biofuel output, and to analyze data from experiments of synthesized organisms.
 
-## Civil Engineering
+## Civil engineering
 
 Whereas bioengineering is broadly concerned with using and supporting life through living systems, _Civil Engineering_ focuses on making modern life possible through the design, construction, and maintenance of the physical and natural environment in which we live. Like bioengineering, it is incredibly broad, spanning coasts, earthquakes, environment, geology, buildings, bridges, transportation, water, and the many forms of construction involved in building these systems.
 
@@ -46,7 +46,7 @@ A canonical example of the benefits of simulations are with buildings and their 
 
 Traffic is another example. Whereas modeling a building’s response to physical forces is hard, modeling how human drivers (and potentially autonomous vehicles) will respond to new traffic patterns can be much harder. After all, even though we have laws that make behavior more predictable, people do not always follow them, or follow them reliably. By using data structures and algorithms to approximate human behavior in these conditions, simulations can help traffic engineers predict the effect of closing a lane, of installing a new stop light, of increasing the duration of a traffic signal, or of adding a bike lane. These simulations, in contrast to those that use physics to predict structural collapse, try to model multiple independent decision makers and how they are likely to react to new information and rules. These help urban planners estimate the likely cost and time impacts of changes, informing policy makers about if, when, and how to make change.
 
-## Electrical Engineering
+## Electrical engineering
 
 Although it is hard to imagine in our modern society, human civilization was not always electrified. When the sun set, we lived by firelight, fueled by wick and oil; when we wanted to connect with friends and family, we either found them in person or mailed a hand-written letter. The discovery of electricity in physics, and the subsequent application of electricity in electrical engineering, led to the near ubiquity of the electrical grids in modern life that power the countless devices in homes and offices and demand ever greater amounts of energy from fossil fuels, dams, wind turbines, and the sun. _Electrical Engineering_ is the discipline concerned with how to design, build, and maintain these grids, along with all of the other technologies that use electrical circuits for practical problems in human life.
 
@@ -60,7 +60,7 @@ Perhaps the most central, and one on which computers greatly depend, are our ele
 
 There is another kind of network in electrical engineering that we do not typically think of as electrical: the wired and wireless networks of cables that connect the computers on the internet. And yet, the fundamental basis for what happens in these cables is fundamentally electric: wired electrical signals are sent along coaxial cables from cable modems, translated into light (a byproduct of electromagnetism) for transmission via fiber optic cables, or translated into radio signals for transmission wirelessly across protocols like Bluetooth, Wi-Fi, or satellite signals. The entire existence of the internet, and everything we do with it, is therefore fundamentally tied to the electrical engineering required to transmit and transform electrical signals through different media.
 
-## Mechanical Engineering
+## Mechanical engineering
 
 As with many other engineering disciplines, mechanical engineering is quite broad. _Mechanical Engineering_ is concerned with making everything from machinery, to heating and cooling systems, to aircraft, watercraft, spacecraft, robotics, and medical devices, to even the nanotechnologies that help assemble microscopic structures for health or sustainability. Ultimately, the discipline is concerned with making things by applying the science of mechanics, dynamics, thermodynamics, fluid dynamics, materials science, and electricity. This highly interdisciplinary field and its highly eclectic application domains means that it reaches for some a range of critical human problems, including sustainability, wellness, and disease.
 
@@ -74,7 +74,7 @@ One example of this is _nanotechnology_, the use of physical matter at the atomi
 
 Whereas nanotechnology deals with very small structures, some structures are so large and heavy that building them is hard and slow for human hands. Nowhere has this been more apparent than in automobile manufacturing. Since the advent of the car, car parts and assembly have largely been done by people, with large factories of people machining individual car parts using industrial fabrication equipment and assembly lines for constructing vehicles from these parts. An entire century of labor movements in the United States centered around these workforces and powered much of the driving-centered economies in the country. But as computing matured, and robotics emerged, car manufacturing has rapidly shifted from human labor to robotic labor: smaller teams of people now program large robotic arms that reliably and repeatedly follow programmed procedures to do the work that people use to do. There are still people involved, but their job is more as supervisor, programmer, and helper to the robotic assembly machines, and many fewer of them are needed; and of course, there are new jobs, with software engineers and roboticists designing, building, and selling manufacturing robots to car companies.
 
-## Critically Conscious Engineering
+## Critically conscious engineering
 
 At a deep level, engineering is a pragmatic endeavor, practically applying whatever science and technology is available to solving practical problems in human life. This pragmatism is one of its greatest assets: engineers do not let arbitrary disciplinary boundaries impede progress: if we can harvest sustainable energy by combining algae, photosynthesis, computation, and manufacturing, great; whatever barriers to interdisciplinarity exist, engineers regularly break them down in order to solve problems. This pragmatism, and relentless focus on solving problems, is what enables the field to make impressive progress on some of humanity’s greatest struggles with survival. And computing shares this ruthless pragmatism with engineering, liberally borrowing from science, technology, engineering, and mathematics to solve practical computational problems, like finding the fastest route to work, returning relevant search results in 50 milliseconds, and securing private data from thieves and schemers.
 
@@ -82,7 +82,7 @@ But pragmatism has its limits. Engineering, like computing, can often be so narr
 
 |question.jpg|TODO|TODO|@ashley|
 
-# Teaching Engineering with Computing
+# Teaching engineering with computing
 
 Integrations of computing into secondary engineering education have received far less attention than other disciplines. There may be many reasons for this. For example, science, mathematics, arts, and even humanities are perhaps simply more established parts of the canon in most publication education. And engineering, to the extent that it does get attention in secondary education, already has so much ground to cover. The rich range of engineering disciplines surveyed earlier makes this clear.
 
@@ -98,7 +98,71 @@ While these integrations can be quite successful at being culturally responsive,
 
 While some making is culturally situated, very little of it explicitly engages critical making, instead reinforcing the value and culture of making. For example, critical making might entail hard conversations about _whether_ to make something, or _why_ to make something, how to unmake something that is doing harm, or how to fix or maintain engineering infrastructure that is broken or not meeting needs. These perspectives are often doubly in tension with engineering and computer science cultures, which often elevate making well above critical concerns about what is made.
 
-% UNIT SKETCH
+## Unit sketch: Examining exclusion in engineered environments
+
+As we’ve shown throughout this chapter, there are many parts of engineering one might teach, and many ways that computing might arise in each. The emerging efforts in research primarily explore physical computing from a creative context, helping to develop students’ self-efficacy and creative confidence with making, but often do in ways that narrow the broad expanse of engineering domains in which computing is used.
+
+This unit sketch tries to overcome this limitation, having  a disability justice lens to the engineered physical places and digital websites they interact with on a daily basis, and consider who is excluded, who is included, and how these spaces and websites can be redesigned to include everyone. By the end of this unit, students will be able to:
+
+* Identify different layers of exclusion in the world around them
+* Redesign an interface people are required to use
+
+=
+### Session 1: Critical scavenger hunt
+* Offer direct instruction on how our built environments which are designed can be exclusionary to people with disabilities (e.g., stairs without ramps, lack of braille alternatives to printed text, audio only feedback on public transit). Ask students to think of their own examples from everyday life where someone who cannot see, hear, or walk might not be able to fully engage with the engineered world.  
+* Prompt students to critically examine the environment they live in by conducting a “Critical Scavenger Hunt” where they examine the way the physical building they are in limits individual autonomy and inclusion. Offer a quick demonstration using the classroom environment as example, then send students head out in teams (online or in person) to find engineered infrastructure or devices with limited or exclusionary designs. Have students capture these designs in multiple media such as notes and images, and document who they exclude and why. Have them note the many types of technology that are needed to make them work.
+=
+
+This first session orients, helping students see the built environment around them firstly as an engineered thing, and secondly as a site for exclusion. By having students critique the environment they learn and/or reside in, it helps them see their world through an engineered lens.
+
+After students have examined their environments’ exclusion, the next session has them take an engineering design perspective, discussing and redesigning their environment to be more inclusive. 
+
+=
+### Session 2: Critique and prototype
+* Have students share the results of the examination of their environments. After each, help students identify, define, and clarify how the environment is excluding, facilitating brief discussions of how the presented problems might be redesigned to be more inclusive. The larger the group, the better, as you will have more students examining the situation and bringing additional perspectives to possible forms of exclusion. 
+* After sharing, facilitate a rapid redesign session in their original groups, where they quickly sketch alternative designs that would be more inclusive. Prior to the end of the session, have them present their redesign concepts, soliciting similar critiques from the class to identify any new inclusion issues the redesign might have introduced.
+=
+
+By having students shift from critic to designer, and then back to critic, this session normalizes the iterative nature of engineering design, helping them see engineered environments and artifacts as something that can change. The next session builds on this perspective by having students examine digital  environments in a similar way.
+
+=
+### Session 3: Critiquing digital exclusion
+* Recap the examination of physical spaces and contrast them with digital ones, such as the software applications and web sites found on computers, tablets, mobile devices, and other digital consumer technologies. Throughout, give examples of the many domains in which digital environments exist, including school, government, commerce, games, and more.
+* Have students form groups based on domains of interest, then prompt the groups to identify and examine a particular website or application and any hardware or built environment that must be used with it. Have students first examine it individually for ways that the design might exclude people based on their abilities, language, culture, identity, and other factors. 
+* After examining it individually, have them share in their groups the critical lenses they used to evaluate the design, noticing the different kinds of exclusion that each student focused on. For example, one student might have examined a website for color contrast to see if the website is readable for low vision while another student might have examined the website to see if it works with a screen reader. 
+* After sharing as a group, have all groups share the factors they considered with the whole class, building a larger class-wide list of exclusionary factors, surfacing the many diverse perspectives of students in the class.
+* Prior to ending the session, bring students back together to reflect on how the inclusion issues in the digital environments were different from those in physical environments. What unique inclusion barriers do each type of engineered environment pose? 
+* To end the session, students pick one website, app, or other digital interface to redesign.
+=
+
+This session returns to the critical lens of session 1, building skills in critically evaluating the accessibility of digital environments, and having them reflect on how different engineering contexts pose different inclusion concerns. It leverages the multiple diverse exclusion considerations that individual students make to help make visible the much broader set of considerations across all students.
+
+The next session builds upon this broader set of inclusion considerations, shifting back to design, asking students to improve the designs they critiqued.
+
+=
+### Session 4: Digital redesign
+* Ask  students to redesign the application or website they analyzed in the previous session, examining precisely why it was exclusionary and what kinds of design changes might avoid excluding some people. Encourage students to use low-fidelity pen and paper prototyping or simple presentation platforms to create mockups of redesigns.
+* Halfway through the session, have student groups pair with other groups to critique each others’ redesigns. Did their redesign address the inclusion issues? Did they introduce new inclusion issues?
+=
+
+This session provides one round of iteration, helping students envision and evaluate their redesign. This last session provides a second, challenging them to take their feedback and create one more significant iteration to resolve any issues identified. It also exposes their idea to the whole class.
+
+=
+### Session 5: Share and critique
+* *Summative Assessment*. Ask groups to revise their design based on the previous session’s feedback to further maximize inclusion. Have them prepare a presentation in which they present a polished sketch and a narrative that articulates the problems with the existing design and their approach to addressing the problems. Co-construct a rubric for how the presentations will be evaluated and how students’ critique contributions will be evaluated. 
+** This is _responsive_ because it centers students’ design ideas.
+** This is _participatory_ because it gives students’ agency in shaping what qualities they believe are important in both presentations and critical feedback.
+** This is _educative_ because it offers students an opportunity to practice communicating a design idea persuasively.
+* Prior to presentations, offer direct instruction on how to share critique constructively. Possible critical prompts include:
+** What do you notice?
+** What intentional examples of inclusion do you observe?
+** What do you wish was more inclusive about the redesign?
+* Have students present their designs and then receive constructive critical feedback from the entire class. This scale helps identify additional lenses of exclusion in large group discussions, as the more people and experiences that examine an idea, the more lenses of exclusion can be identified and rectified. 
+=
+
+The primary goal of this unit sketch is to allow students to step back and start to examine the world around them and observe the ways it is exclusive. But it also aspires to help students see themselves as designers of the world, redesign its environments and software to work for everyone. It also aspires to be inclusive to different engineering perspectives, enabling students to examine all forms of engineering and the many ways that computation is woven through them.
+
+There are some risks in the unit. For example, this sketch might surface ableist or nationalist views from students who might not believe that everyone should be included in built and digital environments. It risks also having a paternalistic tone, where students see themselves as "saviors" of people with disabilities, as opposed to being facilitators of disability justice. Teachers play a role in surfacing these value tensions  and ensuring that people with normative cultures or abilities do not dominate conversations.
 
 # Conclusion: digital making and maintaining
 

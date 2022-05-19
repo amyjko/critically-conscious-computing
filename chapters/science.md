@@ -14,7 +14,7 @@ In the rest of this chapter, we’ll discuss the many ways that computing is now
 
 Computing plays two major roles in science: as an artifact that enables science and an artifact enabled by science. These two mutually beneficial roles occur across the sciences. We’ll discuss them across the three major NGSS divisions of natural science: physical, life, and earth and space.
 
-## Physical Sciences
+## Physical sciences
 
 The physical sciences -- _physics_ and _chemistry_ -- examine the foundational elements of our natural world: force, reactions, energy, matter. These properties of our universe can be fascinating because they are so far reaching, affecting every natural system in surprisingly predictable ways. But they are also fascinating because they are so often invisible to human perception: we cannot see force, we cannot see reactions, and we cannot see energy, at least with our natural senses of sight and hearing.
 
@@ -28,7 +28,7 @@ Of course, physical sciences have also enabled computing. Computer hardware, for
 
 And as computing has matured through science, it has returned dividends to scientific discovery. For example, the particle accelerators that have enabled us to examine the behavior of subatomic particles are surprisingly reliant on software to not only capture and store data, but to analyze it at unprecedented levels of precision. The experiments run on in particular accelerators, for instance, require highly precise numerical calculations, far more precise than can be done with a consumer computing device. The flexibility of software has enabled physicists to write custom FORTRAN APIs that perform arithmetic and extremely high levels of numerical precision, giving exceptionally high confidence about the behavior of exceptionally small particles. None of this science would be feasible if scientists were still doing calculations manually.
 
-## Life Sciences
+## Life sciences
 
 For much of the history of the life sciences, discovery was about description and categorization of new species and new ecosystems. This began to change with two major advances: the theory of evolution, which posited that species change through successive generations of reproduction and through the discovery of DNA in the late 19th century. Since those theories emerged and the structure and function of DNA and its role in evolution was confirmed, biology has rapidly shifted from a science of classification to a science of modeling and prediction, largely governed by the central role of DNA and RNA in encoding life.
 
@@ -46,7 +46,7 @@ Computing has also enabled new types of observations of life. Large cats, for ex
 
 Computing has also enabled new forms of public participation in life sciences. For example, games like [Fold.It|http://fold.it] have engaged hundreds of thousands of people in solving the hard problem of protein folding, which is the process by which complex protein sequences encoded in DNA are eventually “folded” into three-dimensional structures. This game invites citizens to search for how proteins are folded while following the constraints imposed by physics and chemistry. The result has been that many untrained scientists, scaffolded by a carefully designed game, have made many discoveries about the structure of proteins, enabling new insights into diseases and how to treat them. Other citizen science projects like [OceanEyes|https://www.citizenscience.gov/catalog/511/#] engage the public in helping to analyze the millions of images of undersea life, helping to model fish life and its relationship to the broader ocean ecosystems. Computing makes this possible by sharing large amounts of data with hundreds of thousands of volunteers to tag and locate fish in images.
 
-## Earth and Space Sciences
+## Earth and space sciences
 
 The core topics in Earth and space sciences span the universe and its stars, Earth and the solar system, and the history of planet Earth. These ideas are coupled with other central concepts fundamental to other sciences, including how matter formed during the Big Bang and within stars, how the behavior of the sun changes our lives. These many ideas, each intersecting with the NGSS concepts of patterns, scale, proprition, quantity, energy, matter, and stability, are pervasive, helping to model and explain the mechanics of the universe and our planet’s position in it.
 
@@ -62,7 +62,7 @@ Computing has also enabled Earth and space sciences to engage the public in data
 
 Computing has also been central to space exploration. For example, NASA has now sent several robots to the nearby planet Mars to support soil analysis, explore craters, analyze the atmosphere, and take pictures of the planet. _How did we get a robot to Mars?_ Engineering was central, of course, as robotics is partly a discipline of mechanical, electrical, and industrial engineering. But robots also require software: computing, and many decades of research on machine learning and robotic intelligence, enabled the rover to safely land, to navigate rocky terrain, to self-maintain its lenses and equipment, to recharge its own batteries, and to monitor environmental conditions for threats to its safety. But computing also enabled the Mars Rover team to communicate with the robot. Each day (roughly 25 hours Earth time), the Mars Rover team would write and debug computer programs for the rover to follow to  achieve a particular scientific mission, transmit the program 200 million miles away to the Rover on Mars, and then wait for it to execute and return results. Debugging a computer program on the computer in front of you is hard, but at least you can watch the program execute. Debugging a program that takes 18 minutes to transmit to a robot on another planet is a different challenge entirely.
 
-## Science, Computing, and Bias
+## Science, computing, and bias
 
 While the impact of computing on science has been profound, rapidly accelerating advances and opening up previously invisible worlds of space, ocean, and subatomic particles, science has been subject to some of the same oversights as mathematics, statistics, and computing. For example, a foundational problem is one of sampling: what life is studied, what parts of the Earth are studied, and who in society is studied? These choices by scientists directly shape the knowledge we have about our bodies and our world in ways that can advantage some and disadvantage others. For example, for centuries, health scientists have predominantly studied white men, often assuming that insights about this narrow demographic group would generalize to women and other ethnic groups and cultures. Research has clearly shown that they do not: biological diversity, ironically, applies to humans too, and so many of our research findings about human anatomy and physiology are unfortunately shaped by our gender and racial hierarchies. Computing, in accelerating the science of biology, has only further masked this bias, shielding it behind a narrative of algorithm and data objectivity.
 
@@ -70,7 +70,7 @@ Similar kinds of bias exist in sciences concerned with nature more broadly. For 
 
 Many of these issues have become more visible and consequential with the advent of ~data science~datascience — a phrase coined in industry to refer broadly to the use of algorithms to answer questions with data —and has since been adopted in academia to refer to the use of algorithms and large scale data in science. As we discussed in [CS + Mathematics|math], data science is closely tied to the use of algorithms and statistics to analyze data. In science, however, data science techniques have been key to enabling science to harness large data sets. But in the process, many of the issues above about representation, measurement bias, and even what questions are asked, have become amplified. Whereas science was once making biased conclusions on small data sets slowly, it is now making biased conclusions on large data sets quickly, excluding people at the margins at greater rates than ever before.
 
-# Teaching Science with Computing
+# Teaching science with computing
 
 As we have discussed above, science has always engaged data as a central part of discovery. But the advent of computers, just as other scientific instruments have throughout history, has transformed science into a computational discipline, using computing to gather data, analyze it, share it and communicate it. Science education has responded to this shift in science, partly through the Next Generation Science Standards, but also culturally, [recognizing|https://kappanonline.org/math-importance-emergence-k12-data-science-lamar-boaler/] that the use of data and computing through data science is now central to science literacy.
 
@@ -90,7 +90,7 @@ An additional approach has been to use computing as a medium for scientific comm
 
 Teachers across different scientific disciplines generally find all of the approaches above resonant, appreciating the active learning required to manipulate and construct simulations, data, and narratives<corum19,birney19b,birney19c>. However, many efforts to engage teachers in professional development on computational science education raise a recurring question: what is the computation for<wilkerson16>? The more that teacher education can concretely demonstrate how computing can achieve all of the learning benefits above, the more teachers tend to embrace computation as a means to science literacy and see it as an authentic part of science.
 
-## Unit Sketch: Data, Science, and Exclusion
+## Unit sketch: Data, science, and exclusion
 
 Many of the pedagogical explorations described in the previous section focus on developing a kind of optimistic scientific literacy, one that celebrates the beauty and wonder of science, and connects science to students’ individual lives. But another key part of scientific literacy is understanding its limits: what does it struggle to investigate, how does it manage bias, and what role does interpretation play in shaping the scientific truths that we arrive at in science? Data is a critical part of all of these limits, and with the advent of data science, applying computing to gathering and analyzing data, understanding the role of data in science is key.
 

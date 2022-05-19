@@ -136,9 +136,81 @@ Other similar integrations are emerging for other topics within mathematics. For
 
 All of these recent explorations into math and computing integration validate the early theories of Papert and other educators, but in nuanced ways: they show that computing can be a powerful medium for exploring mathematics interactively, but only in the presence of careful scaffolding, teacher mastery of computing media, and enough teacher agency to harness computational media for learning.
 
-# Unit Sketch
+## Unit Sketch: Examining mathematical modeling
 
-% Insert the unit sketch!
+As the overview above shows, there is a long rich history of explorations of integrations between mathematics and computing. Most of these integrations engage the overlapping concepts of the disciplines, such as calculation, quantity, expressions, and functions, but also the many overlapping practices, such as attention to precision.
+
+In this unit sketch, we engage these same ideas, but in ways that make space for critical conversations about modeling in both computing and math. It achieves this by situating algebra in computational context, enabling youth to interrogate the limits of models in interactive and culturally responsive ways. By the end of the unit students will be able to:
+
+1. Identify the algebraic expressions in a computer program
+2. Reliably construct algebraic expressions in a computer program
+3. Reliably manipulate algebraic expressions in a computer program
+4. Critique the limitations and potential impacts of particular algebraic expressions
+5. Find examples of mathematical models in the news
+
+The unit begins by engaging youth in examining the differences between algebraic syntax, expression syntax, and natural language.
+
+=
+### Session 1: Natural language vs. math syntax
+* Introduce [Wolfram Alpha|https://www.wolframalpha.com/] as an elaborate calculator. 
+* Explain the alignments and misalignments between Alpha expression syntax and expression syntax in mathematics by comparing the natural language and math syntax query modes. A starting question might be “what is the weight of an orange?”
+* Encourage students to write natural language questions that would make sense to a human, but will foil the efforts of the calculator. What do they notice about the kinds of questions they can ask a natural language calculator? What do they notice about the questions they can ask in math syntax?
+* Prompt students to develop a set of rules for asking in natural language vs. math syntax in the interface. Can they express the rules? Can they break the rules? If so, how might they modify those rules so that they are harder to break?
+* Encourage students to continue to try and test the rules they’ve  written and work as a team to  develop a codified set of rules. 
+=
+
+The goal of this first session is to help students get comfortable with the many different notations at play in Alpha: mathematical notations, the computational notations that Alpha adds, and the natural language notations embedded in Alpha’s query language. By having students explore and discuss the limitations of and differences between math syntax vs. natural language, they will hopefully see that notation is at some level arbitrary and designed
+
+In the next session, students will take the rules they discovered and start to apply them to questions they develop about a particular domain.
+
+=
+### Session 2: Applying math syntax
+* With students, co-construct a domain of focus for applying algebraic expressions. For example, if the domain was grades, you might discuss grading on a Gaussian curve or using step functions to determine grades. If the domain was physics, you might discuss parabolas as models of trajectories objects.
+* Using [Wolfram Alpha|https://www.wolframalpha.com/] or a graphing calculator like [Desmos|https://www.desmos.com/calculator], build the expression together using various operators and enter it into the graphing calculator  to observe visualizations.
+* Begin a discussion about the concrete implications of the abstract representation of the domain: what would it mean to adopt the expression in a computer program as part of a system or policy? For example, in the grading domain, what are the implications of grading on a curve or using step functions? What do the models miss about the world? Have students capture their biggest concerns and connect them to the particular mathematical model used
+=
+
+This second session builds upon the syntactic explorations in the first by having students explore the application of mathematical models in personally relevant contexts, positioning mathematical models as abstract representations of the world. The next session builds upon this by having students select a domain of specific interest to them and begin developing their own mathematical models.
+
+=
+### Session 3: Group and explore a question
+* Have students find peers with shared concerns or questions in a domain they want to explore in more depth. Some students will be more comfortable with this, and some will need some encouragement or a few question prompts that they might find interesting. Develop a set of possible options for students who cannot think of their own domains.
+* Challenge students to build an algebraic expression that models something in their domain, but tries to achieve some higher degree of fairness than existing models in that domain. Offer prompts to your students like:
+** Define what fair might mean in this context.
+** Who benefits from this definition of fair?
+** Who suffers from this definition of fair?
+** What changes to the expression might improve fairness?
+* Organize the rest of the session as studio time to work on their expression in Alpha, helping students express their ideas mathematically and syntactically in Alpha, and facilitating implementation and debugging.
+=
+
+This third session builds on the scaffolding in the second, helping students see algebraic expressions as not only models of phenomena in a domain, but models in problems of personal relevance that have implications in the world. This also positions students as designers of mathematical models, challenging them to analyze the unintended consequences of models.
+
+In the next session, students will use the models they built in the third session to present to their peers, shifting to a critical stance and learning to provide constructive critique.
+
+=
+### Session 4: Presenting and critiquing Models
+* *Summative assessment*. Have teams prepare a short presentation of their domain and algebraic expression and their argument for why they are more fair than the original one presented and any other strengths and weaknesses they perceive in their proposed model. Co-construct a rubric for how the presentations will be evaluated.
+** This is _responsive_ because it centers students’ chosen domains and models.
+** This is _participatory_ because it gives students’ agency in shaping what qualities they believe are important in their presentations.
+** This is _educative_ because it offers students an opportunity to reflect on how to communicate about algebraic expressions and fairness.
+* After preparation time, have each team present.  After the presentation, have their peers  constructively critique what they liked, struggled to understand, and wondered about the model.
+=
+
+This fourth session, rather than being generative, is evaluative. This places a burden on students to be mindful of constructive critique, but an even greater burden on teachers to be thoughtful about how to scaffold critique and provide feedback about the quality of students’ critiques, such as their insightfulness and constructiveness.
+The last session pivots again, building on what they have learned by critically examining mathematical models in current events. 
+
+=
+### Session 5: Finding mathematical models in the news
+* In new groups based on student interest, ask students to identify articles or examples of mathematical models in current events, and if possible, additional articles that examine the model from an alternate perspective. For example, such stories might concern economic projections, science journalism, sports, or any other domain that uses mathematics for modeling and prediction. Alternate stories might question analysis of the model, or provide a different interpretation.
+* Depending on the size and composition of the class, it might be helpful to have each member of the group take on a different role in this research (e.g., scribe, designer, speaker).
+* After identifying a model, ask students to prepare a short poster or slide sharing the model and who benefits from the model and who is harmed.
+* Once the groups have made their visual, have students participate in a gallery walk to see examples that other groups have identified, prompting them to identify trends that they observe across the multiple examples.
+* Guide a class discussion on what trends students observed between different mathematical models and their applications. Are there issues of fairness that arise in all models? What makes models difficult to interpret?
+=
+
+Unlike prior integrations, this unit sketch has the benefit of directly integrating math and computation in a social context and centering students’ perspectives and values in shaping the model. It also allows them to explore places that those models are being used in the world around them. By engaging mathematics, computing, and society in this culturally responsive way, it promises to help students see the direct connections between mathematics, computing, and the world.
+
+This sketch assumes some facility with algebra and also avoids doing any direct instruction on Alpha, which is complex in its own ways. It might be followed by a more in-depth unit using Alpha as a way to explore Common Core concepts in more depth.
 
 # Conclusion: Bringing mathematics to life
 

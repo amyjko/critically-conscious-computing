@@ -146,7 +146,7 @@ Not every assessment activity will be intimately connected to the long-term goal
 Among the specific purposes for assessment, within the context of CS, this book argues that most, if not all assessments should have a justice-centered purpose. Some examples of justice-centered purposes for assessment might be:
 
 * That students develop skills to critically evaluate whether a piece of software encodes bias.
-* That students see themselves as powerful and capable of using and shaping computing, rather than simply being subject to the designs an choices of corporations and governments.
+* That students see themselves as powerful and capable of using and shaping computing, rather than simply being subject to the designs and choices of corporations and governments.
 * That students can articulate ways that computing can be used to address inequities and injustices in their communities and in broader systems.
 
 Any justice-centered purposes of assessment should be discussed with students, and moments to reflect on those purposes should be provided as well. We provide examples of these throughout the rest of this book.

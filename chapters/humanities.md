@@ -14,7 +14,7 @@ Upon closer inspection, however, it becomes clear that the intersections between
 
 While this intersection has been present throughout this book, we’ve primarily approached it through the lens of computing as a discipline. For example, our questions were what does ethics have to say about Boolean truth values, not what do Boolean truth values have to say about ethics? Thus, in this chapter, we will instead center the humanities and social sciences, examine what role computing is playing in them, and how these intersections might be brought into secondary humanities classrooms.
 
-|placholder.png|Placeholder|Placeholder|@ashley|
+|Chapter20_Figure1.png|Four people gardening with a stream of bits floating in the background.|Computing is increasingly a backdrop for people, community, and communication.|@ashley|
 
 # Intersections
 
@@ -104,7 +104,7 @@ The humanities and social sciences are the origin of the criticality in this boo
 
 But humanities and social sciences have also traditionally been reluctant adopters of technology. Perhaps this stems from skepticism; perhaps it also stems from the same kinds of disinterest and low self-efficacy that deter youth from studying computing. While this is not inherently problematic -- not every facet of the world needs to be computational -- it has meant that many in humanities and social sciences have overlooked and even discounted the importance of computing in the world and in their own disciplines. We can hope that as these fields are beginning to recognize just how much computing is changing the world that humanities and social science scholars will be at the forefront of helping us imagine and demand a computational world that is more humane than the one we have created so far.
 
-|Chapter20_Figure2_Writing.png|Five children setting at desks, writing, with code in the background doing something with books.|Writing about humanity and computing is one way to integrate CS into humanities and social sciences.|@ashley|
+|Chapter20_Figure2.png|Five children setting at desks, writing, with code in the background doing something with books.|Writing about humanity and computing is one way to integrate CS into humanities and social sciences.|@ashley|
 
 # Teaching humanities and social sciences through computing
 

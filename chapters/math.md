@@ -120,6 +120,8 @@ Much of this book has explicated the ways in which computing has often ignored s
 
 These ideas, described in detail, observe how the semblance of objectivity in mathematics and statistics, when combined with large volumes of data, has numerous unintended social effects. Thus, while this whole book has interrogated these critical questions for computing, mathematics and statistics are also complicit.
 
+|Chapter22_Figure2.png|A black woman teacher writing the quadratic formula a whiteboard that has code for computing the same thing.|Mathematics and computation have shared roots.|@ashley|
+
 # Teaching Mathematics with Computing
 
 Teaching math through computing has been of emerging interest since the 1980’s. Part of this interest amongst teachers and education researchers is the seemingly many overlaps we described in the previous section. With so many aligned concepts, integration has always seemed inevitable. Seamless integrations, however, have been hard to develop. Many integration approaches have centered on computing as a medium for exploring mathematics that enables new math pedagogy, whereas others have explored the concepts in computing themselves, aligning them with concepts in mathematics.

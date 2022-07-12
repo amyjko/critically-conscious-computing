@@ -10,7 +10,7 @@ But engineering is also connected to computing in other ways.  Early in this boo
 
 In the rest of this chapter, we will survey the many disciplines of engineering, discuss the tensions between the how and why of engineering, and then discuss how to engage students at the intersection of engineering and computing.
 
-|question.jpg|TODO|TODO|@ashley|
+|Chapter24_Figure1.png|Two engineers in hard hats look on to a very large instrument from which bullet traints, bridges, and electrical towers are emerging.|Engineering needs simulation and modeling, and computing is eager to help.|@ashley|
 
 # Intersections
 
@@ -79,8 +79,6 @@ Whereas nanotechnology deals with very small structures, some structures are so 
 At a deep level, engineering is a pragmatic endeavor, practically applying whatever science and technology is available to solving practical problems in human life. This pragmatism is one of its greatest assets: engineers do not let arbitrary disciplinary boundaries impede progress: if we can harvest sustainable energy by combining algae, photosynthesis, computation, and manufacturing, great; whatever barriers to interdisciplinarity exist, engineers regularly break them down in order to solve problems. This pragmatism, and relentless focus on solving problems, is what enables the field to make impressive progress on some of humanity’s greatest struggles with survival. And computing shares this ruthless pragmatism with engineering, liberally borrowing from science, technology, engineering, and mathematics to solve practical computational problems, like finding the fastest route to work, returning relevant search results in 50 milliseconds, and securing private data from thieves and schemers.
 
 But pragmatism has its limits. Engineering, like computing, can often be so narrowly focused on one framing of a problem that it overlooks different ways of conceiving problems and different ways of living. For example, engineers are hard at work on trying to find more sustainable sources of energy to sustain our way of life; but this leaves little room for the many artists, activists, writers, and social scientists who wonder whether our way of life is sustainable in general, no matter the source of energy. Computing, to the extent that it is an engineering discipline, struggles with this same myopia. For example, is life really about trying to find the fastest way to school or work? Why isn’t it about trying to find the most joyful route or finding ways to work closer to home, or simply work less? This general tension between focusing on how to solve a problem, why to solve a problem, and for whom to solve a problem is a shared oversight of computing and engineering and one that each must engage fully.
-
-|question.jpg|TODO|TODO|@ashley|
 
 # Teaching engineering with computing
 

@@ -8,7 +8,7 @@ Up until the invention of the computer, this view would have been accurate. Afte
 
 In the rest of this chapter, we’ll discuss the many ways that computing is now woven through science. We’ll then review the many opportunities to integrate computing into science and give one example of a unit that does so critically.
 
-|question.jpg|TODO|Code is now a scientific instrument.|@ashley|
+|Chapter23_Figure1.png|A scientist pipetting while a spiral of binary digits encircles the pipette.|Some aspects of life are data.|@ashley|
 
 # Intersections
 
@@ -69,6 +69,8 @@ While the impact of computing on science has been profound, rapidly accelerating
 Similar kinds of bias exist in sciences concerned with nature more broadly. For example, there is unequal access to participating in science: those with computers and access to the internet can participate in citizen science, learn of scientific discoveries, and connect with scientists in ways that those without cannot. Because these disparities persist along class and racial boundaries, science itself is composed of predominantly upper class white people, who are driven by curiosities shaped by their perspectives and concerns. If science more broadly reflected humanity, and the computational tools of science were more equitably distributed to humanity, what scientific questions would we be asking that we are not asking now? And how might the answers to those questions lead to different, and perhaps more equitable social progress?
 
 Many of these issues have become more visible and consequential with the advent of ~data science~datascience — a phrase coined in industry to refer broadly to the use of algorithms to answer questions with data —and has since been adopted in academia to refer to the use of algorithms and large scale data in science. As we discussed in [CS + Mathematics|math], data science is closely tied to the use of algorithms and statistics to analyze data. In science, however, data science techniques have been key to enabling science to harness large data sets. But in the process, many of the issues above about representation, measurement bias, and even what questions are asked, have become amplified. Whereas science was once making biased conclusions on small data sets slowly, it is now making biased conclusions on large data sets quickly, excluding people at the margins at greater rates than ever before.
+
+|Chapter23_Figure2.png|A very tiny teacher and group of students gather around a very large spreadsheet.|Spreadsheets are the quintessential tool of science, but also a programming language.|@ashley|
 
 # Teaching science with computing
 

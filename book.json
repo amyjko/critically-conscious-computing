@@ -166,14 +166,14 @@
 			"id": "humanities", 
 			"title": "CS + Humanities + Social Sciences",
 			"authors": ["[Amy J. Ko|https://amyjko.com]"],
-			"image": "|Chapter20_Cover_Gardening.png|A community gardening, singing songs of binary.|The humanities and social sciences are about people first; computing is only part of the story.|@ashley|",
+			"image": "|Chapter20_Cover.png|Statures, whispering, Chinese characters, greek, and various artifiacts.|The humanities and social sciences are about people first; computing is only part of the story.|@ashley|",
 			"section": "Integration"
 		},
 		{
 			"id": "arts", 
 			"title": "CS + Arts",
 			"authors": ["[Amy J. Ko|https://amyjko.com]"],
-			"image": "|Chapter21_Cover_Arts.png|Musical notation, dancers, writers, cameras, and more, amidst binary digits.|Art has long been part of computing.|@ashley|",
+			"image": "|Chapter21_Cover_Music.png|Musical notation, dancers, writers, cameras, and more, amidst binary digits.|Art has long been part of computing.|@ashley|",
 			"section": "Integration"
 		},
 		{
@@ -194,7 +194,7 @@
 			"id": "engineering",
 			"title": "CS + Engineering",
 			"authors": ["[Amy J. Ko|https://amyjko.com]", "[Jayne Everson|http://jayneeverson.com]"],
-			"image": "|question.jpg|TODO|TODO|@ashley|",
+			"image": "|Chapter24_Cover.png|A hard hat, hammer, cranes, and blueprints intersect with a laptop screen.|Engineering is better with bits.|@ashley|",
 			"section": "Integration"
 		},
 		{

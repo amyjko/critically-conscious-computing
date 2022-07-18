@@ -274,7 +274,7 @@ This first session opens a broad conversation about the kinds of oppression in s
 
 * As each idea is evaluated, annotate which ones might hold promise to actually impact the problem identified by the goal.
 
-* After identifying a subset of promising ideas, have students cluster around the ideas that they are most excited about building. Break clusters into groups of 2, or 3 at most, and declare them teams.
+* After identifying a subset of promising ideas, have students cluster around the ideas that they are most excited about building. Break clusters into groups of 2, or 3 at most, and declare the teams.
 
 * In the remaining time, have students share their preferences around how they communicate (e.g., preferred messaging services).
 =

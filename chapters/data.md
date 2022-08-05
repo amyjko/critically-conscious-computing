@@ -80,7 +80,7 @@ if ssn >= 545000000 and ssn <= 573999999:
     print("Born in California!")
 `
 
-The same bits would have been stored in memory, but Python would now think that the variable ssn is what Python calls a string, instead of an integer. Then, when it reaches the expression `ssn >= 545000000`, it would be confused: how does one check if `!!!!` is greater than `545000000`? It can’t, and so the program quits, giving an error that the greater than or equal to equality requires two numbers to execute, but it got one string and one number, which aren’t comparable. Data types are therefore an essential concept in encoding data structures as bits, helping to find errors in a program’s logic.
+The same bits would have been stored in memory, but Python would now think that the variable ssn is what Python calls a string, instead of an integer. (In many programming languages, strings are distinguished using quotation marks; while `545` is an integer, `"545"` would be treated as text even though it uses the same symbols.) Then, when it reaches the expression `ssn >= 545000000`, it would be confused: how does one check if `!!!!` is greater than `545000000`? It can’t, and so the program quits, giving an error that the greater than or equal to equality requires two numbers to execute, but it got one string and one number, which aren’t comparable. Data types are therefore an essential concept in encoding data structures as bits, helping to find errors in a program’s logic.
 
 Some basic data types like strings have common operations that can help analyze data. For example, string data types have many common operations.
 

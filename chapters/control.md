@@ -1,7 +1,7 @@
 =
 @keyIdeas
 * The foundation of a computer’s ability to make decisions are control structures.
-* Control structures require programmers to reduce decisions to logic that leverages Boolean logic, data comparisons, and other kinds of case-based logic.
+* Control structures require programmers to reduce decisions to rules that leverage Boolean logic, data comparisons, and other kinds of case-based logic.
 * Loops are control structures that allow a computer to make large numbers of decisions on fixed sets of information, or even infinite amounts of information, indefinitely.
 * Because control structures only approximate human decisions in the real world, their imperfections can have many unintended consequences.
 * Teaching and assessing control structure knowledge requires students to learn not only the syntactic and semantic rules of a programming language, but also skills for mimicking the behavior of a program following those roles.

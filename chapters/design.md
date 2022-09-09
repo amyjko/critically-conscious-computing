@@ -184,7 +184,7 @@ The third session asks students to evaluate and select a story:
 
 * Explain that there are five phases left: evaluation, planning, implementation, verification, and deployment, and that evaluation is next.
 
-* Explain that evaluation is different from ideation is that it is explicitly critical: not all stories are worth telling; some stories might be harmful.
+* Explain that evaluation is different from ideation because it is critical: not all stories are worth telling; some stories might be harmful.
 
 * Share with students the list of ideas you brainstormed when coming up with your own story to tell, and explaining the criteria you used to select one: 1) it should focus on design decisions that have variable outcomes for different users, 2) it should reveal tradeoffs in design decisions, 3) it should illustrate the consequences of a choice on diverse groups.
 

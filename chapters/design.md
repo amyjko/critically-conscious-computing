@@ -196,7 +196,7 @@ The third session asks students to evaluate and select a story:
 
 ** This is _responsive_ in that it surfaces diverse peer perspectives on the story.
 ** This is _participatory_ in that students have agency in determining what kind of feedback to give.
-** This is _educative_ in that it positions students as evaluators, helping them practice analytical skills useful that they can apply in their later work.
+** This is _educative_ in that it positions students as evaluators, helping them practice analytical skills.
 
 * Ask students to reflect on the feedback they received. Were their self-evaluations in conflict with their peer evaluations? How would they change their story to reconcile them?
 =

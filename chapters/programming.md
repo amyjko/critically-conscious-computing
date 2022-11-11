@@ -226,7 +226,7 @@ To achieve these objectives, the unit focuses on a programming problem of small 
 
 * Define the five activities involved in programming and how each of them have their own challenges.
 
-* Present a second idea related to the example as the challenge for the unit, fitting the same criteria, and ask the students to break into teams of two or three and to refine the design of the. What aspects of the design might be biased or cause harm? Should the program even be written?
+* Present a second idea related to the example as the challenge for the unit, fitting the same criteria, and ask the students to break into teams of two or three and to refine the design. What aspects of the design might be biased or cause harm? Should the program even be written?
 
 * At the end of the lesson, ask pairs to present modifications they want to make to the design before proceeding with programming.
 =

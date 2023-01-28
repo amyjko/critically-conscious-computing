@@ -1,12 +1,8 @@
 {
   "hosting": {
-    "predeploy": "rm -r public/*; cp index.html public/; cp book.json public/; cp -R chapters public/; cp -R images public/; cp -R fonts public/",
+    "predeploy": "rm -r public/*; cp index.html public/; cp bookish.css public/; cp bookish.js public/; cp book.json public/; cp -R chapters public/; cp -R images public/; cp -R fonts public/",
     "public": "public",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ],
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
         "source": "**",
@@ -16,8 +12,7 @@
   },
   "emulators": {
     "hosting": {
-      "port": 8000,
-      "host": "0.0.0.0"
+      "port": 8000
     }
   }
 }

@@ -356,7 +356,7 @@ One way of further integrating justice considerations into tracing is to have st
 
 While there are many things one can assess about CS knowledge, a surprising amount of both formative and summative assessment effort focuses on control structure reading skills. High stakes summative exams, including [Advanced Placement CS exams|https://apstudents.collegeboard.org/courses/ap-computer-science-a], the [Pearson|https://www.nestest.com/TestView.aspx?f=HTML_FRAG/NT315_TestPage.html] and [Praxis|https://www.ets.org/praxis/prepare/materials/5652] teacher certification exams, and many exams in higher education CS classes all focus heavily on control structure reading skills. Many researchers have developed carefully studied instruments for measuring CS knowledge<bockmon19,parker16>, but the majority of the items on those instruments are reading questions. And many curricula use formative assessment to help teachers monitor student learning, but those assessments generally focus on control structure reading skills.
 
-Such assessments generally follow the same multiple choice format:
+Such assessments generally follow the same multiple choice format{Try tracing this using the strategies above. Did you get it right? The correct answer is 24: the program uses `i`python to count from 1 to 4, and `n`python to compute, one number at a time, 4 factorial, the mathematical equivalent to 1 x 2 x 3 x 4.}:
 
 =
 Use the pseudocode below to answer the question that follows.
@@ -373,7 +373,7 @@ What will this pseudocode print?
 1. 4
 2. 12
 3. 16
-4. 24{Try tracing this using the strategies above. Did you get it right? The correct answer is 24: the program uses `i`python to count from 1 to 4, and `n`python to compute, one number at a time, 4 factorial, the mathematical equivalent to 1 x 2 x 3 x 4.}
+4. 24
 = 
 
 These items generally require a student to know the syntax of the programming language being used, the semantic rules of that syntax that determine the program’s behavior, as well as having the self-regulation skills necessary for systematically and methodically following the logic of the program to determine it’s output. Unfortunately, many students do not have these self-regulation skills<loksa16b>, and instead often try to guess the behavior of the program based on the (arbitrary) variable names in the program, on previous programs that they’ve seen that look similar, or on any cues they might notice in the multiple choice options. Additionally, many assessment items require learners to combine their knowledge of multiple different programming language features (in the example above indefinite loops and inequalities), and if they poorly understand either, they might get the entire question wrong, offering little diagnostic insight into their developing conceptions of the language semantics<nelson19>. These biases, as well as gender and racial biases that are inadvertently encoded into story problems and other problem contexts<davidson21,xie21>, as well as disability biases that can make assessment content inaccessible to students who must use screen readers, can make many formative assessments of control structure reading skills poor indicators of student learning.

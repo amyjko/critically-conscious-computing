@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "predeploy": "rm -r public/*; cp index.html public/; cp bookish.css public/; cp bookish.js public/; cp book.json public/; cp -R chapters public/; cp -R images public/; cp -R fonts public/",
-    "public": "public",
+    "public": "build",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {

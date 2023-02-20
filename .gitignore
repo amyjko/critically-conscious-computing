@@ -6,3 +6,4 @@ public/
 *.log
 .firebase/
 node_modules
+build

@@ -1,5 +1,4 @@
 
-images/small/.DS_Store
 images/.DS_Store
 .DS_Store
 public/
@@ -7,3 +6,6 @@ public/
 .firebase/
 node_modules
 build
+bookish-reader
+.DS_Store
+.DS_Store

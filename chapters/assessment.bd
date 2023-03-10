@@ -81,7 +81,7 @@ Such questions require students to understand the syntax and semantics of a prog
 Another common genre of assessment is a *writing prompt*, which describes some set of requirements that a program must meet and asks students to write a program that meets these requirements. For example, the free response item below details a few constraints in the context of a scenario:
 
 =
-A scientist has a list of more than 10,000 measurements, each a value greater than or equal to 0. They want to find the largest value in the list. Complete the function below, returning the largest value. Assume values contains a list of integers in no particular order.
+A scientist has a list of more than 10,000 measurements, each a value greater than or equal to 0. They want to find the largest value in the list. Complete the function below, returning the largest value. Assume `values` contains a list of integers in no particular order.
 
 `python
 def max(values):

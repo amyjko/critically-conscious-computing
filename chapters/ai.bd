@@ -295,7 +295,7 @@ This fourth session makes visible the process of classifier construction and eva
 
 * Discuss the importance of ethical considerations about AI before beginning a project. Use an ethics checklist<loukides18>, presenting to students questions such as:
 ** _Have we listed how this technology can be attacked or abused?_
-** _How will we tested our training data to ensure that it is fair and representative?_
+** _How will we test our training data to ensure that it is fair and representative?_
 ** _Have we studied and understood possible sources of bias in our data?_
 ** _Does our team reflect a diversity of opinions, backgrounds, and kinds of thought?_
 ** _What kinds of user consent do we need to collect or use the data?_

@@ -113,7 +113,7 @@ To translate that into binary, we can use an algorithm of repeatedly dividing th
 
 The sequence of remainders above, read in reverse, is `101001`, which is `41` in binary.
 
-Translating a decimal number back into binary follows a different algorithm. For each place in the binary digit, we write down the power of two it represents in decimal, as follows:
+Translating a binary number back into decimal follows a different algorithm. For each place in the binary digit, we write down the power of two it represents in decimal, as follows:
 
 ,32’s place| 16’s place| 8’s place| 4’s place| 2’s place| 1’s place
 ,1| 0| 1| 0| 0| 1

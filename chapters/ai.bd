@@ -325,7 +325,7 @@ As with other units in this book, this example emphasizes critical perspectives 
 
 # Conclusion: Intelligence at a Cost
 
-We've shown throughout this chapter how AI, like the rest of CS, is far from neutral. AI can detect cancer when used in medical settings, and it can also deny people food when used to determine food stamp eligibility. It can making driving safer, but it can also lead to false arrests. It can enable amazing new experiences in entertainment, but in the process, exploit unpaid or underpaid human labor. But these costs and benefits are not arbitrary: AI does harm when people use it in ways that ignorant of its limitations<boyd11,illiadis16,broussard19>. To harness its powers safely, all youth need to understand that:
+We've shown throughout this chapter how AI, like the rest of CS, is far from neutral. AI can detect cancer when used in medical settings, and it can also deny people food when used to determine food stamp eligibility. It can make driving safer, but it can also lead to false arrests. It can enable amazing new experiences in entertainment, but in the process, exploit unpaid or underpaid human labor. But these costs and benefits are not arbitrary: AI does harm when people use it in ways that ignorant of its limitations<boyd11,illiadis16,broussard19>. To harness its powers safely, all youth need to understand that:
 
 * _Data is a record of the past_, and so any system that uses it to shape the future will perpetuate past injustices.
 

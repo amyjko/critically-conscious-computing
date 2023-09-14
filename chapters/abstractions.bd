@@ -5,7 +5,7 @@
 * Functions and classes are abstraction and encapsulation mechanisms that give code a name so that it may be reused.
 * APIs are collections of abstractions that make it easier to create software by reusing existing functionality.
 * All abstractions hide detail, which risks erasing diversity, nuance, and context, and making it harder to identify when code being reused encodes bias, and harder to change the behavior of software.
-* Teaching abstractions can focus on use, design, or critique, all three having their own challenges .
+* Teaching abstractions can focus on use, design, or critique, with each having their own challenges.
 =
 
 Throughout this book, we have characterized computers as relatively unintelligent machines that mindlessly execute low-level instructions. Justice, in this view, is woven through the particular instructions that software developers choose and the particular data that those instructions process. But throughout these discussions, we’ve been able to critique these algorithmic choices directly because the instructions that developers choose in our examples have been *transparent*: we see every line of code in a program and can analyze each line for their computational meaning and social implications.
@@ -52,7 +52,7 @@ There are many features in programming languages that support abstraction, but p
 y = 5x + 2
 `A function for a line with slope 5 and intercept 2.
 
-You might recognize that as a function for a line with slope `5` and y-intercept `2`. In mathematics, students learn about functions in this spatial sense, imagining many possible values of `x`, the ways that those values are mapped onto a `y`-value via a function, and then how those `x` and `y` pairs might be visualized on a plot. In this way, functions are a mapping between inputs and outputs, where everyone input corresponds to some possible output. In the example above, when `x` is `5`, it maps to the `y` value of `5 x 5 + 2 = 27`; when it is `0`, it maps to `5 x 0 + 2 = 2`.
+You might recognize that as a function for a line with slope `5` and y-intercept `2`. In mathematics, students learn about functions in this spatial sense, imagining many possible values of `x`, the ways that those values are mapped onto a `y`-value via a function, and then how those `x` and `y` pairs might be visualized on a plot. In this way, functions are a mapping between inputs and outputs, where every input corresponds to some possible output. In the example above, when `x` is `5`, it maps to the `y` value of `5 x 5 + 2 = 27`; when it is `0`, it maps to `5 x 0 + 2 = 2`.
 
 Computer science embraced mathematical functions as a way of representing computation, just with a different notation. For example, here is the same function above, but in Python:
 
@@ -63,14 +63,14 @@ def y(x):
 
 Just as with the formula above, this function takes any value `x`python and returns it times `5`python, plus `2`python. Computing, however, expanded the notion of a function to also include *names*, to help give more meaningful, human readable descriptions of what input is being provided and what output is being computed. The function above allows a programmer to call a function by name; for example, the Python code `y(3)`python means "_call the function y with the value 3, execute it, and then obtain the value it returns_". In this case, this would mean finding the function named `y`python, setting a variable `x`python to the value provided, `3`python, getting the value of `x`python and multiplying it by `5`python, adding `2`python to the result, and then returning the value to whatever part of the program that called the function `y`python. This process is therefore unlike functions in math in many ways: we can give functions names that are more than just a single letter; we can use functions anywhere in a program where they are defined, and we can reuse functions throughout a program, to avoid having to write the same code multiple times. Functions are abstractions because they allow us to refer to some specific computation without having to worry about how that computation is implemented.
 
-Functions in programs can have more than one input. We call each of these named inputs *arguments*{This word too was borrowed from mathematics, which borrowed it from astronomy<bello13>, where it referred to angles between Earth and other planets, and was meant to mean "that which elucidates something else."}. For example, consider this Python function, which has to arguments:
+Functions in programs can have more than one input. We call each of these named inputs *arguments*{This word too was borrowed from mathematics, which borrowed it from astronomy<bello13>, where it referred to angles between Earth and other planets, and was meant to mean "that which elucidates something else."}. For example, consider this Python function, which has two arguments:
 
 `python
 def isEligibleToVote(age, citizenship):
     return age >= 18 and citizenship == "US"
 `
 
-These two arguments, `age`python and `citizenship`python, are used to compute a Boolean `True`python or `False`python value as to whether someone is eligible to vote. We would call it by writing the Python code `eligibleToVote(12, "Canada")`python, which would return the value `False`python. While this might look quite different from the mathematical function above, we could write it in a more mathematical syntax:
+These two arguments, `age`python and `citizenship`python, are used to compute a Boolean `True`python or `False`python value as to whether someone is eligible to vote. We would call it by writing the Python code `eligibleToVote(12, "Canada")`python, which would return the value `False`python.
 
 The inputs given to a function’s arguments can come from anywhere, but it’s important to note that it is the _values_ that are passed to functions, not the containers that store those values. For example, consider this program:
 

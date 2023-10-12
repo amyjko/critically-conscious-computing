@@ -289,7 +289,7 @@ None of this is meant to deter teaching about functions and APIs. Rather, it's t
 
 Whereas teaching function and API _use_ involves one set of challenges, designing _new_ abstractions, such as functions or classes, is a different skill entirely.
 
-One well established method for teaching function design comes from the book _How to Design Programs_<felleisen18>. This book starts from a "pure" view of functions, where, given some inputs, a function performs some analysis or operations on the inputs to determine the output. (Impure functions might have other side effects, as in the examples in the previous section of printing something output in Python or changing a character’s costume in Scratch). The book recommends teaching this design recipe:
+One well established method for teaching function design comes from the book _How to Design Programs_<felleisen18>. This book starts from a "pure" view of functions, where, given some inputs, a function performs some analysis or operations on the inputs to determine the output. (Impure functions might have other side effects, as in the examples in the previous section of printing some output in Python or changing a character’s costume in Scratch). The book recommends teaching this design recipe:
 
 1. Identify what information must be represented and how it is represented in a programming language.
 2. Write the function header, determining the inputs and their data types, and writing a description of what the function should compute.
@@ -302,7 +302,7 @@ Teaching this high level process is a form of scaffolding that can help students
 
 ## Unit sketch: Black box admissions
 
-Whereas the previous two sections describe methods for developing programming skill using functions, there are many reasons why programming might not be the goal. Students in a social studies class might be studying capitalism, and one might teach them about how functions can be an instrument of profit. Students in a civics class might examine how functions are an instrument of power. Students in a science class might examine how functions are used to analyze data to make scientific judgments. Moreover, teaching abstractions as apolitical has consequences: rather than connecting students with the rich history of code that others have written over the past decades, abstractions and their goal of encapsulate and hide details, can create a a kind of "wall" between students the ideas contained in them<malazita19>. This tradeoff, especially in the context of integrating CS into other disciplines, may actually _harm_ literacy, as it eliminates opportunities to critically examine the assumptions and models embedded in abstractions. All of these purposes demand a different literacy toward functions, one that examines their role in society, rather than harnessing them as tools for creativity.
+Whereas the previous two sections describe methods for developing programming skill using functions, there are many reasons why programming might not be the goal. Students in a social studies class might be studying capitalism, and one might teach them about how functions can be an instrument of profit. Students in a civics class might examine how functions are an instrument of power. Students in a science class might examine how functions are used to analyze data to make scientific judgments. Moreover, teaching abstractions as apolitical has consequences: rather than connecting students with the rich history of code that others have written over the past decades, the goal of abstractions is to encapsulate and hide details, can create a kind of "wall" between students and the ideas contained in them<malazita19>. This tradeoff, especially in the context of integrating CS into other disciplines, may actually _harm_ literacy, as it eliminates opportunities to critically examine the assumptions and models embedded in abstractions. All of these purposes demand a different literacy toward functions, one that examines their role in society, rather than harnessing them as tools for creativity.
 
 In this unit sketch, we demonstrate one method for teaching this critical examination. The unit uses a function of particular interest to many secondary students, especially high school students: the functions used to determine college admissions. This lesson examines an approximation of Texas’s college admissions process, which by state law uses a ["top 10%" rule|https://en.wikipedia.org/wiki/Texas_House_Bill_588] to automatically admit students who are in the top 10% of their class by GPA, Texas residents, and graduating from a public or private school in Texas, or a school in Texas operated by the Department of Defense. All other students undergo a holistic review of other factors. The key twist in this lesson is that students begin only being able to _use_ the function, and not see it’s implementation. The lesson then makes the logic transparent, and moves into more critical perspectives on unintended consequences of this function, and how it might be made more equitable.
 
@@ -317,15 +317,15 @@ The learning objectives are as follows:
 =
 ### Session 1: College admissions
 
-* Describe college, including what is, how it varies, and the tradeoffs in going to it.
+* Describe college, including what it is, how it varies, and the tradeoffs in going to it.
 
 * Explain that in many countries in the world, anyone can go to college for free, but that in the United States, everyone pays, and must apply and be admitted.
 
-* Explain that this requires the creation of a function, in which colleges are given several inputs -- transcripts, essays, SAT scores, and more -- and they compute one of three outputs: admit or deny. (One might also explain wait lists).
+* Explain that this requires the creation of a function, in which colleges are given several inputs -- transcripts, essays, SAT scores, and more -- and they compute admit or deny, or perhaps a wait list decision.
 
 * Explain functions as a mapping from input to output.
 
-* Given an example of a function that reflects the admissions decisions in Europe, such as the function below, which returns `True`python if a student is a citizen:
+* Give an example of a function that reflects the admissions decisions in Europe, such as the function below, which returns `True`python if a student is a citizen:
 
 `python
 def admit(citizen):
@@ -351,7 +351,7 @@ print(admit())
 * Solicit alternative admissions logic from the students, and live code those, showing the definition of several possible admissions functions.
 =
 
-This first session establishes the domain of admissions and the concept of functions, given students a sense of how inputs are mapped to outputs. Students should leave this session wondering about college, but also wondering about how college admissions decisions are made, and whether they are as simple as the functions demonstrated.
+This first session establishes the domain of admissions and the concept of functions, giving students a sense of how inputs are mapped to outputs. Students should leave this session wondering about college, but also wondering about how college admissions decisions are made, and whether they are as simple as the functions demonstrated.
 
 The second session introduces a new admissions function, but without revealing its logic.
 
@@ -438,7 +438,7 @@ In the next session, students evaluate each others’ revised algorithms, again 
     ** This is _educative_ in that in developing an argument for their values, they may surface tensions that cause them to question their positions.
 =
 
-Sessions should leave this session with a greater critical consciousness about college admissions policies, different notions of admissions fairness, the role of algorithms in encoding and automating these policies, and likely some position personal about fairness. They should also have a stronger sense of how functions encapsulate logic, which is a way of hiding information. This might be beneficial for someone implementing software, but can be a way of maintaining secrecy and holding power over people who are subjected to a function’s output.
+Students should leave this session with a greater critical consciousness about college admissions policies, different notions of admissions fairness, the role of algorithms in encoding and automating these policies, and likely some new perspectives on fairness. They should also have a stronger sense of how functions encapsulate logic, which is a way of hiding information. This might be beneficial for someone implementing software, but can be a way of maintaining secrecy and holding power over people who are subjected to a function’s output.
 
 Whereas the methods presented earlier explicitly focus on developing skills in using and designing functions, this method prioritizes critical consciousness over skills. This is a tradeoff in learning objectives: students who focus on designing functions will be more capable of writing programs to solve particular computational problems, but may not see the social problems they might create with their designs, whereas students who focus on critically examining the implications of functions might see their consequences more clearly, but be less well positioned to design them. A curriculum that balances these two over time might resolve these tradeoffs.
 

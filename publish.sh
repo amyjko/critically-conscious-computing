@@ -18,3 +18,5 @@ then
 else
     firebase deploy
 fi
+
+rm -rf bookish-reader

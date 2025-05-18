@@ -882,6 +882,13 @@
       "The Atlantic Monthly",
       "https://doi.org/10.1145/1113634.1113638"
     ],
+    "butler93": [
+      "Octavia Butler",
+      "1993",
+      "Parable of the Sower",
+      "Seven Stories Press",
+      "https://www.google.com/books/edition/Parable_of_the_Sower/F9giugEACAAJ?hl=en&kptab=overview"
+    ],
     "buolamwini18": [
       "Joy Buolamwini, Timnit Gebru",
       "2018",
@@ -1749,6 +1756,13 @@
       "ENIAC in Action: Making and Remaking the Modern Computer",
       "MIT Press",
       "https://www.google.com/books/edition/ENIAC_in_Action/_oqBCwAAQBAJ?hl=en&gbpv=0"
+    ],
+    "haimson25": [
+      "Oliver Haimson",
+      "2025",
+      "Trans Technologies",
+      "MIT Press",
+      "https://www.google.com/books/edition/_/MQ0NEQAAQBAJ?hl=en"
     ],
     "hamilton20": [
       "Hamilton, Megan and Clarke-Midura, Jody and Shumway, Jessica F. and Lee, Victor R.",
@@ -2660,6 +2674,13 @@
       "Springer",
       "https://www.google.com/books/edition/Logic_Based_Artificial_Intelligence/QJPTBwAAQBAJ?hl=en&gbpv=0"
     ],
+    "molnar75": [
+      "Vera Molnár",
+      "1975",
+      "Toward aesthetic guidelines for paintings with the aid of a computer",
+      "Leonardo",
+      "https://www.jstor.org/stable/1573236"
+    ],
     "moore08": [
       "Adam D. Moore",
       "2008",
@@ -3317,6 +3338,13 @@
       "Dynaturtle revisited: Learning physics through collaborative design of a computer model",
       "Interactive Learning Environments",
       "https://doi.org/10.1080/1049482930030201"
+    ],
+    "shew23": [
+      "Ashley Shew",
+      "2023",
+      "Against Technoableism: Rethinking Who Needs Improvement",
+      "W.W. Norton",
+      "https://www.google.com/books/edition/Against_Technoableism_Rethinking_Who_Nee/goGpEAAAQBAJ?hl=en&gbpv=0"
     ],
     "schinske17": [
       "Jeffrey Schinske, Kimberly Tanner",

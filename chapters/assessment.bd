@@ -121,6 +121,8 @@ While automated scoring can save teachers some assessment labor, they have yet t
 
 Of course, all of these limitations of current CS assessment practices are even more greatly limited in their scope: there has been little effort in research or practice to develop equitable practices for assessing much beyond programming skills. Even within the scope of the [K-12 CS standards|https://www.csteachers.org/Page/standards], we do not yet know how to assess students’ conceptual understanding of computer hardware and networks, their creative skills in devising algorithms, their ability to organize more complex computer programs, or their ability to productively collaborate. While research on how to assess students’ moral and ethical reasoning skills to understand the impact of computing on society and individual lives is emerging<padiyath25>, CS teachers are still on the forefront of creatively exploring ways of using assessment to guide students' moral development in CS knowledge.
 
+And of course, all of this is further complicated by the emergence of generative AI for computer programming. Modern large language models (LLMs) can easily solve many common programming assessments in introductory programming classes<ali24>, and so students have never had an easier way of avoiding learning, by simply submitting an assessment prompt, and copying the answer it provides. This places far more pressure on designing assessments that center student agency and motivation to learn.
+
 |Chapter03_Figure04_CaringFeedback.png|A woman on the right, looking left, holding out her hand, looking into the eyes of a very tiny child sitting cross legged on her hand.|CS assessments should be about care and support, not judgment.|Jessie Huynh|>
 
 # Equitable CS assessment

@@ -357,6 +357,13 @@
       "#sigcse",
       "https://doi.org/10.1145/3328778.3366960"
     ],
+    "ali24": [
+      "Murtaza Ali, Prerna Rao, Yifan Mai, Benjamin XieAu",
+      "2024",
+      "Using Benchmarking Infrastructure to Evaluate LLM Performance on CS Concept Inventories: Challenges, Opportunities, and Critiques",
+      "#icer",
+      "https://doi.org/10.1145/3632620.3671097"
+    ],
     "alkatheeb21": [
       "B. Alkatheeb, D. Codding, D., L. Pollock, L.",
       "2021",

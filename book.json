@@ -1568,6 +1568,13 @@
       "Teachers College Press",
       "https://www.google.com/books/edition/Culturally_Responsive_Teaching/rYspC7C-zowC?hl=en&gbpv=0"
     ],
+    "geng25": [
+      "Francis Geng, Anshul Shah, Haolin Li, Nawab Mulla, Steven Swanson, Gerald Soosai Raj, Daniel Zingaro, Leo Porter",
+      "2025",
+      "Exploring Student-AI Interactions in Vibe Coding",
+      "arXiv",
+      "https://arxiv.org/abs/2507.22614"
+    ],
     "germia20a": [
       "Germia, E. and Panorkou, N.",
       "2020",
@@ -3017,6 +3024,13 @@
       "#iticse",
       "https://doi.org/10.1145/1999747.1999788"
     ],
+    "porter24": [
+      "Leo Porter and Daniel Zingaro",
+      "2024",
+      "Learn AI-assisted Python programming: with github copilot and ChatGPT",
+      "Simon and Schuster",
+      "https://www.google.com/books/edition/Learn_AI_Assisted_Python_Programming_Sec/tSUmEQAAQBAJ?hl=en&gbpv=0"
+    ],
     "prather19": [
       "James Prather, Raymond Pettit, Brett A. Becker, Paul Denny, Dastyni Loksa, Alani Peters, Zachary Albrecht, Krista Masci",
       "2019",
@@ -3030,6 +3044,20 @@
       "What Do We Think We Think We Are Doing? Metacognition and Self-Regulation in Programming",
       "#icer",
       "https://doi.org/10.1145/3372782.3406263"
+    ],
+    "prather24": [
+      "James Prather, Juho Leinonen, Natalie Kiesler, Jamie Gorson Benario, Sam Lau, Stephen MacNeil, Narges Norouzi, Simone Opel, Vee Pettit, Leo Porter, Brent N. Reeves, Jaromir Savelka, David H. Smith, IV, Sven Strickroth, Daniel Zingaro",
+      "2024",
+      "Beyond the Hype: A Comprehensive Review of Current Trends in Generative AI Research, Teaching Practices, and Tools",
+      "#iticse",
+      "https://doi.org/10.1145/3689187.3709614"
+    ],
+    "prather24b": [
+      "James Prather, Brent N Reeves, Juho Leinonen, Stephen MacNeil, Arisoa S Randrianasolo, Brett A. Becker, Bailey Kimmel, Jared Wright, Ben Briggs",
+      "2024",
+      "The Widening Gap: The Benefits and Harms of Generative AI for Novice Programmers",
+      "#icer",
+      "https://doi.org/10.1145/3632620.3671116"
     ],
     "pugh09": [
       "Emerson W. Pugh",
@@ -3282,6 +3310,13 @@
       "A survey of decision tree classifier methodology",
       "IEEE Transactions on Systems, Man, and Cybernetics",
       "https://doi.org/10.1109/21.97458"
+    ],
+    "sauvola24": [
+      "Jaakko Sauvola, Sasu Tarkoma, Mika Klemettinen, Jukka Riekki, and David Doermann",
+      "2024",
+      "Future of software development with generative AI",
+      "Automated Software Engineering",
+      "https://doi.org/10.1007/s10515-024-00426-z"
     ],
     "sax20": [
       "Linda J. Sax, Kaitlin N.S. Newhouse, Joanna Goode, Max Skorodinsky, Tomoko M. Nakajima, Michelle Sendowski",

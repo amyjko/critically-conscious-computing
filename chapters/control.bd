@@ -290,7 +290,7 @@ This Python if statement looks correct, but it violates a key rule. Can you see 
 Here’s another example that doesn’t involve a syntax error, but does result in different behavior:
 
 `python
-if Expression
+if Expression:
     Statement1
 Statement2
 `

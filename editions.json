@@ -1,0 +1,16 @@
+[
+  {
+    "number": 2,
+    "summary": "2nd edition",
+    "base": "",
+    "published": null,
+    "spec": "editions/2/book.json"
+  },
+  {
+    "number": 1,
+    "summary": "1st edition",
+    "base": "/1",
+    "published": null,
+    "spec": "editions/1/book.json"
+  }
+]

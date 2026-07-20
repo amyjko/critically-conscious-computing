@@ -4,6 +4,10 @@
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
+        "source": "/1/**",
+        "destination": "/1/404.html"
+      },
+      {
         "source": "**",
         "destination": "/404.html"
       }

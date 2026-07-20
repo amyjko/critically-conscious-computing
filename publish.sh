@@ -9,12 +9,13 @@ fi
 # Clone the reader.
 git clone https://github.com/amyjko/bookish-reader
 cd bookish-reader
-# Bind the book, moving the build here.
-zsh bind.sh
+# Bind all editions in editions.json, moving the merged build here.
+zsh bind.sh ../editions.json
 
 if [ "$1" = "preview" ]
 then
-    npx vite preview
+    # Serve the merged build exactly as Firebase will (all editions, rewrites).
+    firebase emulators:start --only hosting
 else
     firebase deploy
 fi

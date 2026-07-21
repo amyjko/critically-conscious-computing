@@ -221,9 +221,24 @@ That said, computing is increasingly unignorable. As people embrace digital form
 @standardsBlurb
 
 @cstaHeader
-@csta2IC23
-@csta3AAP23
-@csta3BIC27
+@cstaDAT
+@cstaHSDATIM27
+@cstaHSDATIM28
+@cstaMSDATIM28
+@cstaSOC
+@cstaHSSOCHI38
+@cstaHSSOCHI39
+@cstaHSSOCHU44
+@cstaMSSOCET42
+@cstaMSSOCHI38
+@cstaDSC
+@cstaS1DSCVZ11
+@cstaS2DSCVZ12
+@cstaXCS
+@cstaS1XCSXC01
+@cstaS1XCSXC02
+@cstaS1XCSXC03
+@cstaS1XCSXC04
 
 @toleranceHeader
 @tolerance5

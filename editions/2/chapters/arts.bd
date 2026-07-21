@@ -181,9 +181,25 @@ The bigger question, then, for teaching art through computing, is how much compu
 @standardsBlurb
 
 @cstaHeader
-@csta2IC21
-@csta3AIC24
-@csta3BIC27
+@cstaALG
+@cstaMSALGPS01
+@cstaPRO
+@cstaHSPROVD16
+@cstaMSPROVD16
+@cstaSOC
+@cstaHSSOCHU43
+@cstaMSSOCCE45
+@cstaGMD
+@cstaS1GMDDD01
+@cstaS1GMDDD03
+@cstaS1GMDDD04
+@cstaS1GMDPP08
+@cstaS1GMDPP09
+@cstaS1GMDPX05
+@cstaS2GMDDD01
+@cstaS2GMDDD03
+@cstaS2GMDPP07
+@cstaS2GMDPP08
 
 @toleranceHeader
 @tolerance14

@@ -174,13 +174,29 @@ But it should also be clear that ignoring computing in engineering education wou
 @standardsBlurb
 
 @cstaHeader
-@csta2CS01
-@csta2CS02
-@csta2CS03
-@csta2IC20
-@csta2IC21
-@csta3AIC24
-@csta3AIC25
+@cstaSYS
+@cstaHSSYSHW30
+@cstaMSSYSHW30
+@cstaMSSYSHW31
+@cstaMSSYSIM36
+@cstaSOC
+@cstaHSSOCET42
+@cstaPHY
+@cstaS1PHYCI04
+@cstaS1PHYCI05
+@cstaS1PHYDD03
+@cstaS1PHYHC01
+@cstaS1PHYIO02
+@cstaS1PHYPP07
+@cstaS1PHYPP08
+@cstaS2PHYCI04
+@cstaS2PHYCI05
+@cstaS2PHYDD03
+@cstaS2PHYHC01
+@cstaS2PHYIO02
+@cstaS2PHYPP06
+@cstaS2PHYPP07
+@cstaS2PHYPP08
 
 @toleranceHeader
 @tolerance9

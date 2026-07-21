@@ -315,15 +315,28 @@ Throughout this chapter we've tried to reinforce an important distinction betwee
 @standardsBlurb
 
 @cstaHeader
-@cstaIC
-@csta2IC20
-@csta2IC21
-@csta2IC22
-@csta3BIC26
-@cstaAP
-@csta3AAP19
-@cstaCS
-@csta2CS01
+@cstaALG
+@cstaHSALGIM09
+@cstaMSALGIM09
+@cstaPRO
+@cstaHSPROTR19
+@cstaHSPROTR20
+@cstaMSPROTR20
+@cstaSYS
+@cstaMSSYSIM36
+@cstaSOC
+@cstaHSSOCET42
+@cstaMSSOCET41
+@cstaAIN
+@cstaS1AINPP12
+@cstaPHY
+@cstaS2PHYPP08
+@cstaSWD
+@cstaS1SWDUX04
+@cstaS1SWDUX05
+@cstaS2SWDDD02
+@cstaS2SWDUX05
+@cstaS2SWDUX06
 
 @toleranceHeader
 @toleranceDiversity

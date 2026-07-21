@@ -292,16 +292,19 @@ But tools are not simply a given; in CS, they are constantly being redesigned an
 @standardsBlurb
 
 @cstaHeader
-@cstaIC
-@csta3AIC25
-@csta3AIC27
-@csta3BIC27
-@cstaAP
-@csta3AAP22
-@csta3BAP19
-@csta3BAP20
-@cstaCS
-@csta2CS01
+@cstaPRO
+@cstaHSPROPD13
+@cstaHSPROPD15
+@cstaMSPROPD13
+@cstaSOC
+@cstaHSSOCCE45
+@cstaPHY
+@cstaS1PHYPP06
+@cstaSWD
+@cstaS1SWDDD03
+@cstaS1SWDPP08
+@cstaS1SWDTR06
+@cstaS2SWDTR07
 
 @toleranceHeader
 @toleranceIdentity

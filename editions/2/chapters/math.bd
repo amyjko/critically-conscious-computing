@@ -226,9 +226,30 @@ The question is how. While many have offered creative ways, it’s clear that we
 @standardsBlurb
 
 @cstaHeader
-@csta3ADA11
-@csta3ADA12
-@csta3BDA05
+@cstaALG
+@cstaHSALGPS04
+@cstaDAT
+@cstaHSDATDC21
+@cstaHSDATDI25
+@cstaHSDATDI26
+@cstaMSDATDI26
+@cstaAIN
+@cstaS2AINHR07
+@cstaDSC
+@cstaS1DSCAM04
+@cstaS1DSCMI08
+@cstaS1DSCMI09
+@cstaS1DSCVZ10
+@cstaS1DSCVZ11
+@cstaS2DSCAM05
+@cstaS2DSCMI08
+@cstaS2DSCMI10
+@cstaS2DSCVZ11
+@cstaXCS
+@cstaS1XCSXC01
+@cstaS1XCSXC02
+@cstaS1XCSXC04
+@cstaS1XCSXC05
 
 @toleranceHeader
 @tolerance12

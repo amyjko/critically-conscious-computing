@@ -510,15 +510,20 @@ However, that does not mean that control structures are useless. While Indiana i
 @standardsBlurb
 
 @cstaHeader
-@cstaIC
-@csta2IC20
-@csta3AIC24
-@csta3AIC26
-@csta3BIC25
-@csta3BIC27
-@cstaAP
-@csta2AP12
-@csta3AAP15
+@cstaALG
+@cstaHSALGIM11
+@cstaHSALGPS02
+@cstaMSALGPS02
+@cstaPRO
+@cstaHSPRORD17
+@cstaMSPRORD17
+@cstaMSPROVD16
+@cstaSOC
+@cstaHSSOCHU43
+@cstaMSSOCCE45
+@cstaMSSOCHU43
+@cstaAIN
+@cstaS1AINHR08
 
 @toleranceHeader
 @toleranceIdentity

@@ -3,95 +3,210 @@ This appendix lists relevant learning and teaching standards, some of which dire
 
 # CSTA Learning Standards
 
-The [CSTA learning standards|https://csteachers.org/page/about-csta-s-k-12-nbsp-standards] cover a broad set of CS concepts and skills. They were originally inspired by the [K-12 CS framework|http://k12cs.org], which broadly defined CS practices, concepts, and learning progressions for CS. These standards have been adopted widely across the United States as well as many other countries as foundational knowledge for primary and secondary learning. We include the secondary-level standards here below, along with revised versions of each standard to weave critical perspectives into each technical idea or skill.
+The [CSTA learning standards|https://csteachers.org/pk12standards/] cover a broad set of CS concepts and skills. They were originally inspired by the [K-12 CS framework|http://k12cs.org], which broadly defined CS practices, concepts, and learning progressions for CS. These standards have been adopted widely across the United States as well as many other countries as foundational knowledge for primary and secondary learning, and were substantially revised in 2026. We include the secondary-level standards (middle school, high school, and high school specialties) here below. Where we propose a more critically conscious revision of a standard, the revised or added wording appears in *bold*; standards whose 2026 wording already weaves in critical, sociotechnical perspectives are shown unchanged.
 
 @cstaHeader| Chapters
-@cstaIC
-@csta2IC20| @design, @justice, @intelligence, @operating, @control, @data, @algorithms, @abstractions, @ai, @verification
-@csta2IC21| @design, @justice, @computers, @data, @algorithms, @ai, @programming
-@csta2IC22| @data, @projects
-@csta2IC23| @information, @operating, @ai
-@csta3AIC24| @justice, @intelligence, @computers, @operating, @control, @data, @algorithms, @abstractions
-@csta3AIC25| @justice, @languages, @data, @ai, @programming, @verification, @tools, @projects
-@csta3AIC26| @control, @algorithms, @abstractions, @ai, @programming
-@csta3AIC27| @justice, @verification, @tools, @projects
-@csta3AIC28| @justice
-@csta3AIC29| @information, @operating, @data, @ai
-@csta3AIC30| @information, @operating, @ai
-@csta3BIC25| @justice, @control, @data, @algorithms
-@csta3BIC26| @justice, @verification, @computers
-@csta3BIC27| @intelligence, @computers, @operating, @control, @abstractions, @tools, @projects
-@csta3BIC28| @justice, @computers, @abstractions, @ai
-@cstaAP
-@csta2AP10| @algorithms, @abstractions, @programming
-@csta2AP11| @data
-@csta2AP12| @intelligence, @control, @data, @algorithms, @programming, @verification
-@csta2AP13| @abstractions, @programming, @projects
-@csta2AP14| @abstractions, @programming
-@csta2AP15| @verification, @projects
-@csta2AP16| @abstractions, @programming
-@csta2AP17| @abstractions, @verification
-@csta2AP18| @projects
-@csta2AP19| @projects
-@csta3AAP13| @algorithms, @projects
-@csta3AAP14| @data, @algorithms
-@csta3AAP15| @intelligence, @control, @algorithms
-@csta3AAP16| @projects
-@csta3AAP17| @abstractions, @programming, @projects
-@csta3AAP18| @abstractions, @programming
-@csta3AAP19| @design, @verification, @projects
-@csta3AAP20| @operating, @abstractions
-@csta3AAP21| @data, @algorithms, @verification
-@csta3AAP22| @verification, @tools, @projects
-@csta3AAP23| @languages, @abstractions, @projects
-@csta3BAP08| @intelligence, @ai
-@csta3BAP09| @intelligence, @ai
-@csta3BAP10| @algorithms
-@csta3BAP11| @control, @algorithms, @abstractions
-@csta3BAP12| @data
-@csta3BAP13| @abstractions
-@csta3BAP14| @abstractions, @projects
-@csta3BAP15| @algorithms
-@csta3BAP16| @abstractions, @programming
-@csta3BAP17| @programming, @projects
-@csta3BAP18| @operating
-@csta3BAP19| @tools
-@csta3BAP20| @tools, @projects
-@csta3BAP21| @verification, @projects
-@csta3BAP22| @projects
-@csta3BAP23| @verification, @projects
-@csta3BAP24| @languages
-@cstaDA
-@csta2DA07| @information, @data
-@csta2DA08| @information, @data
-@csta2DA09| @ai
-@csta3ADA09| @information, @data
-@csta3ADA10| @data
-@csta3ADA11| --
-@csta3ADA12| @ai
-@csta3BDA05| --
-@csta3BDA06| @ai
-@csta3BDA07| --
-@cstaCS
-@csta2CS01| @design, @verification, @tools
-@csta2CS02| @computers, @operating
-@csta2CS03| @verification
-@csta3ACS01| @languages, @abstractions
-@csta3ACS02| @operating, @languages
-@csta3ACS03| @verification
-@csta3BCS01| @operating
-@csta3BCS02| @intelligence, @computers
-@cstaNI
-@csta2NI04| @computers
-@csta2NI05| @operating
-@csta2NI06| @operating
-@csta3ANI04| @computers
-@csta3ANI05| @operating
-@csta3ANI06| @operating
-@csta3ANI07| @operating
-@csta3ANI08| @operating
-@csta3BNI03| @computers
-@csta3BNI04| @operating
+@cstaALG
+@cstaHSALGIM09| @design, @projects
+@cstaHSALGIM10| @intelligence, @algorithms, @ai, @justice
+@cstaHSALGIM11| @control, @algorithms, @abstractions, @justice
+@cstaHSALGML06| @intelligence, @ai
+@cstaHSALGML07| @information, @data, @ai, @science
+@cstaHSALGML08| @intelligence, @data, @ai
+@cstaHSALGPS01| @data, @algorithms
+@cstaHSALGPS02| @control, @algorithms, @abstractions
+@cstaHSALGPS03| @algorithms, @verification
+@cstaHSALGPS04| @algorithms, @math
+@cstaHSALGPS05| @intelligence, @ai
+@cstaMSALGIM09| @design, @verification
+@cstaMSALGIM10| @algorithms, @ai, @justice
+@cstaMSALGIM11| @algorithms, @ai, @justice
+@cstaMSALGML06| @intelligence, @ai
+@cstaMSALGML07| @intelligence, @data, @ai
+@cstaMSALGML08| @intelligence, @ai
+@cstaMSALGPS01| @data, @algorithms, @arts
+@cstaMSALGPS02| @control, @algorithms, @abstractions
+@cstaMSALGPS03| @algorithms, @verification
+@cstaMSALGPS04| @intelligence, @algorithms
+@cstaMSALGPS05| @intelligence, @programming
+@cstaPRO
+@cstaHSPROPD12| @abstractions, @programming
+@cstaHSPROPD13| @languages, @abstractions, @programming, @tools
+@cstaHSPROPD14| @programming, @projects, @justice
+@cstaHSPROPD15| @programming, @tools, @projects
+@cstaHSPRORD17| @languages, @control, @data, @abstractions, @programming
+@cstaHSPRORD18| @intelligence, @programming, @verification
+@cstaHSPROTR19| @design, @verification, @projects
+@cstaHSPROTR20| @design, @verification, @projects
+@cstaHSPROVD16| @data, @programming, @arts
+@cstaMSPROPD12| @abstractions, @programming
+@cstaMSPROPD13| @languages, @programming, @tools
+@cstaMSPROPD14| @programming, @projects
+@cstaMSPROPD15| @programming, @projects
+@cstaMSPRORD17| @languages, @control, @abstractions, @programming
+@cstaMSPRORD18| @intelligence, @programming, @verification
+@cstaMSPROTR19| @programming, @verification
+@cstaMSPROTR20| @design, @verification, @projects
+@cstaMSPROVD16| @control, @data, @programming, @arts
+@cstaDAT
+@cstaHSDATDC21| @math, @science
+@cstaHSDATDC22| @data, @science
+@cstaHSDATDC23| @data, @science
+@cstaHSDATDC24| @data, @science
+@cstaHSDATDI25| @data, @math, @science
+@cstaHSDATDI26| @data, @math, @science
+@cstaHSDATIM27| @information, @computers, @ai, @humanities, @justice
+@cstaHSDATIM28| @humanities, @justice
+@cstaMSDATDC21| @information, @data, @science
+@cstaMSDATDC22| @information, @data
+@cstaMSDATDC23| @data, @science
+@cstaMSDATDC24| @information, @data, @science
+@cstaMSDATDI25| @intelligence, @data, @science
+@cstaMSDATDI26| @data, @math, @science
+@cstaMSDATDI27| @data, @science
+@cstaMSDATIM28| @information, @humanities, @justice
+@cstaMSDATIM29| @intelligence, @information, @data, @ai
+@cstaSYS
+@cstaHSSYSHW29| @computers, @operating
+@cstaHSSYSHW30| @computers, @engineering
+@cstaHSSYSIM36| @operating, @justice
+@cstaHSSYSIM37| @computers, @justice
+@cstaHSSYSNT34| @computers
+@cstaHSSYSNT35| @computers
+@cstaHSSYSSE31| @operating
+@cstaHSSYSSE32| @operating
+@cstaHSSYSSE33| @operating, @verification
+@cstaMSSYSHW30| @computers, @engineering
+@cstaMSSYSHW31| @computers, @engineering
+@cstaMSSYSIM36| @design, @engineering
+@cstaMSSYSIM37| @computers
+@cstaMSSYSNT34| @computers
+@cstaMSSYSNT35| @computers
+@cstaMSSYSSE32| @operating
+@cstaMSSYSSE33| @operating
+@cstaSOC
+@cstaHSSOCCE45| @tools, @projects
+@cstaHSSOCET40| @intelligence, @computers
+@cstaHSSOCET41| @intelligence, @computers, @justice
+@cstaHSSOCET42| @design, @projects, @engineering
+@cstaHSSOCHI38| @computers, @humanities, @justice
+@cstaHSSOCHI39| @information, @operating, @humanities, @justice
+@cstaHSSOCHU43| @control, @algorithms, @ai, @verification, @projects, @arts, @justice
+@cstaHSSOCHU44| @intelligence, @ai, @humanities
+@cstaMSSOCCE45| @intelligence, @control, @ai, @arts, @justice
+@cstaMSSOCET40| @intelligence, @computers
+@cstaMSSOCET41| @design, @computers
+@cstaMSSOCET42| @computers, @humanities
+@cstaMSSOCHI38| @computers, @humanities, @justice
+@cstaMSSOCHI39| @computers, @languages, @justice
+@cstaMSSOCHU43| @information, @control, @data, @algorithms, @justice
+@cstaAIN
+@cstaS1AINDD01| @intelligence
+@cstaS1AINDD02| @intelligence
+@cstaS1AINDD04| @information, @data
+@cstaS1AINDD05| @intelligence
+@cstaS1AINDS06| @intelligence
+@cstaS1AINDS07| @data, @science
+@cstaS1AINHR08| @control
+@cstaS1AINHR09| @intelligence, @ai
+@cstaS1AINHR10| @computers, @ai
+@cstaS1AINPP12| @design, @ai
+@cstaS1AINPP13| @information, @ai
+@cstaS2AINDD01| @intelligence
+@cstaS2AINDS04| @data, @science
+@cstaS2AINDS05| @data, @science
+@cstaS2AINHR07| @intelligence, @math
+@cstaCYB
+@cstaS1CYBND01| @computers, @operating
+@cstaS1CYBND03| @computers
+@cstaS1CYBND04| @operating
+@cstaS1CYBPP13| @operating
+@cstaS1CYBTS07| @operating
+@cstaS1CYBTS08| @operating
+@cstaS1CYBTS09| @operating
+@cstaS1CYBTS10| @operating
+@cstaS2CYBTS06| @operating
+@cstaDSC
+@cstaS1DSCAM04| @math, @science
+@cstaS1DSCAM05| @information, @science
+@cstaS1DSCAM06| @data, @science
+@cstaS1DSCCC01| @data, @science
+@cstaS1DSCCC02| @information, @science
+@cstaS1DSCCC03| @data, @science
+@cstaS1DSCMI07| @science
+@cstaS1DSCMI08| @intelligence, @math
+@cstaS1DSCMI09| @intelligence, @math
+@cstaS1DSCPP12| @information
+@cstaS1DSCPP13| @information, @justice
+@cstaS1DSCVZ10| @math, @science
+@cstaS1DSCVZ11| @information, @humanities, @math
+@cstaS2DSCAM05| @intelligence, @math
+@cstaS2DSCAM06| @information, @science
+@cstaS2DSCAM07| @science
+@cstaS2DSCCC01| @data
+@cstaS2DSCCC02| @science
+@cstaS2DSCCC03| @data, @science
+@cstaS2DSCCC04| @science
+@cstaS2DSCMI08| @intelligence, @math
+@cstaS2DSCMI09| @intelligence
+@cstaS2DSCMI10| @intelligence, @math
+@cstaS2DSCPP13| @information
+@cstaS2DSCPP14| @information
+@cstaS2DSCVZ11| @math, @science
+@cstaS2DSCVZ12| @information, @humanities
+@cstaGMD
+@cstaS1GMDAR07| @computers
+@cstaS1GMDDD01| @arts
+@cstaS1GMDDD03| @arts
+@cstaS1GMDDD04| @arts
+@cstaS1GMDPP08| @arts
+@cstaS1GMDPP09| @projects, @arts
+@cstaS1GMDPX05| @arts
+@cstaS2GMDDD01| @arts
+@cstaS2GMDDD03| @arts
+@cstaS2GMDPP07| @arts
+@cstaS2GMDPP08| @projects, @arts
+@cstaPHY
+@cstaS1PHYCI04| @engineering
+@cstaS1PHYCI05| @engineering
+@cstaS1PHYDD03| @engineering
+@cstaS1PHYHC01| @engineering
+@cstaS1PHYIO02| @science, @engineering
+@cstaS1PHYPP06| @tools
+@cstaS1PHYPP07| @engineering
+@cstaS1PHYPP08| @operating, @engineering
+@cstaS2PHYCI04| @engineering
+@cstaS2PHYCI05| @engineering
+@cstaS2PHYDD03| @engineering
+@cstaS2PHYHC01| @engineering
+@cstaS2PHYIO02| @engineering
+@cstaS2PHYPP06| @projects, @engineering
+@cstaS2PHYPP07| @engineering
+@cstaS2PHYPP08| @design, @engineering
+@cstaSWD
+@cstaS1SWDDD01| @data
+@cstaS1SWDDD02| @abstractions
+@cstaS1SWDDD03| @tools
+@cstaS1SWDPP08| @tools, @projects
+@cstaS1SWDTR06| @verification, @tools
+@cstaS1SWDTR07| @verification
+@cstaS1SWDUX04| @design
+@cstaS1SWDUX05| @design
+@cstaS2SWDDD01| @data
+@cstaS2SWDDD02| @design
+@cstaS2SWDDD03| @programming, @projects
+@cstaS2SWDDD04| @algorithms
+@cstaS2SWDPP09| @projects
+@cstaS2SWDTR07| @verification, @tools
+@cstaS2SWDTR08| @verification
+@cstaS2SWDUX05| @design
+@cstaS2SWDUX06| @design
+@cstaXCS
+@cstaS1XCSXC01| @humanities, @math, @science
+@cstaS1XCSXC02| @humanities, @math, @science
+@cstaS1XCSXC03| @humanities, @science
+@cstaS1XCSXC04| @humanities, @math, @science
+@cstaS1XCSXC05| @math, @science
 
 # Teaching Tolerance Social Justice Standards
 

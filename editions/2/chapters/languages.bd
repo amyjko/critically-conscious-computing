@@ -410,14 +410,13 @@ Unfortunately, even after decades of innovation in programming languages, tellin
 @standardsBlurb
 
 @cstaHeader
-@cstaIC
-@csta3AIC25
-@cstaAP
-@csta3BAP23
-@csta3BAP24
-@cstaCS
-@csta3ACS01
-@csta3ACS02
+@cstaPRO
+@cstaHSPROPD13
+@cstaHSPRORD17
+@cstaMSPROPD13
+@cstaMSPRORD17
+@cstaSOC
+@cstaMSSOCHI39
 
 @toleranceHeader
 @toleranceIdentity

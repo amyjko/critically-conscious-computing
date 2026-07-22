@@ -4240,6 +4240,11 @@
     "abstractions": "[Abstractions|abstractions]",
     "ai": "[Artificial Intelligence|ai]",
     "programming": "[Programming|programming]",
+    "humanities": "[CS + Humanities + Social Sciences|humanities]",
+    "arts": "[CS + Arts|arts]",
+    "math": "[CS + Mathematics|math]",
+    "science": "[CS + Science|science]",
+    "engineering": "[CS + Engineering|engineering]",
     "verification": "[Verification|verification]",
     "tools": "[Tools|tools]",
     "projects": "[Projects|projects]"

@@ -5,3 +5,5 @@ This book is a collaborative effort at the University of Washington to prepare p
 You can find the book at [criticallyconsciouscomputing.org](https://criticallyconsciouscomputing.org).
 
 The book is currently maintained by Amy Ko, a professor at the University of Washington Information School.
+
+All of this book's text, images, and content was edited, curated, and written by the authors, and none of it by generative AI. We also do not use generative AI to _support_ any of these activities. The book's text should make it self-evident why we we don't.

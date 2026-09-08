@@ -20,4 +20,9 @@ else
     firebase deploy
 fi
 
+# Back to the book directory before cleaning up. The clone lives here, not
+# inside itself, and without this the rm below looked for
+# bookish-reader/bookish-reader and silently left the clone behind -- one more
+# copy per run, gigabytes of them.
+cd ..
 rm -rf bookish-reader

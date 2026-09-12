@@ -6,6 +6,11 @@ if [ -d "bookish-reader" ]
 then
     rm -rf bookish-reader
 fi
+# Remove the clone however this script exits. set -e means a failed bind or a
+# failed deploy would otherwise skip the cleanup at the end and strand a copy
+# here -- and they are well over a gigabyte each.
+BOOK=$PWD
+trap 'rm -rf "$BOOK/bookish-reader"' EXIT
 # Clone the reader.
 git clone https://github.com/amyjko/bookish-reader
 cd bookish-reader
@@ -19,10 +24,3 @@ then
 else
     firebase deploy
 fi
-
-# Back to the book directory before cleaning up. The clone lives here, not
-# inside itself, and without this the rm below looked for
-# bookish-reader/bookish-reader and silently left the clone behind -- one more
-# copy per run, gigabytes of them.
-cd ..
-rm -rf bookish-reader

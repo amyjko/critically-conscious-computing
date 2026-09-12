@@ -1,0 +1,54 @@
+# Rebuild both editions of the book and deploy them to Firebase Hosting on every
+# push to main.
+#
+# The build itself lives in bookish-reader, alongside the binder it runs:
+# https://github.com/amyjko/bookish-reader/blob/main/PUBLISHING.md
+#
+# This replaces two auto-generated workflows that were deleted in dac6911
+# because they deployed firebase.json's `public` directory without ever building
+# it -- and `build` is gitignored, so `channelId: live` would have published an
+# empty folder over the book. The called workflow binds first and refuses to
+# deploy unless every edition in editions.json is actually present.
+#
+# publish.sh still works and is still the way to preview locally
+# (`./publish.sh preview`, which serves the merged build through the Firebase
+# emulator) or to deploy by hand.
+name: Publish
+
+'on':
+    push:
+        branches: [main]
+    workflow_dispatch:
+        inputs:
+            dry-run:
+                description: Build and check the editions, but deploy nothing.
+                type: boolean
+                default: false
+            reader-ref:
+                description: The bookish-reader ref to build with.
+                type: string
+                default: main
+
+# Half a deploy is a broken book, so never cancel one that is already running.
+# GitHub keeps only the newest *queued* run, so the latest push still wins.
+concurrency:
+    group: publish-${{ github.ref }}
+    cancel-in-progress: false
+
+permissions:
+    contents: read
+
+jobs:
+    publish:
+        uses: amyjko/bookish-reader/.github/workflows/publish-book.yml@main
+        with:
+            deploy: firebase
+            # Both editions at once: the 2nd at the root, the 1st under /1,
+            # merged into the one tree firebase.json serves as `build`.
+            manifest: editions.json
+            firebase-project: critically-conscious-computing
+            verify-url: https://critically-conscious-computing.web.app/
+            dry-run: ${{ inputs.dry-run == true }}
+            reader-ref: ${{ inputs.reader-ref || 'main' }}
+        secrets:
+            FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_CRITICALLY_CONSCIOUS_COMPUTING }}

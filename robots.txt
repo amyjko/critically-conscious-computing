@@ -1,0 +1,20 @@
+# The print views load every image in an edition at once. Readers reach them
+# from the table of contents; crawlers have no need to.
+User-agent: *
+Disallow: /print
+Disallow: /1/print
+
+# AI training and answer-engine crawlers. Hosting is paid by the byte, and this
+# book is not offered as training data.
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: CCBot
+User-agent: Google-Extended
+User-agent: Bytespider
+User-agent: PerplexityBot
+User-agent: Amazonbot
+User-agent: meta-externalagent
+User-agent: Applebot-Extended
+Disallow: /

@@ -47,6 +47,8 @@ jobs:
             # merged into the one tree firebase.json serves as `build`.
             manifest: editions.json
             firebase-project: critically-conscious-computing
+            # Copied into the site root after binding (see robots.txt).
+            extra-files: robots.txt
             verify-url: https://critically-conscious-computing.web.app/
             dry-run: ${{ inputs.dry-run == true }}
             reader-ref: ${{ inputs.reader-ref || 'main' }}
